@@ -4,5 +4,14 @@ theme: just-the-docs
 
 url: https://mrqr.me
 
+logo: "/assets/images/logo.png"
+favicon_ico: "/assets/images/favicon.png"
+
 aux_links: # remove if you don't want this link to appear on your pages
   Visis MrQR: https://mrqr.me
+
+footer_content: "Copyright &copy; 2023 MrQR"
+
+# Footer last edited timestamp
+last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
