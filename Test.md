@@ -6,7 +6,7 @@ nav_exclude: true
 
 # *Your Free Account**
 
-# **$$\textsf{\color{purple}Your Free Account}$$**
+# **$\textsf{\color{purple}Your Free Account}$**
 
 $\textsf{\color{red}Red text}$. 
 
