@@ -1,7 +1,7 @@
 ---
 title: test Page
 layout: default
-
+nav_exclude: true
 ---
 
 .bg-purple-00
