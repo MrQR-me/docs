@@ -1,6 +1,6 @@
 ---
 title: test Oage
 layout: default
-nav_order: 8
+nav_exclude: true
 ---
 test page 
