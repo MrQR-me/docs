@@ -6,7 +6,7 @@ url: https://mrqr.me
 
 logo: "/assets/images/logo.png"
 favicon_ico: "/assets/images/favicon.png"
-
+permalink: pretty
 aux_links: # remove if you don't want this link to appear on your pages
   Visit MrQR: https://mrqr.me
 
