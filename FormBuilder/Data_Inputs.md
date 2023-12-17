@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Data Input Fields
-nav_order: 8.5
+nav_order: 13
 parent: MrQR Form Builder
 ---
 ![MrQR Form Builder](/assets/images/MrQR%20Forms_Page_6.png "Page 6")
