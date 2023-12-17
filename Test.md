@@ -1,7 +1,7 @@
 ---
-title: test Page
+title: Quickstart
 layout: default
-nav_exclude: false
+nav_exclude: true
 has_children: true
 permalink: /docs/quickstart
 ---
