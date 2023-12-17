@@ -6,12 +6,6 @@ has_children: true
 permalink: docs/FormBuilder
 ---
 
-# Utilities
-{: .no_toc }
-
-# Layout Utilities
-{: .no_toc }
-
 ## Table of contents
 {: .no_toc .text-delta }
 
