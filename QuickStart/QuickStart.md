@@ -1,6 +1,8 @@
 ---
 title: Quickstart
 layout: default
+nav_order: 8
+has_children: true
 nav_exclude: false
 permalink: /QuickStart
 ---
