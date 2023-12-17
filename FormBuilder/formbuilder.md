@@ -7,6 +7,6 @@ permalink: docs/FormBuilder
 ---
 {.text-purple-000 }
 # MrQR Form Builder
-{toc }
+{:toc }
 
 # MrQR Form Builder
