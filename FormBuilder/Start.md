@@ -2,7 +2,7 @@
 layout: default
 title: Start
 nav_order: 8.1
-parent: FormBuilder
+parent: MrQR Form Builder
 ---
 {.text-purple-000 }
 # start
