@@ -13,8 +13,6 @@ The  **MrQR** Form Builder is included when you purchase an Additional Site. and
   <summary>
     {MrQR Form Builder }
   </summary>
-  2. TOC
-  3. TOC
   {:toc]
   {: .text-delta }
 </details>
