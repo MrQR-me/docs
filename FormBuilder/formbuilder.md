@@ -11,8 +11,11 @@ The  **MrQR** Form Builder is included when you purchase an Additional Site. and
 
 <details open markdown="block">
   <summary>
-    {: .no_toc .text-delta }
+    {MrQR Form Builder }
   </summary>
+  2. TOC
+  3. TOC
+  {:toc]
   {: .text-delta }
 </details>
 
