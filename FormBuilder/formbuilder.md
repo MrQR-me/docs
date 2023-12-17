@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MrQR Form Buildet
+title: MrQR Form Builder
 nav_order: 8
 has_children: true
 permalink: docs/FormBuilder
