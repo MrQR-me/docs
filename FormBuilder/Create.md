@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Creating a New Form
+title: New Form
 nav_order: 8.2
 parent: MrQR Form Builder
 ---
