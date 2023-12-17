@@ -2,7 +2,6 @@
 title: Quickstart
 layout: default
 nav_exclude: false
-has_children: true
 permalink: /QuickStart
 ---
 # **$\textsf{\color{#431fad}Your Free Account}$**
