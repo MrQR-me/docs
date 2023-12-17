@@ -5,6 +5,7 @@ nav_order: 8
 has_children: true
 permalink: docs/FormBuilder
 ---
-
 # MrQR Form Builder
+{:text-purple-000 }
+{:toc }
 ---
