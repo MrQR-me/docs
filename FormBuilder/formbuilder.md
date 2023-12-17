@@ -7,5 +7,5 @@ permalink: docs/FormBuilder
 ---
 # MrQR Form Builder
 {:text-purple-000 }
-{:toc }
+{:no_toc }
 ---
