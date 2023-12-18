@@ -17,16 +17,13 @@ Create your own forms and assign them to your own items.
 
 Invite Team members to assist you in the management of your site.
 
-Anybody can securely access your items, view & complete your site forms (with your permission) using the unique 
-**MrQR**{: .text-purple-000 } code.
+*Anybody can securely access your items, view & complete your site forms (with your permission) using the unique* 
+**MrQR**{: .text-purple-000 } *code.*
 
-View individual form submissions or export all submitted form data.
+*View individual form submissions or export all submitted form data.*
 
-'**MrQR**{: .text-purple-000 } is a web based system that requires an internet connection and registration to the MrQR platform.
-Required.
-
-Additional Purchase Required.
-
-**MrQR**{: .text-purple-000 } code stickers are downloadable images for you to print.
-
-Form data is exported in .csv format and requires additional software to view & manage.'
+`**MrQR**{: .text-purple-000 } *is a web based system that requires an internet connection and registration to the MrQR platform.
+Required.*/
+*Additional Purchase Required.*/
+**MrQR**{: .text-purple-000 } *code stickers are downloadable images for you to print.*
+*Form data is exported in .csv format and requires additional software to view & manage.*`
