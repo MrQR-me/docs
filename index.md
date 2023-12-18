@@ -21,15 +21,15 @@ Anybody can securely access your items, view & complete your site forms (with yo
 
 View individual form submissions or export all submitted form data. ******{:.fs-1 }
 
-***{:.fs-1 }
+****1{:.fs-1 }
 MrQR is a web based system that requires an internet connection and registration to the MrQR platform.
 Required.
 
-****{:.fs-1 }
+****2{:.fs-1 }
 Additional Purchase Required.
 
-*****{:.fs-1 }
+****3{:.fs-1 }
 MrQR code stickers are downloadable images for you to print.
 
-**1{:.fs-1 }
-form data is exported in .csv format and requires additional software to view & manage.
+****4{:.fs-1 }
+Form data is exported in .csv format and requires additional software to view & manage.
