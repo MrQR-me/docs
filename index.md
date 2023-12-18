@@ -31,5 +31,5 @@ Additional Purchase Required.
 *****{:.fs-1 }
 MrQR code stickers are downloadable images for you to print.
 
-***1{:.fs-1 }
+**1{:.fs-1 }
 form data is exported in .csv format and requires additional software to view & manage.
