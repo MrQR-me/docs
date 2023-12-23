@@ -1,9 +1,9 @@
 ---
-title: Free Account Registration
+title: Account Registration
 layout: default
 nav_order: 2
 ---
-# **User Accounts**{: .text-purple-000 }
+# **ACCOUNT REGISTRATION**{: .text-purple-000 }
 ## **Free User Account**{: .text-purple-000 }
 Your Free account will allow you access to the **MrQR**{: .text-purple-000 } Platform and enable you to request access and complete all the **MrQR**{: .text-purple-000 } Site Forms used on any site being managed using the **MrQR**{: .text-purple-000 } platform. There is no personal site and you cannot create or manage your own **MrQR**{: .text-purple-000 } Forms. Your profile page allows you to Store and Share:
 
