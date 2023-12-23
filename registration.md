@@ -3,16 +3,16 @@ title: Account Registration
 layout: default
 nav_order: 2
 ---
-# ACCOUNT REGISTRATION
+# **ACCOUNT REGISTRATION**
 {: .no_toc }
 
-## USER ACCOUNT TYPES
+## **USER ACCOUNT TYPES**
 {: .no_toc .text-delta }
 
 1. TOC
 {:toc}
 
-## Free User Account{: .text-purple-000 }
+## **Free User Account**{: .text-purple-000 }
 Your Free account will allow you access to the **MrQR**{: .text-purple-000 } Platform and enable you to request access and complete all the **MrQR**{: .text-purple-000 } Site Forms used on any site being managed using the **MrQR**{: .text-purple-000 } platform. There is no personal site and you cannot create or manage your own **MrQR**{: .text-purple-000 } Forms. Your profile page allows you to Store and Share:
 
 * your Profile Image
@@ -21,7 +21,7 @@ Your Free account will allow you access to the **MrQR**{: .text-purple-000 } Pla
 
 You cannot Store or Share Addresses, Training Records or Equipment Details.
 
-## Pro User Account{: .text-purple-000 }
+## **Pro User Account**{: .text-purple-000 }
 Your Pro User account will allow you access to the **MrQR**{: .text-purple-000 } Platform and enable you to request access and complete all the **MrQR**{: .text-purple-000 } Site Forms used on any site being managed using the **MrQR**{: .text-purple-000 } platform, you have access to a fully functional personal site. Your Profile Page allows you to Store and Share:
 * Your Profile Image
 * Your Name
