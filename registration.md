@@ -3,10 +3,13 @@ title: Account Registration
 layout: default
 nav_order: 2
 ---
-# **ACCOUNT REGISTRATION**{: .text-purple-000 }
+# ACCOUNT REGISTRATION
 {: .no_toc }
+
+## USER ACCOUNT TYPES
 {: .no_toc .text-delta }
 
+1. TOC
 {:toc}
 
 ## **Free User Account**{: .text-purple-000 }
