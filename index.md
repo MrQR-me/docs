@@ -11,7 +11,7 @@ View our documentation for
 
 ## **MrQR**{: .text-purple-000 } is a Universal Site Based Management Platform with global access.
 * **MrQR**{: .text-purple-000 } is a cloud based platform and requires an internet connection and registration to the **MrQR**{: .text-purple-000 } platform.
-* **MrQR**{: .text-purple-000 } can be viewd on PC., Tablet or Smartphone. 
+* **MrQR**{: .text-purple-000 } can be viewd on PC, Tablet, or Smartphone. 
 * Create your own forms and assign them to your own items.
 * **MrQR**{: .text-purple-000 } enables you to document, manage, any item the way you want to work.
 * Invite Team members to assist you in the management of your site.
