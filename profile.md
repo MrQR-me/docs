@@ -52,51 +52,74 @@ You can add your profile image, this will be automatically Shared and used as an
 
 ### Your Name
 {: .text-purple-000 }
-Adding your Full Name, this will be automatically Shared and used as an Identification image on **MrQR**{: .text-purple-000 } forms.
+Adding your Full Name, this will be automatically Shared on **MrQR**{: .text-purple-000 } forms.
 
 ### your Contact Number
 {: .text-purple-000 }
-Adding your Contact Number, this will be automatically Shared and used as an Identification image on **MrQR**{: .text-purple-000 } forms.
+Adding your Contact Number, this will be automatically Shared on **MrQR**{: .text-purple-000 } forms.
 
 ### Your National Insurance Number
 {: .text-purple-000 }
-Adding Your National Insurance Number, with a Pro User Account, this will be automatically Shared and used as an Identification image on **MrQR**{: .text-purple-000 } forms.
+Adding Your National Insurance Number, with a Pro User Account, this will be automatically Shared on **MrQR**{: .text-purple-000 } forms.
 
 ### Date of Birth
 {: .text-purple-000 }
-Adding Your Date of Birth, with a Pro User Account, this will be automatically Shared and used as an Identification image on **MrQR**{: .text-purple-000 } forms.
+Adding Your Date of Birth, with a Pro User Account, this will be automatically Shared on **MrQR**{: .text-purple-000 } forms.
 
 ### Occupation
 {: .text-purple-000 }
-Adding Your Occupation, with a Pro User Account, this will be automatically Shared and used as an Identification image on **MrQR**{: .text-purple-000 } forms.
+Adding Your Occupation, with a Pro User Account, this will be automatically Shared on **MrQR**{: .text-purple-000 } forms.
 
 ### Employer
 {: .text-purple-000 }
-Adding Your employer, with a Pro User Account, this will be automatically Shared and used as an Identification image on **MrQR**{: .text-purple-000 } forms.
+Adding Your employer, with a Pro User Account, this will be automatically Shared on **MrQR**{: .text-purple-000 } forms.
 
 ### Employment Status
 {: .text-purple-000 }
+Adding Your employment status, with a Pro User Account, this will be automatically Shared on **MrQR**{: .text-purple-000 } forms.
 
 ### Basic Medical Infomation you wish to share
 {: .text-purple-000 }
-Adding any Medical information, with a Pro User Account, this will be automatically Shared and used as an Identification image on **MrQR**{: .text-purple-000 } forms.
-https://github.com/MrQR-me/docs/blob/main/assets/images/MrQR_single%20Inputs.png
+Adding any Medical information, with a Pro User Account, this will be automatically Shared on **MrQR**{: .text-purple-000 } forms.
 ![Profile](/assets/images/MrQR_single%20Inputs.png "Inputs")
 
 ### Contact Details of a person you whis to be contacted in the event of an incedent.
 {: .text-purple-000 }
-Adding Contact Details of the Person you wish to be contacted in the event if an incident, with a Pro User Account, this will be automatically Shared and used as an Identification image on **MrQR**{: .text-purple-000 } forms.
+Adding Contact Details of the Person you wish to be contacted in the event if an incident, with a Pro User Account, this will be automatically Shared on **MrQR**{: .text-purple-000 } forms.
 ![Profile](/assets/images/MrQR_Next_of_Kin.png "Addresses")
 
 ### Multiple Addresses
 {: .text-purple-000 }
+You can add Multiple address from you profile page, you could add your home or multiple work addresses. these can be selected and automatically Shared on **MrQR**{: .text-purple-000 } forms.
+
+* Address Line 1
+* Address Line 2
+* City
+* Region
+* Post Code
+* Country
+* Notes
+
 ![Profile](/assets/images/MrQR_Addresses.png "Addresses")
 
 ### Multiple Training Records (including Descriptions, Key Dates & images)
 {: .text-purple-000 }
+You can add Multiple Training Records from you profile page, these can be selected and automatically Shared on **MrQR**{: .text-purple-000 } forms.
+
+* Name (IPAF, Driving Licence, ECS, CSCS etc)
+* Number
+* Expiry Date
+* Multiple Images
+
 ![Profile](/assets/images/MrQR_Training%20Records.png "Training")
 
 ### Multiple Equipment Records (including Descriptions & images)
 {: .text-purple-000 }
+You can add Multiple Equipment Records from you profile page, these can be selected and automatically Shared on **MrQR**{: .text-purple-000 } forms.
+
+* Name (Drill, Test Equipmet, Ladders, Car Registration etc)
+* Description
+* Multiple Images
+
 ![Profile](/assets/images/MrQR_Equipment.png "Training")
 
