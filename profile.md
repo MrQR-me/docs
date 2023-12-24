@@ -27,6 +27,49 @@ You cannot Store or Share Addresses, Training Records or Equipment Details.
 ## Pro User Account
 {: .text-purple-000 }
 
+Your Pro plan Account will allow you access to the MrQR{: .text-purple-000 } Platform and enable you to request access and complete all the MrQR{: .text-purple-000 } Site Forms used on any site being managed using the MrQR{: .text-purple-000 } platform, you have access to a fully functional personal site. Your Profile Page allows you to Store and Share:
+
+* Your Profile Image
+* Your Name
+* your Contact Number.
+* Your National Insurance Number
+* Date of Birth
+* Occupation
+* Employer
+* Employment Status
+* Basic Medical Infomation you wish to share
+* Contact Details of a person you whis to be contacted in the event of an incedent.
+* Multiple Addresses
+* Multiple Training Records (including Descriptions, Key Dates & images)
+* Multiple Equipment Records (including Descriptions & images)
+
+You can share your profile page including you Profile Image, Employer, Occupation, Contact Number and Training Records via email or your Unique MrQR{: .text-purple-000 } Code.
+## Your Profile Image
+
+## Your Name
+
+## your Contact Number
+
+## Your National Insurance Number
+
+## Date of Birth
+
+## Occupation
+
+## Employer
+
+## Employment Status
+
+## Basic Medical Infomation you wish to share
+
+## Contact Details of a person you whis to be contacted in the event of an incedent.
+
+## Multiple Addresses
+
+## Multiple Training Records (including Descriptions, Key Dates & images)
+
+## Multiple Equipment Records (including Descriptions & images)
+
 ![The Basics](/assets/images/MrQR%20-%20The%20Basics_Page_04.png "the basics")
 ![The Basics](/assets/images/MrQR%20-%20The%20Basics_Page_05.png "the basics")
 ![The Basics](/assets/images/MrQR%20-%20The%20Basics_Page_06.png "the basics")
