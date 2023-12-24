@@ -44,31 +44,31 @@ Your Pro plan Account will allow you access to the MrQR{: .text-purple-000 } Pla
 * Multiple Equipment Records (including Descriptions & images)
 
 You can share your profile page including you Profile Image, Employer, Occupation, Contact Number and Training Records via email or your Unique MrQR{: .text-purple-000 } Code.
-## Your Profile Image
+### Your Profile Image
 
-## Your Name
+### Your Name
 
 ## your Contact Number
 
-## Your National Insurance Number
+### Your National Insurance Number
 
-## Date of Birth
+### Date of Birth
 
-## Occupation
+### Occupation
 
-## Employer
+### Employer
 
-## Employment Status
+### Employment Status
 
-## Basic Medical Infomation you wish to share
+### Basic Medical Infomation you wish to share
 
-## Contact Details of a person you whis to be contacted in the event of an incedent.
+### Contact Details of a person you whis to be contacted in the event of an incedent.
 
-## Multiple Addresses
+### Multiple Addresses
 
-## Multiple Training Records (including Descriptions, Key Dates & images)
+### Multiple Training Records (including Descriptions, Key Dates & images)
 
-## Multiple Equipment Records (including Descriptions & images)
+### Multiple Equipment Records (including Descriptions & images)
 
 ![The Basics](/assets/images/MrQR%20-%20The%20Basics_Page_04.png "the basics")
 ![The Basics](/assets/images/MrQR%20-%20The%20Basics_Page_05.png "the basics")
