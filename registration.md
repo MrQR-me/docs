@@ -37,7 +37,7 @@ then select REGISTER
 
 ![Free Account](/assets/images/MrQR_Register.png "RESGISTER")
 
-Once Registered you can now enter your Profile Details.
+Once Registered you can now enter your [Profile](https://docs.mrqr.me/profile/) Details.
 
 ### Pro User Account
 {: .text-purple-000 }
