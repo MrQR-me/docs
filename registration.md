@@ -31,9 +31,11 @@ Go to MrQR.me amd select REGISTER
 ![Free Account](/assets/images/MrQR_login_page.png "RESGISTER")
 
 Enter Your Valid Email Address and Password,
-review and Accept our Terms & Conditions
+review and Tick the Agree to our Terms & Conditions
 
 ![Free Account](/assets/images/MrQR_Register.png "RESGISTER")
+
+once Registered youncan enter your Profile Details.
 
 ### Pro User Account
 {: .text-purple-000 }
