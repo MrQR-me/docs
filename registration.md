@@ -6,14 +6,14 @@ nav_order: 2
 # **ACCOUNT REGISTRATION**{: .text-purple-000 }
 {: .no_toc }
 
-### USER ACCOUNT DETAILS & SETUP
+## USER ACCOUNT DETAILS & SETUP
 {: .text-purple-000 }
 {: .no_toc }
 
 1. TOC
 {:toc }
 
-### Free User Account
+## Free User Account
 {: .text-purple-000 }
 Your Free account will allow you access to the **MrQR**{: .text-purple-000 } Platform and enable you to request access and complete all the **MrQR**{: .text-purple-000 } Site Forms used on any site being managed using the **MrQR**{: .text-purple-000 } platform. There is no personal site and you cannot create or manage your own **MrQR**{: .text-purple-000 } Forms. Your profile page allows you to Store and Share:
 
@@ -23,7 +23,7 @@ Your Free account will allow you access to the **MrQR**{: .text-purple-000 } Pla
 
 You cannot Store or Share Addresses, Training Records or Equipment Details.
 
-### Setting Up Your Free Account
+## Setting Up Your Free Account
 {: .text-purple-000 }
 
 Go to **MrQR**{: .text-purple-000 }
@@ -39,7 +39,7 @@ then select REGISTER
 
 Once Registered you can now enter your [Profile](https://docs.mrqr.me/profile/) Details.
 
-### Pro Plan Account
+## Pro Plan Account
 {: .text-purple-000 }
 
 Once Registered you can now enter your [Profile](https://docs.mrqr.me/profile/) Details and upgrade your account.
