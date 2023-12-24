@@ -84,9 +84,11 @@ Adding any Medical information, with a Pro User Account, this will be automatica
 ### Contact Details of a person you whis to be contacted in the event of an incedent.
 {: .text-purple-000 }
 Adding Contact Details of the Person you wish to be contacted in the event if an incident, with a Pro User Account, this will be automatically Shared and used as an Identification image on **MrQR**{: .text-purple-000 } forms.
+![Profile](/assets/images/MrQR_Addresses.png "Addresses")
 
 ### Multiple Addresses
 {: .text-purple-000 }
+![Profile](/assets/images/MrQR_Addresses.png "Addresses")
 
 ### Multiple Training Records (including Descriptions, Key Dates & images)
 {: .text-purple-000 }
