@@ -80,11 +80,13 @@ Adding Your employer, with a Pro User Account, this will be automatically Shared
 ### Basic Medical Infomation you wish to share
 {: .text-purple-000 }
 Adding any Medical information, with a Pro User Account, this will be automatically Shared and used as an Identification image on **MrQR**{: .text-purple-000 } forms.
+https://github.com/MrQR-me/docs/blob/main/assets/images/MrQR_single%20Inputs.png
+![Profile](/assets/images/MrQR_single%20Inputs.png "Inputs")
 
 ### Contact Details of a person you whis to be contacted in the event of an incedent.
 {: .text-purple-000 }
 Adding Contact Details of the Person you wish to be contacted in the event if an incident, with a Pro User Account, this will be automatically Shared and used as an Identification image on **MrQR**{: .text-purple-000 } forms.
-![Profile](/assets/images/MrQR_Addresses.png "Addresses")
+![Profile](/assets/images/MrQR_Next_of_Kin.png "Addresses")
 
 ### Multiple Addresses
 {: .text-purple-000 }
@@ -92,11 +94,9 @@ Adding Contact Details of the Person you wish to be contacted in the event if an
 
 ### Multiple Training Records (including Descriptions, Key Dates & images)
 {: .text-purple-000 }
+![Profile](/assets/images/MrQR_Training%20Records.png "Training")
 
 ### Multiple Equipment Records (including Descriptions & images)
 {: .text-purple-000 }
+![Profile](/assets/images/MrQR_Equipment.png "Training")
 
-![The Basics](/assets/images/MrQR%20-%20The%20Basics_Page_04.png "the basics")
-![The Basics](/assets/images/MrQR%20-%20The%20Basics_Page_05.png "the basics")
-![The Basics](/assets/images/MrQR%20-%20The%20Basics_Page_06.png "the basics")
-![The Basics](/assets/images/MrQR%20-%20The%20Basics_Page_07.png "the basics")
