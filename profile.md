@@ -45,30 +45,43 @@ Your Pro plan Account will allow you access to the MrQR{: .text-purple-000 } Pla
 
 You can share your profile page including you Profile Image, Employer, Occupation, Contact Number and Training Records via email or your Unique MrQR{: .text-purple-000 } Code.
 ### Your Profile Image
+{: .text-purple-000 }
 
 ### Your Name
+{: .text-purple-000 }
 
 ### your Contact Number
+{: .text-purple-000 }
 
 ### Your National Insurance Number
+{: .text-purple-000 }
 
 ### Date of Birth
+{: .text-purple-000 }
 
 ### Occupation
+{: .text-purple-000 }
 
 ### Employer
+{: .text-purple-000 }
 
 ### Employment Status
+{: .text-purple-000 }
 
 ### Basic Medical Infomation you wish to share
+{: .text-purple-000 }
 
 ### Contact Details of a person you whis to be contacted in the event of an incedent.
+{: .text-purple-000 }
 
 ### Multiple Addresses
+{: .text-purple-000 }
 
 ### Multiple Training Records (including Descriptions, Key Dates & images)
+{: .text-purple-000 }
 
 ### Multiple Equipment Records (including Descriptions & images)
+{: .text-purple-000 }
 
 ![The Basics](/assets/images/MrQR%20-%20The%20Basics_Page_04.png "the basics")
 ![The Basics](/assets/images/MrQR%20-%20The%20Basics_Page_05.png "the basics")
