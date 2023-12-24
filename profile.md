@@ -12,7 +12,13 @@ nav_order: 4
 
 1. TOC
 {:toc }
+## Free User Account
+Your profile page allows you to Store and Share:
 
+Your Profile Image
+Your Name
+Your Contact Number
+You cannot Store or Share Addresses, Training Records or Equipment Details.
 
 ![The Basics](/assets/images/MrQR%20-%20The%20Basics_Page_04.png "the basics")
 ![The Basics](/assets/images/MrQR%20-%20The%20Basics_Page_05.png "the basics")
