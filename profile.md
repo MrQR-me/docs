@@ -13,7 +13,8 @@ nav_order: 4
 1. TOC
 {:toc }
 
-## Free User Account{: .text-purple-000 }
+## Free User Account
+{: .text-purple-000 }
 Your profile page allows you to Store and Share:
 
 Your Profile Image
