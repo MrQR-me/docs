@@ -124,5 +124,6 @@ You can add Multiple Equipment Records from you profile page, these can be selec
 ![Profile](/assets/images/MrQR_Equipment.png "Training")
 
  [Back to Top](#profile)
-
+The result is shown at [the top of this page](#navigation-structure) (`{:toc}` can be used only once on each page).
+The result is shown at [the top of this page](#profile) (`{:toc}` can be used only once on each page).
  
