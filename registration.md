@@ -9,7 +9,7 @@ nav_order: 2
 ## *USER ACCOUNT TYPES*{: .text-purple-000 }
 {: .no_toc }
 
-*. TOC
+1. TOC
 {:toc}
 
 ## **Free User Account**{: .text-purple-000 }
