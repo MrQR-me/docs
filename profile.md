@@ -23,7 +23,8 @@ Your Contact Number
 You cannot Store or Share Addresses, Training Records or Equipment Details.
 
 ![Profile](/assets/images/MrQR_Profile_Free.png "Free Account")
-[Back to Top](https://docs.mrqr.me/profile/){: .text-right }
+[Back to Top](https://docs.mrqr.me/profile/)
+{: .text-right }
 
 ### Your Profile Image
 {: .text-purple-000 }
@@ -87,13 +88,15 @@ Adding Your employment status, with a Pro User Account, this will be automatical
 {: .text-purple-000 }
 Adding any Medical information, with a Pro User Account, this will be automatically Shared on **MrQR**{: .text-purple-000 } forms.
 ![Profile](/assets/images/MrQR_single%20Inputs.png "Inputs")
-[Back to Top](https://docs.mrqr.me/profile/){: .text-right }
+[Back to Top](https://docs.mrqr.me/profile/)
+{: .text-right }
 
 ### Contact Details of a person you whis to be contacted in the event of an incedent.
 {: .text-purple-000 }
 Adding Contact Details of the Person you wish to be contacted in the event if an incident, with a Pro User Account, this will be automatically Shared on **MrQR**{: .text-purple-000 } forms.
 ![Profile](/assets/images/MrQR_Next_of_Kin.png "Addresses")
 [Back to Top](https://docs.mrqr.me/profile/)
+{: .text-right }
 
 ### Multiple Addresses
 {: .text-purple-000 }
@@ -109,6 +112,7 @@ You can add Multiple address from you profile page, you could add your home or m
 
 ![Profile](/assets/images/MrQR_Addresses.png "Addresses")
 [Back to Top](https://docs.mrqr.me/profile/)
+{: .text-right }
 
 ### Multiple Training Records (including Descriptions, Key Dates & images)
 {: .text-purple-000 }
@@ -121,6 +125,7 @@ You can add Multiple Training Records from you profile page, these can be select
 
 ![Profile](/assets/images/MrQR_Training%20Records.png "Training")
 [Back to Top](https://docs.mrqr.me/profile/)
+{: .text-right }
 
 ### Multiple Equipment Records (including Descriptions & images)
 {: .text-purple-000 }
@@ -132,4 +137,4 @@ You can add Multiple Equipment Records from you profile page, these can be selec
 
 ![Profile](/assets/images/MrQR_Equipment.png "Training")
 [Back to Top](https://docs.mrqr.me/profile/)
- 
+{: .text-right }
