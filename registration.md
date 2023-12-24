@@ -26,7 +26,13 @@ You cannot Store or Share Addresses, Training Records or Equipment Details.
 ### Setting Up Your Free User Account
 {: .text-purple-000 }
 
-got to MrQR.me amd select REGISTER
+Go to MrQR.me amd select REGISTER
+
+![Free Account](/assets/images/MrQR_login_page.png "RESGISTER")
+
+Enter Your Valid Email Address and Password,
+review and Accept our Terms & Conditions
+
 ![Free Account](/assets/images/MrQR_Register.png "RESGISTER")
 
 ### Pro User Account
