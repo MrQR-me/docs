@@ -30,7 +30,7 @@ You cannot Store or Share Addresses, Training Records or Equipment Details.
 
 You can add your profile image, this will be automatically Shared and used as an Identification image on **MrQR**{: .text-purple-000 } forms.
 ![Profile](/assets/images/MrQR_Profile_Photo.png "Profile Image")
-[Back to Top](https://docs.mrqr.me/profile/){: .text-right }
+**[Back to Top](https://docs.mrqr.me/profile/)**{: .text-right }
 
 ### Your Name
 {: .text-purple-000 }
@@ -43,7 +43,7 @@ Adding your Contact Number, this will be automatically Shared on **MrQR**{: .tex
 ## Pro User Account
 {: .text-purple-000 }
 
-Your Pro plan Account will allow you access to the **MrQR**{: .text-purple-000 } Platform and enable you to request access and complete all the MrQR{: .text-purple-000 } Site Forms used on any site being managed using the **MrQR**{: .text-purple-000 } platform, you have access to a fully functional personal site. In addition to your Profile Image, Name & Contact Number your Profile Page allows you to Store and Share:
+Your Pro plan Account will allow you access to the **MrQR**{: .text-purple-000 } Platform and enable you to request access and complete all the **MrQR**{: .text-purple-000 } Site Forms used on any site being managed using the **MrQR**{: .text-purple-000 } platform, you have access to a fully functional personal site. In addition to your Profile Image, Name & Contact Number your Profile Page allows you to Store and Share:
 
 * Your Profile Image
 * Your Name
