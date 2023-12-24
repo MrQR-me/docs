@@ -32,7 +32,8 @@ Go to **MrQR**{: .text-purple-000 }
 ![Free Account](/assets/images/MrQR_login_page.png "RESGISTER")
 
 Enter Your Valid Email Address and Password,
-review and Tick the Agree to our Terms & Conditions
+review and Tick the Agree to our Terms of Service & Privacy Policy
+then select REGISTER
 
 ![Free Account](/assets/images/MrQR_Register.png "RESGISTER")
 
