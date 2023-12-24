@@ -25,18 +25,18 @@ You cannot Store or Share Addresses, Training Records or Equipment Details.
 ![Profile](/assets/images/MrQR_Profile_Free.png "Free Account")
 [Back to Top](https://docs.mrqr.me/profile/){: .text-right }
 
-## Your Profile Image
+### Your Profile Image
 {: .text-purple-000 }
 
 You can add your profile image, this will be automatically Shared and used as an Identification image on **MrQR**{: .text-purple-000 } forms.
 ![Profile](/assets/images/MrQR_Profile_Photo.png "Profile Image")
 [Back to Top](https://docs.mrqr.me/profile/){: .text-right }
 
-## Your Name
+### Your Name
 {: .text-purple-000 }
 Adding your Full Name, this will be automatically Shared on **MrQR**{: .text-purple-000 } forms.
 
-## your Contact Number
+### your Contact Number
 {: .text-purple-000 }
 Adding your Contact Number, this will be automatically Shared on **MrQR**{: .text-purple-000 } forms.
 
