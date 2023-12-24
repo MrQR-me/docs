@@ -10,7 +10,6 @@ nav_order: 4
 {: .text-purple-000 }
 {: .no_toc }
 
-1. TOC
 {:toc }
 
 ## Free User Account
@@ -48,7 +47,7 @@ You can share your profile page including you Profile Image, Employer, Occupatio
 
 ### Your Name
 
-## your Contact Number
+### your Contact Number
 
 ### Your National Insurance Number
 
