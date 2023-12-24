@@ -6,14 +6,14 @@ nav_order: 2
 # **ACCOUNT REGISTRATION**{: .text-purple-000 }
 {: .no_toc }
 
-## USER ACCOUNT TYPES
+### USER ACCOUNT DETAILS & SETUP
 {: .text-purple-000 }
 {: .no_toc }
 
 1. TOC
 {:toc }
 
-## Free User Account
+### Free User Account
 {: .text-purple-000 }
 Your Free account will allow you access to the **MrQR**{: .text-purple-000 } Platform and enable you to request access and complete all the **MrQR**{: .text-purple-000 } Site Forms used on any site being managed using the **MrQR**{: .text-purple-000 } platform. There is no personal site and you cannot create or manage your own **MrQR**{: .text-purple-000 } Forms. Your profile page allows you to Store and Share:
 
@@ -23,11 +23,11 @@ Your Free account will allow you access to the **MrQR**{: .text-purple-000 } Pla
 
 You cannot Store or Share Addresses, Training Records or Equipment Details.
 
-## Setting Up Your Free User Account
+### Setting Up Your Free User Account
 {: .text-purple-000 }
 ![The Basics](/assets/images/MrQR%20Instructions_Page_01.png "the basics")
 
-## Pro User Account
+### Pro User Account
 {: .text-purple-000 }
 Your Pro User account will allow you access to the **MrQR**{: .text-purple-000 } Platform and enable you to request access and complete all the **MrQR**{: .text-purple-000 } Site Forms used on any site being managed using the **MrQR**{: .text-purple-000 } platform, you have access to a fully functional personal site. Your Profile Page allows you to Store and Share:
 * Your Profile Image
