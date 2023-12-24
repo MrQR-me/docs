@@ -20,6 +20,9 @@ Your Name
 Your Contact Number
 You cannot Store or Share Addresses, Training Records or Equipment Details.
 
+![Profile](/assets/images/MrQR_Profile_Free.png "Free Account")
+
+
 ![The Basics](/assets/images/MrQR%20-%20The%20Basics_Page_04.png "the basics")
 ![The Basics](/assets/images/MrQR%20-%20The%20Basics_Page_05.png "the basics")
 ![The Basics](/assets/images/MrQR%20-%20The%20Basics_Page_06.png "the basics")
