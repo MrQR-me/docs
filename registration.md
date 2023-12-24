@@ -7,7 +7,7 @@ nav_order: 2
 {: .no_toc }
 
 ## **USER ACCOUNT TYPES**
-{: .no_toc .text-delta }
+{: .no_toc }
 
 1. TOC
 {:toc}
