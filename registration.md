@@ -15,7 +15,7 @@ nav_order: 2
 
 ## Free User Account
 {: .text-purple-000 }
-Your Free account will allow you access to the **MrQR**{: .text-purple-000 } Platform and enable you to request access and complete all the **MrQR**{: .text-purple-000 } Site Forms used on any site being managed using the **MrQR**{: .text-purple-000 } platform. There is no personal site and you cannot create or manage your own **MrQR**{: .text-purple-000 } Forms. Your profile page allows you to Store and Share:
+Your Free account will allow you access to the **MrQR**{: .text-purple-000 } Platform and enable you to request access and complete all the **MrQR**{: .text-purple-000 } Site Forms used on any site being managed using the **MrQR**{: .text-purple-000 } platform. There is no personal site and you cannot create or manage your own **MrQR**{: .text-purple-000 } Forms. Your [Profile](https://docs.mrqr.me/profile/) page allows you to Store and Share:
 
 * Your Profile Image
 * Your Name
@@ -47,7 +47,7 @@ On the [Profile](https://docs.mrqr.me/profile/) page scroll down and select Mana
 
 ![Pro Plan Account](/assets/images/MrQR_Pro_Plan.png "RESGISTER")
 
-Your Pro plan Account will allow you access to the **MrQR**{: .text-purple-000 } Platform and enable you to request access and complete all the **MrQR**{: .text-purple-000 } Site Forms used on any site being managed using the **MrQR**{: .text-purple-000 } platform, you have access to a fully functional personal site. Your Profile Page allows you to Store and Share:
+Your Pro plan Account will allow you access to the **MrQR**{: .text-purple-000 } Platform and enable you to request access and complete all the **MrQR**{: .text-purple-000 } Site Forms used on any site being managed using the **MrQR**{: .text-purple-000 } platform, you have access to a fully functional personal site. Your [Profile](https://docs.mrqr.me/profile/) Page allows you to Store and Share:
 * Your Profile Image
 * Your Name
 * your Contact Number.
