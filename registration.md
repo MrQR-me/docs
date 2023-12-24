@@ -17,7 +17,7 @@ nav_order: 2
 {: .text-purple-000 }
 Your Free account will allow you access to the **MrQR**{: .text-purple-000 } Platform and enable you to request access and complete all the **MrQR**{: .text-purple-000 } Site Forms used on any site being managed using the **MrQR**{: .text-purple-000 } platform. There is no personal site and you cannot create or manage your own **MrQR**{: .text-purple-000 } Forms. Your profile page allows you to Store and Share:
 
-* your Profile Image
+* Your Profile Image
 * Your Name
 * Your Contact Number
 
