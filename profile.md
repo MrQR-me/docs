@@ -84,6 +84,7 @@ Adding Your employment status, with a Pro User Account, this will be automatical
 ### Basic Medical Infomation you wish to share
 {: .text-purple-000 }
 Adding any Medical information, with a Pro User Account, this will be automatically Shared on **MrQR**{: .text-purple-000 } forms.
+
 ![Profile](/assets/images/MrQR_single%20Inputs.png "Inputs")
 [Back to Top](https://docs.mrqr.me/profile/)
 {: .text-right }
@@ -91,6 +92,7 @@ Adding any Medical information, with a Pro User Account, this will be automatica
 ### Contact Details of a person you whis to be contacted in the event of an incedent.
 {: .text-purple-000 }
 Adding Contact Details of the Person you wish to be contacted in the event if an incident, with a Pro User Account, this will be automatically Shared on **MrQR**{: .text-purple-000 } forms.
+
 ![Profile](/assets/images/MrQR_Next_of_Kin.png "Addresses")
 [Back to Top](https://docs.mrqr.me/profile/)
 {: .text-right }
