@@ -41,10 +41,11 @@ Once Registered you can now enter your [Profile](https://docs.mrqr.me/profile/) 
 
 ### Pro Plan Account
 {: .text-purple-000 }
+
 Once Registered you can now enter your [Profile](https://docs.mrqr.me/profile/) Details and upgrade your account.
 On the [Profile](https://docs.mrqr.me/profile/) page scroll down and select Manage plan and Subscribe to our pro plan.
 
-Your Pro plan will allow you access to the **MrQR**{: .text-purple-000 } Platform and enable you to request access and complete all the **MrQR**{: .text-purple-000 } Site Forms used on any site being managed using the **MrQR**{: .text-purple-000 } platform, you have access to a fully functional personal site. Your Profile Page allows you to Store and Share:
+Your Pro plan Account will allow you access to the **MrQR**{: .text-purple-000 } Platform and enable you to request access and complete all the **MrQR**{: .text-purple-000 } Site Forms used on any site being managed using the **MrQR**{: .text-purple-000 } platform, you have access to a fully functional personal site. Your Profile Page allows you to Store and Share:
 * Your Profile Image
 * Your Name
 * your Contact Number.
@@ -61,4 +62,3 @@ Your Pro plan will allow you access to the **MrQR**{: .text-purple-000 } Platfor
   
 You can share your profile page including you Profile Image, Employer, Occupation, Contact Number and Training Records via email or your Unique **MrQR**{: .text-purple-000 } Code.
 
-![The Basics](/assets/images/MrQR%20Instructions_Page_01.png "the basics")
