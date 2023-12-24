@@ -83,7 +83,7 @@ Adding any Medical information, with a Pro User Account, this will be automatica
 
 ### Contact Details of a person you whis to be contacted in the event of an incedent.
 {: .text-purple-000 }
-Adding Contact Details of the Person you wosh to be contacted in the event if an incedent, with a Pro User Account, this will be automatically Shared and used as an Identification image on **MrQR**{: .text-purple-000 } forms.
+Adding Contact Details of the Person you wish to be contacted in the event if an incident, with a Pro User Account, this will be automatically Shared and used as an Identification image on **MrQR**{: .text-purple-000 } forms.
 
 ### Multiple Addresses
 {: .text-purple-000 }
