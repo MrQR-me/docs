@@ -30,7 +30,8 @@ You cannot Store or Share Addresses, Training Records or Equipment Details.
 
 You can add your profile image, this will be automatically Shared and used as an Identification image on **MrQR**{: .text-purple-000 } forms.
 ![Profile](/assets/images/MrQR_Profile_Photo.png "Profile")
-[Back to Top{: .text-right }](https://docs.mrqr.me/profile/)
+[Back to Top](https://docs.mrqr.me/profile/)
+{: .text-right }
 
 
 ### Your Name
