@@ -45,6 +45,8 @@ Once Registered you can now enter your [Profile](https://docs.mrqr.me/profile/) 
 Once Registered you can now enter your [Profile](https://docs.mrqr.me/profile/) Details and upgrade your account.
 On the [Profile](https://docs.mrqr.me/profile/) page scroll down and select Manage plan and Subscribe to our pro plan.
 
+![Pro Plan Account](/assets/images/MrQR_Pro_Plan.png "RESGISTER")
+
 Your Pro plan Account will allow you access to the **MrQR**{: .text-purple-000 } Platform and enable you to request access and complete all the **MrQR**{: .text-purple-000 } Site Forms used on any site being managed using the **MrQR**{: .text-purple-000 } platform, you have access to a fully functional personal site. Your Profile Page allows you to Store and Share:
 * Your Profile Image
 * Your Name
