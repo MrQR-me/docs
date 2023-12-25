@@ -24,4 +24,4 @@ View our documentation for
 * Form data is exported in .csv format and requires additional software to view & manage.
 
 
-[MrQR.me](#https://mrqr.me){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[MrQR.me](https://mrqr.me){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
