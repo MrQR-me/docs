@@ -137,5 +137,4 @@ You can add Multiple Equipment Records from you profile page, these can be selec
 
 ![Profile](/assets/images/MrQR_Equipment.png "Training")
 [Back to Top](https://docs.mrqr.me/profile/)
-[Back to Top](#profile)
 {: .text-right }
