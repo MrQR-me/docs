@@ -33,7 +33,7 @@ By selecting your personal Site inthe top right corner, you access the Site Sett
 ![Sites](/assets/images/MrQR_Site_Menu.png "Site Menu")
 
 ### Changing the Site Name
-You can change the name of your site, once you have entered the desired site name Select [Save](){: .btn .btn-grey-dk-300 }
+You can change the name of your site, once you have entered the desired site name Select [Save](){: .btn-grey-dk-300 }
 
 ![Sites](/assets/images/MrQR_Site_Change_Name.png "Change Name")
 
