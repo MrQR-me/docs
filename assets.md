@@ -42,6 +42,8 @@ Once an Item is Created it cannot be Deleted but you can Edit its Name & Details
 ### Register Page View
 {: .text-purple-000 }
 ![Items](/assets/images/MrQR_Register_View.png "View")
+[Back to Top](https://docs.mrqr.me/assets/)
+{: .text-right }
 
 ### Creating a New Item
 {: .text-purple-000 }
@@ -63,6 +65,9 @@ in the Example below an item Named; Step Ladder 01 in a Group named Access Equip
 
 ![Items](/assets/images/MrQR_Items_Create.png "Create")
 
+[Back to Top](https://docs.mrqr.me/assets/)
+{: .text-right }
+
 ### Assigng Forms
 {: .text-purple-000 }
 
@@ -73,6 +78,8 @@ Once the Item has been created, you can assign any number of Forms, these will b
 Select <button class="button button1">ASSIGN</button> once you have selected the desired **MrQR**{: .text-purple-000 } Form.
 
 ![Items](/assets/images/MrQR_Item_Assign_Form.png "Assign Form")
+[Back to Top](https://docs.mrqr.me/assets/)
+{: .text-right }
 
 ### Viewing an Item
 {: .text-purple-000 }
@@ -86,13 +93,16 @@ Select <button class="button button1">SAVE</button> once you have Amended your I
 
 ![Items](/assets/images/MrQR_Item_Assigned_Form.png "Edit Item")
 
+[Back to Top](https://docs.mrqr.me/assets/)
+{: .text-right }
+
 ### Stickers
 {: .text-purple-000 }
 
 By Selecting the Stivker Image you can Download the **MrQR**{: .text-purple-000 } code Sticker image to insert into your own Labels or ~posters 
 ![Items](/assets/images/MrQR_Sticker.png "Sticker")
-
-
+[Back to Top](https://docs.mrqr.me/assets/)
+{: .text-right }
 
 
 
