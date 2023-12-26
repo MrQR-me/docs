@@ -78,11 +78,15 @@ Select <button class="button button1">ASSIGN</button> once you have selected the
 {: .text-purple-000 }
 On the View Item page you can:
 * Edit the item Details
+* Download the **MrQR**{: .text-purple-000 } code Sticker to print or add to your own label and posters
 * Add or Remove Forms
 * View the Assigned Forms
 
 Select <button class="button button1">SAVE</button> once you have Amended your Item Details.
 
 ![Items](/assets/images/MrQR_Item_Assigned_Form.png "Edit Item")
+
+### Stickers
+{: .text-purple-000 }
 
 
