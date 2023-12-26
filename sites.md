@@ -59,43 +59,12 @@ By selecting your personal Site inthe top right corner, you access the Site Sett
   cursor: pointer;
 }
 
-.button5 {background-color: #555555;} /* Black */
+.button1 {background-color: #555555;} /* Black */
 </style>
 </head>
 <body>
 ​
-<h2>Button Colors</h2>
-​
-<p>You can change the name of your site, once you have entered the desired site name Select</p>
-​
-<button class="button button5">SAVE</button>
-​
-</body>
-</html>
-
-<html>
-<head>
-<style>
-.button {
-  background-color: black
-  border: none;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
-  cursor: pointer;
-}
-
-</style>
-</head>
-<body>
-​
-<p>You can change the name of your site, once you have entered the desired site name Select</p>
-​
-<button>SAVE</button>
+<p>You can change the name of your site, once you have entered the desired site name Select </p><button class="button button1">SAVE</button>
 ​
 </body>
 </html>
