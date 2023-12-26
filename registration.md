@@ -74,14 +74,14 @@ Once Registered you can now enter your [Profile](https://docs.mrqr.me/profile/) 
 {: .text-purple-000 }
 
 Once Registered you can now enter your [Profile](https://docs.mrqr.me/profile/) Details and upgrade your account.
-On the [Profile](https://docs.mrqr.me/profile/) page scroll down and select <button class="button button2">MANAGE BILLING</button> and Subscribe to our pro plan.
-You may be aske to add a pyment method, Select <button class="button button1">ADD PAYMENT METHOD </button> once you have entered your desired payment card details.
-You can later change or cancel your payment method by selecting <button class="button button2">MANAGE BILLING</button> this will dirct you to the Stripe Billing portal.
-</body>
-</html>
-![Sites](/assets/images/MrQR_Payment_Details.png "Payment Details")
+On the [Profile](https://docs.mrqr.me/profile/) page scroll down to Manage Account and Subscribe to our pro plan.
 
 ![Pro Plan Account](/assets/images/MrQR_Pro_Plan.png "RESGISTER")
+
+You may be asked to add a pyment method, Select <button class="button button1">ADD PAYMENT METHOD </button> once you have entered your desired payment card details.
+
+You can later change or cancel your payment method by selecting <button class="button button2">MANAGE BILLING</button> this will dirct you to the Stripe Billing portal.
+![Sites](/assets/images/MrQR_Payment_Details.png "Payment Details")
 
 [Back to Top](https://docs.mrqr.me/assets/)
 {: .text-right }
