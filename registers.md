@@ -53,7 +53,7 @@ From the Register Page you can Create your Registers.
 <html>
 <body>
 Select <button class="button button1">CREATE</button> once you have entered the desired Register name.
-In the example below a Register called "Access Equipment" Will Be Created
+In the example below a Register called "Access Equipment" Will Be Created. Once an Item is Created a Register cannot be Deleted but you can Edit its Name.
 </body>
 </html>
 
