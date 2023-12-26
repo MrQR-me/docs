@@ -80,7 +80,7 @@ On the [Profile](https://docs.mrqr.me/profile/) page scroll down to Manage Accou
 
 You may be asked to add a pyment method, Select <button class="button button1">ADD PAYMENT METHOD </button> once you have entered your desired payment card details.
 
-You can later change or cancel your payment method by selecting <button class="button button2">MANAGE BILLING</button> this will dirct you to the Stripe Billing portal.
+You can later change or cancel your payment method by selecting <button class="button button2">MANAGE BILLING</button> this will direct you to the Stripe Billing portal.
 ![Sites](/assets/images/MrQR_Payment_Details.png "Payment Details")
 
 [Back to Top](https://docs.mrqr.me/assets/)
