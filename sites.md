@@ -57,7 +57,7 @@ By selecting your personal Site inthe top right corner, you access the Site Sett
   margin: 4px 2px;
   cursor: pointer; }
 .button1 {background-color: #555555;} /* Black */
-.button1 {border-radius: 2px;}
+.button1 {border-radius: 5px;}
 </style>
 </head>
 <body>
