@@ -41,13 +41,13 @@ Individual Forms submisdions can be viewed in the **MrQR**{: .text-purple-000 } 
 
 ### Form Submisions in Dashboard
 {: .text-purple-000 }
-
+MrQR_Submission_Dashboard.png
 ### Form Submissions in Items
 {: .text-purple-000 }
-
+MrQR_Submission_Register.png
 ### Exporting Data
 {: .text-purple-000 }
-
+MrQR_Export_Data.png
 
 
 
