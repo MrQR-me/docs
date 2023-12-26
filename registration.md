@@ -52,7 +52,7 @@ You cannot Store or Share Addresses, Training Records or Equipment Details.
 {: .text-purple-000 }
 
 Go to **MrQR**{: .text-purple-000 }
-.me amd select REGISTER
+.me amd select <button class="button button1">REGISTER</button>
 
 ![Free Account](/assets/images/MrQR_login_page.png "RESGISTER")
 
@@ -61,7 +61,7 @@ Go to **MrQR**{: .text-purple-000 }
 
 Enter Your Valid Email Address and Password,
 review and Tick the Agree to our Terms of Service & Privacy Policy
-then select REGISTER
+then select <button class="button button1">REGISTER</button>
 
 ![Free Account](/assets/images/MrQR_Register.png "RESGISTER")
 
@@ -74,7 +74,7 @@ Once Registered you can now enter your [Profile](https://docs.mrqr.me/profile/) 
 {: .text-purple-000 }
 
 Once Registered you can now enter your [Profile](https://docs.mrqr.me/profile/) Details and upgrade your account.
-On the [Profile](https://docs.mrqr.me/profile/) page scroll down and select Manage plan and Subscribe to our pro plan.
+On the [Profile](https://docs.mrqr.me/profile/) page scroll down and select <button class="button button1">MANAGE PLAN</button> and Subscribe to our pro plan.
 
 ![Pro Plan Account](/assets/images/MrQR_Pro_Plan.png "RESGISTER")
 
