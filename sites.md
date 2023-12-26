@@ -42,8 +42,9 @@ By selecting your personal Site inthe top right corner, you access the Site Sett
 
 ### Changing the Site Name
 {: .text-purple-000 }
-You can change the name of your site, once you have entered the desired site name Select
-![Sites](/assets/images/MrQR_Save.png "Save")
+You can change the name of your site, once you have entered the desired site name Select 
+SAVE
+{: .bg-grey-dk-300){: .text-grey-lt-000 }
 
 ![Sites](/assets/images/MrQR_Site_Change_Name.png "Change Name")
 [Back to Top](https://docs.mrqr.me/sites/)
