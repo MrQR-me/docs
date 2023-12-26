@@ -3,7 +3,6 @@ title: Registers
 layout: default
 nav_order: 6
 ---
-![The Basics](/assets/images/MrQR%20-%20The%20Basics_Page_09.png "the basics")
 <html>
 <head>
 <style>
@@ -61,4 +60,8 @@ In the example below a Register called "Access Equipment" Will Be Created
 {: .text-purple-000 }
 Once Created you can select `View` your Register and add Items or Edit the Register Name.
 ![Registers](/assets/images/MrQR_Register_Created.png "Created")
+
+### Register Page
+{: .text-purple-000 }
+
 
