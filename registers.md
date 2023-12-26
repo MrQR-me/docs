@@ -55,16 +55,10 @@ Select <button class="button button1">CREATE</button> once you have entered the 
 In the example below a Register called "Access Equipment" Will Be Created
 </body>
 </html>
-![Registers](/assets/images/MrQR_Register_Create.png
- "Main Page")
+![Registers](/assets/images/MrQR_Register_Create.png "Main Page")
 
 ### Editing a Register
 {: .text-purple-000 }
-Once Created you can View and Edit your Registers. 
-<html>
-<body>
-Select <button class="button button1">CREATE</button> once you have entered the desired Register name.
-</body>
-</html>
-![Registers](/assets/images/MrQR_Register_Main.png "Main Page")
+Once Created you can select View and edit and add Items to your Registers.
+![Registers](/assets/images/MrQR_Register_View.png "View")
 
