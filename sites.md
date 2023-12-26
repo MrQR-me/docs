@@ -43,8 +43,10 @@ By selecting your personal Site inthe top right corner, you access the Site Sett
 ### Changing the Site Name
 {: .text-purple-000 }
 
+You can change the name of your site, once you have entered the desired site name Select
 
 <h3>You can change the name of your site, once you have entered the desired site name Selecto&nbsp;<button>SAVE</h3>
+  
 <html>
 <head>
 <style>
@@ -72,7 +74,7 @@ By selecting your personal Site inthe top right corner, you access the Site Sett
 <button class="button button1">SAVE</button>
 </body>
 </html>
-<h3>You can change the name of your site, once you have entered the desired site name Selecto&nbsp;<button class="button button1">SAVE</h3> 
+
 ​
 
 ![Sites](/assets/images/MrQR_Site_Change_Name.png "Change Name")
