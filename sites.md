@@ -45,12 +45,6 @@ By selecting your personal Site inthe top right corner, you access the Site Sett
 
 You can change the name of your site, once you have entered the desired site name Select
 
-<h3>You can change the name of your site, once you have entered the desired site name Select&nbsp;<button>SAVE</h3>
-  
-
-
-​
-
 ![Sites](/assets/images/MrQR_Site_Change_Name.png "Change Name")
 [Back to Top](https://docs.mrqr.me/sites/)
 {: .text-right }
