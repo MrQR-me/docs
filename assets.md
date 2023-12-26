@@ -1,5 +1,5 @@
 ---
-title: Assets
+title: Items
 layout: default
 nav_order: 7
 ---
