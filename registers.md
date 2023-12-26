@@ -30,7 +30,6 @@ nav_order: 6
 
 # **REGISTERS**
 {: .text-purple-000 }
-{: .no_toc }
 {:toc }
 - .TOC
 
