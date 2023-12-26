@@ -3,6 +3,25 @@ title: Sites
 layout: default
 nav_order: 5
 ---
+<html>
+<head>
+<style>
+.button {
+  background-color: black
+  border: none;
+  color: white;
+  padding: 5px 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  margin: 4px 2px;
+  cursor: pointer; }
+.button1 {background-color: #555555;} /* Black */
+.button1 {border-radius: 5px;}
+</style>
+</head>
+</html>
 # **SITES**
 {: .text-purple-000 }
 {: .no_toc }
@@ -43,23 +62,6 @@ By selecting your personal Site inthe top right corner, you access the Site Sett
 ### Changing the Site Name
 {: .text-purple-000 }
 <html>
-<head>
-<style>
-.button {
-  background-color: black
-  border: none;
-  color: white;
-  padding: 5px 12px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 10px;
-  margin: 4px 2px;
-  cursor: pointer; }
-.button1 {background-color: #555555;} /* Black */
-.button1 {border-radius: 5px;}
-</style>
-</head>
 <body>
 in Site Settings you can change the name of your site. Select <button class="button button1">SAVE</button> once you have entered the desired site name.
 </body>
