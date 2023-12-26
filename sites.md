@@ -4,7 +4,8 @@ layout: default
 nav_order: 5
 ---
 ![The Basics](/assets/images/MrQR%20-%20The%20Basics_Page_08.png "the basics")
-# **SITES**{: .text-purple-000 }
+# **SITES**
+{: .text-purple-000 }
 {: .no_toc }
 
 ## SITE SETUP & DETAILS
@@ -16,6 +17,7 @@ nav_order: 5
 
 ## Site Types
 {: .text-purple-000 }
+
 Thier are two types of Site
 
 * Personal
@@ -25,6 +27,7 @@ A **Personal** Site is created when you subscribe to a **MrQR**{: .text-purple-0
 
 ## Site Settings
 {: .text-purple-000 }
+
 By selecting your personal Site inthe top right corner, you access the Site Settings Menu, here you can
 * Change the Site Name
 * Create New Sites
@@ -33,8 +36,10 @@ By selecting your personal Site inthe top right corner, you access the Site Sett
 ![Sites](/assets/images/MrQR_Site_Menu.png "Site Menu")
 
 ### Changing the Site Name
+{: .text-purple-000 }
 You can change the name of your site, once you have entered the desired site name Select [Save](){: .btn-grey-dk-300 }
 
 ![Sites](/assets/images/MrQR_Site_Change_Name.png "Change Name")
 
 ### Creating New Sites
+{: .text-purple-000 }
