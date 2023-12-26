@@ -34,7 +34,7 @@ nav_order: 6
 {:toc }
 - .TOC
 
-The Register page is included with you **MrQR**{: .text-purple-000 } Pro User Account, The registers and Items for your Personal Site can only be viewed by the Site Owner. When you purchase additional Site Licences, you can manage and share Registers & Assets with other **MrQR**{: .text-purple-000 } registered users.
+The Register page is included with you **MrQR**{: .text-purple-000 } Pro User Account. You can create an unlimited number of registers. The Register is the List or directory of your items or assets that want to control. The registers and Items for your Personal Site can only be viewed by the Site Owner. When you purchase additional Site Licences, you can manage and share Registers & Assets with other **MrQR**{: .text-purple-000 } registered users.
 
 ## REGISTER SETUP & DETAILS
 {: .text-purple-000 }
