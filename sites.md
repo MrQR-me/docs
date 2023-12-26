@@ -60,10 +60,10 @@ Once you have purchased and created your additional Site you can:
 * Change / Edit the Site Name
 * Invite MrQR Users
 * Delete Your Site
-![Sites](/assets/images/MrQR_Payment_Details.png "Payment Details")
+![Sites](/assets/images/MrQR_Sites_New_Site.png "New Site Settings")
 ### Invite Users
 from the Site Settings Menu, you can invite as many MrQR Users to help manage your Site, you can grant different permissions for each MrQR User.
-![Sites](/assets/images/MrQR_Payment_Details.png "Payment Details")
+![Sites](/assets/images/MrQR_Sites_New_Site.png "Payment Details")
 
 
 
