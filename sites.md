@@ -98,6 +98,13 @@ Once you have purchased and created your additional Site you can:
 ### Invite Users
 {: .text-purple-000 }
 from the Site Settings Menu, you can invite as many MrQR Users to help manage your Site, you can apply different permissions for each **MrQR**{: .text-purple-000 } User.
+
+<html>
+<body>
+Enter a the email address of the person you with to join your site, Select <button class="button button1">SAVE</button> once you have entered the desired user permissions.
+</body>
+</html>
+
 ![Sites](/assets/images/MrQR_Sites_User_Pofile.png "profile")
 
 [Back to Top](https://docs.mrqr.me/sites/)
