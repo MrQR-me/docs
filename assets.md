@@ -3,9 +3,6 @@ title: Items
 layout: default
 nav_order: 7
 ---
-![The Basics](/assets/images/MrQR%20-%20The%20Basics_Page_10.png "the basics")
-![The Basics](/assets/images/MrQR%20-%20The%20Basics_Page_11.png "the basics")
-![The Basics](/assets/images/MrQR%20-%20The%20Basics_Page_12.png "the basics")
 <html>
 <head>
 <style>
@@ -45,3 +42,7 @@ Once an Item is Created it cannot be Deleted but you can Edit its Name & Details
 ### Register Page View
 {: .text-purple-000 }
 ![Items](/assets/images/MrQR_Register_View.png "View")
+
+![The Basics](/assets/images/MrQR%20-%20The%20Basics_Page_10.png "the basics")
+![The Basics](/assets/images/MrQR%20-%20The%20Basics_Page_11.png "the basics")
+![The Basics](/assets/images/MrQR%20-%20The%20Basics_Page_12.png "the basics")
