@@ -99,7 +99,7 @@ Select <button class="button button1">SAVE</button> once you have Amended your I
 ### Stickers
 {: .text-purple-000 }
 
-By Selecting the Stivker Image you can Download the **MrQR**{: .text-purple-000 } code Sticker image to insert into your own Labels or ~posters 
+By Selecting the Sticker Image you can Download the **MrQR**{: .text-purple-000 } code Sticker image to insert into your own Labels or ~posters 
 ![Items](/assets/images/MrQR_Sticker.png "Sticker")
 [Back to Top](https://docs.mrqr.me/assets/)
 {: .text-right }
