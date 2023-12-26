@@ -42,7 +42,7 @@ By selecting your personal Site inthe top right corner, you access the Site Sett
 
 ### Changing the Site Name
 {: .text-purple-000 }
-<h3>Hello&nbsp;<button>Say Hello</button>&nbsp;World</h3>
+
 You can change the name of your site, once you have entered the desired site name Select 
 <html>
 <head>
@@ -67,6 +67,7 @@ You can change the name of your site, once you have entered the desired site nam
 </style>
 </head>
 <body>
+  <h3>Hello&nbsp;<button>Say Hello</button>&nbsp;World</h3>
 <button class="button button1">SAVE</button>
 </body>
 </html>
