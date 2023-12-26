@@ -42,8 +42,11 @@ The Register page is included with you **MrQR**{: .text-purple-000 } Pro User Ac
 
 ### Accessing the Register Page
 {: .text-purple-000 }
+The Register page is access from the main Menu Bar at the top or the page.
+![Registers](/assets/images/MrQR_Main_Menu.png "Menu Bar")
+
 
 ### Creating a New Register
 {: .text-purple-000 }
-
+From the Register Page you can Create & Edit your Rregisters. 
 ![Registers](/assets/images/MrQR_Register_Main.png "Main Page")
