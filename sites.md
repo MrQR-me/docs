@@ -61,9 +61,7 @@ By selecting your personal Site inthe top right corner, you access the Site Sett
 </style>
 </head>
 <body>
-You can change the name of your site
-  
-Once you have entered the desired site name Select <button class="button button1">SAVE</button>
+You can change the name of your site. Select <button class="button button1">SAVE</button> once you have entered the desired site name.
 </body>
 </html>
 ![Sites](/assets/images/MrQR_Site_Change_Name.png "Change Name")
