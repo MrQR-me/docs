@@ -43,6 +43,7 @@ By selecting your personal Site inthe top right corner, you access the Site Sett
 ### Changing the Site Name
 {: .text-purple-000 }
 You can change the name of your site, once you have entered the desired site name Select [Save](){: .btn-grey-dk-300 }
+
 ![Sites](/assets/images/MrQR_Site_Change_Name.png "Change Name")
 [Back to Top](https://docs.mrqr.me/sites/)
 {: .text-right }
@@ -57,6 +58,7 @@ if you have not already added a payment method you will be prompted to add or ma
 **MrQR**{: .text-purple-000 } *partners with*
 [**Stripe**](https://stripe.com/en-gb) *to securly manage all online payments)*
 ![Sites](/assets/images/MrQR_Payment_Details.png "Payment Details")
+
 [Back to Top](https://docs.mrqr.me/sites/)
 {: .text-right }
 
@@ -66,12 +68,17 @@ Once you have purchased and created your additional Site you can:
 * Change / Edit the Site Name
 * Invite **MrQR**{: .text-purple-000 } Users
 * Delete Your Site
-![Sites](/assets/images/MrQR_Sites_New_Site.png "New Site Settings")[Back to Top](https://docs.mrqr.me/sites/)
+
+![Sites](/assets/images/MrQR_Sites_New_Site.png "New Site Settings")
+
+[Back to Top](https://docs.mrqr.me/sites/)
 {: .text-right }
+
 
 ### Invite Users
 {: .text-purple-000 }
 from the Site Settings Menu, you can invite as many MrQR Users to help manage your Site, you can apply different permissions for each **MrQR**{: .text-purple-000 } User.
 ![Sites](/assets/images/MrQR_Sites_User_Pofile.png "profile")
+
 [Back to Top](https://docs.mrqr.me/sites/)
 {: .text-right }
