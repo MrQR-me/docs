@@ -29,7 +29,7 @@ By selecting your personal Site inthe top right corner, you access the Site Sett
 * Create New Sites
 * Switch Between Sites *(after additionsl sites are crested)*
   
-![The Basics](/assets/images/MrQR%20-%20The%20Basics_Page_08.png "the basics")
+![Sites](/assets/images/MrQR_Site_Menu.png)https://github.com/MrQR-me/docs/blob/main/assets/images/MrQR_Site_Menu.png "Site Menu")
 
 ### Changing the Site Name
 
