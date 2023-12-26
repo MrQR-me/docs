@@ -57,8 +57,8 @@ In the example below a Register called "Access Equipment" Will Be Created
 </html>
 ![Registers](/assets/images/MrQR_Register_Create.png "Main Page")
 
-### Editing a Register
+### Viewing a Register
 {: .text-purple-000 }
-Once Created you can select View and edit and add Items to your Registers.
-![Registers](/assets/images/MrQR_Register_View.png "View")
+Once Created you can select `View` your Register and add Items or Edit the Register Name.
+![Registers](/assets/images/MrQR_Register_Created.png "Created")
 
