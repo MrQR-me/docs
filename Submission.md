@@ -36,11 +36,11 @@ nav_order: 8
 </style>
 </head>
 </html>
-# **FORM SUBMISDIONS & DATA**
+# **FORM SUBMISSIONS & DATA**
 {: .text-purple-000 }
 {: .no_toc }
 
-Individual Forms submisdions can be viewed in the **MrQR**{: .text-purple-000 } Pro User Account holders Dashboard and the Form View page of the Site where the Asset was created, you can also export all Data submitted by all **MrQR**{: .text-purple-000 } Users from this Page.
+Individual Forms submisssions can be viewed in the **MrQR**{: .text-purple-000 } Pro User Account holders Dashboard and the Form View page of the Site where the Asset was created, you can also export all Data submitted by all **MrQR**{: .text-purple-000 } Users from this Page.
 
 ## VIEWING FORM SUBMISSIONS
 {: .text-purple-000 }
@@ -49,7 +49,7 @@ Individual Forms submisdions can be viewed in the **MrQR**{: .text-purple-000 } 
 {:toc }
 - .TOC
 
-### Form Submisions in Dashboard
+### Form Submissions in Dashboard
 {: .text-purple-000 }
 
 ![Submissions](/assets/images/MrQR_Submission_Dashboard.png "Dashboard")
