@@ -54,6 +54,7 @@ if you have not already added a payment method you will be prompted to add or ma
 **MrQR**{: .text-purple-000 } *partners with*
 [**Stripe**](https://stripe.com/en-gb) *to securly manage all online payments)*
 ![Sites](/assets/images/MrQR_Payment_Details.png "Payment Details")
+{: .text-right }
 
 ### Additional Site Settings Menu
 {: .text-purple-000 }
@@ -63,8 +64,11 @@ Once you have purchased and created your additional Site you can:
 * Delete Your Site
 ![Sites](/assets/images/MrQR_Sites_New_Site.png "New Site Settings")
 
+{: .text-right }
+
 ### Invite Users
 {: .text-purple-000 }
 from the Site Settings Menu, you can invite as many MrQR Users to help manage your Site, you can apply different permissions for each **MrQR**{: .text-purple-000 } User.
-![Sites](/assets/images/MrQR_Sites_User_Pofile.png "Payment Details")
-[Back to Top](https://docs.mrqr.me/sites/)
+![Sites](/assets/images/MrQR_Sites_User_Pofile.png "profile")
+[back to top](/sites/)
+{: .text-right }
