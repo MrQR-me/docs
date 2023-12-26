@@ -27,9 +27,9 @@ A **Personal** Site is created when you subscribe to a **MrQR**{: .text-purple-0
 By selecting your personal Site inthe top right corner, you access the Site Settings Menu, here you can
 * Change the Site Name
 * Create New Sites
-* Switch Between Sites *(after additionsl sites are crested)*
+* Switch Between Sites *(after additionsl sites are created)*
   
-![Sites](/assets/images/MrQR_Site_Menu.png)https://github.com/MrQR-me/docs/blob/main/assets/images/MrQR_Site_Menu.png "Site Menu")
+![Sites](/assets/images/MrQR_Site_Menu.png "Site Menu")
 
 ### Changing the Site Name
 
