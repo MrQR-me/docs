@@ -3,6 +3,10 @@ title: Home
 layout: home
 nav_order: 0
 ---
+[Registration](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+
+
+
 <html>
 <head>
 <style>
