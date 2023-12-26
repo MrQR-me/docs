@@ -28,15 +28,22 @@ nav_order: 6
 </head>
 </html>
 
-# **REGISTERS**
-{: .text-purple-000 }
-{:toc }
-- .TOC
+# **PROFILE PAGE**{: .text-purple-000 }
+{: .no_toc }
 
 The Register page is included with you **MrQR**{: .text-purple-000 } Pro User Account. You can create an unlimited number of registers. The Register is the List or directory of your items or assets that want to control. The registers and Items for your Personal Site can only be viewed by the Site Owner. When you purchase additional Site Licences, you can manage and share Registers & Assets with other **MrQR**{: .text-purple-000 } registered users.
 
 ## REGISTER SETUP & DETAILS
 {: .text-purple-000 }
+{: .no_toc }
 
+{:toc }
+- .TOC
+
+### Accessing the Register Page
+{: .text-purple-000 }
+
+### Creating a New Register
+{: .text-purple-000 }
 
 ![Registers](/assets/images/MrQR_Register_Main.png "Main Page")
