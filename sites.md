@@ -56,13 +56,16 @@ if you have not already added a payment method you will be prompted to add or ma
 ![Sites](/assets/images/MrQR_Payment_Details.png "Payment Details")
 
 ### Additional Site Settings Menu
+{: .text-purple-000 }
 Once you have purchased and created your additional Site you can:
 * Change / Edit the Site Name
-* Invite MrQR Users
+* Invite **MrQR**{: .text-purple-000 } Users
 * Delete Your Site
 ![Sites](/assets/images/MrQR_Sites_New_Site.png "New Site Settings")
+
 ### Invite Users
-from the Site Settings Menu, you can invite as many MrQR Users to help manage your Site, you can grant different permissions for each MrQR User.
+{: .text-purple-000 }
+from the Site Settings Menu, you can invite as many MrQR Users to help manage your Site, you can apply different permissions for each **MrQR**{: .text-purple-000 } User.
 ![Sites](/assets/images/MrQR_Sites_User_Pofile.png "Payment Details")
 
 
