@@ -56,9 +56,9 @@ By selecting your personal Site in the top right corner, you access the Site Set
 
 * Change the Site Name
 * Create New Sites
-* Switch Between Sites *(function available after additionsl sites are created)*
-* Invite Additional Users to help manage your site *(function available after additionsl sites are created)*
-* Delete your Site *(function available after additionsl sites are created)*
+* Switch Between Sites *(function available after additional sites have been created)*
+* Invite Additional Users to help manage your site *(function available after additionsal sites have been created)*
+* Delete your Site *(function available after additionsal sites have been created)*
   
 ![Sites](/assets/images/MrQR_Site_Menu.png "Site Menu")
 [Back to Top](https://docs.mrqr.me/sites/)
