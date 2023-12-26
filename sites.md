@@ -51,6 +51,7 @@ By selecting your personal Site inthe top right corner, you access the Site Sett
   border: none;
   color: white;
   padding: 15px 32px;
+  border-radius: .25px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
