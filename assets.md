@@ -45,12 +45,17 @@ Once an Item is Created it cannot be Deleted but you can Edit its Name & Details
 
 ### Creating a New Item
 {: .text-purple-000 }
-
+![Items](/assets/images/MrQR_Items_Create.png "Create")
 ### Assigng Forms
 {: .text-purple-000 }
-
+![Items](/assets/images/MrQR_Item_Assign_Form.png "Assign Form")
+![Items](/assets/images/MrQR_Item_Assigning_a_Form.png "Assign Form")
 ### Editing an Item
 {: .text-purple-000 }
+![Items](/assets/images/MrQR_Item_Assigned_Form.png "Edit Item")
+
+
+
 
 
 ![The Basics](/assets/images/MrQR%20-%20The%20Basics_Page_10.png "the basics")
