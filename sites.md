@@ -92,7 +92,7 @@ if you have not already added a payment method you will be prompted to add or ma
 <html>
 <body>
 Select <button class="button button1">ADD PAYMENT METHOD </button> once you have entered your desired payment card details.
-You can later change or cancel your payment method by selecting <button class="button button2">MANAGE BILLING</button> once you have entered your desired payment card details.
+You can later change or cancel your payment method by selecting <button class="button button2">MANAGE BILLING</button> this will dirct you to the Stripe Billing portal.
 </body>
 </html>
 ![Sites](/assets/images/MrQR_Payment_Details.png "Payment Details")
