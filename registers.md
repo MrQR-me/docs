@@ -63,5 +63,5 @@ Once Created you can select `View` your Register and add Items or Edit the Regis
 
 ### Register Page
 {: .text-purple-000 }
-
-
+On the Register Page you can Create [Items](https://docs.mrqr.me/Assets/) and Edit the Register Name, Once Itemss are Created thes will be Seen on the Registef Page.
+![Registers](/assets/images/MrQR_Register_View.png "View")
