@@ -50,8 +50,8 @@ By selecting your personal Site inthe top right corner, you access the Site Sett
   background-color: black
   border: none;
   color: white;
-  padding: 15px 32px;
-  border-radius: .25px;
+  padding: 10px 25px;
+  border-radius: 1px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
