@@ -74,6 +74,11 @@ in Site Settings you can change the name of your site. Select <button class="but
 {: .text-purple-000 }
 
 You can create as many sites as you need by purchasing additional site licences.
+<html>
+<body>
+Select <button class="button button1">CREATE</button> once you have entered the desired site name.
+</body>
+</html>
 ![Sites](/assets/images/MrQR_Sites_Create_New.png "Payment Details")
 
 if you have not already added a payment method you will be prompted to add or manage your payment detail. *(*
