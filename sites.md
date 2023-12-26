@@ -67,6 +67,4 @@ Once you have purchased and created your additional Site you can:
 {: .text-purple-000 }
 from the Site Settings Menu, you can invite as many MrQR Users to help manage your Site, you can apply different permissions for each **MrQR**{: .text-purple-000 } User.
 ![Sites](/assets/images/MrQR_Sites_User_Pofile.png "Payment Details")
-
-
-
+[Back to Top](https://docs.mrqr.me/sites/)
