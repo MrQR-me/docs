@@ -5,6 +5,7 @@ nav_order: 2
 ---
 # **ACCOUNT REGISTRATION**{: .text-purple-000 }
 {: .no_toc }
+You must have a mininmum of a Free User Account to Request Access to View and Complete **MrQR**{: .text-purple-000 } Forms on any Site operating the **MrQR**{: .text-purple-000 } Platform. Personal or Additional Sites and **MrQR**{: .text-purple-000 } Form Builder can only used with additional purchases or subscriptions.
 
 ## USER ACCOUNT DETAILS & SETUP
 {: .text-purple-000 }
