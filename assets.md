@@ -63,8 +63,9 @@ in the Example below an item Named; Step Ladder 01 in a Group named Access Equip
 ### Assigng Forms
 {: .text-purple-000 }
 
-Once the Item has been created, you csn noe assign any number of Forms, thes will be accesible by approved MrQR Users via the unique mrqr code.
-Select <button class="button button1">ASSIGN</button> once you have entered the Se;ected the desired Form.
+Once the Item has been created, you can assign any number of Forms, these will be accesible by any approved **MrQR**{: .text-purple-000 } Users by scanning the unique **MrQR**{: .text-purple-000 } code.
+
+Select <button class="button button1">ASSIGN</button> once you have selected the desired **MrQR**{: .text-purple-000 }Form.
 ![Items](/assets/images/MrQR_Item_Assigning_a_Form.png "Assign Form")
 ![Items](/assets/images/MrQR_Item_Assign_Form.png "Assign Form")
 
@@ -73,9 +74,3 @@ Select <button class="button button1">ASSIGN</button> once you have entered the 
 ![Items](/assets/images/MrQR_Item_Assigned_Form.png "Edit Item")
 
 
-
-
-
-![The Basics](/assets/images/MrQR%20-%20The%20Basics_Page_10.png "the basics")
-![The Basics](/assets/images/MrQR%20-%20The%20Basics_Page_11.png "the basics")
-![The Basics](/assets/images/MrQR%20-%20The%20Basics_Page_12.png "the basics")
