@@ -32,7 +32,9 @@ A **Personal** Site is created when you subscribe to a **MrQR**{: .text-purple-0
 By selecting your personal Site inthe top right corner, you access the Site Settings Menu, here you can
 * Change the Site Name
 * Create New Sites
-* Switch Between Sites *(after additionsl sites are created)*
+* Switch Between Sites *(function available after additionsl sites are created)*
+* Invite Additional Users to help manage your site *(function available after additionsl sites are created)*
+* Delete your Site *(function available after additionsl sites are created)*
   
 ![Sites](/assets/images/MrQR_Site_Menu.png "Site Menu")
 
@@ -51,6 +53,16 @@ You can create as many sites as you need by purchasing additional" site licences
 if you have not already added a payment method you will be prompted to add or manage your payment detail. *(*
 **MrQR**{: .text-purple-000 } *partners with*
 [**Stripe**](https://stripe.com/en-gb) *to securly manage all online payments)*
+![Sites](/assets/images/MrQR_Payment_Details.png "Payment Details")
+
+### Additional Site Settings Menu
+Once you have purchased and created your additional Site you can:
+* Change / Edit the Site Name
+* Invite MrQR Users
+* Delete Your Site
+![Sites](/assets/images/MrQR_Payment_Details.png "Payment Details")
+### Invite Users
+from the Site Settings Menu, you can invite as many MrQR Users to help manage your Site, you can grant different permissions for each MrQR User.
 ![Sites](/assets/images/MrQR_Payment_Details.png "Payment Details")
 
 
