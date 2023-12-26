@@ -43,4 +43,5 @@ Once an Item is Created it cannot be Deleted but you can Edit its Name & Details
 - .TOC
 
 ### Register Page View
-
+{: .text-purple-000 }
+![The Basics](/assets/images/MrQR%20-%20The%20Basics_Page_10.png "the basics")
