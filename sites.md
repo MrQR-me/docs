@@ -35,8 +35,6 @@ By selecting your personal Site inthe top right corner, you access the Site Sett
   
 ![Sites](/assets/images/MrQR_Site_Menu.png "Site Menu")
 
-https://stripe.com/en-gb
-
 ### Changing the Site Name
 {: .text-purple-000 }
 You can change the name of your site, once you have entered the desired site name Select [Save](){: .btn-grey-dk-300 }
@@ -51,7 +49,7 @@ You can create as many sites as you need by purchasing additional" site licences
 
 if you have not already added a payment method. you will be prompted to add or manage your payment detail. *(*
 **MrQR**{: .text-purple-000 } *partners with*
-[STRIPE](https://stripe.com/en-gb){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }{: .text-purple-000 } *to securly manage all online payments)*
+[STRIPE](https://stripe.com/en-gb } *to securly manage all online payments)*
 ![Sites](/assets/images/MrQR_Payment_Details.png "Payment Details")
 
 
