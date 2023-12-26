@@ -44,6 +44,35 @@ By selecting your personal Site inthe top right corner, you access the Site Sett
 {: .text-purple-000 }
 
 You can change the name of your site, once you have entered the desired site name Select
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.button {
+  background-color: black
+  border: none;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+​
+.button1 {border-radius: 2px;}
+</style>
+</head>
+<body>
+​
+<h2>Rounded Buttons</h2>
+<p>Add rounded corners to a button with the border-radius property:</p>
+​
+<button class="button button1">2px</button>
+​
+</body>
+</html>
 
 ![Sites](/assets/images/MrQR_Site_Change_Name.png "Change Name")
 [Back to Top](https://docs.mrqr.me/sites/)
