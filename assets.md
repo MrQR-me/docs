@@ -58,6 +58,7 @@ Select <button class="button button1">CREATE</button> once you have entered the 
 </html>
 
 in the Example below an item Named; Step Ladder 01 in a Group named Access Equipment with a description of 10 Tread Aluminium.
+
 ![Items](/assets/images/MrQR_Items_Create.png "Create")
 
 ### Assigng Forms
@@ -65,8 +66,10 @@ in the Example below an item Named; Step Ladder 01 in a Group named Access Equip
 
 Once the Item has been created, you can assign any number of Forms, these will be accesible by any approved **MrQR**{: .text-purple-000 } Users by scanning the unique **MrQR**{: .text-purple-000 } code.
 
-Select <button class="button button1">ASSIGN</button> once you have selected the desired **MrQR**{: .text-purple-000 }Form.
 ![Items](/assets/images/MrQR_Item_Assigning_a_Form.png "Assign Form")
+
+Select <button class="button button1">ASSIGN</button> once you have selected the desired **MrQR**{: .text-purple-000 }Form.
+
 ![Items](/assets/images/MrQR_Item_Assign_Form.png "Assign Form")
 
 ### Editing an Item
