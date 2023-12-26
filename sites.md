@@ -51,6 +51,8 @@ You can create as many sites as you need by purchasing additional" site licences
 
 if you have not already added a payment method. you will be prompted to add or manage your payment detail. *(*
 **MrQR**{: .text-purple-000 } *partners with*
-**Stripe**{: .text-purple-000 } *to securly manage all online payments)*
+[STRIPE](https://stripe.com/en-gb){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }{: .text-purple-000 } *to securly manage all online payments)*
 ![Sites](/assets/images/MrQR_Payment_Details.png "Payment Details")
+
+
 
