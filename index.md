@@ -3,6 +3,7 @@ title: Home
 layout: home
 nav_order: 0
 ---
+[Home](https://docs.mrqr.me/index){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Registration](https://docs.mrqr.me/registration){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Profile](https://docs.mrqr.me/profile){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Sites](https://docs.mrqr.me/sites){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
@@ -10,10 +11,7 @@ nav_order: 0
 [Items](https://docs.mrqr.me/assets){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Submissions](https://docs.mrqr.me/submission){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Forms](https://docs.mrqr.me/docs/FormBuilder){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-
-
-
-
+[MrQR.me](https://mrqr.me){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 <html>
 <head>
@@ -59,4 +57,4 @@ View our documentation for
 * Form data is exported in .csv format and requires additional software to view & manage.
 
 
-[MrQR.me](https://mrqr.me){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+
