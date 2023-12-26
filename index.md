@@ -3,7 +3,7 @@ title: Home
 layout: home
 nav_order: 0
 ---
-[Home](https://docs.mrqr.me/index){: .btn .btn-primary .fs-5 .mb-0 .mb-md-0 .mr-5 }
+[Home](https://docs.mrqr.me/index){: .btn .btn-primary .fs-5 .mb-4 .mb-md-4 .mr-1 }
 [Registration](https://docs.mrqr.me/registration){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Profile](https://docs.mrqr.me/profile){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Sites](https://docs.mrqr.me/sites){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
