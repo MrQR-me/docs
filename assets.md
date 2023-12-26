@@ -42,6 +42,7 @@ Once an Item is Created it cannot be Deleted but you can Edit its Name & Details
 ### Register Page View
 {: .text-purple-000 }
 ![Items](/assets/images/MrQR_Register_View.png "View")
+
 [Back to Top](https://docs.mrqr.me/assets/)
 {: .text-right }
 
@@ -78,6 +79,7 @@ Once the Item has been created, you can assign any number of Forms, these will b
 Select <button class="button button1">ASSIGN</button> once you have selected the desired **MrQR**{: .text-purple-000 } Form.
 
 ![Items](/assets/images/MrQR_Item_Assign_Form.png "Assign Form")
+
 [Back to Top](https://docs.mrqr.me/assets/)
 {: .text-right }
 
@@ -101,6 +103,7 @@ Select <button class="button button1">SAVE</button> once you have Amended your I
 
 By Selecting the Sticker Image you can Download the **MrQR**{: .text-purple-000 } code Sticker image to insert into your own Labels or ~posters 
 ![Items](/assets/images/MrQR_Sticker.png "Sticker")
+
 [Back to Top](https://docs.mrqr.me/assets/)
 {: .text-right }
 
