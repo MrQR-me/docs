@@ -39,7 +39,7 @@ Once an Item is Created it cannot be Deleted but you can Edit its Name & Details
 {:toc }
 - .TOC
 
-### Register Page View
+### Register Page
 {: .text-purple-000 }
 ![Items](/assets/images/MrQR_Register_View.png "View")
 
