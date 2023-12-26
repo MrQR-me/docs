@@ -42,6 +42,7 @@ The Register page is included with you **MrQR**{: .text-purple-000 } Pro User Ac
 ### Accessing the Register Page
 {: .text-purple-000 }
 The Register page is access from the main Menu Bar at the top or the page.
+
 ![Registers](/assets/images/MrQR_Main_Menu.png "Menu Bar")
 [Back to Top](https://docs.mrqr.me/registers/)
 {: .text-right }
