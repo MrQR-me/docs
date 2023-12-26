@@ -47,9 +47,9 @@ You can change the name of your site, once you have entered the desired site nam
 You can create as many sites as you need by purchasing additional" site licences.
 ![Sites](/assets/images/MrQR_Sites_Create_New.png "Payment Details")
 
-if you have not already added a payment method. you will be prompted to add or manage your payment detail. *(*
+if you have not already added a payment method you will be prompted to add or manage your payment detail. *(*
 **MrQR**{: .text-purple-000 } *partners with*
-[Stripe](https://stripe.com/en-gb) *to securly manage all online payments)*
+[**Stripe**](https://stripe.com/en-gb) *to securly manage all online payments)*
 ![Sites](/assets/images/MrQR_Payment_Details.png "Payment Details")
 
 
