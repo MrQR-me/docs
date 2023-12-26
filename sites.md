@@ -43,7 +43,8 @@ By selecting your personal Site inthe top right corner, you access the Site Sett
 ### Changing the Site Name
 {: .text-purple-000 }
 
-You can change the name of your site, once you have entered the desired site name Select 
+
+<h3>You can change the name of your site, once you have entered the desired site name Selecto&nbsp;<button>SAVE</h3>
 <html>
 <head>
 <style>
@@ -67,7 +68,7 @@ You can change the name of your site, once you have entered the desired site nam
 </style>
 </head>
 <body>
-  <h3>Hello&nbsp;<button>Say Hello</button>&nbsp;World</h3>
+<h3>You can change the name of your site, once you have entered the desired site name Selecto&nbsp;<button class="button button1">SAVE</h3> 
 <button class="button button1">SAVE</button>
 </body>
 </html>
