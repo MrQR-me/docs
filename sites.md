@@ -43,7 +43,6 @@ By selecting your personal Site inthe top right corner, you access the Site Sett
 ### Changing the Site Name
 {: .text-purple-000 }
 
-You can change the name of your site, once you have entered the desired site name Select
 <html>
 <head>
 <style>
@@ -67,9 +66,36 @@ You can change the name of your site, once you have entered the desired site nam
 ​
 <h2>Button Colors</h2>
 ​
-<p>Change the background color of a button with the background-color property:</p>
+<p>You can change the name of your site, once you have entered the desired site name Select</p>
 ​
-<button class="button button5">Black</button>
+<button class="button button5">SAVE</button>
+​
+</body>
+</html>
+
+<html>
+<head>
+<style>
+.button {
+  background-color: black
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+</style>
+</head>
+<body>
+​
+<p>You can change the name of your site, once you have entered the desired site name Select</p>
+​
+<button>SAVE</button>
 ​
 </body>
 </html>
