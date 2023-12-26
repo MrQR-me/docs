@@ -76,10 +76,12 @@ Select <button class="button button1">ASSIGN</button> once you have selected the
 
 ### Viewing an Item
 {: .text-purple-000 }
-You can View Your Items, in this oage you can:
+On the View Item page you can:
 * Edit the item Details
 * Add or Remove Forms
 * View the Assigned Forms
+
+Select <button class="button button1">SAVE</button> once you have Amended your Item Details.
 
 ![Items](/assets/images/MrQR_Item_Assigned_Form.png "Edit Item")
 
