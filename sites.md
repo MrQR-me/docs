@@ -42,7 +42,6 @@ By selecting your personal Site inthe top right corner, you access the Site Sett
 
 ### Changing the Site Name
 {: .text-purple-000 }
-
 <html>
 <head>
 <style>
@@ -59,17 +58,13 @@ By selecting your personal Site inthe top right corner, you access the Site Sett
   margin: 4px 2px;
   cursor: pointer;
 }
-
 .button1 {background-color: #555555;} /* Black */
 </style>
 </head>
 <body>
-​
 <p>You can change the name of your site, once you have entered the desired site name Select </p><button class="button button1">SAVE</button>
-​
 </body>
 </html>
-
 ![Sites](/assets/images/MrQR_Site_Change_Name.png "Change Name")
 [Back to Top](https://docs.mrqr.me/sites/)
 {: .text-right }
