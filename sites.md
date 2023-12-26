@@ -42,7 +42,7 @@ A Personal Site is included with you **MrQR**{: .text-purple-000 } Pro User Acco
 ## Site Types
 {: .text-purple-000 }
 
-Thier are two types of Site
+Their are two types of Site
 
 * Personal
 * Open
