@@ -24,6 +24,7 @@ Thier are two types of Site
 A **Personal** Site is created when you subscribe to a **MrQR**{: .text-purple-000 } Pro Account, it is fully Functional, you can add Registers, items and assign **MrQR**{: .text-purple-000 } forms to items, but Personal Sites can only be viewed by the Personal **MrQR**{: .text-purple-000 } Site Owner. **Open** Sites are created at an additional cost and have all the same functions as the **Personal** Site but can be viewed by any **MrQR**{: .text-purple-000 } registered user once permission has been granted by the Site Owner.
 
 ## Site Settings
+{: .text-purple-000 }
 By selecting your personal Site inthe top right corner, you access the Site Settings Menu, here you can
 * Change the Site Name
 * Create New Sites
