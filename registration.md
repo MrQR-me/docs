@@ -74,7 +74,7 @@ Once Registered you can now enter your [Profile](https://docs.mrqr.me/profile/) 
 {: .text-purple-000 }
 
 Once Registered you can now enter your [Profile](https://docs.mrqr.me/profile/) Details and upgrade your account.
-On the [Profile](https://docs.mrqr.me/profile/) page scroll down and select <button class="button button1">MANAGE PLAN</button> and Subscribe to our pro plan.
+On the [Profile](https://docs.mrqr.me/profile/) page scroll down and select <button class="button button2">MANAGE BILLING</button> and Subscribe to our pro plan.
 
 ![Pro Plan Account](/assets/images/MrQR_Pro_Plan.png "RESGISTER")
 
