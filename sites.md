@@ -61,6 +61,7 @@ You can change the name of your site, once you have entered the desired site nam
 .button1 {
   background-color: black; 
   color: white;
+  border-radius: 2px;
 }
 </style>
 </head>
