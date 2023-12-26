@@ -32,5 +32,15 @@ nav_order: 7
 
 # **ITEMS**{: .text-purple-000 }
 {: .no_toc }
+Items are created on the Register View Page, You can add as many Items as you need each item will have its own MrQR Code.
+Once an Item is Created it cannot be Deleted but you can Edit its Name & Details.
 
 ## ITEMS DETAILS & SETUP
+{: .text-purple-000 }
+{: .no_toc }
+
+{:toc }
+- .TOC
+
+### Register Page View
+
