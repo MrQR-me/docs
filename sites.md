@@ -7,7 +7,6 @@ nav_order: 5
 <head>
 <style>
 .button {
-  background-color: black
   border: none;
   color: white;
   padding: 5px 12px;
@@ -19,7 +18,11 @@ nav_order: 5
   cursor: pointer; }
 .button1 {background-color: #555555;} /* Black */
 .button2 {background-color: white;}
+.button1 {color: white;}
+.button2 {color: black;}
 .button1 {border-radius: 5px;}
+.button2 {border-radius: 5px;}
+  
 </style>
 </head>
 </html>
@@ -89,7 +92,7 @@ if you have not already added a payment method you will be prompted to add or ma
 <html>
 <body>
 Select <button class="button button1">ADD PAYMENT METHOD </button> once you have entered your desired payment card details.
-You can later change or cancel your payment method by selecting <button class="button button2">MANAGE PAYMENT METHOD </button> once you have entered your desired payment card details.
+You can later change or cancel your payment method by selecting <button class="button button2">MANAGE BILLING</button> once you have entered your desired payment card details.
 </body>
 </html>
 ![Sites](/assets/images/MrQR_Payment_Details.png "Payment Details")
