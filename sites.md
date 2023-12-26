@@ -61,24 +61,7 @@ You can change the name of your site, once you have entered the desired site nam
 }
 
 .button1 {
-  background-color: white; 
-  color: black; 
-  border: 2px solid #04AA6D;
-}
-
-.button1:hover {
-  background-color: #04AA6D;
-  color: white;
-}
-
-.button2 {
-  background-color: white; 
-  color: black; 
-  border: 2px solid #008CBA;
-}
-
-.button2:hover {
-  background-color: #008CBA;
+  background-color: black; 
   color: white;
 }
 
@@ -86,8 +69,7 @@ You can change the name of your site, once you have entered the desired site nam
 </head>
 <body>
 
-<button class="button button1">Green</button>
-<button class="button button2">Blue</button>
+<button class="button button1">SAVE</button>
 
 </body>
 </html>
