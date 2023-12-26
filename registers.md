@@ -48,10 +48,21 @@ The Register page is access from the main Menu Bar at the top or the page.
 
 ### Creating a New Register
 {: .text-purple-000 }
-From the Register Page you can Create & Edit your Rregisters. 
+From the Register Page you can Create your Registers. 
 <html>
 <body>
 Select <button class="button button1">CREATE</button> once you have entered the desired Register name.
 </body>
 </html>
 ![Registers](/assets/images/MrQR_Register_Main.png "Main Page")
+
+### Editing a Register
+{: .text-purple-000 }
+Once Created you can View and Edit your Registers. 
+<html>
+<body>
+Select <button class="button button1">CREATE</button> once you have entered the desired Register name.
+</body>
+</html>
+![Registers](/assets/images/MrQR_Register_Main.png "Main Page")
+
