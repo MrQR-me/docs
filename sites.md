@@ -7,19 +7,19 @@ nav_order: 5
 <head>
 <style>
 .button {
-  border: none;
-  color: white;
   padding: 5px 12px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 10px;
+  font-size: 12px;
   margin: 4px 2px;
   cursor: pointer; }
 .button1 {background-color: #555555;} /* Black */
 .button2 {background-color: white;}
 .button1 {color: white;}
 .button2 {color: black;}
+.button1 {border: none;}
+.button2 {border: 2px solid black}
 .button1 {border-radius: 5px;}
 .button2 {border-radius: 5px;}
   
