@@ -7,6 +7,8 @@ nav_order: 5
 {: .text-purple-000 }
 {: .no_toc }
 
+A Personal Site is included with you **MrQR**{: .text-purple-000 } Pro User Account, The registers and Items for your Personal Site can only be viewed by the Site Owner. When you purchase additional Site Licences, you can manage and share Registers & Assets with other **MrQR**{: .text-purple-000 } registered users you can also invite **MrQR**{: .text-purple-000 } registered users to help manage your additionsl sites.
+
 ## SITE SETUP & DETAILS
 {: .text-purple-000 }
 {: .no_toc }
