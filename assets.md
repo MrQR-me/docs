@@ -45,12 +45,14 @@ Once an Item is Created it cannot be Deleted but you can Edit its Name & Details
 
 ### Creating a New Item
 {: .text-purple-000 }
-When creating an Item, you have the options to;
+When creating an Item a new unique **MrQR**{: .text-purple-000 } code is also created, you have the options to;
 
 * Assign a Uniue Name
 * Assign a Group
 * Asign a Description
-  
+
+These Details will be Seen when any **MrQR**{: .text-purple-000 } Registerd User scans the Items unique **MrQR**{: .text-purple-000 } code.
+
 <html>
 <body>
 Select <button class="button button1">CREATE</button> once you have entered the desired Details for you Item.
@@ -68,12 +70,17 @@ Once the Item has been created, you can assign any number of Forms, these will b
 
 ![Items](/assets/images/MrQR_Item_Assigning_a_Form.png "Assign Form")
 
-Select <button class="button button1">ASSIGN</button> once you have selected the desired **MrQR**{: .text-purple-000 }Form.
+Select <button class="button button1">ASSIGN</button> once you have selected the desired **MrQR**{: .text-purple-000 } Form.
 
 ![Items](/assets/images/MrQR_Item_Assign_Form.png "Assign Form")
 
-### Editing an Item
+### Viewing an Item
 {: .text-purple-000 }
+You can View Your Items, in this oage you can:
+* Edit the item Details
+* Add or Remove Forms
+* View the Assigned Forms
+
 ![Items](/assets/images/MrQR_Item_Assigned_Form.png "Edit Item")
 
 
