@@ -3,6 +3,29 @@ title: Home
 layout: home
 nav_order: 0
 ---
+<html>
+<head>
+<style>
+.button {
+  padding: 5px 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  margin: 4px 2px;
+  cursor: pointer; }
+.button1 {background-color: #555555;} /* Black */
+.button2 {background-color: white;}
+.button1 {color: white;}
+.button2 {color: black;}
+.button1 {border: none;}
+.button2 {border: 1px solid grey}
+.button1 {border-radius: 5px;}
+.button2 {border-radius: 5px;}
+  
+</style>
+</head>
+</html>
 
 View our documentation for 
 **MrQR**{: .text-purple-000 }, use the links in the sidebar to go to a specific page. Start with our [Quickstart](https://docs.mrqr.me/quickstart/) guide.
