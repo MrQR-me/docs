@@ -33,6 +33,7 @@ nav_order: 6
 {: .no_toc }
 {:toc }
 - .TOC
+
 The Register page is included with you **MrQR**{: .text-purple-000 } Pro User Account, The registers and Items for your Personal Site can only be viewed by the Site Owner. When you purchase additional Site Licences, you can manage and share Registers & Assets with other **MrQR**{: .text-purple-000 } registered users.
 
 ## REGISTER SETUP & DETAILS
