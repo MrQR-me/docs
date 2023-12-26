@@ -45,35 +45,9 @@ By selecting your personal Site inthe top right corner, you access the Site Sett
 
 You can change the name of your site, once you have entered the desired site name Select
 
-<h3>You can change the name of your site, once you have entered the desired site name Selecto&nbsp;<button>SAVE</h3>
+<h3>You can change the name of your site, once you have entered the desired site name Select&nbsp;<button>SAVE</h3>
   
-<html>
-<head>
-<style>
-.button {
-  border: none;
-  color: white;
-  padding: 12px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
-  transition-duration: 0.4s;
-  cursor: pointer;
-}
-.button1 {
-  background-color: black; 
-  color: white;
-  border-radius: 2px;
-}
-</style>
-</head>
-<body>
 
-<button class="button button1">SAVE</button>
-</body>
-</html>
 
 ​
 
