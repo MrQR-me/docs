@@ -52,9 +52,11 @@ From the Register Page you can Create your Registers.
 <html>
 <body>
 Select <button class="button button1">CREATE</button> once you have entered the desired Register name.
+In the example below a Register called "Access Equipment" Will Be Created
 </body>
 </html>
-![Registers](/assets/images/MrQR_Register_Main.png "Main Page")
+![Registers](/assets/images/MrQR_Register_Create.png
+ "Main Page")
 
 ### Editing a Register
 {: .text-purple-000 }
