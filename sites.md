@@ -19,7 +19,7 @@ nav_order: 5
 .button1 {color: white;}
 .button2 {color: black;}
 .button1 {border: none;}
-.button2 {border: 1px solid black}
+.button2 {border: 1px solid grey}
 .button1 {border-radius: 5px;}
 .button2 {border-radius: 5px;}
   
