@@ -92,7 +92,7 @@ if you have not already added a payment method you will be prompted to add or ma
 if you have not entered a Payment Method;
 
 Select <button class="button button1">ADD PAYMENT METHOD </button> once you have entered your desired payment card details.
-You can later change or cancel your payment method by selecting <button class="button button2">MANAGE BILLING</button> this will dirct you to the Stripe Billing portal.
+You can later change or cancel your payment method by selecting <button class="button button2">MANAGE BILLING</button> this will direct you to the Stripe Billing portal.
 
 ![Sites](/assets/images/MrQR_Payment_Details.png "Payment Details")
 
@@ -116,11 +116,7 @@ Once you have purchased and created your additional Site you can:
 {: .text-purple-000 }
 from the Site Settings Menu, you can invite as many MrQR Users to help manage your Site, you can apply different permissions for each **MrQR**{: .text-purple-000 } User.
 
-<html>
-<body>
 Enter a the email address of the person you with to join your site, Select <button class="button button1">SAVE</button> once you have entered the desired user permissions.
-</body>
-</html>
 
 ![Sites](/assets/images/MrQR_Sites_User_Pofile.png "profile")
 
