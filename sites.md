@@ -49,15 +49,14 @@ By selecting your personal Site inthe top right corner, you access the Site Sett
   background-color: black
   border: none;
   color: white;
-  padding: 10px 25px;
+  padding: 5px 12px;
   border-radius: 1px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
+  font-size: 10px;
   margin: 4px 2px;
-  cursor: pointer;
-}
+  cursor: pointer; }
 .button1 {background-color: #555555;} /* Black */
 </style>
 </head>
