@@ -32,11 +32,17 @@ Go to **MrQR**{: .text-purple-000 }
 
 ![Free Account](/assets/images/MrQR_login_page.png "RESGISTER")
 
+[Back to Top](https://docs.mrqr.me/assets/)
+{: .text-right }
+
 Enter Your Valid Email Address and Password,
 review and Tick the Agree to our Terms of Service & Privacy Policy
 then select REGISTER
 
 ![Free Account](/assets/images/MrQR_Register.png "RESGISTER")
+
+[Back to Top](https://docs.mrqr.me/assets/)
+{: .text-right }
 
 Once Registered you can now enter your [Profile](https://docs.mrqr.me/profile/) Details.
 
@@ -47,6 +53,9 @@ Once Registered you can now enter your [Profile](https://docs.mrqr.me/profile/) 
 On the [Profile](https://docs.mrqr.me/profile/) page scroll down and select Manage plan and Subscribe to our pro plan.
 
 ![Pro Plan Account](/assets/images/MrQR_Pro_Plan.png "RESGISTER")
+
+[Back to Top](https://docs.mrqr.me/assets/)
+{: .text-right }
 
 Your Pro plan Account will allow you access to the **MrQR**{: .text-purple-000 } Platform and enable you to request access and complete all the **MrQR**{: .text-purple-000 } Site Forms used on any site being managed using the **MrQR**{: .text-purple-000 } platform, you have access to a fully functional personal site. Your [Profile](https://docs.mrqr.me/profile/) Page allows you to Store and Share:
 * Your Profile Image
@@ -65,3 +74,5 @@ Your Pro plan Account will allow you access to the **MrQR**{: .text-purple-000 }
   
 You can share your profile page including you Profile Image, Employer, Occupation, Contact Number and Training Records via email or your Unique **MrQR**{: .text-purple-000 } Code.
 
+[Back to Top](https://docs.mrqr.me/assets/)
+{: .text-right }
