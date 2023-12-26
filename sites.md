@@ -50,7 +50,7 @@ You can change the name of your site, once you have entered the desired site nam
 .button {
   border: none;
   color: white;
-  padding: 16px 32px;
+  padding: 12px 32px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -59,18 +59,14 @@ You can change the name of your site, once you have entered the desired site nam
   transition-duration: 0.4s;
   cursor: pointer;
 }
-
 .button1 {
   background-color: black; 
   color: white;
 }
-
 </style>
 </head>
 <body>
-
 <button class="button button1">SAVE</button>
-
 </body>
 </html>
 ​
