@@ -65,7 +65,7 @@ View our documentation for **MrQR**{: .text-purple-000 }, use the links in the s
 * **MrQR**{: .text-purple-000 } code stickers are downloadable images for you to print.
 * Additional Purchase Required of additional Sites to enable the creation and sharing of Forms.
 * View individual form submissions or export all submitted form data.
-* Form data is exported in .csv format and requires additional software to view & manage.
+* Form data is exported in `.csv` format and requires additional software to view & manage.
 
 ## Viewing on a PC,Tablet or Smartphone
 {: .text-purple-000 }
