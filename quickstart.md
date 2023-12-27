@@ -17,4 +17,5 @@ nav_order: 1
 ![The Basics](/assets/images/MrQR%20-%20The%20Basics_Page_10.png "the basics")
 ![The Basics](/assets/images/MrQR%20-%20The%20Basics_Page_11.png "the basics")
 ![The Basics](/assets/images/MrQR%20-%20The%20Basics_Page_12.png "the basics")
-
+[Back to Top](https://docs.mrqr.me/quickstart)
+{: .text-right }
