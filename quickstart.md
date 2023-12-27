@@ -4,7 +4,7 @@ layout: default
 nav_order: 1
 ---
 # QUICKSTART
-(: .text-purple-000}
+{: .text-purple-000 }
 
 ![The Basics](/assets/images/MrQR%20-%20The%20Basics_Page_02.png "the basics")
 ![The Basics](/assets/images/MrQR%20-%20The%20Basics_Page_03.png "the basics")
