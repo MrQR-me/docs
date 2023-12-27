@@ -3,16 +3,6 @@ title: Home
 layout: home
 nav_order: 0
 ---
-[Home](https://docs.mrqr.me/index){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-1 }
-[Registration](https://docs.mrqr.me/registration){: .btn .fs-5 .mb-4 .mb-md-0 .mr-1 }
-[Profile](https://docs.mrqr.me/profile){: .btn .fs-5 .mb-4 .mb-md-0 .mr-1 }
-[Sites](https://docs.mrqr.me/sites){: .btn .fs-5 .mb-4 .mb-md-0 .mr-1 }
-[Registers](https://docs.mrqr.me/registers){: .btn .fs-5 .mb-4 .mb-md-0 .mr-1 }
-[Items](https://docs.mrqr.me/assets){: .btn .fs-5 .mb-4 .mb-md-0 .mr-1 }
-[Submissions](https://docs.mrqr.me/Submission){: .btn .fs-5 .mb-4 .mb-md-0 .mr-1 }
-[Forms](https://docs.mrqr.me/docs/FormBuilder){: .btn .fs-5 .mb-4 .mb-md-0 .mr-1 }
-[MrQR.me](https://mrqr.me){: .btn .fs-5 .mb-4 .mb-md-0 .mr-1 }
-
 <html>
 <head>
 <style>
@@ -38,10 +28,7 @@ nav_order: 0
 </html>
 
 View our documentation for 
-**MrQR**{: .text-purple-000 }, use the links in the sidebar to go to a specific page. Start with our [Quickstart](https://docs.mrqr.me/quickstart/) guide.
-
-
-![The Basics](/assets/images/MrQR%20-%20The%20Basics_Page_01.png "the basics")
+**MrQR**{: .text-purple-000 }, use the links in the sidebar or menu to go to a specific page. Start with our [Quickstart](https://docs.mrqr.me/quickstart/) guide.
 
 ## **MrQR**{: .text-purple-000 } is a Universal Site Based Management Platform with global access.
 * **MrQR**{: .text-purple-000 } is a cloud based platform and requires an internet connection and registration to the **MrQR**{: .text-purple-000 } platform.
