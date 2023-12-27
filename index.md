@@ -64,7 +64,5 @@ View our documentation for
      height="15">
 icon in the top right hand corner.
 
-
-
 ![Index](/assets/images/MrQR_Mobile_Access_Menu.png "Smartphone menu access") ![Index](/assets/images/MrQR_Mobile_Menu.png "Smartphone menu")
 
