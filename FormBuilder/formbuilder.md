@@ -12,5 +12,6 @@ The
 The Forms Main Menu Page consists of two srctions;
 * New Form *Create a form*
 * Forms *all your Forms*
-  
+
+Sample Forms cannot be edited thet must 1st be duplicated then the duplucate form can be edited.
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Form_Main_Menu.png "Main Page")
