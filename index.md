@@ -56,11 +56,25 @@ is a Universal Site Based Management Platform with global access.
 ## Viewing on a PC,Tablet or Smartphone
 {: .text-purple-000 }
 
-**MrQR**{: .text-purple-000 } can be viewed on PC's, Tablet's, or Smartphone's. Navigation on all devices is very similar. On Pc's and Larger Tablets the main menu is on the Left hand side, however due to the reduced screens size on smartphone's and smaller tablet's accessing the main menu is achieved by selecting the 
+**MrQR**{: .text-purple-000 } can be viewed on PC's, Tablet's, or Smartphone's. Navigation on all devices is very similar. On Pc's and Larger Tablets the main menu is at the top of the page.
+![Index](/assets/images/MrQR_PC_Menu_Bar.png "PC menu access")
+
+however due to the reduced screens size on smartphone's and smaller tablet's accessing the main menu is achieved by selecting the 
 <img width="25" alt="image" src="https://github.com/MrQR-me/docs/assets/153803042/c52befe4-d437-41f0-908d-b7e4ad467e74">
 Icon in the top right hand corner.
-
 ![Index](/assets/images/MrQR_Mobile_Access_Menu.png "Smartphone menu access")
+
+## PC & Tablet Menu Bar
+{: .text-purple-000 }
+
+The Menu Bar at the top of the page allows access to all **MrQR**{: .text-purple-000} platform pages including;
+* Dashboard
+* Registers
+* Forms
+* Sites
+* Profile / Logout (*far right circle / image icon*)
+  
+![Index](/assets/images/MrQR_PC_Menu_Bar.png "PC menu access")
 
 ## Smartphone Menu
 {: .text-purple-000 }
