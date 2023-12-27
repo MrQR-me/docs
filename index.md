@@ -56,5 +56,9 @@ View our documentation for
 * View individual form submissions or export all submitted form data.
 * Form data is exported in .csv format and requires additional software to view & manage.
 
+## Viewing on a PC,Tablet or Smartphone
 
+**MrQR**{: .text-purple-000 } can be viewed on PC, Tablet, or Smartphone. The experiance on all devices is very similar. On Pc's and Larger Tablets the main menu is on the Left hand side, however due to the reduced screens size on smartphone and smaller tablets accessing the main menu is by selecting the icon in the top right hand corner.
+
+![The Basics](/assets/images/MrQR%20-%20The%20Basics_Page_01.png "the basics")
 
