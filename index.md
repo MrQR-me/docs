@@ -67,6 +67,9 @@ View our documentation for **MrQR**{: .text-purple-000 }, use the links in the s
 * View individual form submissions or export all submitted form data.
 * Form data is exported in `.csv` format and requires additional software to view & manage.
 
+[Back to Top](https://docs.mrqr.me/index)
+{: .text-right }
+
 ## Viewing on a PC,Tablet or Smartphone
 {: .text-purple-000 }
 
@@ -77,6 +80,8 @@ however due to the reduced screens size on smartphone's and smaller tablet's acc
 <img width="25" alt="image" src="https://github.com/MrQR-me/docs/assets/153803042/c52befe4-d437-41f0-908d-b7e4ad467e74">
 Icon in the top right hand corner.
 ![Index](/assets/images/MrQR_Mobile_Access_Menu.png "Smartphone menu access")
+[Back to Top](https://docs.mrqr.me/index)
+{: .text-right }
 
 ## PC & Tablet Menu Bar
 {: .text-purple-000 }
@@ -89,16 +94,18 @@ The Menu Bar at the top of the page allows access to all **MrQR**{: .text-purple
 * Profile / Logout (*far right circle / image icon*)
   
 ![Index](/assets/images/MrQR_PC_Menu_Bar.png "PC menu access")
+[Back to Top](https://docs.mrqr.me/index)
+{: .text-right }
 
 ## Smartphone Menu
 {: .text-purple-000 }
 
 Selecting the 
 <img width="25" alt="image" src="https://github.com/MrQR-me/docs/assets/153803042/c52befe4-d437-41f0-908d-b7e4ad467e74">
-Icon on any page Expands the **MrQR**{: .text-purple-000 } Platform Menu,
+Icon at the top of any page Expands the **MrQR**{: .text-purple-000 } Platform Menu,
 Selecting the
 <img width="25" alt="image" src="https://github.com/MrQR-me/docs/assets/153803042/4606c0ca-e99d-44c0-8b63-81048a5d4e2c">
-Icon on any page Close the **MrQR**{: .text-purple-000 } Platform Menu,
+Icon at the top any page Close the **MrQR**{: .text-purple-000 } Platform Menu,
 
 ![Index](/assets/images/MrQR_Mobile_Menu.png "Smartphone menu")
 [Back to Top](https://docs.mrqr.me/index)
