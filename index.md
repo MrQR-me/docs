@@ -52,7 +52,6 @@ View our documentation for **MrQR**{: .text-purple-000 }, use the links in the s
 - .TOC
 
 ## Key Features{: .text-purple-000 }
-Universal Site Based Management Platform with global access.
 
 * **MrQR**{: .text-purple-000 } is a Universal item Management Platform with global access.
 * **MrQR**{: .text-purple-000 } is a cloud based platform and requires an internet connection and registration to the **MrQR**{: .text-purple-000 } platform.
