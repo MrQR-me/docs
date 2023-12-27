@@ -6,4 +6,4 @@ parent: MrQR Form Builder
 ---
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Form_Create_New.png "Create Form")
 
-![MrQR Form Builder](/assets/images/Forms/MrQR_Form_New_Section_Create.png "New Form Page")
+![MrQR Form Builder](/assets/images/Forms/MrQR_Form_New_Form_Menu.png "New Form Page")
