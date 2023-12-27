@@ -57,10 +57,14 @@ View our documentation for
 * Form data is exported in .csv format and requires additional software to view & manage.
 
 ## Viewing on a PC,Tablet or Smartphone
+{: .text-purple-000 }
 
-**MrQR**{: .text-purple-000 } can be viewed on PC's, Tablet's, or Smartphone's. Navigation on all devices is very similar. On Pc's and Larger Tablets the main menu is on the Left hand side, however due to the reduced screens size on smartphone's and smaller tablet's accessing the main menu is by selecting the **Menu
-Icon** in the top right hand corner.
+**MrQR**{: .text-purple-000 } can be viewed on PC's, Tablet's, or Smartphone's. Navigation on all devices is very similar. On Pc's and Larger Tablets the main menu is on the Left hand side, however due to the reduced screens size on smartphone's and smaller tablet's accessing the main menu is achieved by selecting the **Menu Icon** in the top right hand corner.
+
 ![Index](/assets/images/MrQR_Mobile_Access_Menu.png "Smartphone menu access")
 
-## Smartphone Menu;
+## Smartphone Menu
+{: .text-purple-000 }
+
+Selecting the **Menu Icon** on any page Expands the **MrQR**{: .text-purple-000 } Platform Menu,
 ![Index](/assets/images/MrQR_Mobile_Menu.png "Smartphone menu")
