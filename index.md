@@ -77,5 +77,5 @@ Selecting the
 Icon on any page Close the **MrQR**{: .text-purple-000 } Platform Menu,
 
 ![Index](/assets/images/MrQR_Mobile_Menu.png "Smartphone menu")
-[Back to Top](https://docs.mrqr.me/index/)
+[Back to Top](https://docs.mrqr.me/index)
 {: .text-right }
