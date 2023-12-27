@@ -26,11 +26,21 @@ nav_order: 0
 </style>
 </head>
 </html>
+# **HOME**{: .text-purple-000 }
+{: .no_toc }
 
-View our documentation for 
-**MrQR**{: .text-purple-000 }, use the links in the sidebar or menu to go to a specific page. Start with our [Quickstart](https://docs.mrqr.me/quickstart/) guide.
+View our documentation for **MrQR**{: .text-purple-000 }, use the links in the sidebar or menu to go to a specific page. Start with our [Quickstart](https://docs.mrqr.me/quickstart/) guide.
 
-## **MrQR**{: .text-purple-000 } is a Universal Site Based Management Platform with global access.
+## ITEM DETAILS & SETUP
+{: .text-purple-000 }
+{: .no_toc }
+
+{:toc }
+- .TOC
+
+## **MrQR**{: .text-purple-000 }
+is a Universal Site Based Management Platform with global access.
+
 * **MrQR**{: .text-purple-000 } is a cloud based platform and requires an internet connection and registration to the **MrQR**{: .text-purple-000 } platform.
 * **MrQR**{: .text-purple-000 } can be viewed on PC, Tablet, or Smartphone. 
 * Create your own forms and assign them to your own items.
@@ -51,7 +61,6 @@ View our documentation for
 Icon in the top right hand corner.
 
 ![Index](/assets/images/MrQR_Mobile_Access_Menu.png "Smartphone menu access")
-
 
 ## Smartphone Menu
 {: .text-purple-000 }
