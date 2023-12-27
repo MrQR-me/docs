@@ -5,10 +5,10 @@ nav_order: 12
 parent: MrQR Form Builder
 ---
 
-Now the Section has Been Created you a]can continue building your form by adding 
+Now the Section has Been Created you can continue building your form by adding 
 [Content](https://docs.mrqr.me/FormBuilder/Content)
  and 
 [Inputs](https://docs.mrqr.me/FormBuilder/Data_Inputs)
 
-![MrQR Form Builder](/assets/images/MrQR%20Forms_Page_4.png "Page 4")
-![MrQR Form Builder](/assets/images/MrQR%20Forms_Page_5.png "Page 5")
+![MrQR Form Builder](/assets/images/Forms/MrQR_Form_Content_Media.png "Page 4")
+![MrQR Form Builder](/assets/images/Forms/MrQR_Form_Content_Media_Select.png "Page 5")
