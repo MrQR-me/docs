@@ -38,7 +38,9 @@ Thankyou for chosing **MrQR**{: .text-purple-000 } a cloud based universal item 
 * Distribute product O&M Manuals
 * Regular Maintenance Inspections of Plant & Equipment
 
-Download Unique **MrQR**{: .text-purple-000 } Code sticker image for each item you need to manage, the can be printed andattached to your items allowing secure access to the infomation & forms assigned to each item.
+Download the Unique **MrQR**{: .text-purple-000 } Code sticker image for the item you want to manage, these can be printed and attached to your items allowing secure access to the infomation & forms assigned to each item.
+
+Form Submissions can be individually viewed or all form submissions expoted in .csv format to be used in your preferred spreadsheet software.
 
 View our documentation for **MrQR**{: .text-purple-000 }, use the links in the sidebar or menu to go to a specific page. Start with our [Quickstart](https://docs.mrqr.me/quickstart/) guide.
 
