@@ -65,4 +65,4 @@ View our documentation for
 icon in the top right hand corner.
 
 ![Index](/assets/images/MrQR_Mobile_Access_Menu.png "Smartphone menu access") ![Index](/assets/images/MrQR_Mobile_Menu.png "Smartphone menu")
-
+<img src="(https://docs.mrqr.me/assets/images/MrQR_Mobile_Menu_Icon.png)" 
