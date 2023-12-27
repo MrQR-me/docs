@@ -32,11 +32,11 @@ Select <button class="button button1">CREATE</button> once you have entered the 
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Form_Create_New.png "Create Form")
 
 Your new form is now created and will open in the `Form Settings` Window. You can start building you form by firstly adding 
-[Sections](https://docs.mrqr.me/Section) 
+[Sections](https://docs.mrqr.me/FormBuilder/Section) 
 then 
-[Content](https://docs.mrqr.me/content) 
+[Content](https://docs.mrqr.me/FormBuilder/Content) 
 Content and 
-[Inputs](https://docs.mrqr.me/Data_Inputs) 
+[Inputs](https://docs.mrqr.me/FormBuilder/Data_Inputs) 
 can be added.
 
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Form_New_Form_Menu.png "New Form Page")
