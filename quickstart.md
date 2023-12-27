@@ -3,7 +3,9 @@ title: Quickstart
 layout: default
 nav_order: 1
 ---
-![The Basics](/assets/images/MrQR%20-%20The%20Basics_Page_01.png "the basics")
+# QUICKSTART
+(: .text-purple-000}
+
 ![The Basics](/assets/images/MrQR%20-%20The%20Basics_Page_02.png "the basics")
 ![The Basics](/assets/images/MrQR%20-%20The%20Basics_Page_03.png "the basics")
 ![The Basics](/assets/images/MrQR%20-%20The%20Basics_Page_04.png "the basics")
