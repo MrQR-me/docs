@@ -38,6 +38,6 @@ then
  and 
 [Inputs](https://docs.mrqr.me/FormBuilder/Data_Inputs)
 .
-from tjis Page you can Efit the Form Name and view the items the form ha been assigned to.
+from this Page you can Edit the Form Name and view the items the form ha been assigned to.
 
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Form_New_Form_Menu.png "New Form Page")
