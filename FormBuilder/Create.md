@@ -38,6 +38,7 @@ then
  and 
 [Inputs](https://docs.mrqr.me/FormBuilder/Data_Inputs)
 .
-from this Page you can Edit the Form Name and view the items the form ha been assigned to.
+from this Page you can Edit the Form Name and view the items the form has been assigned to.
+ans start building your foe]rm by creating [Sections](https://docs.mrqr.me/FormBuilder/Section) 
 
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Form_New_Form_Menu.png "New Form Page")
