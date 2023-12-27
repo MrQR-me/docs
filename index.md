@@ -30,14 +30,16 @@ nav_order: 0
 {: .no_toc }
 
 Thankyou for chosing **MrQR**{: .text-purple-000 } a cloud based universal item management platform. With the **MrQR**{: .text-purple-000 } platform you can create your own Forms to manage almost anything including:
-* building site inductions
+* Building site inductions
 * Training Records
 * Permits to work or enter restricted locations
 * Regular Safety checks of plant & equipment (*MEWP's, Ladders, Electrical Distribution or Appluances, Vehicals etc*)
 * Magage & Share Collections
 * Distribute product O&M Manuals
 * Regular Maintenance Inspections of Plant & Equipment
-  
+
+Download Unique **MrQR**{: .text-purple-000 } Code sticker image for each item you need to manage, the can be printed andattached to your items allowing secure access to the infomation & forms assigned to each item.
+
 View our documentation for **MrQR**{: .text-purple-000 }, use the links in the sidebar or menu to go to a specific page. Start with our [Quickstart](https://docs.mrqr.me/quickstart/) guide.
 
 ## ITEM DETAILS & SETUP
