@@ -61,7 +61,7 @@ View our documentation for
 
 **MrQR**{: .text-purple-000 } can be viewed on PC's, Tablet's, or Smartphone's. Navigation on all devices is very similar. On Pc's and Larger Tablets the main menu is on the Left hand side, however due to the reduced screens size on smartphone's and smaller tablet's accessing the main menu is achieved by selecting the 
 <img width="20" alt="image" src="https://github.com/MrQR-me/docs/assets/153803042/c52befe4-d437-41f0-908d-b7e4ad467e74">
-**Menu Icon** in the top right hand corner.
+Icon in the top right hand corner.
 
 ![Index](/assets/images/MrQR_Mobile_Access_Menu.png "Smartphone menu access")
 
@@ -69,5 +69,8 @@ View our documentation for
 ## Smartphone Menu
 {: .text-purple-000 }
 
-Selecting the **Menu Icon** on any page Expands the **MrQR**{: .text-purple-000 } Platform Menu,
+Selecting the 
+<img width="20" alt="image" src="https://github.com/MrQR-me/docs/assets/153803042/c52befe4-d437-41f0-908d-b7e4ad467e74">
+Icon on any page Expands the **MrQR**{: .text-purple-000 } Platform Menu,
+
 ![Index](/assets/images/MrQR_Mobile_Menu.png "Smartphone menu")
