@@ -34,8 +34,8 @@ Select <button class="button button1">CREATE</button> once you have entered the 
 Your new form is now created and will open in the `Form Settings` Window. You can start building you form by firstly adding 
 [Sections](https://docs.mrqr.me/FormBuilder/Section) 
 then 
-[Content](https://docs.mrqr.me/FormBuilder/Content) 
-Content and 
+[Content](https://docs.mrqr.me/FormBuilder/Content)
+ and 
 [Inputs](https://docs.mrqr.me/FormBuilder/Data_Inputs) 
 can be added.
 
