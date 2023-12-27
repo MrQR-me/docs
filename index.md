@@ -44,7 +44,7 @@ Form Submissions can be individually viewed or all form submissions expoted in `
 
 View our documentation for **MrQR**{: .text-purple-000 }, use the links in the sidebar or menu to go to a specific page. Start with our [Quickstart](https://docs.mrqr.me/quickstart/) guide.
 
-## ITEM DETAILS & SETUP
+## **MrQR**
 {: .text-purple-000 }
 {: .no_toc }
 
