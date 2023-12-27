@@ -36,7 +36,7 @@ Your new form is now created and will open in the `Form Settings` Window. You ca
 then 
 [Content](https://docs.mrqr.me/FormBuilder/Content)
  and 
-[Inputs](https://docs.mrqr.me/FormBuilder/Data_Inputs) 
-can be added.
+[Inputs](https://docs.mrqr.me/FormBuilder/Data_Inputs)
+.
 
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Form_New_Form_Menu.png "New Form Page")
