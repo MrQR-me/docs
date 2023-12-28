@@ -34,7 +34,7 @@ After selecting Forms in the top menu bar to create a new form Select <button cl
 
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Form_Create_New.png "Create Form")
 
-Your new form is now created and will open in the `Form Settings` Window. You can start building you form by firstly adding 
+Your new form is now created and will open in the `Form Settings`Panel. You can start building you form by firstly adding 
 [Sections](https://docs.mrqr.me/FormBuilder/Section) 
 then 
 [Content](https://docs.mrqr.me/FormBuilder/Content)
