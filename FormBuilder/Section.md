@@ -50,19 +50,12 @@ You Can Edit the section Namme. Select <button class="button button2">EDIT NAME<
 
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Section_Edit_Name.png "Edit Name")
 
-By selecting 
-<img width="100" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Section_Expand.png"> 
-or 
-<img width="100" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Section_Colapse.png"> 
-you can hide or show the section contents and inputs
+By selecting <img width="100" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Section_Expand.png"> or <img width="100" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Section_Colapse.png"> you can hide or show the section contents and inputs
 
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Section_Colapsed.png "Section Colapsed")
 
 You Can Remove the section Namme. Select <button class="button button3">REMOVE</button> once you have entered the desired Section Name.
 
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Section_Remove.png "Remove")
-
-
-
 [Back to Top](https://docs.mrqr.me/registers/)
 {: .text-right }
