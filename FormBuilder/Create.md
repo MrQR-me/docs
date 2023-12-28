@@ -42,7 +42,7 @@ followed by
 [Inputs](https://docs.mrqr.me/FormBuilder/Data_Inputs).
 
 You can also change the form name and view any items the form has been assigned to.
-To change the form name Select <button class="button button1">SAVE</button> once you have entered the desired form name in the New Form Name Box.
+To change the form name Select <button class="button button1">SAVE</button> once you have entered the desired form name in the Form Name Box.
 
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Form_New_Form_Menu.png "New Form Page")
 
