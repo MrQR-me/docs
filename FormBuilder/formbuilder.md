@@ -15,6 +15,6 @@ The Forms Main Menu Page consists of two sections;
 
 Sample Forms included on the **MrQR**{: .Text-purple-000 } platform cannot be edited, they must 1st be duplicated and the duplucate form can be edited.
 
-Select <a href="https://docs.mrqr.me/FormBuilder/Create">  <button class="button button1">CREATE</button></a> once you have entered the desired Form name in the New Form Name Box.
+Select <a href="https://docs.mrqr.me/FormBuilder/Create"><button class="button button1">CREATE</button></a> once you have entered the desired Form name in the New Form Name Box.
 
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Form_Main_Menu.png "Main Page")
