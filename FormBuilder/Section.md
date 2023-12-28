@@ -45,13 +45,15 @@ and
 or create another new 
 [Section](https://docs.mrqr.me/FormBuilder/Section) 
 
+You can also Edit{: .text-light-grey-000 } the Section Name or completely Remove{: .text-red-000 } the Section
+
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Form_New_Section_Created.png "Created")
 
 By selecting <img width="100" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Section_Expand.png"> or <img width="100" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Section_Colapse.png"> you can hide or show the section contents and inputs
 
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Section_Colapsed.png "Section Colapsed")
 
-You Can Edit the section Namme. Select <button class="button button2">EDIT NAME</button> once you have entered the desired Section Name.
+You Can Edit the Section Name. Select <button class="button button1">SAVE</button> once you have entered the desired Section Name.
 
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Section_Edit_Name.png "Edit Name")
 
