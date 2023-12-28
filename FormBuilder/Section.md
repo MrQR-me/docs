@@ -12,7 +12,7 @@ parent: MrQR Form Builder
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 12px;
+  font-size: 10px;
   margin: 4px 2px;
   cursor: pointer; }
 .button1 {background-color: black;}
