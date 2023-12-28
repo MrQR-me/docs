@@ -35,8 +35,7 @@ Your new section is now created. You can continue building you form by adding
 
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Form_New_Section_Created.png "Created")
 
-Select <button class="button button2">NEW CONTENT</button>
-  
+Select <button class="button button2">ADD CONTENT</button> to open the New Content Panel, the default content typt is Text;
 ![Content](/assets/images/Forms/MrQR_Forms_Content_New.png "New")
 
 There are two types of content:
