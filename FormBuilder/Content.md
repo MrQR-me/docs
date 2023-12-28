@@ -35,7 +35,7 @@ Your new section is now created. You can continue building you form by adding
 
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Form_New_Section_Created.png "Created")
 
-
+Select <button class="button button2">NEW CONTENT</button>
   
 ![Content](/assets/images/Forms/MrQR_Forms_Content_New.png "New")
 
