@@ -39,6 +39,7 @@ then
 [Inputs](https://docs.mrqr.me/FormBuilder/Data_Inputs)
 .
 You can Edit the Form Name and view the items the form has been assigned to.
-Start building your form by creating your 1st [Section](https://docs.mrqr.me/FormBuilder/Section) 
 
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Form_New_Form_Menu.png "New Form Page")
+
+Start building your form by creating your 1st [Section](https://docs.mrqr.me/FormBuilder/Section) select <button class="button button2">NEW SECTION</button>
