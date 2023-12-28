@@ -41,4 +41,19 @@ There are two types of content:
 
 ![Content](/assets/images/Forms/MrQR_Form_Content_Media.png "Media")
 
+![Content](/assets/images/Forms/MrQR_Forms_Content_New.png "New")
+![Content](/assets/images/Forms/MrQR_Forms_Content_Type_Text.png "Type - Text")
+![Content](/assets/images/Forms/MrQR_Forms_Content_Input_Text.png "Text")
+![Content](/assets/images/Forms/MrQR_Forms_Content_Text_Added.png "Text Added")
+![Content](/assets/images/Forms/MrQR_Forms_Content_Text_Media.png "Text & Media")
+![Content](/assets/images/Forms/MrQR_Forms_Content_Type_Media.png "Type - Media")
+![Content](/assets/images/Forms/MrQR_Forms_Content_Select_Media.png "Select Media")
+![Content](/assets/images/Forms/MrQR_Forms_Content_Additional_Media.png "Additional Media")
+
+
+
+
+
+
+
 
