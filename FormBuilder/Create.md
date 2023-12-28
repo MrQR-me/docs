@@ -42,4 +42,4 @@ You can Edit the Form Name and view the items the form has been assigned to.
 
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Form_New_Form_Menu.png "New Form Page")
 
-Start building your form by creating your 1st [Section](https://docs.mrqr.me/FormBuilder/Section) select <button class="button button2">NEW SECTION</button>
+Start building your form by creating your 1st [Section](https://docs.mrqr.me/FormBuilder/Section). Select <button class="button button2">NEW SECTION</button>
