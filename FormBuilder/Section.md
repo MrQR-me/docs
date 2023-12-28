@@ -46,12 +46,10 @@ or create another new
 [Section](https://docs.mrqr.me/FormBuilder/Section) 
 
 You can also 
-Edit
-{: .text-light-grey-000 } 
-the Section Name or completely 
-Remove
-{: .text-red-000 } 
- the Section
+Edit {: .text-light-grey-000 } the Section Name or completely 
+Remove{: .text-red-000 }
+
+the Section
 
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Form_New_Section_Created.png "Created")
 
@@ -64,8 +62,8 @@ Select <button class="button button2">CANCEL</button> to ignore any changes
 
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Section_Edit_Name.png "Edit Name")
 
-You Can Remove the section Namme. Select <button class="button button3">REMOVE</button> once you have entered the desired Section Name.
-Select <button class="button button2">CANCEL</button> to ignore any changes
+You Can Remove the Section. Select <button class="button button3">REMOVE</button> once you have entered the desired Section Name.
+Select <button class="button button2">CANCEL</button> to cancel the Section Removal.
 
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Section_Remove.png "Remove")
 [Back to Top](https://docs.mrqr.me/registers/)
