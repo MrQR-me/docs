@@ -20,7 +20,7 @@ parent: MrQR Form Builder
 .button1 {color: white;}
 .button2 {color: grey;}
 .button1 {border: none;}
-.button2 {border: 1px grey}
+.button2 {border: 1px solid grey}
 .button1 {border-radius: 5px;}
 .button2 {border-radius: 5px;}
 </style>
