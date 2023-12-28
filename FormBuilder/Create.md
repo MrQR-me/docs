@@ -46,4 +46,4 @@ To change the form name Select <button class="button button1">SAVE</button> once
 
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Form_New_Form_Menu.png "New Form Page")
 
-Start building your form by adding a [Section](https://docs.mrqr.me/FormBuilder/Section). Select the <button class="button button2">NEW SECTION</button> button.
+Start building your form by adding a [Section](https://docs.mrqr.me/FormBuilder/Section). Select the <a href="https://docs.mrqr.me/FormBuilder/Section">  <button class="button button2">NEW SECTION</button></a> button.
