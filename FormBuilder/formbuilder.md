@@ -32,7 +32,7 @@ permalink: docs/FormBuilder
 The
  **MrQR**{: .text-purple-000 } Form Builder Addon is included when you purchase Additional Sites and enables you to duplicate sample forms to your new sites, Edit the sample Forms and create, Edit and duplicate your own MrQR Forms.
 
-The Forms Main Menu Page consists of two sections;
+The Forms panel consists of two sections;
 * New Form *Create a form*
 * Forms *all your Forms*
 
