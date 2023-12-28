@@ -46,7 +46,10 @@ or create another new
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Section_Colapsed.png "Section Colapsed")
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Section_Remove.png "Remove")
 
-<img width="25" alt="image" src="https://github.com/MrQR-me/docs/assets/153803042/c52befe4-d437-41f0-908d-b7e4ad467e74">
+<img width="25" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Section_Expand.png">
 MrQR_Section_Colapse.png
 
 MrQR_Section_Expand.png
+
+[Back to Top](https://docs.mrqr.me/registers/)
+{: .text-right }
