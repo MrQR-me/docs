@@ -46,7 +46,7 @@ or create another new
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Section_Colapsed.png "Section Colapsed")
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Section_Remove.png "Remove")
 
-<img width="25" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Section_Expand.png">
+<img width="50" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Section_Expand.png">
 MrQR_Section_Colapse.png
 
 MrQR_Section_Expand.png
