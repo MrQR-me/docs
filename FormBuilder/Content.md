@@ -4,17 +4,7 @@ title: Creating Content
 nav_order: 12
 parent: MrQR Form Builder
 ---
-
-# **MrQR**{: .text-purple-000 } CONTENT
-
-Now the Section has Been Created you can continue building your form by adding 
-[Content](https://docs.mrqr.me/FormBuilder/Content)
- and 
-[Inputs](https://docs.mrqr.me/FormBuilder/Data_Inputs)
-
-![MrQR Form Builder](/assets/images/Forms/MrQR_Form_Content_Media.png "Page 4")
-![MrQR Form Builder](/assets/images/Forms/MrQR_Form_Content_Media_Select.png "Page 5")
-[<html>
+<html>
 <head>
 <style>
 .button {
@@ -28,7 +18,7 @@ Now the Section has Been Created you can continue building your form by adding
 .button1 {background-color: #555555;} /* Black */
 .button2 {background-color: white;}
 .button1 {color: white;}
-.button2 {color: black;}
+.button2 {color: grey;}
 .button1 {border: none;}
 .button2 {border: 1px solid grey}
 .button1 {border-radius: 5px;}
@@ -37,11 +27,15 @@ Now the Section has Been Created you can continue building your form by adding
 </head>
 </html>
 
+# **MrQR**{: .text-purple-000 } Content
+![MrQR Form Builder](/assets/images/Forms/MrQR_Forms_Header.png "Header")
+
 Your new Section is now created. You can continue building you form by adding
 [Content](https://docs.mrqr.me/FormBuilder/Content) 
-and
-[Inputs](https://docs.mrqr.me/FormBuilder/Data_Inputs) 
-or create another new 
-[Section](https://docs.mrqr.me/FormBuilder/Section) 
 
-![MrQR Form Builder](/assets/images/Forms/MrQR_Form_New_Section_Created.png "Created")
+There are two types of content:
+* Text
+* Media
+
+
+
