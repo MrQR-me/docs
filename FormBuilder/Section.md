@@ -46,12 +46,12 @@ or create another new
 [Section](https://docs.mrqr.me/FormBuilder/Section) 
 
 You can also 
-EDIT
+Edit
 {: .text-light-grey-000 } 
 the Section Name or completely 
-REMOVE
+Remove
 {: .text-red-000 } 
-the Section
+ the Section
 
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Form_New_Section_Created.png "Created")
 
