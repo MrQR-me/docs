@@ -60,10 +60,12 @@ By selecting <img width="100" alt="image" src="https://docs.mrqr.me/assets/image
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Section_Colapsed.png "Section Colapsed")
 
 You Can Edit the Section Name. Select <button class="button button1">SAVE</button> once you have entered the desired Section Name.
+Select <button class="button button2">CANCEL</button> to ignore any changes
 
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Section_Edit_Name.png "Edit Name")
 
 You Can Remove the section Namme. Select <button class="button button3">REMOVE</button> once you have entered the desired Section Name.
+Select <button class="button button2">CANCEL</button> to ignore any changes
 
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Section_Remove.png "Remove")
 [Back to Top](https://docs.mrqr.me/registers/)
