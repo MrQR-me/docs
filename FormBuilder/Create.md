@@ -28,8 +28,9 @@ parent: MrQR Form Builder
 </html>
 
 # **MrQR**{: .text-purple-000 } CREATE A NEW FORM
+![MrQR Form Builder](/assets/images/Forms/MrQR_Forms_Header.png "Header")
 
-Select <button class="button button1">CREATE</button> once you have entered the desired Form name.
+After selecting Forms in the top menu bar to create a new form Select <button class="button button1">CREATE</button> once you have entered the desired Form name in the New Form Name Box.
 
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Form_Create_New.png "Create Form")
 
