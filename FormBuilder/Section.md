@@ -35,6 +35,6 @@ Select <button class="button button1">CREATE</button> once you have entered the 
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Form_Create_New.png "Create Form")
 
 Your new Section is now created. You can continue building you form by adding
-[Sections](https://docs.mrqr.me/FormBuilder/content) 
+[Content](https://docs.mrqr.me/FormBuilder/Content) 
 and
-[Sections](https://docs.mrqr.me/FormBuilder/inputs) 
+[Inputs](https://docs.mrqr.me/FormBuilder/Data_Inputs) 
