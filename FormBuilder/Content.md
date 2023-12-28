@@ -5,6 +5,8 @@ nav_order: 12
 parent: MrQR Form Builder
 ---
 
+# **MrQR**{: .text-purple-000 } CONTENT
+
 Now the Section has Been Created you can continue building your form by adding 
 [Content](https://docs.mrqr.me/FormBuilder/Content)
  and 
