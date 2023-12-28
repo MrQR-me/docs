@@ -42,3 +42,10 @@ or create another new
 [Section](https://docs.mrqr.me/FormBuilder/Section) 
 
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Form_New_Section_Created.png "Created")
+![MrQR Form Builder](/assets/images/Forms/MrQR_Section_Edit_Name.png "Edit Name")
+![MrQR Form Builder](/assets/images/Forms/MrQR_Section_Colapsed.png "Section Colapsed")
+![MrQR Form Builder](/assets/images/Forms/MrQR_Section_Remove.png "Remove")
+
+MrQR_Section_Colapse.png
+
+MrQR_Section_Expand.png
