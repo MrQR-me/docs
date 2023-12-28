@@ -37,5 +37,8 @@ There are two types of content:
 * Text
 * Media
 
+![Content](/assets/images/Forms/MrQR_Form_Content_Media_Select.png "Select")
+
+![Content](/assets/images/Forms/MrQR_Form_Content_Media.png "Media")
 
 
