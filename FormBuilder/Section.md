@@ -47,9 +47,8 @@ or create another new
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Section_Remove.png "Remove")
 
 <img width="100" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Section_Expand.png">
-MrQR_Section_Colapse.png
+<img width="100" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Section_Colapse.png">
 
-MrQR_Section_Expand.png
 
 [Back to Top](https://docs.mrqr.me/registers/)
 {: .text-right }
