@@ -30,18 +30,25 @@ parent: MrQR Form Builder
 # **MrQR**{: .text-purple-000 } Content
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Forms_Header.png "Header")
 
-Your new Section is now created. You can continue building you form by adding
+Your new section is now created. You can continue building you form by adding
 [Content](https://docs.mrqr.me/FormBuilder/Content) 
-
 There are two types of content:
 * Text
 * Media
+  
+![Content](/assets/images/Forms/MrQR_Forms_Content_New.png "New")
+
+![MrQR Form Builder](/assets/images/Forms/MrQR_Form_New_Section_Created.png "Created")
+Your new Section is now created. You can continue building you form by adding
+[Content](https://docs.mrqr.me/FormBuilder/Content) 
+
+
 
 ![Content](/assets/images/Forms/MrQR_Form_Content_Media_Select.png "Select")
 
 ![Content](/assets/images/Forms/MrQR_Form_Content_Media.png "Media")
 
-![Content](/assets/images/Forms/MrQR_Forms_Content_New.png "New")
+
 ![Content](/assets/images/Forms/MrQR_Forms_Content_Type_Text.png "Type - Text")
 ![Content](/assets/images/Forms/MrQR_Forms_Content_Input_Text.png "Text")
 ![Content](/assets/images/Forms/MrQR_Forms_Content_Text_Added.png "Text Added")
