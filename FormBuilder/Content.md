@@ -32,14 +32,17 @@ parent: MrQR Form Builder
 
 Your new section is now created. You can continue building you form by adding
 [Content](https://docs.mrqr.me/FormBuilder/Content) 
-There are two types of content:
-* Text
-* Media
+
+![MrQR Form Builder](/assets/images/Forms/MrQR_Form_New_Section_Created.png "Created")
+
+
   
 ![Content](/assets/images/Forms/MrQR_Forms_Content_New.png "New")
 
-![MrQR Form Builder](/assets/images/Forms/MrQR_Form_New_Section_Created.png "Created")
-Your new Section is now created. You can continue building you form by adding
+There are two types of content:
+* Text
+* Media
+
 [Content](https://docs.mrqr.me/FormBuilder/Content) 
 
 
