@@ -26,6 +26,7 @@ parent: MrQR Form Builder
 </style>
 </head>
 </html>
+# **MrQR**{: .text-purple-000 } CREATE A NEW FORM
 
 Select <button class="button button1">CREATE</button> once you have entered the desired Form name.
 
