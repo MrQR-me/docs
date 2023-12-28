@@ -37,7 +37,7 @@ In the Form Settings page, Select <button class="button button2">NEW SECTION</bu
 
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Form__NewSection_Create.png "Create Form")
 
-Select <button class="button button1">CREATE</button> once you have entered the desired section name.
+Select <button class="button button1">SAVE</button> once you have entered the desired section name.
 
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Form_New_Section_Create.png "Create Section")
 
