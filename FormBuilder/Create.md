@@ -36,12 +36,13 @@ After selecting Forms in the top menu bar to create a new form Select <button cl
 
 Your new form is now created and will open in the `Form Settings`Panel. You can start building you form by firstly adding 
 [Sections](https://docs.mrqr.me/FormBuilder/Section) 
-then 
+followed by 
 [Content](https://docs.mrqr.me/FormBuilder/Content)
- and 
-[Inputs](https://docs.mrqr.me/FormBuilder/Data_Inputs)
-.
-You can Edit the Form Name and view the items the form has been assigned to.
+ and / or 
+[Inputs](https://docs.mrqr.me/FormBuilder/Data_Inputs).
+
+You can also Change the Form Name and view any items the form has been assigned to.
+To change the Form name Select <button class="button button1">SAVE</button> once you have entered the desired Form name in the New Form Name Box.
 
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Form_New_Form_Menu.png "New Form Page")
 
