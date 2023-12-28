@@ -15,7 +15,7 @@ parent: MrQR Form Builder
   font-size: 12px;
   margin: 4px 2px;
   cursor: pointer; }
-.button1 {background-color: #555555;} /* Black */
+.button1 {background-color: black;}
 .button2 {background-color: white;}
 .button3 {background-color: Red;}
 .button1 {color: white;}
