@@ -39,6 +39,6 @@ Your new Section is now created. You can continue building you form by adding
 and
 [Inputs](https://docs.mrqr.me/FormBuilder/Data_Inputs) 
 or create another new 
-[Section](https://docs.mrqr.me/FormBuilder/Sections) 
+[Section](https://docs.mrqr.me/FormBuilder/Section) 
 
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Form_New_Section_Created.png "Created")
