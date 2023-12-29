@@ -19,4 +19,5 @@ nav_order: 15
 ## Additional Site Licence including **MrQR**{: .text-purple-000 } Form Builder
 £7.49 / Month / Site Licence
 
-https://mrqr.me/terms-of-service
+Pleaes review and agree to our [Terms of Service](https://mrqr.me/terms-of-service/) before subscribing and using **MrQR**{: .text-purple-000 } platform.
+
