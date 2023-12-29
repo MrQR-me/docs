@@ -72,7 +72,7 @@ Select `Text` from the Type Drop Down Box. Select <button class="button button1"
 Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Tick.png"> the <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png"> Required Box if the input is Requied before Submitting the Form.
 
 #### Single Tick Box
-By Selecting the <button class="button button2">ADD VALUE                </button> once creates a single option Tick box answer. this is useful if you wantbthe user to agree to a particular statment.
+By Selecting the <button class="button button2">ADD VALUE                .</button> once creates a single option Tick box answer. this is useful if you want the user submitting the form to agree to a particular statment.
 
 ![MrQR Inputs](/assets/images/Forms/MrQR_Text_Single_Option.png "Single Line Text")
 
@@ -80,9 +80,16 @@ Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/M
 
 #### Multiple Check Boxes
 
-By Selecting the <button class="button button2">ADD VALUE                </button> multiple times creates a multiple choice option Check box answers. this is useful if you want the user to select a particular statment. After 3 options have been added the selection becomes a dropdown box.
+By Selecting the <button class="button button2">ADD VALUE                .</button> multiple times creates a multiple choice option Check box answers. This is useful if you want the user submitting the form to select a particular statment. 
 
 ![MrQR Inputs](/assets/images/Forms/MrQR_Text_Multiple_Option.png "Mutltiple Check Box")
+
+
+
+After 4 or more options have been added the selection becomes a dropdown box during form entry.
+
+![MrQR Inputs](/assets/images/Forms/MrQR_Text_Dropdown_Form.png "Mutltiple Dropdown Box")
+
 
 Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Tick.png"> the <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png"> Required Box if the input is Requied before Submitting the Form.
 
