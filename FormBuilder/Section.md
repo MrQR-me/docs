@@ -89,6 +89,7 @@ Select <button class="button button2">CANCEL</button> to cancel the Section Remo
 {: .text-right }
 
 ## Adding Content & Inputs
+{: .text-purple-000 }
 
 Your new section is now created. You can continue building you form by adding
 [Content](https://docs.mrqr.me/FormBuilder/Content) 
