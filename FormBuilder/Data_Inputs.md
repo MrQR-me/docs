@@ -39,19 +39,22 @@ parent: MrQR Form Builder
 
 Your new section is now created. You can continue building you form by adding [Inputs](https://docs.mrqr.me/FormBuilder/Data_Inputs) 
 
-Select <button class="button button2">ADD INPUT</button> to open the New Field Panel. 
-
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Form_New_Section_Created.png "Created")
 
-Select the Type of Input you wish to Add.
-
-## Types of Inputs
-{: .text-purple-000 }
-{: .no_toc }
-
-## Text Inputs
+## Adding Inputs
 {: .text-purple-000 }
 
+There are five types of inputs:
+* Text
+* Date
+* Photo upload
+* Relationship
+* User
+
+The default content type is Text.
+Select <button class="button button2">ADD INPUT</button> to open the New field Panel.
+
+## Text
 ### Single Line Text
 {: .text-purple-000 }
 
