@@ -48,7 +48,7 @@ Enter a title for your Text, then select <button class="button button1">SAVE</bu
 
 ![Content](/assets/images/Forms/MrQR_Forms_Content_Input_Text.png "Text")
 
-Now your Text content has been saved you can **Edit**{: .text-grey-lt-000 }, **Remove**{: .text-red-000 } or <button class="button button2">ADD CONTENT</button> and <button class="button button2">ADD INPUT</button>. You can re-arrange the order of Text and Inputs later by selecting and moving the <img width="20" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Form_Move_Field.png"> icon.
+Now your Text content has been saved you can **Edit**{: .text-grey-lt-300 }, **Remove**{: .text-red-000 } or <button class="button button2">ADD CONTENT</button> and <button class="button button2">ADD INPUT</button>. You can rearrange the order of Text and Inputs later by selecting and moving the <img width="20" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Form_Move_Field.png"> icon.
 
 ![Content](/assets/images/Forms/MrQR_Forms_Content_Text_Added.png "Text Added")
 
