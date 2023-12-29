@@ -46,9 +46,10 @@ The default content typt is Text.
 ![Content](/assets/images/Forms/MrQR_Forms_Content_New.png "New")
 
 ![Content](/assets/images/Forms/MrQR_Forms_Content_Type_Text.png "Type - Text")
-![Content](/assets/images/Forms/MrQR_Forms_Content_Input_Text.png "Text")
+
 ![Content](/assets/images/Forms/MrQR_Forms_Content_Text_Added.png "Text Added")
 
+![Content](/assets/images/Forms/MrQR_Forms_Content_Input_Text.png "Text")
 
 [Content](https://docs.mrqr.me/FormBuilder/Content) 
 
