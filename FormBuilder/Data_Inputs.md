@@ -32,7 +32,9 @@ parent: MrQR Form Builder
 </html>
 
 # **Inputs**{: .text-purple-000 }
-{:toc}
+{: .no_toc }
+
+{:toc }
 - .TOC
   
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Forms_Header.png "Header")
