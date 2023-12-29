@@ -67,15 +67,18 @@ Select the Type of Input you wish to Add.
 
 #### Single Line Text
 
-![MrQR Inputs](/assets/images/Forms/MrQR_Text_Single_Option.png "Single Test")
+![MrQR Inputs](/assets/images/Forms/MrQR_Text_Single_Option.png "Single Text")
 
 
 
 #### Single Tick Box
 
-![MrQR Inputs](/assets/images/Forms/MrQR_Text_Single_Option.png "Single Test")
+![MrQR Inputs](/assets/images/Forms/MrQR_Text_Single_Option.png "Single Line Text")
 
 #### Multiple Check Boxes
+
+![MrQR Inputs](/assets/images/Forms/MrQR_Text_Multiple_Option.png "Mutltiple Check Box")
+
 
 [Back to Top](https://docs.mrqr.me/Data_Inputs/)
 {: .text-right }
