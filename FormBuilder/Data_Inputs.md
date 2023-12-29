@@ -80,7 +80,7 @@ Select `Date` from the Type Drop Down Box. Select <button class="button button1"
 
 ![MrQR Inputs](/assets/images/Forms/MrQR_Form__New_Field_Date.png "Date")
 Tick 
-<img height="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Tick.png">
+<img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Tick.png">
  the 
  <img height="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png">
   Required Box if the input is Requied before Submitting the Form.
