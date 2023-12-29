@@ -62,7 +62,7 @@ Select <button class="button button2">CANCEL</button> to ignore any changes
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Section_Edit_Name.png "Edit Name")
 
 To Remove the Section select **Remove**{: .text-red-000 } in the Form section panel.
-Select <button class="button button3">REMOVE</button> once you have entered the desired Section Name.
+Select <button class="button button3">REMOVE</button>.
 Select <button class="button button2">CANCEL</button> to cancel the Section Removal.
 
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Section_Remove.png "Remove")
