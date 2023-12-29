@@ -38,7 +38,7 @@ parent: MrQR Form Builder
 
 Your new section is now created. You can continue building you form by adding [Inputs](https://docs.mrqr.me/FormBuilder/Data_Inputs) 
 
-Select <button class="button button2">ADD INPUT</button> to open the New Field Pane. 
+Select <button class="button button2">ADD INPUT</button> to open the New Field Panel. 
 
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Form_New_Section_Created.png "Created")
 
@@ -72,13 +72,21 @@ Select `Text` from the Type Drop Down Box. Select <button class="button button1"
 Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Tick.png"> the <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png"> Required Box if the input is Requied before Submitting the Form.
 
 #### Single Tick Box
+By Selecting the <button class="button button2">ADD VALUE                </button> once creates a single option Tick box answer. this is useful if you wantbthe user to agree to a particular statment.
 
 ![MrQR Inputs](/assets/images/Forms/MrQR_Text_Single_Option.png "Single Line Text")
 
+Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Tick.png"> the <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png"> Required Box if the input is Requied before Submitting the Form.
+
 #### Multiple Check Boxes
+
+By Selecting the <button class="button button2">ADD VALUE                </button> multiple times creates a multiple choice option Check box answers. this is useful if you want the user to select a particular statment.
 
 ![MrQR Inputs](/assets/images/Forms/MrQR_Text_Multiple_Option.png "Mutltiple Check Box")
 
+Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Tick.png"> the <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png"> Required Box if the input is Requied before Submitting the Form.
+
+Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Tick.png"> the <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png"> Allow multiple Box to allow Multiple answers to be selected.
 
 [Back to Top](https://docs.mrqr.me/Data_Inputs/)
 {: .text-right }
@@ -100,12 +108,11 @@ Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/M
 
 Select `Photo Upload` from the Type Drop Down Box. Select <button class="button button1">SAVE</button> once you have entered a Label (*this can be a Question, Instruction or Statement*).
 
-
 ![MrQR Inputs](/assets/images/Forms/MrQR_Form_New_Field_Image.png "Media")
 
 Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Tick.png"> the <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png"> Required Box if the input is Requied before Submitting the Form.
 
-Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Tick.png"> the <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png"> Allow multiple Box if Multiple Photo's can be uploaded.
+Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Tick.png"> the <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png"> Allow multiple Box if Multiple Photos can be accepted.
 
 [Back to Top](https://docs.mrqr.me/Data_Inputs/)
 {: .text-right }
