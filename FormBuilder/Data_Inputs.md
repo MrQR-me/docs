@@ -164,6 +164,9 @@ select the required `User' input from the Type Drop Down Box. Select <button cla
 
 Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Tick.png"> the <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png"> Required Box if the input is Requied before Submitting the Form.
 
+[Back to Top](https://docs.mrqr.me/FormBuilder/Data_Inputs/)
+{: .text-right }
+
 ## Editing Inputs 
 {: .text-purple-000 }
 
