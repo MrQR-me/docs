@@ -134,13 +134,13 @@ MrQR_Form_New_Field_Form.png
 ### Next of Kin - Contact Number
 {: .text-purple-000 }
 
-### Address Inputs
+## Address Inputs
 {: .text-purple-000 }
 
-### Training Record Inputs
+## Training Record Inputs
 {: .text-purple-000 }
 
-### Equipmet Inputs
+## Equipmet Inputs
 {: .text-purple-000 }
 
 
