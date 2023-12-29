@@ -17,12 +17,16 @@ parent: MrQR Form Builder
   cursor: pointer; }
 .button1 {background-color: #555555;} /* Black */
 .button2 {background-color: white;}
+.button3 {background-color: red;}
 .button1 {color: white;}
 .button2 {color: grey;}
+.button3 {color: white;}
 .button1 {border: none;}
 .button2 {border: 1px solid grey}
+.button3 {border: none;}
 .button1 {border-radius: 5px;}
 .button2 {border-radius: 5px;}
+.button3 {border-radius: 5px;} 
 </style>
 </head>
 </html>
@@ -70,23 +74,24 @@ you can delete the image or add more media.
 
 ![Content](/assets/images/Forms/MrQR_Form_Content_Media.png "Media")
 
-
-
-
 ## **Update Content**{: .text-purple-000 }
 
 Now your content has been saved you can **Edit**{: .text-grey-lt-300 }, **Remove**{: .text-red-000 } or <button class="button button2">ADD CONTENT</button> and <button class="button button2">ADD INPUT</button>. You can rearrange the order of Text and Inputs later by selecting and moving the <img width="20" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Form_Move_Field.png"> icon.
 
 ![Content](/assets/images/Forms/MrQR_Forms_Content_Text_Media.png "Text & Media")
 
-With Text Content you can update the Title & Content, however for Media content you can only update the Title. To Replace Media you need to **Remove**{: .text-red-000 } and then <button class="button button2">ADD CONTENT</button>.
+Text Content you can update the Title & Content.
 
 ![Content](/assets/images/Forms/MrQR_Forms_Content_Type_Text.png "Type - Text")
 
+Media content you can only update the Title. To Replace Media you need select **Remove**{: .text-red-000 } next to the Media Content you whish to replace, this opens the Remove Panel. Select <button class="button button2">CANCEL</button> or <button class="button button3">REMOVE</button>
+![Content](/assets/images/Forms/MrQR_Form_Remove_field.png "Remove Field")
 
-
-2
+and then <button class="button button2">ADD CONTENT</button> as detailed above
 ![Content](/assets/images/Forms/MrQR_Form_Content_Media_Select.png "Select")
+
+
+
 3
 [Content](https://docs.mrqr.me/FormBuilder/Content) 
 4
