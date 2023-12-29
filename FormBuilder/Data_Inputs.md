@@ -44,11 +44,18 @@ Select <button class="button button2">ADD INPUT</button> to open the New Field P
 
 Select the Type of Input you wish to Add.
 
-## Types of Inputs
-{: .text-purple-000 }
 
-{:toc }
+<details open markdown="block">
+  <summary>
+    ## Types of Inputs
+{: .text-purple-000 }  
+  </summary>
+  {: .text-delta }
 - .TOC
+{:toc}
+</details>
+
+
 
 ![MrQR Inputs](/assets/images/Forms/MrQR_Form_Field_Types.png "Input Types All")
 
