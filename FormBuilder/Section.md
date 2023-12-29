@@ -51,19 +51,18 @@ Select <button class="button button1">SAVE</button> once you have entered the de
 
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Form_New_Section_Create.png "Create Section")
 
-Your new section is now created. You can continue building you form by adding
-[Content](https://docs.mrqr.me/FormBuilder/Content) 
-and
-[Inputs](https://docs.mrqr.me/FormBuilder/Data_Inputs) 
-or create another new 
-[Section](https://docs.mrqr.me/FormBuilder/Section) 
-You can also **Edit**{: .text-light-grey-000 } the Section Name or completely **Remove**{: .text-red-000 } the Section from the Form Sections Panel.
+[Back to Top](https://docs.mrqr.me/registers/)
+{: .text-right }
 
-![MrQR Form Builder](/assets/images/Forms/MrQR_Form_New_Section_Created.png "Created")
+## Hiding Section
+{: .text-purple-000 }
 
 By selecting <img width="100" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Section_Expand.png"> or <img width="100" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Section_Colapse.png"> you can hide or show the section contents and inputs
 
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Section_Colapsed.png "Section Colapsed")
+
+[Back to Top](https://docs.mrqr.me/registers/)
+{: .text-right }
 
 ## Edit Section
 {: .text-purple-000 }
@@ -74,10 +73,29 @@ Select <button class="button button2">CANCEL</button> to ignore any changes
 
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Section_Edit_Name.png "Edit Name")
 
+[Back to Top](https://docs.mrqr.me/registers/)
+{: .text-right }
+
 To Remove the Section select **Remove**{: .text-red-000 } in the Form section panel.
 Select <button class="button button3">REMOVE</button>.
 Select <button class="button button2">CANCEL</button> to cancel the Section Removal.
 
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Section_Remove.png "Remove")
+
+[Back to Top](https://docs.mrqr.me/registers/)
+{: .text-right }
+
+## Adding Content & Inputs
+
+Your new section is now created. You can continue building you form by adding
+[Content](https://docs.mrqr.me/FormBuilder/Content) 
+and
+[Inputs](https://docs.mrqr.me/FormBuilder/Data_Inputs) 
+or create another new 
+[Section](https://docs.mrqr.me/FormBuilder/Section) 
+You can also **Edit**{: .text-light-grey-000 } the Section Name or completely **Remove**{: .text-red-000 } the Section from the Form Sections Panel.
+
+![MrQR Form Builder](/assets/images/Forms/MrQR_Form_New_Section_Created.png "Created")
+
 [Back to Top](https://docs.mrqr.me/registers/)
 {: .text-right }
