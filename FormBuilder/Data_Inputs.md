@@ -38,9 +38,11 @@ parent: MrQR Form Builder
 
 Your new section is now created. You can continue building you form by adding [Inputs](https://docs.mrqr.me/FormBuilder/Data_Inputs) 
 
-Select <button class="button button2">ADD INPUT</button> to open the New Field Panel and Select the Type of Input you wish to Add.
+Select <button class="button button2">ADD INPUT</button> to open the New Field Pane. 
 
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Form_New_Section_Created.png "Created")
+
+Select the Type of Input you wish to Add.
 
 ## Types of Inputs
 {: .text-purple-000 }
