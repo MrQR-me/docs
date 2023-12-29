@@ -67,6 +67,9 @@ Select the Type of Input you wish to Add.
 
 #### Single Line Text
 
+![MrQR Inputs](/assets/images/Forms/MrQR_Text_Single_Option.png "Single Test")
+
+
 
 #### Single Tick Box
 
