@@ -23,4 +23,7 @@ forms can created / edited / duplicated and accessed by any approved **MrQR**{: 
 
 ### £7.49 / Month / Site Licence
 
+
+
+
 Pleaes review and agree to our [Terms of Service](https://mrqr.me/terms-of-service/) and our [Pivacy Policy](https://mrqr.me/privacy-policy) before subscribing and using the **MrQR**{: .text-purple-000 } platform.
