@@ -17,7 +17,7 @@ parent: MrQR Form Builder
 
 ![MrQR Form Builder](/assets/images/Forms//Samples/MrQR_Sample_CircuitTest.png "Circuit Test")
 
-[Back to Top](https://docs.mrqr.me/registers/)
+[Back to Top](https://docs.mrqr.me/SampleForms/)
 {: .text-right }
 
 ## Electrical | Distribution Inspection
@@ -25,7 +25,7 @@ parent: MrQR Form Builder
 
 ![MrQR Form Builder](/assets/images/Forms//Samples/MrQR_Sample_DB_Inspection.png "DB Inspection")
 
-[Back to Top](https://docs.mrqr.me/registers/)
+[Back to Top](https://docs.mrqr.me/SampleForms/)
 {: .text-right }
 
 ## Electrical | RDC Test
@@ -33,7 +33,7 @@ parent: MrQR Form Builder
 
 ![MrQR Form Builder](/assets/images/Forms//Samples/MrQR_Sample_RCD.png "RCD Test")
 
-[Back to Top](https://docs.mrqr.me/registers/)
+[Back to Top](https://docs.mrqr.me/SampleForms/)
 {: .text-right }
 
 ## Electrical | Visual Inspection
@@ -41,7 +41,7 @@ parent: MrQR Form Builder
 
 ![MrQR Form Builder](/assets/images/Forms//Samples/MrQR_Sample_Visual_Inspection.png "Visual Inspection")
 
-[Back to Top](https://docs.mrqr.me/registers/)
+[Back to Top](https://docs.mrqr.me/SampleForms/)
 {: .text-right }
 
 ## Electrical | Safe Isolation
@@ -49,7 +49,7 @@ parent: MrQR Form Builder
 
 ![MrQR Form Builder](/assets/images/Forms//Samples/MrQR_Sample_safeIsolation.png "Safe Isolation")
 
-[Back to Top](https://docs.mrqr.me/registers/)
+[Back to Top](https://docs.mrqr.me/SampleForms/)
 {: .text-right }
 
 ## Acces Equipment | MWEP Pre User Checks
@@ -57,7 +57,7 @@ parent: MrQR Form Builder
 
 ![MrQR Form Builder](/assets/images/Forms//Samples/MrQR_Sample_MWEP_Inspection.png "MWEP Inspection")
 
-[Back to Top](https://docs.mrqr.me/registers/)
+[Back to Top](https://docs.mrqr.me/SampleForms/)
 {: .text-right }
 
 ## Acces Equipment | Ladder Pre User Checks
@@ -65,7 +65,7 @@ parent: MrQR Form Builder
 
 ![MrQR Form Builder](/assets/images/Forms//Samples/MrQR_sample_ladder.png "Ladder")
 
-[Back to Top](https://docs.mrqr.me/registers/)
+[Back to Top](https://docs.mrqr.me/SampleForms/)
 {: .text-right }
 
 ## Acces Equipment | MWEP Pre User Checks
@@ -73,7 +73,7 @@ parent: MrQR Form Builder
 
 ![MrQR Form Builder](/assets/images/Forms//Samples/MrQR_sample_mwep_Clean.png "MWEP Clean")
 
-[Back to Top](https://docs.mrqr.me/registers/)
+[Back to Top](https://docs.mrqr.me/SampleForms/)
 {: .text-right }
 
 ## Site Access | Sample Induction Form
@@ -81,7 +81,7 @@ parent: MrQR Form Builder
 
 ![MrQR Form Builder](/assets/images/Forms//Samples/MrQR_Sample_Induction_Form.png "Induction")
 
-[Back to Top](https://docs.mrqr.me/registers/)
+[Back to Top](https://docs.mrqr.me/SampleForms/)
 {: .text-right }
 
 ## Misc | Fire Door Inspection
@@ -89,7 +89,7 @@ parent: MrQR Form Builder
 
 ![MrQR Form Builder](/assets/images/Forms//Samples/MrQR_Sample_FireDoor.png "Fire Door")
 
-[Back to Top](https://docs.mrqr.me/registers/)
+[Back to Top](https://docs.mrqr.me/SampleForms/)
 {: .text-right }
 
 ## Misc | Equipment Details
@@ -97,5 +97,5 @@ parent: MrQR Form Builder
 
 ![MrQR Form Builder](/assets/images/Forms//Samples/MrQR_Sample_EquipmentDetails.png "Equipment")
 
-[Back to Top](https://docs.mrqr.me/registers/)
+[Back to Top](https://docs.mrqr.me/SampleForms/)
 {: .text-right }
