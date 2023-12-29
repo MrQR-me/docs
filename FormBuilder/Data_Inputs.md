@@ -135,7 +135,7 @@ User Inputs take the infomation entered on the User Profile Page. this data is a
 
 select the required `User' input from the Type Drop Down Box. Select <button class="button button1">SAVE</button> once you have entered a Label (*this can be a Question, Instruction or Statement*) and selected the register and form you wish to link to your new form.
 
-![MrQR Inputs](/assets/images/Forms/MrQR_Inputs_User.png")
+![MrQR Inputs](/assets/images/Forms/MrQR_Inputs_User.png "User Inputs")
 
 Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Tick.png"> the <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png"> Required Box if the input is Requied before Submitting the Form.
 
