@@ -27,7 +27,7 @@ parent: MrQR Form Builder
 </head>
 </html>
 
-# **MrQR**{: .text-purple-000 } Content
+# **Content**{: .text-purple-000 }
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Forms_Header.png "Header")
 
 Your new section is now created. You can continue building you form by adding
@@ -35,7 +35,7 @@ Your new section is now created. You can continue building you form by adding
 
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Form_New_Section_Created.png "Created")
 
-## CONTENT TYPES{: .text-purple-000 }
+## **Content Types**{: .text-purple-000 }
 Select <button class="button button2">ADD CONTENT</button> to open the New Content Panel.
 There are two types of content:
 * Text
@@ -45,7 +45,7 @@ The default content type is Text.
 
 ![Content](/assets/images/Forms/MrQR_Forms_Content_New.png "New")
 
-## TEXT CONTENT{: .text-purple-000 }
+## **Text Content** {: .text-purple-000 }
 Enter a title for your Text, then select <button class="button button1">SAVE</button> once you have entered your desired TEXT.
 
 ![Content](/assets/images/Forms/MrQR_Forms_Content_Input_Text.png "Text")
@@ -56,14 +56,18 @@ Now your Text content has been saved you can **Edit**{: .text-grey-lt-300 }, **R
 
 
 
-## MEDIA CONTENT{: .text-purple-000 }
-![Content](/assets/images/Forms/MrQR_Form_Content_Media_Select.png "Select")
+## **Media Content**{: .text-purple-000 }
+
+Select <button class="button button2">ADD CONTENT</button> to opent the Add Content Panel.
 ![Content](/assets/images/Forms/MrQR_Forms_Content_Type_Media.png "Type - Media")
+
+![Content](/assets/images/Forms/MrQR_Form_Content_Media_Select.png "Select")
+
 ![Content](/assets/images/Forms/MrQR_Forms_Content_Select_Media.png "Select Media")
 ![Content](/assets/images/Forms/MrQR_Forms_Content_Additional_Media.png "Additional Media")
 ![Content](/assets/images/Forms/MrQR_Form_Content_Media.png "Media")
 
-## UPDATE CONTENT{: .text-purple-000 }
+## **Update Content**{: .text-purple-000 }
 ![Content](/assets/images/Forms/MrQR_Forms_Content_Type_Text.png "Type - Text")
 
 ![Content](/assets/images/Forms/MrQR_Forms_Content_Text_Media.png "Text & Media")
