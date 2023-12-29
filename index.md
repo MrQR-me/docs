@@ -112,7 +112,9 @@ Selecting the
 <img width="25" alt="image" src="https://github.com/MrQR-me/docs/assets/153803042/4606c0ca-e99d-44c0-8b63-81048a5d4e2c">
 Icon at the top any page Close the **MrQR**{: .text-purple-000 } Platform Menu.
 
+<div style="text-align: center;">
 <img width="500" alt="image" src="https://docs.mrqr.me/assets/images/MrQR_Mobile_Menu.png">
+</div>
 
 [Back to Top](https://docs.mrqr.me/index)
 {: .text-right }
