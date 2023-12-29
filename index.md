@@ -29,7 +29,8 @@ nav_order: 0
 # **HOME**{: .text-purple-000 }
 {: .no_toc }
 
-Thankyou for chosing **MrQR**{: .text-purple-000 } a cloud based universal item management platform.
+### Thankyou for chosing **MrQR**{: .text-purple-000 } a cloud based universal item management platform.
+{: .no_toc }
 
 ![Index](/assets/images/MrQR_Landing_Page.png "Landing Page")
 
