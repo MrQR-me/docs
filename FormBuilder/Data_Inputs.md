@@ -59,7 +59,7 @@ Select <button class="button button2">ADD INPUT</button> to open the New field P
 ## Text
 {: .text-purple-000 }
 
-### Single Line Text
+### Single & Multiple Line Text Inputs
 {: .text-purple-000 }
 
 Select `Text` from the Type Drop Down Box. Select <button class="button button1">SAVE</button> once you have entered a Label (*this can be a Question, Instruction or Statement*). This Input allows the user to enter a single line text. By placing a Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Tick.png"> the <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png"> Long answer Box allows the user to enter multiple lines of text.
