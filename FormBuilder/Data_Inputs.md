@@ -94,7 +94,7 @@ After 4 or more options have been added the selection becomes a dropdown box dur
 
 ![MrQR Inputs](/assets/images/Forms/MrQR_Text_Dropdown_Form.png "Mutltiple Dropdown Box")
 
-[Back to Top](https://docs.mrqr.me/Data_Inputs/)
+[Back to Top](https://docs.mrqr.me/FormBuilder/Data_Inputs/)
 {: .text-right }
 
 ## Date Inputs
@@ -106,7 +106,7 @@ Select `Date` from the Type Drop Down Box. Select <button class="button button1"
 Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Tick.png"> the <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png"> Required Box if the input is Requied before Submitting the Form.
 
 
-[Back to Top](https://docs.mrqr.me/Data_Inputs/)
+[Back to Top](https://docs.mrqr.me/FormBuilder/Data_Inputs/)
 {: .text-right }
 
 ## Photo Upload Inputs
@@ -120,7 +120,7 @@ Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/M
 
 Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Tick.png"> the <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png"> Allow multiple Box if Multiple Photos can be accepted.
 
-[Back to Top](https://docs.mrqr.me/Data_Inputs/)
+[Back to Top](https://docs.mrqr.me/FormBuilder/Data_Inputs/)
 {: .text-right }
 
 ## Relationship Input
@@ -134,7 +134,7 @@ Select `Form submission` from the Type Drop Down Box. Select <button class="butt
 
 Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Tick.png"> the <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png"> Required Box if the input is Requied before Submitting the Form.
 
-[Back to Top](https://docs.mrqr.me/Data_Inputs/)
+[Back to Top](https://docs.mrqr.me/FormBuilder/Data_Inputs/)
 {: .text-right }
 
 ## User Inputs
@@ -164,5 +164,5 @@ select the required `User' input from the Type Drop Down Box. Select <button cla
 
 Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Tick.png"> the <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png"> Required Box if the input is Requied before Submitting the Form.
 
-[Back to Top](https://docs.mrqr.me/Data_Inputs/)
+[Back to Top](https://docs.mrqr.me/FormBuilder/Data_Inputs/)
 {: .text-right }
