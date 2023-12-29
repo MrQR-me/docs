@@ -11,6 +11,8 @@ aux_links: # remove if you don't want this link to appear on your pages
   Visit MrQR: https://mrqr.me
 
 footer_content: "Copyright &copy; 2023 <a href=\"https://mrqr.me/\">MrQR</a>"
+footer_content: <a href=\"https://mrqr.me/terms-of-service/\">Terms of Service</a>" 
+footer_content: <a href=\"https://mrqr.me/privacy-policy/\">Pivacy Policy</a>"
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
