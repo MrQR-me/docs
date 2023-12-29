@@ -54,20 +54,28 @@ Now your Text content has been saved you can **Edit**{: .text-grey-lt-300 }, **R
 
 ![Content](/assets/images/Forms/MrQR_Forms_Content_Text_Added.png "Text Added")
 
-
-
 ## **Media Content**{: .text-purple-000 }
 
-Select <button class="button button2">ADD CONTENT</button> to opent the Add Content Panel.
+Select <button class="button button2">ADD CONTENT</button> to open the Add Content Panel.
+Add a title for your media, select `Media` in the Type Drop Down Box.
+
 ![Content](/assets/images/Forms/MrQR_Forms_Content_Type_Media.png "Type - Media")
+
+Select <button class="button button2">SELECT MEDIA</button> to choose you image, video or take a photo or video using your devices camera.
+
+![Content](/assets/images/Forms/MrQR_Forms_Content_Select_Media.png "Select Media")
+
+Once you have selected you Media please wait for the image upload to complete. Once complete you will see the image Icon.
+you can delete the image or add more media.
+
+![Content](/assets/images/Forms/MrQR_Forms_Content_Additional_Media.png "Additional Media")
+
+
+
+## **Update Content**{: .text-purple-000 }
 
 ![Content](/assets/images/Forms/MrQR_Form_Content_Media_Select.png "Select")
 
-![Content](/assets/images/Forms/MrQR_Forms_Content_Select_Media.png "Select Media")
-![Content](/assets/images/Forms/MrQR_Forms_Content_Additional_Media.png "Additional Media")
-![Content](/assets/images/Forms/MrQR_Form_Content_Media.png "Media")
-
-## **Update Content**{: .text-purple-000 }
 ![Content](/assets/images/Forms/MrQR_Forms_Content_Type_Text.png "Type - Text")
 
 ![Content](/assets/images/Forms/MrQR_Forms_Content_Text_Media.png "Text & Media")
@@ -77,6 +85,6 @@ Select <button class="button button2">ADD CONTENT</button> to opent the Add Cont
 [Content](https://docs.mrqr.me/FormBuilder/Content) 
 
 
-
+![Content](/assets/images/Forms/MrQR_Form_Content_Media.png "Media")
 
 
