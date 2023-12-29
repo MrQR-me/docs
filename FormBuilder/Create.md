@@ -27,12 +27,25 @@ parent: MrQR Form Builder
 </head>
 </html>
 
-# **MrQR**{: .text-purple-000 } Forms
+# **Forms**{: .text-purple-000 }
+{: .no_toc }
+
+{:toc }
+- .TOC
+  
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Forms_Header.png "Header")
+
+You can create your own form using the **MrQR**{: .text-purple-000 } Form Builder. Forms consists of multiple Sections containg any number of Content or Data Input. 
+
+## Creating a Form
+: .text-purple-000 }
 
 After selecting Forms in the top menu bar to create a new form Select <button class="button button1">CREATE</button> once you have entered the desired Form name in the New Form Name Box.
 
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Form_Create_New.png "Create Form")
+
+## Form Settings
+{: .text-purple-000 }
 
 Your new form is now created and will open in the `Form Settings`Panel. You can start building your form by firstly adding 
 [Sections](https://docs.mrqr.me/FormBuilder/Section) 
@@ -41,9 +54,25 @@ followed by
  and / or 
 [Inputs](https://docs.mrqr.me/FormBuilder/Data_Inputs).
 
+![MrQR Form Builder](/assets/images/Forms/MrQR_Form_New_Form_Menu.png "New Form Page")
+
 You can also change the form name and view any items the form has been assigned to.
 To change the form name Select <button class="button button1">SAVE</button> once you have entered the desired form name in the Form Name Box.
 
-![MrQR Form Builder](/assets/images/Forms/MrQR_Form_New_Form_Menu.png "New Form Page")
+Your new Form is now created. You can continue building you form by adding [Sections](https://docs.mrqr.me/FormBuilder/Section). 
+Select <button class="button button2">NEW SECTION</button> to open the Create Section panel.
+
+
+## Adding a New Section
+{: .text-purple-000 }
+
+
+
+
+
+
+
+
+
 
 Start building your form by adding a [Section](https://docs.mrqr.me/FormBuilder/Section). Select the <a href="https://docs.mrqr.me/FormBuilder/Section">  <button class="button button2">NEW SECTION</button></a> button to add a section.
