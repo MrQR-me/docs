@@ -29,14 +29,16 @@ permalink: docs/FormBuilder
 </html>
 
 # **MrQR**{: .text-purple-000 } Form Builder Addon
-The
- **MrQR**{: .text-purple-000 } Form Builder Addon is included when you purchase Additional Sites and enables you to duplicate sample forms to your new sites, Edit the duplicated sample Forms and create, Edit and duplicate your own **MrQR**{: .text-purple-000 } Forms.
+
+The **MrQR**{: .text-purple-000 } Form Builder Addon is included when you purchase Additional Sites and enables you to duplicate sample forms to your new sites, Edit the duplicated sample Forms and create, Edit and duplicate your own **MrQR**{: .text-purple-000 } Forms.
 
 The Forms panel consists of two sections;
 * New Form - *Create a form*
 * Forms - *All your Forms*
 
 All you forms, lists all the sample forms and forms created or duplicated on the current site. Sample Forms included on the **MrQR**{: .Text-purple-000 } platform cannot be edited, they must 1st be duplicated to a site and the duplucate form can be edited.
+## New Forms
+{: .text-purple-000 }
 
 Select <a href="https://docs.mrqr.me/FormBuilder/Create"><button class="button button1">CREATE</button></a> once you have entered the desired Form name in the New Form Name Box.
 
@@ -44,6 +46,8 @@ Select <a href="https://docs.mrqr.me/FormBuilder/Create"><button class="button b
 
 ## Duplicating Forms
 {: .text-purple-000 }
-Select Duplicate, this will open the duplicate form panel. Select Save when you have selected the site you wish to duplicate the form to
 
-![MrQR Form Builder](/assets/images/Forms/MrQR_Form_Main_Menu.png "Main Page")
+Select **Duplicate**{: .text-grey-300 } in the `All your forms` list, this will open the duplicate form panel. Select <button class="button button1">DUPLICATE</button> when you have selected the site you wish to duplicate the form to or select <button class="button button2">CANCEL</button>.
+you can noe edit the duplicated form.
+
+![MrQR Form Builder](/assets/images/MrQR_Duplicate_Form.png "Duplicate Form")
