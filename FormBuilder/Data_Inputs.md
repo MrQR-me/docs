@@ -66,8 +66,10 @@ Select the Type of Input you wish to Add.
 ![MrQR Inputs](/assets/images/Forms/MrQR_Form_New_Field_Text.png "Text")
 
 #### Single Line Text
-#### Long Answer Text
+
+
 #### Single Tick Box
+
 #### Multiple Check Boxes
 
 [Back to Top](https://docs.mrqr.me/Data_Inputs/)
