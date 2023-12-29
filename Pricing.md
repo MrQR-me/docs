@@ -12,7 +12,8 @@ nav_order: 15
 
 ## **MrQR**{: .text-purple-000 } Pro User Account including a Perdonal Site
 
--£2.49- / Month (free untill Launch in March 2024)
+~~£2.49~~/ Month
+(*while making improvements and adding exciting new features pro user accounts are free - £0.00/month untill Launch in March 2024*)
 
 ## Additional Site Licence including **MrQR**{: .text-purple-000 } Form Builder
 £7.49 / Month / Site Licence
