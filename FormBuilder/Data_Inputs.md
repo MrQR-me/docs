@@ -78,15 +78,18 @@ Select the Type of Input you wish to Add.
 ## Date Inputs
 {: .text-purple-000 }
 
-Select `Date` from the Type Drop Down Box, 
-![MrQR Inputs](/assets/images/Forms/MrQR_Form__New_Field_Date.png "Date")
+Select `Date` from the Type Drop Down Box. Select <button class="button button1">SAVE</button> once you have entered a Label (*this can be a Question, Instruction or Statement*).
 
+![MrQR Inputs](/assets/images/Forms/MrQR_Form__New_Field_Date.png "Date")
 
 [Back to Top](https://docs.mrqr.me/Data_Inputs/)
 {: .text-right }
 
 ## Photo Upload Inputs
 {: .text-purple-000 }
+
+Select `Photo Upload` from the Type Drop Down Box. Select <button class="button button1">SAVE</button> once you have entered a Label (*this can be a Question, Instruction or Statement*).
+
 
 ![MrQR Inputs](/assets/images/Forms/MrQR_Form_New_Field_Image.png "Media")
 
