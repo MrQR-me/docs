@@ -49,7 +49,7 @@ Enter a title for your Text, then select <button class="button button1">SAVE</bu
 ![Content](/assets/images/Forms/MrQR_Forms_Content_Input_Text.png "Text")
 
 Now your Text content has been saved you can **Edit**, **Remove**{: .text-red-000 } or add more content and inputs.
-you can rearrange the order of Text and Inputs later.
+you can rearrange the order of Text and Inputs later by selecting and moving the <img width="100" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Section_Expand.png"> icon.
 
 ![Content](/assets/images/Forms/MrQR_Forms_Content_Text_Added.png "Text Added")
 
