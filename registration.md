@@ -58,14 +58,11 @@ Go to **[MrQR.me](https://mrqr.me/)**{: .text-purple-000 } and select <button cl
 [Back to Top](https://docs.mrqr.me/assets/)
 {: .text-right }
 
-Enter Your Valid Email Address and Password,
-review and Tick the Agree to our Terms of Service & Privacy Policy
-then select <button class="button button1">REGISTER</button>
+Enter Your Valid Email Address and Password.
+
+Please review and Tick the Agree to our [Terms of Service](https://mrqr.me/terms-of-service) & [Privacy Policy](https://[mrqr.me/terms-of-service](https://mrqr.me/privacy-policy)) then select <button class="button button1">REGISTER</button>
 
 ![Free Account](/assets/images/MrQR_Register.png "RESGISTER")
-
-[Back to Top](https://docs.mrqr.me/assets/)
-{: .text-right }
 
 Once Registered you can now enter your [Profile](https://docs.mrqr.me/profile/) Details.
 
