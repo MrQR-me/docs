@@ -57,6 +57,8 @@ The default content type is Text.
 Select <button class="button button2">ADD INPUT</button> to open the New field Panel.
 
 ## Text
+{: .text-purple-000 }
+
 ### Single Line Text
 {: .text-purple-000 }
 
