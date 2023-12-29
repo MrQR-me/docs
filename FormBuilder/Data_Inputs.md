@@ -55,15 +55,11 @@ Select the Type of Input you wish to Add.
 {:toc}
 </details>
 
-
-
-[Back to Top](https://docs.mrqr.me/Data_Inputs/)
-{: .text-right }
-
 ## Text Inputs
 {: .text-purple-000 }
 
-#### Single Line Text
+### Single Line Text
+{: .text-purple-000 }
 
 Select `Text` from the Type Drop Down Box. Select <button class="button button1">SAVE</button> once you have entered a Label (*this can be a Question, Instruction or Statement*). This Input allows the user to enter a single line text. By placing a Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Tick.png"> the <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png"> Long answer Box allows the user to enter multiple lines of text.
 
@@ -71,14 +67,17 @@ Select `Text` from the Type Drop Down Box. Select <button class="button button1"
 
 Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Tick.png"> the <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png"> Required Box if the input is Requied before Submitting the Form.
 
-#### Single Tick Box
+### Single Tick Box
+{: .text-purple-000 }
+
 By Selecting the <button class="button button2">ADD VALUE                .</button> once creates a single option Tick box answer. this is useful if you want the user submitting the form to agree to a particular statment.
 
 ![MrQR Inputs](/assets/images/Forms/MrQR_Text_Single_Option.png "Single Line Text")
 
 Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Tick.png"> the <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png"> Required Box if the input is Requied before Submitting the Form.
 
-#### Multiple Check Boxes
+### Multiple Check Boxes
+{: .text-purple-000 }
 
 By Selecting the <button class="button button2">ADD VALUE                .</button> multiple times creates a multiple choice option Check box answers. This is useful if you want the user submitting the form to select a particular statment. 
 
