@@ -55,8 +55,6 @@ Select the Type of Input you wish to Add.
 {:toc}
 </details>
 
-
-
 ![MrQR Inputs](/assets/images/Forms/MrQR_Form_Field_Types.png "Input Types All")
 
 [Back to Top](https://docs.mrqr.me/Data_Inputs/)
@@ -81,6 +79,7 @@ Select the Type of Input you wish to Add.
 Select `Date` from the Type Drop Down Box. Select <button class="button button1">SAVE</button> once you have entered a Label (*this can be a Question, Instruction or Statement*).
 
 ![MrQR Inputs](/assets/images/Forms/MrQR_Form__New_Field_Date.png "Date")
+Select <img height="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Required.png"> if the input is Requied before Submitting the Form.
 
 [Back to Top](https://docs.mrqr.me/Data_Inputs/)
 {: .text-right }
