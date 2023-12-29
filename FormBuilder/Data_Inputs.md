@@ -70,7 +70,7 @@ Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/M
 ### Single Tick Box
 {: .text-purple-000 }
 
-By Selecting the <button class="button button2">ADD VALUE                .</button> once creates a single option Tick box answer. this is useful if you want the user submitting the form to agree to a particular statment.
+By Selecting the <button class="button button2">ADD VALUE</button> once creates a single option Tick box answer. this is useful if you want the user submitting the form to agree to a particular statment.
 
 ![MrQR Inputs](/assets/images/Forms/MrQR_Text_Single_Option.png "Single Line Text")
 
@@ -79,7 +79,7 @@ Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/M
 ### Multiple Check Boxes
 {: .text-purple-000 }
 
-By Selecting the <button class="button button2">ADD VALUE                .</button> multiple times creates a multiple choice option Check box answers. This is useful if you want the user submitting the form to select a particular statment. 
+By Selecting the <button class="button button2">ADD VALUE</button> multiple times creates a multiple choice option Check box answers. This is useful if you want the user submitting the form to select a particular statment. 
 
 ![MrQR Inputs](/assets/images/Forms/MrQR_Text_Multiple_Option.png "Mutltiple Check Box")
 
