@@ -55,6 +55,9 @@ The default content type is Text.
 
 ![Content](/assets/images/Forms/MrQR_Forms_Content_New.png "New")
 
+[Back to Top](https://docs.mrqr.me/Content/)
+{: .text-right }
+
 ## Text Content
 {: .text-purple-000 }
 Enter a title for your Text, then select <button class="button button1">SAVE</button> once you have entered your desired TEXT.
@@ -64,6 +67,9 @@ Enter a title for your Text, then select <button class="button button1">SAVE</bu
 Now your Text content has been saved you can **Edit**{: .text-grey-lt-300 }, **Remove**{: .text-red-000 } or <button class="button button2">ADD CONTENT</button> and <button class="button button2">ADD INPUT</button>. You can rearrange the order of Text and Inputs later by selecting and moving the <img width="20" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Form_Move_Field.png"> icon.
 
 ![Content](/assets/images/Forms/MrQR_Forms_Content_Text_Added.png "Text Added")
+
+[Back to Top](https://docs.mrqr.me/Content/)
+{: .text-right }
 
 ## Media Content
 {: .text-purple-000 }
@@ -81,6 +87,9 @@ Once you have selected you Media please wait for the image upload to complete. O
 you can delete the image or add more media.
 
 ![Content](/assets/images/Forms/MrQR_Form_Content_Media.png "Media")
+
+[Back to Top](https://docs.mrqr.me/Content/)
+{: .text-right }
 
 ## Update Content
 {: .text-purple-000 }
@@ -102,4 +111,7 @@ This opens the Remove Field Panel. Select <button class="button button2">CANCEL<
 
 and then <button class="button button2">ADD CONTENT</button> as detailed in Media Content above
 ![Content](/assets/images/Forms/MrQR_Form_Content_Media_Select.png "Select")
+
+[Back to Top](https://docs.mrqr.me/Content/)
+{: .text-right }
 
