@@ -55,7 +55,7 @@ Select the Type of Input you wish to Add.
 {:toc}
 </details>
 
-![MrQR Inputs](/assets/images/Forms/MrQR_Form_Field_Types.png "Input Types All")
+
 
 [Back to Top](https://docs.mrqr.me/Data_Inputs/)
 {: .text-right }
@@ -100,7 +100,7 @@ Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/M
 [Back to Top](https://docs.mrqr.me/Data_Inputs/)
 {: .text-right }
 
-## Form Submission Inputs
+## Relationship Input
 {: .text-purple-000 }
 
 If you have additional Registers and Forms, you can link previously submitted forms as an Input on your new form.
@@ -114,120 +114,28 @@ Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/M
 [Back to Top](https://docs.mrqr.me/Data_Inputs/)
 {: .text-right }
 
-## User Profile Inputs
+## User Inputs
 {: .text-purple-000 }
 
-Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Tick.png"> the <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png"> Required Box if the input is Requied before Submitting the Form.
+User Inputs take the infomation entered on the User Profile Page. this data is automtically enteron onto a form when the completing the form subscrbes to the **MrQR**{: .text-purple-000 } Pro Account. the inputs includ:
+* Profile Photo
+* Full Name
+* Phone Number
+* National Insurance Number
+* Date of Birth
+* Occupation
+* Employer
+* Emplyment Status
+* Medical Infomation
+* Next of Kin - Name
+* Next of Kin - Contact Number
+* Address Inputs
+* Training Record Inputs
+* Equipmet Inputs
 
-[Back to Top](https://docs.mrqr.me/Data_Inputs/)
-{: .text-right }
+select the required `User' input from the Type Drop Down Box. Select <button class="button button1">SAVE</button> once you have entered a Label (*this can be a Question, Instruction or Statement*) and selected the register and form you wish to link to your new form.
 
-### Profile Photo
-{: .text-purple-000 }
-
-Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Tick.png"> the <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png"> Required Box if the input is Requied before Submitting the Form.
-
-[Back to Top](https://docs.mrqr.me/Data_Inputs/)
-{: .text-right }
-
-### Full Name
-{: .text-purple-000 }
-
-Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Tick.png"> the <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png"> Required Box if the input is Requied before Submitting the Form.
-
-[Back to Top](https://docs.mrqr.me/Data_Inputs/)
-{: .text-right }
-
-### Phone Number
-{: .text-purple-000 }
-
-Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Tick.png"> the <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png"> Required Box if the input is Requied before Submitting the Form.
-
-[Back to Top](https://docs.mrqr.me/Data_Inputs/)
-{: .text-right }
-
-### National Insurance Number
-{: .text-purple-000 }
-
-Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Tick.png"> the <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png"> Required Box if the input is Requied before Submitting the Form.
-
-[Back to Top](https://docs.mrqr.me/Data_Inputs/)
-{: .text-right }
-
-### Date of Birth
-{: .text-purple-000 }
-
-Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Tick.png"> the <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png"> Required Box if the input is Requied before Submitting the Form.
-
-[Back to Top](https://docs.mrqr.me/Data_Inputs/)
-{: .text-right }
-
-### Occupation
-{: .text-purple-000 }
-
-Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Tick.png"> the <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png"> Required Box if the input is Requied before Submitting the Form.
-
-[Back to Top](https://docs.mrqr.me/Data_Inputs/)
-{: .text-right }
-
-### Employer
-{: .text-purple-000 }
-
-Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Tick.png"> the <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png"> Required Box if the input is Requied before Submitting the Form.
-
-[Back to Top](https://docs.mrqr.me/Data_Inputs/)
-{: .text-right }
-
-### Emplyment Status
-{: .text-purple-000 }
-
-Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Tick.png"> the <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png"> Required Box if the input is Requied before Submitting the Form.
-
-[Back to Top](https://docs.mrqr.me/Data_Inputs/)
-{: .text-right }
-
-### Medical Infomation
-{: .text-purple-000 }
-
-Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Tick.png"> the <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png"> Required Box if the input is Requied before Submitting the Form.
-
-[Back to Top](https://docs.mrqr.me/Data_Inputs/)
-{: .text-right }
-
-### Next of Kin - Name
-{: .text-purple-000 }
-
-Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Tick.png"> the <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png"> Required Box if the input is Requied before Submitting the Form.
-
-[Back to Top](https://docs.mrqr.me/Data_Inputs/)
-{: .text-right }
-
-### Next of Kin - Contact Number
-{: .text-purple-000 }
-
-Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Tick.png"> the <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png"> Required Box if the input is Requied before Submitting the Form.
-
-[Back to Top](https://docs.mrqr.me/Data_Inputs/)
-{: .text-right }
-
-## Address Inputs
-{: .text-purple-000 }
-
-Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Tick.png"> the <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png"> Required Box if the input is Requied before Submitting the Form.
-
-[Back to Top](https://docs.mrqr.me/Data_Inputs/)
-{: .text-right }
-
-## Training Record Inputs
-{: .text-purple-000 }
-
-Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Tick.png"> the <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png"> Required Box if the input is Requied before Submitting the Form.
-
-[Back to Top](https://docs.mrqr.me/Data_Inputs/)
-{: .text-right }
-
-## Equipmet Inputs
-{: .text-purple-000 }
+![MrQR Inputs](/assets/images/Forms/MrQR_Form_Field_Types.png "Input Types All")
 
 Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Tick.png"> the <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png"> Required Box if the input is Requied before Submitting the Form.
 
