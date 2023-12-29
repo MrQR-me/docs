@@ -17,7 +17,7 @@ parent: MrQR Form Builder
 
 ![MrQR Form Builder](/assets/images/Forms//Samples/MrQR_Sample_CircuitTest.png "Circuit Test")
 
-[Back to Top](https://docs.mrqr.me/SampleForms/)
+[Back to Top](https://docs.mrqr.me/ForBuilder/SampleForms/)
 {: .text-right }
 
 ## Electrical | Distribution Inspection
