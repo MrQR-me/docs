@@ -8,7 +8,6 @@ parent: MrQR Form Builder
 
 # **Sample Forms**{: .text-purple-000 }
 {: .no_toc }
-
 {:toc }
 - .TOC
 
@@ -42,17 +41,27 @@ parent: MrQR Form Builder
 
 ![MrQR Form Builder](/assets/images/Forms//Samples/MrQR_Sample_MWEP_Inspection.png "MWEP Inspection")
 
-## Acces Equipment | MWEP Pre User Checks
+## Acces Equipment | Ladder Pre User Checks
 {: .text-purple-000 }
-
-
-
-![MrQR Form Builder](/assets/images/Forms//Samples/MrQR_sample_mwep_Clean.png "MWEP Clean")
-
-![MrQR Form Builder](/assets/images/Forms//Samples/MrQR_Sample_Induction_Form.png "Induction")
 
 ![MrQR Form Builder](/assets/images/Forms//Samples/MrQR_sample_ladder.png "Ladder")
 
+## Acces Equipment | MWEP Pre User Checks
+{: .text-purple-000 }
+
+![MrQR Form Builder](/assets/images/Forms//Samples/MrQR_sample_mwep_Clean.png "MWEP Clean")
+
+## Site Access | Sample Induction Form
+{: .text-purple-000 }
+
+![MrQR Form Builder](/assets/images/Forms//Samples/MrQR_Sample_Induction_Form.png "Induction")
+
+## Misc | Fire Door Inspection
+{: .text-purple-000 }
+
 ![MrQR Form Builder](/assets/images/Forms//Samples/MrQR_Sample_FireDoor.png "Fire Door")
+
+## Misc | Equipment Details
+{: .text-purple-000 }
 
 ![MrQR Form Builder](/assets/images/Forms//Samples/MrQR_Sample_EquipmentDetails.png "Equipment")
