@@ -49,10 +49,11 @@ Enter a title for your TEXT, then select <button class="button button1">SAVE</bu
 ![Content](/assets/images/Forms/MrQR_Forms_Content_Input_Text.png "Text")
 
 3
-![Content](/assets/images/Forms/MrQR_Forms_Content_Type_Text.png "Type - Text")
+
+![Content](/assets/images/Forms/MrQR_Forms_Content_Text_Added.png "Text Added")
 
 4
-![Content](/assets/images/Forms/MrQR_Forms_Content_Text_Added.png "Text Added")
+![Content](/assets/images/Forms/MrQR_Forms_Content_Type_Text.png "Type - Text")
 
 5
 [Content](https://docs.mrqr.me/FormBuilder/Content) 
