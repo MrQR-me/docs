@@ -48,7 +48,7 @@ Enter a title for your Text, then select <button class="button button1">SAVE</bu
 
 ![Content](/assets/images/Forms/MrQR_Forms_Content_Input_Text.png "Text")
 
-Now your Text content has been saved you can **Edit**, **Remove**{: .text-purple-000 } or add more content and inputs.
+Now your Text content has been saved you can **Edit**, **Remove**{: .text-red-000 } or add more content and inputs.
 you can rearrange the order of Text and Inputs later.
 
 ![Content](/assets/images/Forms/MrQR_Forms_Content_Text_Added.png "Text Added")
