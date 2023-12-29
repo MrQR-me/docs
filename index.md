@@ -84,7 +84,9 @@ View our documentation for **MrQR**{: .text-purple-000 }, use the links in the s
 however due to the reduced screens size on smartphone's and smaller tablet's accessing the main menu is achieved by selecting the 
 <img width="25" alt="image" src="https://github.com/MrQR-me/docs/assets/153803042/c52befe4-d437-41f0-908d-b7e4ad467e74">
 Icon in the top right hand corner.
+
 ![Index](/assets/images/MrQR_Mobile_Access_Menu.png "Smartphone menu access")
+
 [Back to Top](https://docs.mrqr.me/index)
 {: .text-right }
 
