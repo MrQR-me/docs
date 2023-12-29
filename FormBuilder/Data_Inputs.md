@@ -53,6 +53,28 @@ Your new section is now created. You can continue building you form by adding [I
 
 ## User Profile Inputs
 
+### Profile Photo
+
+### Full Name
+
+### Phone Number
+
+### National Insurance Number
+
+### Date of Birth
+
+### Occupation
+
+### Employer
+
+### Emplyment Status
+
+### Medical Infomation
+
+### Next of Kin - Name
+
+### Next of Kin - Contact Number
+
 ### Address Inputs
 
 ### Training Record Inputs
