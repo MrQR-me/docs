@@ -4,6 +4,7 @@ title: Sample Forms
 nav_order: 14
 parent: MrQR Form Builder
 ---
+
 register your free account; Go to **[MrQR.me](https://mrqr.me/)**{: .text-purple-000 } and select <button class="button button1">REGISTER</button>
 
 # **Sample Forms**{: .text-purple-000 }
