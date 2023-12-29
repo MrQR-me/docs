@@ -60,7 +60,7 @@ Go to **[MrQR.me](https://mrqr.me/)**{: .text-purple-000 } and select <button cl
 
 Enter Your Valid Email Address and Password.
 
-Please review and Tick the Agree to our [Terms of Service](https://mrqr.me/terms-of-service) & [Privacy Policy](https://[mrqr.me/terms-of-service](https://mrqr.me/privacy-policy)) then select <button class="button button1">REGISTER</button>
+Please review and Tick the Agree to our [Terms of Service](https://mrqr.me/terms-of-service) & [Privacy Policy](https://mrqr.me/privacy-policy) then select <button class="button button1">REGISTER</button>
 
 ![Free Account](/assets/images/MrQR_Register.png "RESGISTER")
 
