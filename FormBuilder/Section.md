@@ -31,7 +31,7 @@ parent: MrQR Form Builder
 </head>
 </html>
 
-# **MrQR**{: .text-purple-000 } SECTIONS
+# **Sections**{: .text-purple-000 }
 
 In the Form Settings page, Select <button class="button button2">NEW SECTION</button> to open the Create Section panel.
 
