@@ -95,7 +95,7 @@ Select `Photo Upload` from the Type Drop Down Box. Select <button class="button 
 
 Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Tick.png"> the <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png"> Required Box if the input is Requied before Submitting the Form.
 
-Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Tick.png"> the <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png"> Multiple image Box if Box if Multiple Photo's can be uploaded.
+Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Tick.png"> the <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png"> Allow multiple Box if Multiple Photo's can be uploaded.
 
 [Back to Top](https://docs.mrqr.me/Data_Inputs/)
 {: .text-right }
