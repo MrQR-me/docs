@@ -44,42 +44,61 @@ Your new section is now created. You can continue building you form by adding [I
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Form_New_Section_Created.png "Created")
 
 ## Text Inputs
+{: .text-purple-000 }
 
 ## Date Inputs
+{: .text-purple-000 }
 
 ## Photo Upload Inputs
+{: .text-purple-000 }
 
 ## Form Submission Inputs
+{: .text-purple-000 }
 
 ## User Profile Inputs
+{: .text-purple-000 }
 
 ### Profile Photo
+{: .text-purple-000 }
 
 ### Full Name
+{: .text-purple-000 }
 
 ### Phone Number
+{: .text-purple-000 }
 
 ### National Insurance Number
+{: .text-purple-000 }
 
 ### Date of Birth
+{: .text-purple-000 }
 
 ### Occupation
+{: .text-purple-000 }
 
 ### Employer
+{: .text-purple-000 }
 
 ### Emplyment Status
+{: .text-purple-000 }
 
 ### Medical Infomation
+{: .text-purple-000 }
 
 ### Next of Kin - Name
+{: .text-purple-000 }
 
 ### Next of Kin - Contact Number
+{: .text-purple-000 }
 
 ### Address Inputs
+{: .text-purple-000 }
 
 ### Training Record Inputs
+{: .text-purple-000 }
 
 ### Equipmet Inputs
+{: .text-purple-000 }
 
 ![MrQR Form Builder](/assets/images/MrQR%20Forms_Page_6.png "Page 6")
 ![MrQR Form Builder](/assets/images/MrQR%20Forms_Page_7.png "Page 7")
