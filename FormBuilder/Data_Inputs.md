@@ -32,7 +32,8 @@ parent: MrQR Form Builder
 </html>
 
 # **Inputs**{: .text-purple-000 }
-{: .no_toc }
+{:toc}
+- .TOC
   
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Forms_Header.png "Header")
 
@@ -47,13 +48,6 @@ Select the Type of Input you wish to Add.
 ## Types of Inputs
 {: .text-purple-000 }
 {: .no_toc }
-<details open markdown="block">
-  <summary>
-  </summary>
-  {: .text-delta }
-- .TOC
-{:toc}
-</details>
 
 ## Text Inputs
 {: .text-purple-000 }
