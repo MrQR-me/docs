@@ -33,9 +33,6 @@ parent: MrQR Form Builder
 
 # **Inputs**{: .text-purple-000 }
 {: .no_toc }
-
-{:toc }
-- .TOC
   
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Forms_Header.png "Header")
 
@@ -43,20 +40,49 @@ Your new section is now created. You can continue building you form by adding [I
 
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Form_New_Section_Created.png "Created")
 
+## Types of Inputs
+{: .text-purple-000 }
+
+{:toc }
+- .TOC
+
+[Back to Top](https://docs.mrqr.me/Data_Inputs/)
+{: .text-right }
+
 ## Text Inputs
 {: .text-purple-000 }
+
+
+[Back to Top](https://docs.mrqr.me/Data_Inputs/)
+{: .text-right }
 
 ## Date Inputs
 {: .text-purple-000 }
 
+
+[Back to Top](https://docs.mrqr.me/Data_Inputs/)
+{: .text-right }
+
 ## Photo Upload Inputs
 {: .text-purple-000 }
+
+
+[Back to Top](https://docs.mrqr.me/Data_Inputs/)
+{: .text-right }
 
 ## Form Submission Inputs
 {: .text-purple-000 }
 
+
+[Back to Top](https://docs.mrqr.me/Data_Inputs/)
+{: .text-right }
+
 ## User Profile Inputs
 {: .text-purple-000 }
+
+
+[Back to Top](https://docs.mrqr.me/Data_Inputs/)
+{: .text-right }
 
 ### Profile Photo
 {: .text-purple-000 }
@@ -99,6 +125,10 @@ Your new section is now created. You can continue building you form by adding [I
 
 ### Equipmet Inputs
 {: .text-purple-000 }
+
+
+[Back to Top](https://docs.mrqr.me/Data_Inputs/)
+{: .text-right }
 
 ![MrQR Form Builder](/assets/images/MrQR%20Forms_Page_6.png "Page 6")
 ![MrQR Form Builder](/assets/images/MrQR%20Forms_Page_7.png "Page 7")
