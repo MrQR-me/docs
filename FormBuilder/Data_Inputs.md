@@ -58,7 +58,6 @@ Select <button class="button button2">ADD INPUT</button> to open the New field P
 
 ## Text
 {: .text-purple-000 }
-
 ### Single & Multiple Line Text Inputs
 {: .text-purple-000 }
 
