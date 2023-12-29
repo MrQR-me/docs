@@ -4,7 +4,7 @@ title: Sample Forms
 nav_order: 14
 parent: MrQR Form Builder
 ---
-
+register your free account; Go to MrQR.me and select REGISTER
 
 # **Sample Forms**{: .text-purple-000 }
 {: .no_toc }
