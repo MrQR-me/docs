@@ -133,7 +133,7 @@ User Inputs take the infomation entered on the User Profile Page. this data is a
 * Training Record Inputs
 * Equipmet Inputs
 
-select the required `User' input from the Type Drop Down Box. Select <button class="button button1">SAVE</button> once you have entered a Label (*this can be a Question, Instruction or Statement*) and selected the register and form you wish to link to your new form.
+select the required `User' input from the Type Drop Down Box. Select <button class="button button1">SAVE</button> once you have entered a Label (*this can be a Question, Instruction or Statement*).
 
 ![MrQR Inputs](/assets/images/Forms/MrQR_Inputs_User.png "User Inputs")
 
