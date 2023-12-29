@@ -4,11 +4,14 @@ title: Data Input Fields
 nav_order: 14
 parent: MrQR Form Builder
 ---
+# **Sample Forms**{: .text-purple-000 }
+{: .no_toc }
 
-# Sample Forms
-{: .text-purple-000 }
+{:toc }
+- .TOC
 
 ## Electrical | Circuit Test
+{: .text-purple-000 }
 
 MrQR_Sample_CircuitTest.png
 MrQR_Sample_DB_Inspection.png
