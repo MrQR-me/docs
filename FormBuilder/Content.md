@@ -84,17 +84,9 @@ Text Content you can update the Title & Content.
 
 ![Content](/assets/images/Forms/MrQR_Forms_Content_Type_Text.png "Type - Text")
 
-Media content you can only update the Title. To Replace Media you need select **Remove**{: .text-red-000 } next to the Media Content you whish to replace, this opens the Remove Panel. Select <button class="button button2">CANCEL</button> or <button class="button button3">REMOVE</button>
+Media content you can only update the Title. To Replace Media you need select **Remove**{: .text-red-000 } next to the Media Content you wish to replace, this opens the Remove Field Panel. Select <button class="button button2">CANCEL</button> or <button class="button button3">REMOVE</button>
 ![Content](/assets/images/Forms/MrQR_Form_Remove_field.png "Remove Field")
 
-and then <button class="button button2">ADD CONTENT</button> as detailed above
+and then <button class="button button2">ADD CONTENT</button> as detailed in Media Content above
 ![Content](/assets/images/Forms/MrQR_Form_Content_Media_Select.png "Select")
-
-
-
-3
-[Content](https://docs.mrqr.me/FormBuilder/Content) 
-4
-![Content](/assets/images/Forms/MrQR_Forms_Content_Additional_Media.png "Additional Media")
-
 
