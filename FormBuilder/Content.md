@@ -79,7 +79,7 @@ Now your content has been saved you can **Edit**{: .text-grey-lt-300 }, **Remove
 
 ![Content](/assets/images/Forms/MrQR_Forms_Content_Text_Media.png "Text & Media")
 
-With Text Content you can update the Title & Text, however for Media content you can only update the Title. To Replace Media you need to **Remove**{: .text-red-000 } and then <button class="button button2">ADD CONTENT</button>.
+With Text Content you can update the Title & Content, however for Media content you can only update the Title. To Replace Media you need to **Remove**{: .text-red-000 } and then <button class="button button2">ADD CONTENT</button>.
 
 ![Content](/assets/images/Forms/MrQR_Forms_Content_Type_Text.png "Type - Text")
 
