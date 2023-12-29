@@ -96,7 +96,11 @@ Select `Photo Upload` from the Type Drop Down Box. Select <button class="button 
 
 
 ![MrQR Inputs](/assets/images/Forms/MrQR_Form_New_Field_Image.png "Media")
-Tick <img height="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Required.png"> Box if the input is Requied before Submitting the Form.
+Tick 
+<img height="100" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Required.png"> 
+<img width="100" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Section_Expand.png">
+
+Box if the input is Requied before Submitting the Form.
 
 Tick <img height="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Allow_Multiple.png"> Box if Multiple Photo's can be uploaded.
 
