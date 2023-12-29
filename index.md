@@ -29,9 +29,11 @@ nav_order: 0
 # **HOME**{: .text-purple-000 }
 {: .no_toc }
 
+Thankyou for chosing **MrQR**{: .text-purple-000 } a cloud based universal item management platform.
+
 ![Index](/assets/images/MrQR_Landing_Page.png "Landing Page")
 
-Thankyou for chosing **MrQR**{: .text-purple-000 } a cloud based universal item management platform. With the **MrQR**{: .text-purple-000 } platform you can create your own Forms to manage almost anything including:
+With the **MrQR**{: .text-purple-000 } platform you can create your own Forms to manage almost anything including:
 * Building site inductions
 * Training Records
 * Permits to work or enter restricted locations
