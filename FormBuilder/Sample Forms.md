@@ -13,14 +13,44 @@ parent: MrQR Form Builder
 ## Electrical | Circuit Test
 {: .text-purple-000 }
 
-MrQR_Sample_CircuitTest.png
-MrQR_Sample_DB_Inspection.png
-MrQR_Sample_EquipmentDetails.png
-MrQR_Sample_FireDoor.png
-MrQR_Sample_Induction_Form.png
-MrQR_Sample_MWEP_Inspection.png
-MrQR_Sample_RCD.png
-MrQR_sample_ladder.png
-MrQR_Sample_Visual_Inspection.png
-MrQR_Sample_safeIsolation.png
-MrQR_sample_mwep_Clean.png
+![MrQR Form Builder](/assets/images/Forms//Samples/MrQR_Sample_CircuitTest.png "Circuit Test")
+
+## Electrical | Distribution Inspection
+{: .text-purple-000 }
+
+![MrQR Form Builder](/assets/images/Forms//Samples/MrQR_Sample_DB_Inspection.png "DB Inspection")
+
+## Electrical | RDC Test
+{: .text-purple-000 }
+
+![MrQR Form Builder](/assets/images/Forms//Samples/MrQR_Sample_RCD.png "RCD Test")
+
+## Electrical | Visual Inspection
+{: .text-purple-000 }
+
+![MrQR Form Builder](/assets/images/Forms//Samples/MrQR_Sample_Visual_Inspection.png "Visual Inspection")
+
+## Electrical | Safe Isolation
+{: .text-purple-000 }
+
+![MrQR Form Builder](/assets/images/Forms//Samples/MrQR_Sample_safeIsolation.png "Safe Isolation")
+
+## Acces Equipment | MWEP Pre User Checks
+{: .text-purple-000 }
+
+![MrQR Form Builder](/assets/images/Forms//Samples/MrQR_Sample_MWEP_Inspection.png "MWEP Inspection")
+
+## Acces Equipment | MWEP Pre User Checks
+{: .text-purple-000 }
+
+
+
+![MrQR Form Builder](/assets/images/Forms//Samples/MrQR_sample_mwep_Clean.png "MWEP Clean")
+
+![MrQR Form Builder](/assets/images/Forms//Samples/MrQR_Sample_Induction_Form.png "Induction")
+
+![MrQR Form Builder](/assets/images/Forms//Samples/MrQR_sample_ladder.png "Ladder")
+
+![MrQR Form Builder](/assets/images/Forms//Samples/MrQR_Sample_FireDoor.png "Fire Door")
+
+![MrQR Form Builder](/assets/images/Forms//Samples/MrQR_Sample_EquipmentDetails.png "Equipment")
