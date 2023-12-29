@@ -43,7 +43,9 @@ Your new section is now created. You can continue building you form by adding
 
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Form_New_Section_Created.png "Created")
 
-## **Content Types**{: .text-purple-000 }
+## Content Types
+{: .text-purple-000 }
+
 Select <button class="button button2">ADD CONTENT</button> to open the New Content Panel.
 There are two types of content:
 * Text
@@ -53,7 +55,8 @@ The default content type is Text.
 
 ![Content](/assets/images/Forms/MrQR_Forms_Content_New.png "New")
 
-## **Text Content** {: .text-purple-000 }
+## Text Content
+{: .text-purple-000 }
 Enter a title for your Text, then select <button class="button button1">SAVE</button> once you have entered your desired TEXT.
 
 ![Content](/assets/images/Forms/MrQR_Forms_Content_Input_Text.png "Text")
@@ -62,7 +65,8 @@ Now your Text content has been saved you can **Edit**{: .text-grey-lt-300 }, **R
 
 ![Content](/assets/images/Forms/MrQR_Forms_Content_Text_Added.png "Text Added")
 
-## **Media Content**{: .text-purple-000 }
+## Media Content
+{: .text-purple-000 }
 
 Select <button class="button button2">ADD CONTENT</button> to open the Add Content Panel.
 Add a title for your media, select `Media` in the Type Drop Down Box.
@@ -78,7 +82,8 @@ you can delete the image or add more media.
 
 ![Content](/assets/images/Forms/MrQR_Form_Content_Media.png "Media")
 
-## **Update Content**{: .text-purple-000 }
+## Update Content
+{: .text-purple-000 }
 
 Now your content has been saved you can **Edit**{: .text-grey-lt-300 }, **Remove**{: .text-red-000 } or <button class="button button2">ADD CONTENT</button> and <button class="button button2">ADD INPUT</button>. You can rearrange the order of Text and Inputs later by selecting and moving the <img width="20" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Form_Move_Field.png"> icon.
 
