@@ -79,7 +79,7 @@ Select the Type of Input you wish to Add.
 Select `Date` from the Type Drop Down Box. Select <button class="button button1">SAVE</button> once you have entered a Label (*this can be a Question, Instruction or Statement*).
 
 ![MrQR Inputs](/assets/images/Forms/MrQR_Form__New_Field_Date.png "Date")
-Tick <img height="5" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Tick.png"> the <img height="5" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png"> Required Box if the input is Requied before Submitting the Form.
+Tick <img height="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Tick.png"> the <img height="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png"> Required Box if the input is Requied before Submitting the Form.
 
 
 [Back to Top](https://docs.mrqr.me/Data_Inputs/)
@@ -92,9 +92,9 @@ Select `Photo Upload` from the Type Drop Down Box. Select <button class="button 
 
 
 ![MrQR Inputs](/assets/images/Forms/MrQR_Form_New_Field_Image.png "Media")
-Tick <img height="5" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Required.png"> Box if the input is Requied before Submitting the Form.
+Tick <img height="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Required.png"> Box if the input is Requied before Submitting the Form.
 
-Tick <img height="5" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Allow_Multiple.png"> Box if Multiple Photo's can be uploaded.
+Tick <img height="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Allow_Multiple.png"> Box if Multiple Photo's can be uploaded.
 
 [Back to Top](https://docs.mrqr.me/Data_Inputs/)
 {: .text-right }
