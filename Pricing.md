@@ -10,7 +10,7 @@ nav_order: 15
 
 £0.00
 
-## **MrQR**{: .text-purple-000 } Pro User Account including a Perdonal Site
+## **MrQR**{: .text-purple-000 } Pro User Account including a Personal Site
 
 ~~£2.49~~/ Month
 (*while making improvements and adding exciting new features pro user accounts are free - £0.00/month untill Launch in March 2024*)
