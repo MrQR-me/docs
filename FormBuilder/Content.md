@@ -38,7 +38,6 @@ parent: MrQR Form Builder
 - .TOC
 
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Forms_Header.png "Header")
-
 Your new section is now created. You can continue building you form by adding [Content](https://docs.mrqr.me/FormBuilder/Content) 
 
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Form_New_Section_Created.png "Created")
