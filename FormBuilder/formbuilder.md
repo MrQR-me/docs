@@ -47,7 +47,7 @@ Select <a href="https://docs.mrqr.me/FormBuilder/Create"><button class="button b
 ## Duplicating Forms
 {: .text-purple-000 }
 
-Select **Duplicate**{: .text-grey-300 } in the `All your forms` list, this will open the duplicate form panel. Select <button class="button button1">DUPLICATE</button> when you have selected the site you wish to duplicate the form to or select <button class="button button2">CANCEL</button>.
+Select **Duplicate**{: .text-grey-lt-300 } in the `All your forms` list, this will open the duplicate form panel. Select <button class="button button1">DUPLICATE</button> when you have selected the site you wish to duplicate the form to or select <button class="button button2">CANCEL</button>.
 you can now edit the duplicated form.
 
 ![MrQR Form Builder](/assets/images/MrQR_Duplicate_Form.png "Duplicate Form")
