@@ -64,7 +64,7 @@ By selecting <img width="100" alt="image" src="https://docs.mrqr.me/assets/image
 [Back to Top](https://docs.mrqr.me/registers/)
 {: .text-right }
 
-## Editing Sections
+## Editing a Section
 {: .text-purple-000 }
 
 To Edit the Section Name select **Edit**{: .text-grey-lt-300 } in the Forms section panel.
@@ -96,7 +96,6 @@ and
 [Inputs](https://docs.mrqr.me/FormBuilder/Data_Inputs) 
 or create another new 
 [Section](https://docs.mrqr.me/FormBuilder/Section) 
-You can also **Edit**{: .text-light-grey-000 } the Section Name or completely **Remove**{: .text-red-000 } the Section from the Form Sections Panel.
 
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Form_New_Section_Created.png "Created")
 
