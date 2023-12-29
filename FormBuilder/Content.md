@@ -37,15 +37,14 @@ Your new section is now created. You can continue building you form by adding
 
 Select <button class="button button2">ADD CONTENT</button> to open the New Content Panel.
 There are two types of content:
-
 * Text
 * Media
 
-The default content typt is Text.
+The default content type is TEXT.
 
 ![Content](/assets/images/Forms/MrQR_Forms_Content_New.png "New")
 
-Enter a title for your text, then select <button class="button button1">SAVE</button> one you have entered your desired TEXT.
+Enter a title for your TEXT, then select <button class="button button1">SAVE</button> ONCE you have entered your desired TEXT.
 
 ![Content](/assets/images/Forms/MrQR_Forms_Content_Input_Text.png "Text")
 
