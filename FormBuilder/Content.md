@@ -40,15 +40,16 @@ There are two types of content:
 * Text
 * Media
 
-The default content type is TEXT.
+The default content type is Text.
 
 ![Content](/assets/images/Forms/MrQR_Forms_Content_New.png "New")
 
-Enter a title for your TEXT, then select <button class="button button1">SAVE</button> ONCE you have entered your desired TEXT.
+Enter a title for your Text, then select <button class="button button1">SAVE</button> once you have entered your desired TEXT.
 
 ![Content](/assets/images/Forms/MrQR_Forms_Content_Input_Text.png "Text")
 
-3
+Now your Text content has been saved you can **Edit**, **Remove**{: .text-purple-000 } or add more content and inputs.
+you can rearrange the order of Text and Inputs later.
 
 ![Content](/assets/images/Forms/MrQR_Forms_Content_Text_Added.png "Text Added")
 
@@ -56,13 +57,9 @@ Enter a title for your TEXT, then select <button class="button button1">SAVE</bu
 ![Content](/assets/images/Forms/MrQR_Forms_Content_Type_Text.png "Type - Text")
 
 5
-[Content](https://docs.mrqr.me/FormBuilder/Content) 
-
-
-6
 ![Content](/assets/images/Forms/MrQR_Form_Content_Media_Select.png "Select")
 
-7
+6
 ![Content](/assets/images/Forms/MrQR_Form_Content_Media.png "Media")
 
 
@@ -73,7 +70,7 @@ Enter a title for your TEXT, then select <button class="button button1">SAVE</bu
 ![Content](/assets/images/Forms/MrQR_Forms_Content_Additional_Media.png "Additional Media")
 
 
-
+[Content](https://docs.mrqr.me/FormBuilder/Content) 
 
 
 
