@@ -32,8 +32,12 @@ parent: MrQR Form Builder
 </html>
 
 # **Content**{: .text-purple-000 }
+{: .no_toc }
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Forms_Header.png "Header")
+{: .no_toc }
 
+{:toc }
+- .TOC
 Your new section is now created. You can continue building you form by adding
 [Content](https://docs.mrqr.me/FormBuilder/Content) 
 
