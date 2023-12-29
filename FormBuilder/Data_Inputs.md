@@ -73,6 +73,8 @@ Select the Type of Input you wish to Add.
 
 #### Single Tick Box
 
+![MrQR Inputs](/assets/images/Forms/MrQR_Text_Single_Option.png "Single Test")
+
 #### Multiple Check Boxes
 
 [Back to Top](https://docs.mrqr.me/Data_Inputs/)
