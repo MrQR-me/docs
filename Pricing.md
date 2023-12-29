@@ -12,9 +12,9 @@ nav_order: 15
 
 ## **MrQR**{: .text-purple-000 } Pro User Account including a Personal Site
 
-~~£2.49~~/ Month
+~~£2.49~~ / Month
 
-(*while making improvements and adding exciting new features pro user accounts are free - £0.00/month untill we Launch in March 2024*)
+(*while making improvements and adding exciting new features pro user accounts are free - £0.00 / month untill we Launch in March 2024*)
 
 ## Additional Site Licence including **MrQR**{: .text-purple-000 } Form Builder
 £7.49 / Month / Site Licence
