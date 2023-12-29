@@ -50,7 +50,7 @@ Select the Type of Input you wish to Add.
 {:toc }
 - .TOC
 
-![MrQR Form Builder](/assets/images/Forms/MrQR_Form_Field_Types.png "Input Types All")
+![MrQR Inputs](/assets/images/Forms/MrQR_Form_Field_Types.png "Input Types All")
 
 [Back to Top](https://docs.mrqr.me/Data_Inputs/)
 {: .text-right }
@@ -58,12 +58,18 @@ Select the Type of Input you wish to Add.
 ## Text Inputs
 {: .text-purple-000 }
 
+![MrQR Inputs](/assets/images/Forms/MrQR_Form_New_Field_Text.png "Text")
+
+### Single Line Text
+### Long Answer Text
 
 [Back to Top](https://docs.mrqr.me/Data_Inputs/)
 {: .text-right }
 
 ## Date Inputs
 {: .text-purple-000 }
+
+![MrQR Inputs](/assets/images/Forms/MrQR_Form__New_Field_Date.png "Date")
 
 
 [Back to Top](https://docs.mrqr.me/Data_Inputs/)
@@ -72,6 +78,9 @@ Select the Type of Input you wish to Add.
 ## Photo Upload Inputs
 {: .text-purple-000 }
 
+![MrQR Inputs](/assets/images/Forms/MrQR_Form_New_Field_Image.png "Media")
+
+
 
 [Back to Top](https://docs.mrqr.me/Data_Inputs/)
 {: .text-right }
@@ -79,6 +88,8 @@ Select the Type of Input you wish to Add.
 ## Form Submission Inputs
 {: .text-purple-000 }
 
+![MrQR Inputs](/assets/images/Forms/MrQR_Form_New_Field_Text.png "Text")
+MrQR_Form_New_Field_Form.png
 
 [Back to Top](https://docs.mrqr.me/Data_Inputs/)
 {: .text-right }
