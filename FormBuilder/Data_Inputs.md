@@ -117,7 +117,9 @@ Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/M
 ## User Inputs
 {: .text-purple-000 }
 
-User Inputs take the infomation entered on the User Profile Page. this data is automtically enteron onto a form when the completing the form subscrbes to the **MrQR**{: .text-purple-000 } Pro Account. the inputs includ:
+User Inputs take the infomation entered in the User Profile Page. The User Profile data is automtically entered onto a form when the user completing the form subscrbes to the **MrQR**{: .text-purple-000 } Pro Account.
+
+User inputs include:
 * Profile Photo
 * Full Name
 * Phone Number
