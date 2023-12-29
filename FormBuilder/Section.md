@@ -32,10 +32,20 @@ parent: MrQR Form Builder
 </html>
 
 # **Sections**{: .text-purple-000 }
+{: .no_toc }
 
-In the Form Settings page, Select <button class="button button2">NEW SECTION</button> to open the Create Section panel.
+{:toc }
+- .TOC
+  
+![MrQR Form Builder](/assets/images/Forms/MrQR_Forms_Header.png "Header")
+
+Your new Form is now created. You can continue building you form by adding [Sections](https://docs.mrqr.me/FormBuilder/Section). 
+Select <button class="button button2">NEW SECTION</button> to open the Create Section panel.
 
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Form__NewSection_Create.png "Create Form")
+
+## New Section
+{: .text-purple-000 }
 
 Select <button class="button button1">SAVE</button> once you have entered the desired section name.
 
