@@ -103,7 +103,7 @@ Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/M
 ## Form Submission Inputs
 {: .text-purple-000 }
 
-![MrQR Inputs](/assets/images/Forms/MrQR_Form_New_Field_Text.png "Text")
+![MrQR Inputs](/assets/images/Forms/MrQR_Form_New_Field_Form.png "Text")
 MrQR_Form_New_Field_Form.png
 
 [Back to Top](https://docs.mrqr.me/Data_Inputs/)
