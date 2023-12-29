@@ -43,6 +43,22 @@ Your new section is now created. You can continue building you form by adding [C
 
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Form_New_Section_Created.png "Created")
 
+## Text Inputs
+
+## Date Inputs
+
+## Photo Upload Inputs
+
+## Form Submission Inputs
+
+## User Profile Inputs
+
+### Address Inputs
+
+### Training Record Inputs
+
+### Equipmet Inputs
+
 ![MrQR Form Builder](/assets/images/MrQR%20Forms_Page_6.png "Page 6")
 ![MrQR Form Builder](/assets/images/MrQR%20Forms_Page_7.png "Page 7")
 ![MrQR Form Builder](/assets/images/MrQR%20Forms_Page_8.png "Page 8")
