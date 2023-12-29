@@ -76,17 +76,18 @@ you can delete the image or add more media.
 
 Now your content has been saved you can **Edit**{: .text-grey-lt-300 }, **Remove**{: .text-red-000 } or <button class="button button2">ADD CONTENT</button> and <button class="button button2">ADD INPUT</button>. You can rearrange the order of Text and Inputs later by selecting and moving the <img width="20" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Form_Move_Field.png"> icon.
 
-![Content](/assets/images/Forms/MrQR_Form_Content_Media_Select.png "Select")
+![Content](/assets/images/Forms/MrQR_Forms_Content_Text_Media.png "Text & Media")
 
 With Text Content you can update the Title & Text, however for Media content you can only update the Title. To Replace Media you need to **Remove**{: .text-red-000 } and then <button class="button button2">ADD CONTENT</button>.
 
 
-
+1
 ![Content](/assets/images/Forms/MrQR_Forms_Content_Type_Text.png "Type - Text")
-![Content](/assets/images/Forms/MrQR_Forms_Content_Text_Media.png "Text & Media")
+2
+![Content](/assets/images/Forms/MrQR_Form_Content_Media_Select.png "Select")
+3
 [Content](https://docs.mrqr.me/FormBuilder/Content) 
-
-
+4
 ![Content](/assets/images/Forms/MrQR_Form_Content_Media.png "Media")
 
 
