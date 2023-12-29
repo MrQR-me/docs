@@ -85,7 +85,9 @@ however due to the reduced screens size on smartphone's and smaller tablet's acc
 <img width="25" alt="image" src="https://github.com/MrQR-me/docs/assets/153803042/c52befe4-d437-41f0-908d-b7e4ad467e74">
 Icon in the top right hand corner.
 
-![Index](/assets/images/MrQR_Mobile_Access_Menu.png "Smartphone menu access")
+<div style="text-align: center;">
+<img width="500" alt="image" src="https://docs.mrqr.me/assets/images/MrQR_Mobile_Access_Menu.png">
+</div>
 
 [Back to Top](https://docs.mrqr.me/index)
 {: .text-right }
