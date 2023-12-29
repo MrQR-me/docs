@@ -80,7 +80,7 @@ Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/M
 
 #### Multiple Check Boxes
 
-By Selecting the <button class="button button2">ADD VALUE                </button> multiple times creates a multiple choice option Check box answers. this is useful if you want the user to select a particular statment.
+By Selecting the <button class="button button2">ADD VALUE                </button> multiple times creates a multiple choice option Check box answers. this is useful if you want the user to select a particular statment. After 3 options have been added the selection becomes a dropdown box.
 
 ![MrQR Inputs](/assets/images/Forms/MrQR_Text_Multiple_Option.png "Mutltiple Check Box")
 
