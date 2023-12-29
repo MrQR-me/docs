@@ -86,7 +86,7 @@ however due to the reduced screens size on smartphone's and smaller tablet's acc
 Icon in the top right hand corner.
 
 <div style="text-align: center;">
-<img width="500" alt="image" src="https://docs.mrqr.me/assets/images/MrQR_Mobile_Access_Menu.png">
+<img width="400" alt="image" src="https://docs.mrqr.me/assets/images/MrQR_Mobile_Access_Menu.png">
 </div>
 
 [Back to Top](https://docs.mrqr.me/index)
@@ -117,7 +117,7 @@ Selecting the
 Icon at the top any page Close the **MrQR**{: .text-purple-000 } Platform Menu.
 
 <div style="text-align: center;">
-<img width="500" alt="image" src="https://docs.mrqr.me/assets/images/MrQR_Mobile_Menu.png">
+<img width="400" alt="image" src="https://docs.mrqr.me/assets/images/MrQR_Mobile_Menu.png">
 </div>
 
 [Back to Top](https://docs.mrqr.me/index)
