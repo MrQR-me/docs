@@ -82,7 +82,7 @@ Select `Date` from the Type Drop Down Box. Select <button class="button button1"
 Tick 
 <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Tick.png">
  the 
- <img height="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png">
+ <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png">
   Required Box if the input is Requied before Submitting the Form.
 
 
@@ -97,8 +97,7 @@ Select `Photo Upload` from the Type Drop Down Box. Select <button class="button 
 
 ![MrQR Inputs](/assets/images/Forms/MrQR_Form_New_Field_Image.png "Media")
 Tick 
-<img height="100" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Required.png"> 
-<img width="100" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Section_Expand.png">
+<img width="100" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Tick.png"> 
 
 Box if the input is Requied before Submitting the Form.
 
