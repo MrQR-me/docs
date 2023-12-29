@@ -47,6 +47,8 @@ The default content typt is Text.
 
 ![Content](/assets/images/Forms/MrQR_Forms_Content_Type_Text.png "Type - Text")
 
+Enter a title for your text, then select <button class="button button1">SAVE</button> one you have entered your desired TEXT.
+
 ![Content](/assets/images/Forms/MrQR_Forms_Content_Text_Added.png "Text Added")
 
 ![Content](/assets/images/Forms/MrQR_Forms_Content_Input_Text.png "Text")
