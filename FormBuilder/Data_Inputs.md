@@ -48,6 +48,8 @@ Select <button class="button button2">ADD INPUT</button> to open the New Field P
 {:toc }
 - .TOC
 
+![MrQR Form Builder](/assets/images/Forms/MrQR_Form_Field_Types.png "Input Types All")
+
 [Back to Top](https://docs.mrqr.me/Data_Inputs/)
 {: .text-right }
 
