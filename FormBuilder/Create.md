@@ -38,7 +38,7 @@ parent: MrQR Form Builder
 After selecting Forms in the top menu bar you can create your own form using the **MrQR**{: .text-purple-000 } Form Builder. Forms consists of multiple Sections containg Content and Data Input. 
 
 ## Creating a Form
-: .text-purple-000 }
+{: .text-purple-000 }
 
 Select <button class="button button1">CREATE</button> once you have entered the desired Form name in the New Form Name Box.
 
