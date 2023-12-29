@@ -15,5 +15,5 @@ nav_order: 15
 £2.49 / Month
 
 ## Additional Site Licence including **MrQR**{: .text-purple-000 } Form Builder
-£7.49 / Month
+£7.49 / Month / Site Licence
 
