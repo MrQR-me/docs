@@ -44,7 +44,7 @@ Select <button class="button button2">NEW SECTION</button> to open the Create Se
 
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Form__NewSection_Create.png "Create Form")
 
-## New Section
+## Adding a New Section
 {: .text-purple-000 }
 
 Select <button class="button button1">SAVE</button> once you have entered the desired section name.
@@ -54,7 +54,7 @@ Select <button class="button button1">SAVE</button> once you have entered the de
 [Back to Top](https://docs.mrqr.me/registers/)
 {: .text-right }
 
-## Hiding Section
+## Hiding Sections
 {: .text-purple-000 }
 
 By selecting <img width="100" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Section_Expand.png"> or <img width="100" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Section_Colapse.png"> you can hide or show the section contents and inputs
@@ -64,7 +64,7 @@ By selecting <img width="100" alt="image" src="https://docs.mrqr.me/assets/image
 [Back to Top](https://docs.mrqr.me/registers/)
 {: .text-right }
 
-## Edit Section
+## Editing Sections
 {: .text-purple-000 }
 
 To Edit the Section Name select **Edit**{: .text-grey-lt-300 } in the Forms section panel.
