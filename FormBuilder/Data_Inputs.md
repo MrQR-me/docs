@@ -83,16 +83,16 @@ By Selecting the <button class="button button2">ADD VALUE                .</butt
 
 ![MrQR Inputs](/assets/images/Forms/MrQR_Text_Multiple_Option.png "Mutltiple Check Box")
 
+Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Tick.png"> the <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png"> Required Box if the input is Requied before Submitting the Form.
+
+Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Tick.png"> the <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png"> Allow multiple Box to allow Multiple answers to be selected.
+
 Add upto 3 Values creates a check box list
 ![MrQR Inputs](/assets/images/Forms/MrQR_Text_CheckBox_Form.png "Mutltiple Check Box")
 
 After 4 or more options have been added the selection becomes a dropdown box during form entry.
 
 ![MrQR Inputs](/assets/images/Forms/MrQR_Text_Dropdown_Form.png "Mutltiple Dropdown Box")
-
-Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Tick.png"> the <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png"> Required Box if the input is Requied before Submitting the Form.
-
-Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Tick.png"> the <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png"> Allow multiple Box to allow Multiple answers to be selected.
 
 [Back to Top](https://docs.mrqr.me/Data_Inputs/)
 {: .text-right }
