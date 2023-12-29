@@ -42,7 +42,7 @@ Your new section is now created. You can continue building you form by adding [C
 
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Form_New_Section_Created.png "Created")
 
-## Content Types
+## Adding Content
 {: .text-purple-000 }
 
 Select <button class="button button2">ADD CONTENT</button> to open the New Content Panel.
