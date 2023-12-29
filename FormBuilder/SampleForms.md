@@ -5,6 +5,33 @@ nav_order: 14
 parent: MrQR Form Builder
 ---
 
+<html>
+<head>
+<style>
+.button {
+  padding: 5px 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  margin: 4px 2px;
+  cursor: pointer; }
+.button1 {background-color: #555555;} /* Black */
+.button2 {background-color: white;}
+.button3 {background-color: red;}
+.button1 {color: white;}
+.button2 {color: grey;}
+.button3 {color: white;}
+.button1 {border: none;}
+.button2 {border: 1px solid grey}
+.button3 {border: none;}
+.button1 {border-radius: 5px;}
+.button2 {border-radius: 5px;}
+.button3 {border-radius: 5px;} 
+</style>
+</head>
+</html>
+
 register your free account; Go to **[MrQR.me](https://mrqr.me/)**{: .text-purple-000 } and select <button class="button button1">REGISTER</button>
 
 # **Sample Forms**{: .text-purple-000 }
