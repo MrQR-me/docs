@@ -36,6 +36,7 @@ parent: MrQR Form Builder
 
 {:toc }
 - .TOC
+  
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Forms_Header.png "Header")
 
 Your new section is now created. You can continue building you form by adding [Content](https://docs.mrqr.me/FormBuilder/Data_Inputs) 
