@@ -76,6 +76,9 @@ Select <button class="button button2">CANCEL</button> to ignore any changes
 [Back to Top](https://docs.mrqr.me/registers/)
 {: .text-right }
 
+## Removing a Section
+{: .text-purple-000 }
+
 To Remove the Section select **Remove**{: .text-red-000 } in the Form section panel.
 Select <button class="button button3">REMOVE</button>.
 Select <button class="button button2">CANCEL</button> to cancel the Section Removal.
