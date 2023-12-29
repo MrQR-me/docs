@@ -4,7 +4,7 @@ layout: default
 nav_order: 15
 ---
 
-# Pricing{: .text_purple-000 }
+# **Pricing**{: .text_purple-000 }
 
 ## free Account
 
