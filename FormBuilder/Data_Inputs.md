@@ -146,7 +146,3 @@ MrQR_Form_New_Field_Form.png
 
 [Back to Top](https://docs.mrqr.me/Data_Inputs/)
 {: .text-right }
-
-![MrQR Form Builder](/assets/images/MrQR%20Forms_Page_6.png "Page 6")
-![MrQR Form Builder](/assets/images/MrQR%20Forms_Page_7.png "Page 7")
-![MrQR Form Builder](/assets/images/MrQR%20Forms_Page_8.png "Page 8")
