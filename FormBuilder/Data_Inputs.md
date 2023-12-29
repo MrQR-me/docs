@@ -101,7 +101,7 @@ After 4 or more options have been added the selection becomes a dropdown box dur
 ## Date Inputs
 {: .text-purple-000 }
 
-Select `Date` from the Type Drop Down Box. Select <button class="button button1">SAVE</button> once you have entered a Label (*this can be a Question, Instruction or Statement*).
+Select `Date` from the Type Drop Down Box. Select <button class="button button1">SAVE</button> once you have entered a Label (*this can be a Question, Instruction or Statement*). A Date Input opens a calender to enable the user submiting the form to select the required date.
 
 ![MrQR Inputs](/assets/images/Forms/MrQR_Form__New_Field_Date.png "Date")
 Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Tick.png"> the <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png"> Required Box if the input is Requied before Submitting the Form.
@@ -113,7 +113,7 @@ Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/M
 ## Photo Upload Inputs
 {: .text-purple-000 }
 
-Select `Photo Upload` from the Type Drop Down Box. Select <button class="button button1">SAVE</button> once you have entered a Label (*this can be a Question, Instruction or Statement*).
+Select `Photo Upload` from the Type Drop Down Box. Select <button class="button button1">SAVE</button> once you have entered a Label (*this can be a Question, Instruction or Statement*). The photo upload allows the the user submiting the form to upload images from there device.
 
 ![MrQR Inputs](/assets/images/Forms/MrQR_Form_New_Field_Image.png "Media")
 
