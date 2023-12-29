@@ -45,21 +45,24 @@ The default content typt is Text.
 
 ![Content](/assets/images/Forms/MrQR_Forms_Content_New.png "New")
 
-![Content](/assets/images/Forms/MrQR_Forms_Content_Type_Text.png "Type - Text")
-
 Enter a title for your text, then select <button class="button button1">SAVE</button> one you have entered your desired TEXT.
+
 ![Content](/assets/images/Forms/MrQR_Forms_Content_Input_Text.png "Text")
 
+3
+![Content](/assets/images/Forms/MrQR_Forms_Content_Type_Text.png "Type - Text")
+
+4
 ![Content](/assets/images/Forms/MrQR_Forms_Content_Text_Added.png "Text Added")
 
-
-
+5
 [Content](https://docs.mrqr.me/FormBuilder/Content) 
 
 
-
+6
 ![Content](/assets/images/Forms/MrQR_Form_Content_Media_Select.png "Select")
 
+7
 ![Content](/assets/images/Forms/MrQR_Form_Content_Media.png "Media")
 
 
