@@ -167,7 +167,13 @@ Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/M
 ## Editing Inputs 
 {: .text-purple-000 }
 
-You can rearrange the order of Inputs within the section by selecting and moving the <img width="20" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Form_Move_Field.png"> icon.
+Once your Input are saved you can **Edit**{: .text-grey-lt-300 }, **Remove**{: .text-red-000 } or <button class="button button2">ADD CONTENT</button> and <button class="button button2">ADD INPUT</button>. You can rearrange the order of Content and Inputs  by selecting and moving the <img width="20" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Form_Move_Field.png"> icon.
+
+![Content](/assets/images/Forms/MrQR_Forms_Content_Text_Media.png "Text & Media")
+
+Selecting Remove opens the Remove Field Panel. Select <button class="button button2">CANCEL</button> or <button class="button button3">REMOVE</button>
+
+![Content](/assets/images/Forms/MrQR_Form_Remove_field.png "Remove Field")
 
 [Back to Top](https://docs.mrqr.me/FormBuilder/Data_Inputs/)
 {: .text-right }
