@@ -68,7 +68,8 @@ Select <button class="button button2">SELECT MEDIA</button> to choose you image,
 Once you have selected you Media please wait for the image upload to complete. Once complete you will see the image Icon.
 you can delete the image or add more media.
 
-![Content](/assets/images/Forms/MrQR_Forms_Content_Additional_Media.png "Additional Media")
+![Content](/assets/images/Forms/MrQR_Form_Content_Media.png "Media")
+
 
 
 
@@ -89,6 +90,6 @@ With Text Content you can update the Title & Text, however for Media content you
 3
 [Content](https://docs.mrqr.me/FormBuilder/Content) 
 4
-![Content](/assets/images/Forms/MrQR_Form_Content_Media.png "Media")
+![Content](/assets/images/Forms/MrQR_Forms_Content_Additional_Media.png "Additional Media")
 
 
