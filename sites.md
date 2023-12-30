@@ -82,6 +82,7 @@ You can create as many sites as you need by purchasing additional site licences.
 Select <button class="button button1">CREATE</button> once you have entered the desired site name.
 
 ![Sites](/assets/images/MrQR_Sites_Create_New.png "Payment Details")
+See our [Pricing](https://docs.mrqr.me/Pricing/) page for the latest site licence costs
 
 if you have not already added a payment method you will be prompted to add or manage your payment detail. *(*
 **MrQR**{: .text-purple-000 } *partners with*
