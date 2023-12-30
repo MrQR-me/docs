@@ -39,11 +39,6 @@ Individual Forms submisssions can be viewed in the **MrQR**{: .text-purple-000 }
 {:toc }
 - .TOC
 
-### Form Submissions in Dashboard
-{: .text-purple-000 }
-
-![Submissions](/assets/images/MrQR_Submission_Dashboard.png "Dashboard")
-
 ### Form Submissions in Items
 {: .text-purple-000 }
 ![Submissions](/assets/images/MrQR_Submission_Register.png "Register")
