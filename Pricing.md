@@ -12,7 +12,7 @@ users have a limited profile and can request access and complete any forms on th
 ### £0.00
 
 ## **MrQR**{: .text-purple-000 } Pro User Account including a Personal Site
-users have a comprehensive ptofile, a personal site and can request access ans complete any forms on the **MrQR**{: .text-purple-000 } platform
+users have a comprehensive profile, a personal site and can request access ans complete any forms on the **MrQR**{: .text-purple-000 } platform
 
 ### ~~£2.49~~ / Month
 
