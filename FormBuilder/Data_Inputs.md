@@ -126,9 +126,9 @@ Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/M
 ## Relationship Input
 {: .text-purple-000 }
 
-If you have additional Registers and Forms, you can link previously submitted forms as an Input on your new form.
+If you have additional Registers and Forms, you can link previously submitted forms as an Input on your new form. This allows the registered user to select a previously submitted form.
 
-Select `Form submission` from the Type Drop Down Box. Select <button class="button button1">SAVE</button> once you have entered a Label (*this can be a Question, Instruction or Statement*) and selected the register and form you wish to link to your new form.
+Select `Form submission` from the Type Drop Down Box. Select <button class="button button1">SAVE</button> once you have entered a Label (*this can be a Question, Instruction or Statement*) and selected the register and form you wish to link to your new form. The Register & Form.
 
 ![MrQR Inputs](/assets/images/Forms/MrQR_Form_New_Field_Form.png "Text")
 
