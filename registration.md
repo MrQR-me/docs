@@ -73,7 +73,6 @@ Once Registered you can now enter your [Profile](https://docs.mrqr.me/profile/) 
 On the [Profile](https://docs.mrqr.me/profile/) page scroll down to Manage Account and Subscribe to our pro plan.
 
 ![Pro Plan Account](/assets/images/MrQR_Pro_Plan.png "RESGISTER")
-
 See our [Pricing](https://docs.mrqr.me/Pricing/) page for the latest Pro Account cost.
 
 You may be asked to add a pyment method, Select <button class="button button1">ADD PAYMENT METHOD </button> once you have entered your desired payment card details.
