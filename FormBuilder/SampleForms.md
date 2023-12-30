@@ -32,7 +32,7 @@ parent: MrQR Form Builder
 </head>
 </html>
 
-Register your **Free Account**; Go to **[MrQR.me](https://mrqr.me/)**{: .text-purple-000 } and select <button class="button button1">REGISTER</button>
+Register your **Free Account**; Go to [**MrQR.me**](https://mrqr.me/){: .text-purple-000 } and select <button class="button button1">REGISTER</button>
 
 # **Sample Forms**{: .text-purple-000 }
 {: .no_toc }
