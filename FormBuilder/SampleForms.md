@@ -49,8 +49,6 @@ Register your **Free Account**; Go to [**MrQR.me**](https://mrqr.me/){: .text-pu
 
 [Go to Form](https://mrqr.me/3fPO0O) or scan **MrQR**{: .Text-purple-000 } Code.
 
-*If you are not a Registered **MrQR**{: .text-purple-000 } user, you will need to register your*  **MrQR**{: .text-purple-000 } ***Free Account** and request permission to view this form*
-
 <div style="text-align: center;">
 <img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-01hdbm2hrhyady6q0bk67wksbx.png">
 </div>
@@ -65,8 +63,6 @@ Register your **Free Account**; Go to [**MrQR.me**](https://mrqr.me/){: .text-pu
 
 [Go to Form](https://mrqr.me/3fPO0O) or scan **MrQR**{: .Text-purple-000 } Code.
 
-*If you are not a Registered **MrQR**{: .text-purple-000 } user, you will need to register your*  **MrQR**{: .text-purple-000 } ***Free Account** and request permission to view this form*
-
 <div style="text-align: center;">
 <img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-01hdbm2hrhyady6q0bk67wksbx.png">
 </div>
@@ -80,8 +76,6 @@ Register your **Free Account**; Go to [**MrQR.me**](https://mrqr.me/){: .text-pu
 ![MrQR Form Builder](/assets/images/Forms/Samples/MrQR_Sample_RCD.png "RCD Test")
 
 [Go to Form](https://mrqr.me/3fPO0O) or scan **MrQR**{: .Text-purple-000 } Code.
-
-*If you are not a Registered **MrQR**{: .text-purple-000 } user, you will need to register your*  **MrQR**{: .text-purple-000 } ***Free Account** and request permission to view this form*
 
 <div style="text-align: center;">
 <img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-01hdbm2hrhyady6q0bk67wksbx.png">
