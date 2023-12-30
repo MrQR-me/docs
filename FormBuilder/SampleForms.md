@@ -46,6 +46,8 @@ register your free account; Go to **[MrQR.me](https://mrqr.me/)**{: .text-purple
 ![MrQR Form Builder](/assets/images/Forms/Samples/MrQR_Sample_CircuitTest.png "Circuit Test")
 
 https://mrqr.me/3fPO0O
+![MrQR Form Builder](/assets/images/Forms/stickers/mrqr-sticker-01hdbm2hrhyady6q0bk67wksbx.png "Circuit Test")
+https://https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-01hdbm2hrhyady6q0bk67wksbx.png
 
 [Back to Top](https://docs.mrqr.me/FormBuilder/SampleForms/)
 {: .text-right }
