@@ -22,10 +22,10 @@ nav_order: 8
 .button2 {border: 1px solid grey}
 .button1 {border-radius: 5px;}
 .button2 {border-radius: 5px;}
-  
 </style>
 </head>
 </html>
+
 # **FORM SUBMISSIONS & DATA**
 {: .text-purple-000 }
 {: .no_toc }
