@@ -117,6 +117,12 @@ register your free account; Go to **[MrQR.me](https://mrqr.me/)**{: .text-purple
 
 ![MrQR Form Builder](/assets/images/Forms/Samples/MrQR_Sample_MWEP_Inspection.png "MWEP Inspection")
 
+[Go to Form](https://mrqr.me/3fPO0O) or scan **MrQR**{: .Text-purple-000 } Code.
+
+*You will need to register your*  **MrQR**{: .text-purple-000 } *free account and request permission to view this form*
+
+https://mrqr.me/gidBoo
+
 [Back to Top](https://docs.mrqr.me/FormBuilder/SampleForms/)
 {: .text-right }
 
@@ -132,6 +138,10 @@ register your free account; Go to **[MrQR.me](https://mrqr.me/)**{: .text-purple
 {: .text-purple-000 }
 
 ![MrQR Form Builder](/assets/images/Forms/Samples/MrQR_sample_mwep_Clean.png "MWEP Clean")
+
+[Go to Form](https://mrqr.me/3fPO0O) or scan **MrQR**{: .Text-purple-000 } Code.
+
+*You will need to register your*  **MrQR**{: .text-purple-000 } *free account and request permission to view this form*
 
 [Back to Top](https://docs.mrqr.me/FormBuilder/SampleForms/)
 {: .text-right }
