@@ -38,8 +38,8 @@ With the **MrQR**{: .text-purple-000 } platform you can create your own Forms to
 * Building site inductions
 * Training Records
 * Permits to work or enter restricted locations
-* Regular Safety checks of plant & equipment (*MEWP's, Ladders, Electrical Distribution or Appluances, Vehicals etc*)
-* Magage & Share Collections
+* Regular Safety checks of plant & equipment (*MEWP's, Ladders, Electrical Distribution or Appliances, Vehicals etc*)
+* Manage & Share Collections
 * Distribute product O&M Manuals
 * Regular Maintenance Inspections of Plant & Equipment
 
