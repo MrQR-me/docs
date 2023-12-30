@@ -32,6 +32,8 @@ parent: MrQR Form Builder
 </head>
 </html>
 
+**MrQR**{: .text-purple-000 } is a secure item management system with global access. When you scan a **MrQR**{: .text-purple-000 } code or follow the item links, they will direct you to the item landing page, to continue and requset access to view or submit the **MrQR**{: .text-purple-000 } form you will need to be a **MrQR**{: .text-purple-000 } registered user.
+
 Register your **Free Account**; Go to [**MrQR.me**](https://mrqr.me/){: .text-purple-000 } and select <button class="button button1">REGISTER</button>
 
 # **Sample Forms**{: .text-purple-000 }
@@ -93,9 +95,7 @@ Register your **Free Account**; Go to [**MrQR.me**](https://mrqr.me/){: .text-pu
 
 ![MrQR Form Builder](/assets/images/Forms/Samples/MrQR_Sample_Visual_Inspection.png "Visual Inspection")
 
-[Go to Form](https://mrqr.me/HtYQKL/) or scan **MrQR**{: .Text-purple-000 } Code.
-
-*If you are not a Registered **MrQR**{: .text-purple-000 } user, you will need to register your*  **MrQR**{: .text-purple-000 } ***Free Account** and request permission to view this form*
+[Go to Item](https://mrqr.me/HtYQKL/) or scan **MrQR**{: .Text-purple-000 } Code.
 
 <div style="text-align: center;">
 <img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-Appliance.png">
@@ -109,9 +109,7 @@ Register your **Free Account**; Go to [**MrQR.me**](https://mrqr.me/){: .text-pu
 
 ![MrQR Form Builder](/assets/images/Forms/Samples/MrQR_Sample_safeIsolation.png "Safe Isolation")
 
-[Go to Form](https://mrqr.me/3fPO0O) or scan **MrQR**{: .Text-purple-000 } Code.
-
-*If you are not a Registered **MrQR**{: .text-purple-000 } user, you will need to register your*  **MrQR**{: .text-purple-000 } ***Free Account** and request permission to view this form*
+[Go to Item](https://mrqr.me/3fPO0O) or scan **MrQR**{: .Text-purple-000 } Code.
 
 <div style="text-align: center;">
 <img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-01hdbm2hrhyady6q0bk67wksbx.png">
@@ -125,9 +123,7 @@ Register your **Free Account**; Go to [**MrQR.me**](https://mrqr.me/){: .text-pu
 
 ![MrQR Form Builder](/assets/images/Forms/Samples/MrQR_Sample_MWEP_Inspection.png "MWEP Inspection")
 
-[Go to Form](https://mrqr.me/gidBoo/) or scan **MrQR**{: .Text-purple-000 } Code.
-
-*If you are not a Registered **MrQR**{: .text-purple-000 } user, you will need to register your*  **MrQR**{: .text-purple-000 } ***Free Account** and request permission to view this form*
+[Go to Item](https://mrqr.me/gidBoo/) or scan **MrQR**{: .Text-purple-000 } Code.
 
 <div style="text-align: center;">
 <img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-MWEP.png">
@@ -141,9 +137,7 @@ Register your **Free Account**; Go to [**MrQR.me**](https://mrqr.me/){: .text-pu
 
 ![MrQR Form Builder](/assets/images/Forms/Samples/MrQR_sample_ladder.png "Ladder")
 
-[Go to Form](https://mrqr.me/skVBQD) or scan **MrQR**{: .Text-purple-000 } Code.
-
-*If you are not a Registered **MrQR**{: .text-purple-000 } user, you will need to register your*  **MrQR**{: .text-purple-000 } ***Free Account** and request permission to view this form*
+[Go to Item](https://mrqr.me/skVBQD) or scan **MrQR**{: .Text-purple-000 } Code.
 
 <div style="text-align: center;">
 <img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-Ladder.png">
@@ -157,9 +151,7 @@ Register your **Free Account**; Go to [**MrQR.me**](https://mrqr.me/){: .text-pu
 
 ![MrQR Form Builder](/assets/images/Forms/Samples/MrQR_sample_mwep_Clean.png "MWEP Clean")
 
-[Go to Form](https://mrqr.me/gidBoo/) or scan **MrQR**{: .Text-purple-000 } Code.
-
-*If you are not a Registered **MrQR**{: .text-purple-000 } user, you will need to register your*  **MrQR**{: .text-purple-000 } ***Free Account** and request permission to view this form*
+[Go to Item](https://mrqr.me/gidBoo/) or scan **MrQR**{: .Text-purple-000 } Code.
 
 <div style="text-align: center;">
 <img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-MWEP.png">
@@ -173,9 +165,7 @@ Register your **Free Account**; Go to [**MrQR.me**](https://mrqr.me/){: .text-pu
 
 ![MrQR Form Builder](/assets/images/Forms/Samples/MrQR_Sample_Induction_Form.png "Induction")
 
-[Go to Form](https://mrqr.me/aR0CtW/) or scan **MrQR**{: .Text-purple-000 } Code.
-
-*If you are not a Registered **MrQR**{: .text-purple-000 } user, you will need to register your*  **MrQR**{: .text-purple-000 } ***Free Account** and request permission to view this form*
+[Go to Item](https://mrqr.me/aR0CtW/) or scan **MrQR**{: .Text-purple-000 } Code.
 
 <div style="text-align: center;">
 <img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-Site_Induction.png">
@@ -189,9 +179,7 @@ Register your **Free Account**; Go to [**MrQR.me**](https://mrqr.me/){: .text-pu
 
 ![MrQR Form Builder](/assets/images/Forms/Samples/MrQR_Sample_FireDoor.png "Fire Door")
 
-[Go to Form](https://mrqr.me/HvcOsb/) or scan **MrQR**{: .Text-purple-000 } Code.
-
-*If you are not a Registered **MrQR**{: .text-purple-000 } user, you will need to register your*  **MrQR**{: .text-purple-000 } ***Free Account** and request permission to view this form*
+[Go to Item](https://mrqr.me/HvcOsb/) or scan **MrQR**{: .Text-purple-000 } Code.
 
 <div style="text-align: center;">
 <img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-Fire_Door.png">
@@ -205,9 +193,7 @@ Register your **Free Account**; Go to [**MrQR.me**](https://mrqr.me/){: .text-pu
 
 ![MrQR Form Builder](/assets/images/Forms/Samples/MrQR_Sample_EquipmentDetails.png "Equipment")
 
-[Go to Form](https://mrqr.me/XEpQ6S/) or scan **MrQR**{: .Text-purple-000 } Code.
-
-*If you are not a Registered **MrQR**{: .text-purple-000 } user, you will need to register your*  **MrQR**{: .text-purple-000 } ***Free Account** and request permission to view this form*
+[Go to Item](https://mrqr.me/XEpQ6S/) or scan **MrQR**{: .Text-purple-000 } Code.
 
 <div style="text-align: center;">
 <img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-Access_Equipment.png">
