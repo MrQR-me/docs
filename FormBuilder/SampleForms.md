@@ -47,7 +47,7 @@ register your free account; Go to **[MrQR.me](https://mrqr.me/)**{: .text-purple
 
 [Go to Form](https://mrqr.me/3fPO0O) or scan **MrQR**{: .Text-purple-000 } Code.
 
-*You will need to register your*  **MrQR**{: .text-purple-000 } *free account and request permission to view this form*
+*If you are not a Registered **MrQR**{: .text-purple-000 } user, you will need to register your*  **MrQR**{: .text-purple-000 } ***Free Account** and request permission to view this form*
 
 <div style="text-align: center;">
 <img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-01hdbm2hrhyady6q0bk67wksbx.png">
@@ -63,7 +63,7 @@ register your free account; Go to **[MrQR.me](https://mrqr.me/)**{: .text-purple
 
 [Go to Form](https://mrqr.me/3fPO0O) or scan **MrQR**{: .Text-purple-000 } Code.
 
-*You will need to register your*  **MrQR**{: .text-purple-000 } *free account and request permission to view this form*
+*If you are not a Registered **MrQR**{: .text-purple-000 } user, you will need to register your*  **MrQR**{: .text-purple-000 } ***Free Account** and request permission to view this form*
 
 <div style="text-align: center;">
 <img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-01hdbm2hrhyady6q0bk67wksbx.png">
@@ -79,7 +79,7 @@ register your free account; Go to **[MrQR.me](https://mrqr.me/)**{: .text-purple
 
 [Go to Form](https://mrqr.me/3fPO0O) or scan **MrQR**{: .Text-purple-000 } Code.
 
-*You will need to register your*  **MrQR**{: .text-purple-000 } *free account and request permission to view this form*
+*If you are not a Registered **MrQR**{: .text-purple-000 } user, you will need to register your*  **MrQR**{: .text-purple-000 } ***Free Account** and request permission to view this form*
 
 <div style="text-align: center;">
 <img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-01hdbm2hrhyady6q0bk67wksbx.png">
@@ -95,7 +95,7 @@ register your free account; Go to **[MrQR.me](https://mrqr.me/)**{: .text-purple
 
 [Go to Form](https://mrqr.me/HtYQKL/) or scan **MrQR**{: .Text-purple-000 } Code.
 
-*You will need to register your*  **MrQR**{: .text-purple-000 } *free account and request permission to view this form*
+*If you are not a Registered **MrQR**{: .text-purple-000 } user, you will need to register your*  **MrQR**{: .text-purple-000 } ***Free Account** and request permission to view this form*
 
 <div style="text-align: center;">
 <img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-Appliance.png">
@@ -111,7 +111,7 @@ register your free account; Go to **[MrQR.me](https://mrqr.me/)**{: .text-purple
 
 [Go to Form](https://mrqr.me/3fPO0O) or scan **MrQR**{: .Text-purple-000 } Code.
 
-*You will need to register your*  **MrQR**{: .text-purple-000 } *free account and request permission to view this form*
+*If you are not a Registered **MrQR**{: .text-purple-000 } user, you will need to register your*  **MrQR**{: .text-purple-000 } ***Free Account** and request permission to view this form*
 
 <div style="text-align: center;">
 <img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-01hdbm2hrhyady6q0bk67wksbx.png">
@@ -127,7 +127,7 @@ register your free account; Go to **[MrQR.me](https://mrqr.me/)**{: .text-purple
 
 [Go to Form](https://mrqr.me/gidBoo/) or scan **MrQR**{: .Text-purple-000 } Code.
 
-*You will need to register your*  **MrQR**{: .text-purple-000 } *free account and request permission to view this form*
+*If you are not a Registered **MrQR**{: .text-purple-000 } user, you will need to register your*  **MrQR**{: .text-purple-000 } ***Free Account** and request permission to view this form*
 
 <div style="text-align: center;">
 <img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-MWEP.png">
@@ -143,7 +143,7 @@ register your free account; Go to **[MrQR.me](https://mrqr.me/)**{: .text-purple
 
 [Go to Form](https://mrqr.me/skVBQD) or scan **MrQR**{: .Text-purple-000 } Code.
 
-*You will need to register your*  **MrQR**{: .text-purple-000 } *free account and request permission to view this form*
+*If you are not a Registered **MrQR**{: .text-purple-000 } user, you will need to register your*  **MrQR**{: .text-purple-000 } ***Free Account** and request permission to view this form*
 
 <div style="text-align: center;">
 <img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-Ladder.png">
@@ -159,7 +159,7 @@ register your free account; Go to **[MrQR.me](https://mrqr.me/)**{: .text-purple
 
 [Go to Form](https://mrqr.me/gidBoo/) or scan **MrQR**{: .Text-purple-000 } Code.
 
-*You will need to register your*  **MrQR**{: .text-purple-000 } *free account and request permission to view this form*
+*If you are not a Registered **MrQR**{: .text-purple-000 } user, you will need to register your*  **MrQR**{: .text-purple-000 } ***Free Account** and request permission to view this form*
 
 <div style="text-align: center;">
 <img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-MWEP.png">
@@ -175,7 +175,7 @@ register your free account; Go to **[MrQR.me](https://mrqr.me/)**{: .text-purple
 
 [Go to Form](https://mrqr.me/aR0CtW/) or scan **MrQR**{: .Text-purple-000 } Code.
 
-*You will need to register your*  **MrQR**{: .text-purple-000 } *free account and request permission to view this form*
+*If you are not a Registered **MrQR**{: .text-purple-000 } user, you will need to register your*  **MrQR**{: .text-purple-000 } ***Free Account** and request permission to view this form*
 
 <div style="text-align: center;">
 <img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-Site_Induction.png">
@@ -191,7 +191,7 @@ register your free account; Go to **[MrQR.me](https://mrqr.me/)**{: .text-purple
 
 [Go to Form](https://mrqr.me/HvcOsb/) or scan **MrQR**{: .Text-purple-000 } Code.
 
-*You will need to register your*  **MrQR**{: .text-purple-000 } *free account and request permission to view this form*
+*If you are not a Registered **MrQR**{: .text-purple-000 } user, you will need to register your*  **MrQR**{: .text-purple-000 } ***Free Account** and request permission to view this form*
 
 <div style="text-align: center;">
 <img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-Fire_Door.png">
@@ -207,7 +207,7 @@ register your free account; Go to **[MrQR.me](https://mrqr.me/)**{: .text-purple
 
 [Go to Form](https://mrqr.me/XEpQ6S/) or scan **MrQR**{: .Text-purple-000 } Code.
 
-*You will need to register your*  **MrQR**{: .text-purple-000 } *free account and request permission to view this form*
+*If you are not a Registered **MrQR**{: .text-purple-000 } user, you will need to register your*  **MrQR**{: .text-purple-000 } ***Free Account** and request permission to view this form*
 
 <div style="text-align: center;">
 <img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-Access_Equipment.png">
