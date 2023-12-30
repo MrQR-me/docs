@@ -47,9 +47,7 @@ Register your **Free Account**; Go to [**MrQR.me**](https://mrqr.me/){: .text-pu
 
 ![MrQR Form Builder](/assets/images/Forms/Samples/MrQR_Sample_CircuitTest.png "Circuit Test")
 
-[Go to Item](https://mrqr.me/3fPO0O) or scan 
-**MrQR**{: .text-purple-000 } 
-Code.
+[Go to Item](https://mrqr.me/3fPO0O) or scan **MrQR**{: .text-purple-000 } Code.
 
 <div style="text-align: center;">
 <img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-01hdbm2hrhyady6q0bk67wksbx.png">
@@ -63,7 +61,7 @@ Code.
 
 ![MrQR Form Builder](/assets/images/Forms/Samples/MrQR_Sample_DB_Inspection.png "DB Inspection")
 
-[Go to Item](https://mrqr.me/3fPO0O) or scan **MrQR**{: .Text-purple-000 } Code.
+[Go to Item](https://mrqr.me/3fPO0O) or scan **MrQR**{: .text-purple-000 } Code.
 
 <div style="text-align: center;">
 <img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-01hdbm2hrhyady6q0bk67wksbx.png">
@@ -77,7 +75,7 @@ Code.
 
 ![MrQR Form Builder](/assets/images/Forms/Samples/MrQR_Sample_RCD.png "RCD Test")
 
-[Go to Item](https://mrqr.me/3fPO0O) or scan **MrQR**{: .Text-purple-000 } Code.
+[Go to Item](https://mrqr.me/3fPO0O) or scan **MrQR**{: .text-purple-000 } Code.
 
 <div style="text-align: center;">
 <img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-01hdbm2hrhyady6q0bk67wksbx.png">
@@ -91,7 +89,7 @@ Code.
 
 ![MrQR Form Builder](/assets/images/Forms/Samples/MrQR_Sample_Visual_Inspection.png "Visual Inspection")
 
-[Go to Item](https://mrqr.me/HtYQKL/) or scan **MrQR**{: .Text-purple-000 } Code.
+[Go to Item](https://mrqr.me/HtYQKL/) or scan **MrQR**{: .text-purple-000 } Code.
 
 <div style="text-align: center;">
 <img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-Appliance.png">
@@ -105,7 +103,7 @@ Code.
 
 ![MrQR Form Builder](/assets/images/Forms/Samples/MrQR_Sample_safeIsolation.png "Safe Isolation")
 
-[Go to Item](https://mrqr.me/3fPO0O) or scan **MrQR**{: .Text-purple-000 } Code.
+[Go to Item](https://mrqr.me/3fPO0O) or scan **MrQR**{: .text-purple-000 } Code.
 
 <div style="text-align: center;">
 <img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-01hdbm2hrhyady6q0bk67wksbx.png">
@@ -119,7 +117,7 @@ Code.
 
 ![MrQR Form Builder](/assets/images/Forms/Samples/MrQR_Sample_MWEP_Inspection.png "MWEP Inspection")
 
-[Go to Item](https://mrqr.me/gidBoo/) or scan **MrQR**{: .Text-purple-000 } Code.
+[Go to Item](https://mrqr.me/gidBoo/) or scan **MrQR**{: .text-purple-000 } Code.
 
 <div style="text-align: center;">
 <img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-MWEP.png">
@@ -133,7 +131,7 @@ Code.
 
 ![MrQR Form Builder](/assets/images/Forms/Samples/MrQR_sample_ladder.png "Ladder")
 
-[Go to Item](https://mrqr.me/skVBQD) or scan **MrQR**{: .Text-purple-000 } Code.
+[Go to Item](https://mrqr.me/skVBQD) or scan **MrQR**{: .text-purple-000 } Code.
 
 <div style="text-align: center;">
 <img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-Ladder.png">
@@ -147,7 +145,7 @@ Code.
 
 ![MrQR Form Builder](/assets/images/Forms/Samples/MrQR_sample_mwep_Clean.png "MWEP Clean")
 
-[Go to Item](https://mrqr.me/gidBoo/) or scan **MrQR**{: .Text-purple-000 } Code.
+[Go to Item](https://mrqr.me/gidBoo/) or scan **MrQR**{: .text-purple-000 } Code.
 
 <div style="text-align: center;">
 <img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-MWEP.png">
@@ -161,7 +159,7 @@ Code.
 
 ![MrQR Form Builder](/assets/images/Forms/Samples/MrQR_Sample_Induction_Form.png "Induction")
 
-[Go to Item](https://mrqr.me/aR0CtW/) or scan **MrQR**{: .Text-purple-000 } Code.
+[Go to Item](https://mrqr.me/aR0CtW/) or scan **MrQR**{: .text-purple-000 } Code.
 
 <div style="text-align: center;">
 <img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-Site_Induction.png">
@@ -175,7 +173,7 @@ Code.
 
 ![MrQR Form Builder](/assets/images/Forms/Samples/MrQR_Sample_FireDoor.png "Fire Door")
 
-[Go to Item](https://mrqr.me/HvcOsb/) or scan **MrQR**{: .Text-purple-000 } Code.
+[Go to Item](https://mrqr.me/HvcOsb/) or scan **MrQR**{: .text-purple-000 } Code.
 
 <div style="text-align: center;">
 <img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-Fire_Door.png">
@@ -189,7 +187,7 @@ Code.
 
 ![MrQR Form Builder](/assets/images/Forms/Samples/MrQR_Sample_EquipmentDetails.png "Equipment")
 
-[Go to Item](https://mrqr.me/XEpQ6S/) or scan **MrQR**{: .Text-purple-000 } Code.
+[Go to Item](https://mrqr.me/XEpQ6S/) or scan **MrQR**{: .text-purple-000 } Code.
 
 <div style="text-align: center;">
 <img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-Access_Equipment.png">
