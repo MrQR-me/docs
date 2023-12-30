@@ -61,6 +61,7 @@ By selecting personal Site in the top right corner, you access the Site Settings
 * Delete your Site *(function available after additionsal sites have been created)*
   
 ![Sites](/assets/images/MrQR_Site_Menu.png "Site Menu")
+
 [Back to Top](https://docs.mrqr.me/sites/)
 {: .text-right }
 
@@ -82,6 +83,7 @@ You can create as many sites as you need by purchasing additional site licences.
 Select <button class="button button1">CREATE</button> once you have entered the desired site name.
 
 ![Sites](/assets/images/MrQR_Sites_Create_New.png "Payment Details")
+
 See our [Pricing](https://docs.mrqr.me/Pricing/) page for the latest site licence costs
 
 if you have not already added a payment method you will be prompted to add or manage your payment detail. *(*
