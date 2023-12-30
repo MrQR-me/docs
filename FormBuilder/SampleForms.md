@@ -45,6 +45,8 @@ register your free account; Go to **[MrQR.me](https://mrqr.me/)**{: .text-purple
 
 ![MrQR Form Builder](/assets/images/Forms/Samples/MrQR_Sample_CircuitTest.png "Circuit Test")
 
+https://mrqr.me/3fPO0O
+
 [Back to Top](https://docs.mrqr.me/FormBuilder/SampleForms/)
 {: .text-right }
 
