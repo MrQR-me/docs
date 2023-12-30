@@ -45,7 +45,10 @@ register your free account; Go to **[MrQR.me](https://mrqr.me/)**{: .text-purple
 
 ![MrQR Form Builder](/assets/images/Forms/Samples/MrQR_Sample_CircuitTest.png "Circuit Test")
 
-[Go to Form](https://mrqr.me/3fPO0O) or scan **MrQR**{: .Text-purple-000 } Code
+[Go to Form](https://mrqr.me/3fPO0O) or scan **MrQR**{: .Text-purple-000 } Code.
+
+*You will need to register your*  **MrQR**{: .text-purple-000 } *free account and request permission to view this form*
+
 <div style="text-align: center;">
 <img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-01hdbm2hrhyady6q0bk67wksbx.png">
 </div>
