@@ -30,7 +30,7 @@ nav_order: 5
 {: .text-purple-000 }
 {: .no_toc }
 
-A Personal Site is included with you **MrQR**{: .text-purple-000 } Pro User Account, The registers and Items you create in your Personal Site can only be viewed by the Site Owner. When you purchase additional Site Licences, you can manage and share Registers & Assets with other **MrQR**{: .text-purple-000 } registered users you can also invite **MrQR**{: .text-purple-000 } registered users to help manage your additionsl sites.
+A Personal Site is included with a **MrQR**{: .text-purple-000 } Pro User Account, The registers and Items created in a Personal Site can only be viewed by the Personnal Site Owner. When additional Site Licences are purchased, Registers and Items can be managed and shared with any **MrQR**{: .text-purple-000 } registered users once permission is granted. **MrQR**{: .text-purple-000 } registered users can also be invited to help manage additionsl sites.
 
 ## SITE SETUP & DETAILS
 {: .text-purple-000 }
@@ -47,12 +47,12 @@ Their are two types of Site
 * Personal
 * Open
 
-A **Personal** Site is created when you subscribe to a **MrQR**{: .text-purple-000 } Pro Account, it is fully Functional, you can add Registers, items and assign **MrQR**{: .text-purple-000 } forms to items, but Personal Sites can only be viewed by the Personal **MrQR**{: .text-purple-000 } Site Owner. **Open** Sites are created at an additional cost and have the same functions as the **Personal** Site but Registers and Items you create can be viewed by any **MrQR**{: .text-purple-000 } registered user once permission has been granted by the Site Owner.
+A **Personal** Site is created when you subscribe to a **MrQR**{: .text-purple-000 } Pro Account, it is fully Functional, you can add Registers, items and assign **MrQR**{: .text-purple-000 } sample forms to items, but Personal Sites can only be viewed by the Personal **MrQR**{: .text-purple-000 } Site Owner. **Open** Sites are created at an additional cost and have the same functions as the **Personal** Site but Registers and Items you create can be viewed by any **MrQR**{: .text-purple-000 } registered user once permission has been granted by the Site Owner.
 
 ## Site Settings
 {: .text-purple-000 }
 
-By selecting your personal Site in the top right corner, you access the Site Settings Menu, here you can
+By selecting personal Site in the top right corner, you access the Site Settings Menu where you can
 
 * Change the Site Name
 * Create New Sites
