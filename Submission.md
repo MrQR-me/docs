@@ -39,14 +39,15 @@ Individual Forms submisssions can be viewed in the **MrQR**{: .text-purple-000 }
 {:toc }
 - .TOC
 
-### Form Submissions in Items
+### Firm Submissions in Items
 {: .text-purple-000 }
+
 ![Submissions](/assets/images/MrQR_Submission_Register.png "Register")
+
 
 ### Exporting Data
 {: .text-purple-000 }
+
 ![Submissions](/assets/images/MrQR_Export_Data.png "Export")
-
-
 
 
