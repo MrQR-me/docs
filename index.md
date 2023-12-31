@@ -74,7 +74,7 @@ View our documentation for **MrQR**{: .text-purple-000 }, use the links in the s
 
 [Back to Top](https://docs.mrqr.me/index)
 {: .text-right }
-
+___
 ## Viewing on a PC,Tablet or Smartphone
 {: .text-purple-000 }
 
@@ -91,7 +91,7 @@ Icon in the top right hand corner.
 
 [Back to Top](https://docs.mrqr.me/index)
 {: .text-right }
-
+___
 ## PC & Tablet Menu Bar
 {: .text-purple-000 }
 
@@ -105,7 +105,7 @@ The Menu Bar at the top of the page allows access to all **MrQR**{: .text-purple
 ![Index](/assets/images/MrQR_PC_Menu_Bar.png "PC menu access")
 [Back to Top](https://docs.mrqr.me/index)
 {: .text-right }
-
+___
 ## Smartphone Menu
 {: .text-purple-000 }
 
@@ -122,7 +122,6 @@ Icon at the top any page Close the **MrQR**{: .text-purple-000 } Platform Menu.
 
 [Back to Top](https://docs.mrqr.me/index)
 {: .text-right }
-
 ____
 *The* **MrQR**{: .text-purple-000 } *platform will be officially launched in March 2024.* **MrQR**{: .text-purple-000 } *has a policy of continuous improvement.
 Additional features may be added and improvement made at any time infomation contained within this document may require updating.
