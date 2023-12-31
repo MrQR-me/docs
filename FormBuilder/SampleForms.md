@@ -66,7 +66,7 @@ ___
 
 ![MrQR Form Builder](/assets/images/Forms/Samples/MrQR_Sample_safeIsolation.png "Safe Isolation")
 
-### Go to Item
+### Go to Distribution Board
 {: .text-purple-000 }
 
 [Go to Item](https://mrqr.me/3fPO0O) or scan **MrQR**{: .text-purple-000 } Codes.
@@ -104,8 +104,6 @@ ___
 
 ![MrQR Form Builder](/assets/images/Forms/Samples/MrQR_Sample_MWEP_Inspection.png "MWEP Inspection")
 
-[Go to Item](https://mrqr.me/gidBoo/) or scan **MrQR**{: .text-purple-000 } Code.
-
 <div style="text-align: center;">
 <img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-MWEP.png">
 </div>
@@ -115,6 +113,7 @@ ___
 
 ![MrQR Form Builder](/assets/images/Forms/Samples/MrQR_sample_mwep_Clean.png "MWEP Clean")
 
+### Go to MWEP 
 [Go to Item](https://mrqr.me/gidBoo/) or scan **MrQR**{: .text-purple-000 } Code.
 
 <div style="text-align: center;">
