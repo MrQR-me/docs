@@ -106,8 +106,16 @@ By Selecting the Sticker Image you can Download the **MrQR**{: .text-purple-000 
 [Go to Item](https://mrqr.me/3fPO0O) or scan **MrQR**{: .text-purple-000 } Code.
 
 <div style="text-align: center;">
-<img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-01hdbm2hrhyady6q0bk67wksbx.png"><img width="520" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/MrQR_DB_Label.png">
+<img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-01hdbm2hrhyady6q0bk67wksbx.png">
 </div>
+
+MrQR Sticker Download
+___
+<div style="text-align: center;">
+  <img width="520" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/MrQR_DB_Label.png">
+</div>
+
+Example of how a the QR Code from the MRQR sticker can be used within your own custom labels
 
 [Back to Top](https://docs.mrqr.me/assets/)
 {: .text-right }
