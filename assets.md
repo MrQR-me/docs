@@ -109,7 +109,7 @@ By Selecting the Sticker Image you can Download the **MrQR**{: .text-purple-000 
 <img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-01hdbm2hrhyady6q0bk67wksbx.png">
 </div>
 
-MrQR Sticker Download
+**MrQR**{: .text-purple-000 } Sticker Download
 
 ___
 <div style="text-align: center;">
