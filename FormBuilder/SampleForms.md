@@ -67,7 +67,7 @@ ___
 
 ![MrQR Form Builder](/assets/images/Forms/Samples/MrQR_Sample_safeIsolation.png "Safe Isolation")
 
-### Go to Distribution Board
+#### Go to Distribution Board
 {: .text-purple-000 }
 
 [Go to Distribution Board Details](https://mrqr.me/3fPO0O) or scan **MrQR**{: .text-purple-000 } Codes.
@@ -85,7 +85,8 @@ Example of how a the QR Code from the **MrQR**{: .text-purple-000 } sticker can 
 [Back to Top](https://docs.mrqr.me/FormBuilder/SampleForms/)
 {: .text-right }
 ___
-## Electrical | Visual Inspection
+## Electrical
+### Visual Inspection Form
 {: .text-purple-000 }
 
 ![MrQR Form Builder](/assets/images/Forms/Samples/MrQR_Sample_Visual_Inspection.png "Visual Inspection")
@@ -100,7 +101,7 @@ ___
 {: .text-right }
 ___
 ## Access Equipment
-### MWEP Pre User Checks
+### MWEP Pre User Checks Form
 {: .text-purple-000 }
 
 ![MrQR Form Builder](/assets/images/Forms/Samples/MrQR_Sample_MWEP_Inspection.png "MWEP Inspection")
@@ -109,12 +110,12 @@ ___
 <img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-MWEP.png">
 </div>
 
-### MWEP Sign Off
+### MWEP Sign Off Form
 {: .text-purple-000 }
 
 ![MrQR Form Builder](/assets/images/Forms/Samples/MrQR_sample_mwep_Clean.png "MWEP Clean")
 
-### Go to MWEP 
+#### Go to MWEP Forms
 [Go to MWEP Forms](https://mrqr.me/gidBoo/) or scan **MrQR**{: .text-purple-000 } Code.
 
 <div style="text-align: center;">
@@ -124,7 +125,7 @@ ___
 [Back to Top](https://docs.mrqr.me/FormBuilder/SampleForms/)
 {: .text-right }
 ___
-### Ladder Pre User Checks
+### Ladder Pre User Checks Form
 {: .text-purple-000 }
 
 ![MrQR Form Builder](/assets/images/Forms/Samples/MrQR_sample_ladder.png "Ladder")
@@ -153,7 +154,7 @@ ___
 {: .text-right }
 ___
 ## Misc
-### Fire Door Inspection
+### Fire Door Inspection Form
 {: .text-purple-000 }
 
 ![MrQR Form Builder](/assets/images/Forms/Samples/MrQR_Sample_FireDoor.png "Fire Door")
@@ -167,7 +168,7 @@ ___
 [Back to Top](https://docs.mrqr.me/FormBuilder/SampleForms/)
 {: .text-right }
 ___
-### Equipment Details
+### Equipment Details Form
 {: .text-purple-000 }
 
 ![MrQR Form Builder](/assets/images/Forms/Samples/MrQR_Sample_EquipmentDetails.png "Equipment")
