@@ -35,7 +35,7 @@ parent: MrQR Form Builder
 **MrQR**{: .text-purple-000 } is a secure item management system with global access. When you scan a **MrQR**{: .text-purple-000 } code or follow the item links, they will direct you to the item landing page, to continue and requset access to view or submit the **MrQR**{: .text-purple-000 } form you will need to be a **MrQR**{: .text-purple-000 } registered user.
 
 Register your **Free Account**; Go to [**MrQR.me**](https://mrqr.me/){: .text-purple-000 } and select <button class="button button1">REGISTER</button>
-
+___
 # **Sample Forms**{: .text-purple-000 }
 {: .no_toc }
 
