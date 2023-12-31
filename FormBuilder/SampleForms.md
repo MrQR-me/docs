@@ -50,7 +50,7 @@ Register your **Free Account**; Go to [**MrQR.me**](https://mrqr.me/){: .text-pu
 [Go to Item](https://mrqr.me/3fPO0O) or scan **MrQR**{: .text-purple-000 } Code.
 
 <div style="text-align: center;">
-<img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-01hdbm2hrhyady6q0bk67wksbx.png"><img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/MrQR_DB_Label.png">
+<img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-01hdbm2hrhyady6q0bk67wksbx.png"><img width="520" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/MrQR_DB_Label.png">
 </div>
 
 [Back to Top](https://docs.mrqr.me/FormBuilder/SampleForms/)
