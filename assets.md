@@ -44,7 +44,7 @@ Once an Item is Created it cannot be Deleted but you can Edit its Name & Details
 
 [Back to Top](https://docs.mrqr.me/assets/)
 {: .text-right }
-
+___
 ### Creating a New Item
 {: .text-purple-000 }
 When creating an Item a new unique **MrQR**{: .text-purple-000 } code is also created, you have the options to;
@@ -67,7 +67,7 @@ in the Example below an item Named; Step Ladder 01 in a Group named Access Equip
 
 [Back to Top](https://docs.mrqr.me/assets/)
 {: .text-right }
-
+___
 ### Assigng Forms
 {: .text-purple-000 }
 
@@ -81,7 +81,7 @@ Select <button class="button button1">ASSIGN</button> once you have selected the
 
 [Back to Top](https://docs.mrqr.me/assets/)
 {: .text-right }
-
+___
 ### Viewing an Item
 {: .text-purple-000 }
 On the View Item page you can:
@@ -96,7 +96,7 @@ Select <button class="button button1">SAVE</button> once you have Amended your I
 
 [Back to Top](https://docs.mrqr.me/assets/)
 {: .text-right }
-
+___
 ### Stickers
 {: .text-purple-000 }
 
@@ -111,6 +111,6 @@ By Selecting the Sticker Image you can Download the **MrQR**{: .text-purple-000 
 
 [Back to Top](https://docs.mrqr.me/assets/)
 {: .text-right }
-
+___
 
 
