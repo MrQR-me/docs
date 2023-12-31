@@ -35,6 +35,7 @@ parent: MrQR Form Builder
 **MrQR**{: .text-purple-000 } is a secure item management system with global access. When you scan a **MrQR**{: .text-purple-000 } code or follow the item links, they will direct you to the item landing page, to continue and requset access to view or submit the **MrQR**{: .text-purple-000 } form you will need to be a **MrQR**{: .text-purple-000 } registered user.
 
 Register your **Free Account**; Go to [**MrQR.me**](https://mrqr.me/){: .text-purple-000 } and select <button class="button button1">REGISTER</button>
+
 ___
 # **Sample Forms**{: .text-purple-000 }
 {: .no_toc }
@@ -69,7 +70,7 @@ ___
 ### Go to Distribution Board
 {: .text-purple-000 }
 
-[Go to Item](https://mrqr.me/3fPO0O) or scan **MrQR**{: .text-purple-000 } Codes.
+[Go to Distribution Board Details](https://mrqr.me/3fPO0O) or scan **MrQR**{: .text-purple-000 } Codes.
 
 <div style="text-align: center;">
 <img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-01hdbm2hrhyady6q0bk67wksbx.png">
@@ -89,7 +90,7 @@ ___
 
 ![MrQR Form Builder](/assets/images/Forms/Samples/MrQR_Sample_Visual_Inspection.png "Visual Inspection")
 
-[Go to Item](https://mrqr.me/HtYQKL/) or scan **MrQR**{: .text-purple-000 } Code.
+[Go to Electrical Inspection Form](https://mrqr.me/HtYQKL/) or scan **MrQR**{: .text-purple-000 } Code.
 
 <div style="text-align: center;">
 <img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-Appliance.png">
@@ -114,7 +115,7 @@ ___
 ![MrQR Form Builder](/assets/images/Forms/Samples/MrQR_sample_mwep_Clean.png "MWEP Clean")
 
 ### Go to MWEP 
-[Go to Item](https://mrqr.me/gidBoo/) or scan **MrQR**{: .text-purple-000 } Code.
+[Go to MWEP Forms](https://mrqr.me/gidBoo/) or scan **MrQR**{: .text-purple-000 } Code.
 
 <div style="text-align: center;">
 <img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-MWEP.png">
@@ -128,7 +129,7 @@ ___
 
 ![MrQR Form Builder](/assets/images/Forms/Samples/MrQR_sample_ladder.png "Ladder")
 
-[Go to Item](https://mrqr.me/skVBQD) or scan **MrQR**{: .text-purple-000 } Code.
+[Go to Ladder Inspection Form](https://mrqr.me/skVBQD) or scan **MrQR**{: .text-purple-000 } Code.
 
 <div style="text-align: center;">
 <img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-Ladder.png">
@@ -142,7 +143,7 @@ ___
 
 ![MrQR Form Builder](/assets/images/Forms/Samples/MrQR_Sample_Induction_Form.png "Induction")
 
-[Go to Item](https://mrqr.me/aR0CtW/) or scan **MrQR**{: .text-purple-000 } Code.
+[Go to Induction Register](https://mrqr.me/aR0CtW/) or scan **MrQR**{: .text-purple-000 } Code.
 
 <div style="text-align: center;">
 <img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-Site_Induction.png">
@@ -157,7 +158,7 @@ ___
 
 ![MrQR Form Builder](/assets/images/Forms/Samples/MrQR_Sample_FireDoor.png "Fire Door")
 
-[Go to Item](https://mrqr.me/HvcOsb/) or scan **MrQR**{: .text-purple-000 } Code.
+[Go to Fire Door Inspection Form](https://mrqr.me/HvcOsb/) or scan **MrQR**{: .text-purple-000 } Code.
 
 <div style="text-align: center;">
 <img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-Fire_Door.png">
@@ -171,7 +172,7 @@ ___
 
 ![MrQR Form Builder](/assets/images/Forms/Samples/MrQR_Sample_EquipmentDetails.png "Equipment")
 
-[Go to Item](https://mrqr.me/XEpQ6S/) or scan **MrQR**{: .text-purple-000 } Code.
+[Go to Equipment Form](https://mrqr.me/XEpQ6S/) or scan **MrQR**{: .text-purple-000 } Code.
 
 <div style="text-align: center;">
 <img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-Access_Equipment.png">
