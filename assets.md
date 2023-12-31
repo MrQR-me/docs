@@ -110,6 +110,7 @@ By Selecting the Sticker Image you can Download the **MrQR**{: .text-purple-000 
 </div>
 
 MrQR Sticker Download
+
 ___
 <div style="text-align: center;">
   <img width="520" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/MrQR_DB_Label.png">
