@@ -82,7 +82,7 @@ ___
 ![Index](/assets/images/MrQR_PC_Menu_Bar.png "PC menu access")
 
 however due to the reduced screens size on smartphone's and smaller tablet's accessing the main menu is achieved by selecting the 
-<img width="25" alt="image" src="https://github.com/MrQR-me/docs/assets/153803042/c52befe4-d437-41f0-908d-b7e4ad467e74">
+<img width="25" alt="image" src="https://docs.mrqr.me/assets/images/MrQR_Icon.png">
 Icon in the top right hand corner.
 
 <div style="text-align: center;">
