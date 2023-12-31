@@ -51,21 +51,30 @@ ___
 {: .text-purple-000 }
 
 ![MrQR Form Builder](/assets/images/Forms/Samples/MrQR_Sample_CircuitTest.png "Circuit Test")
+[Back to Top](https://docs.mrqr.me/FormBuilder/SampleForms/)
+{: .text-right }
 
 ### Distribution Inspection
 {: .text-purple-000 }
 
 ![MrQR Form Builder](/assets/images/Forms/Samples/MrQR_Sample_DB_Inspection.png "DB Inspection")
+[Back to Top](https://docs.mrqr.me/FormBuilder/SampleForms/)
+{: .text-right }
 
 ### RDC Test
 {: .text-purple-000 }
 
 ![MrQR Form Builder](/assets/images/Forms/Samples/MrQR_Sample_RCD.png "RCD Test")
+[Back to Top](https://docs.mrqr.me/FormBuilder/SampleForms/)
+{: .text-right }
+
 
 ### Electrical | Safe Isolation
 {: .text-purple-000 }
 
 ![MrQR Form Builder](/assets/images/Forms/Samples/MrQR_Sample_safeIsolation.png "Safe Isolation")
+[Back to Top](https://docs.mrqr.me/FormBuilder/SampleForms/)
+{: .text-right }
 
 ### Go to Distribution Board Forms
 {: .text-purple-000 }
@@ -107,6 +116,8 @@ ___
 {: .text-purple-000 }
 
 ![MrQR Form Builder](/assets/images/Forms/Samples/MrQR_Sample_MWEP_Inspection.png "MWEP Inspection")
+[Back to Top](https://docs.mrqr.me/FormBuilder/SampleForms/)
+{: .text-right }
 
 ### MWEP Sign Off Form
 {: .text-purple-000 }
