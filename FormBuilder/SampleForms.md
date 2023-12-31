@@ -86,6 +86,7 @@ Example of how a the QR Code from the **MrQR**{: .text-purple-000 } sticker can 
 {: .text-right }
 ___
 ## Electrical
+{: .text-purple-000 }
 ### Visual Inspection Form
 {: .text-purple-000 }
 
@@ -101,6 +102,7 @@ ___
 {: .text-right }
 ___
 ## Access Equipment
+{: .text-purple-000 }
 ### MWEP Pre User Checks Form
 {: .text-purple-000 }
 
