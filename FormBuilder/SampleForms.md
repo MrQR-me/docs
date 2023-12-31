@@ -42,48 +42,48 @@ Register your **Free Account**; Go to [**MrQR.me**](https://mrqr.me/){: .text-pu
 {:toc }
 - .TOC
 
-## Electrical | Circuit Test
+## Electrical
+### Circuit Test
 {: .text-purple-000 }
 
 ![MrQR Form Builder](/assets/images/Forms/Samples/MrQR_Sample_CircuitTest.png "Circuit Test")
 
 [Go to Item](https://mrqr.me/3fPO0O) or scan **MrQR**{: .text-purple-000 } Code.
 
-<div style="text-align: center;">
-<img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-01hdbm2hrhyady6q0bk67wksbx.png"><img width="520" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/MrQR_DB_Label.png">
-</div>
-
-[Back to Top](https://docs.mrqr.me/FormBuilder/SampleForms/)
-{: .text-right }
-
-## Electrical | Distribution Inspection
+### Distribution Inspection
 {: .text-purple-000 }
 
 ![MrQR Form Builder](/assets/images/Forms/Samples/MrQR_Sample_DB_Inspection.png "DB Inspection")
 
 [Go to Item](https://mrqr.me/3fPO0O) or scan **MrQR**{: .text-purple-000 } Code.
 
-<div style="text-align: center;">
-<img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-01hdbm2hrhyady6q0bk67wksbx.png">
-</div>
-
-[Back to Top](https://docs.mrqr.me/FormBuilder/SampleForms/)
-{: .text-right }
-
-## Electrical | RDC Test
+### RDC Test
 {: .text-purple-000 }
 
 ![MrQR Form Builder](/assets/images/Forms/Samples/MrQR_Sample_RCD.png "RCD Test")
 
 [Go to Item](https://mrqr.me/3fPO0O) or scan **MrQR**{: .text-purple-000 } Code.
 
+### Electrical | Safe Isolation
+{: .text-purple-000 }
+
+![MrQR Form Builder](/assets/images/Forms/Samples/MrQR_Sample_safeIsolation.png "Safe Isolation")
+
+### Go to Item
+[Go to Item](https://mrqr.me/3fPO0O) or scan **MrQR**{: .text-purple-000 } Code.
+
 <div style="text-align: center;">
 <img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-01hdbm2hrhyady6q0bk67wksbx.png">
 </div>
 
+<div style="text-align: center;">
+<img width="520" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/MrQR_DB_Label.png">
+</div>
+Example of how a the QR Code from the MRQR sticker can be used within your own custom labels
+
 [Back to Top](https://docs.mrqr.me/FormBuilder/SampleForms/)
 {: .text-right }
-
+___
 ## Electrical | Visual Inspection
 {: .text-purple-000 }
 
@@ -97,22 +97,9 @@ Register your **Free Account**; Go to [**MrQR.me**](https://mrqr.me/){: .text-pu
 
 [Back to Top](https://docs.mrqr.me/FormBuilder/SampleForms/)
 {: .text-right }
-
-## Electrical | Safe Isolation
-{: .text-purple-000 }
-
-![MrQR Form Builder](/assets/images/Forms/Samples/MrQR_Sample_safeIsolation.png "Safe Isolation")
-
-[Go to Item](https://mrqr.me/3fPO0O) or scan **MrQR**{: .text-purple-000 } Code.
-
-<div style="text-align: center;">
-<img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-01hdbm2hrhyady6q0bk67wksbx.png">
-</div>
-
-[Back to Top](https://docs.mrqr.me/FormBuilder/SampleForms/)
-{: .text-right }
-
-## Acces Equipment | MWEP Pre User Checks
+___
+## Access Equipment
+### MWEP Pre User Checks
 {: .text-purple-000 }
 
 ![MrQR Form Builder](/assets/images/Forms/Samples/MrQR_Sample_MWEP_Inspection.png "MWEP Inspection")
@@ -123,24 +110,7 @@ Register your **Free Account**; Go to [**MrQR.me**](https://mrqr.me/){: .text-pu
 <img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-MWEP.png">
 </div>
 
-[Back to Top](https://docs.mrqr.me/FormBuilder/SampleForms/)
-{: .text-right }
-
-## Acces Equipment | Ladder Pre User Checks
-{: .text-purple-000 }
-
-![MrQR Form Builder](/assets/images/Forms/Samples/MrQR_sample_ladder.png "Ladder")
-
-[Go to Item](https://mrqr.me/skVBQD) or scan **MrQR**{: .text-purple-000 } Code.
-
-<div style="text-align: center;">
-<img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-Ladder.png">
-</div>
-
-[Back to Top](https://docs.mrqr.me/FormBuilder/SampleForms/)
-{: .text-right }
-
-## Acces Equipment | MWEP Sign Off
+### MWEP Sign Off
 {: .text-purple-000 }
 
 ![MrQR Form Builder](/assets/images/Forms/Samples/MrQR_sample_mwep_Clean.png "MWEP Clean")
@@ -153,7 +123,21 @@ Register your **Free Account**; Go to [**MrQR.me**](https://mrqr.me/){: .text-pu
 
 [Back to Top](https://docs.mrqr.me/FormBuilder/SampleForms/)
 {: .text-right }
+___
+### Ladder Pre User Checks
+{: .text-purple-000 }
 
+![MrQR Form Builder](/assets/images/Forms/Samples/MrQR_sample_ladder.png "Ladder")
+
+[Go to Item](https://mrqr.me/skVBQD) or scan **MrQR**{: .text-purple-000 } Code.
+
+<div style="text-align: center;">
+<img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-Ladder.png">
+</div>
+
+[Back to Top](https://docs.mrqr.me/FormBuilder/SampleForms/)
+{: .text-right }
+___
 ## Site Access | Sample Induction Form
 {: .text-purple-000 }
 
@@ -167,8 +151,9 @@ Register your **Free Account**; Go to [**MrQR.me**](https://mrqr.me/){: .text-pu
 
 [Back to Top](https://docs.mrqr.me/FormBuilder/SampleForms/)
 {: .text-right }
-
-## Misc | Fire Door Inspection
+___
+## Misc
+### Fire Door Inspection
 {: .text-purple-000 }
 
 ![MrQR Form Builder](/assets/images/Forms/Samples/MrQR_Sample_FireDoor.png "Fire Door")
@@ -181,8 +166,8 @@ Register your **Free Account**; Go to [**MrQR.me**](https://mrqr.me/){: .text-pu
 
 [Back to Top](https://docs.mrqr.me/FormBuilder/SampleForms/)
 {: .text-right }
-
-## Misc | Equipment Details
+___
+### Equipment Details
 {: .text-purple-000 }
 
 ![MrQR Form Builder](/assets/images/Forms/Samples/MrQR_Sample_EquipmentDetails.png "Equipment")
