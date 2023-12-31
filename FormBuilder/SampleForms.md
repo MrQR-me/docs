@@ -41,8 +41,10 @@ Register your **Free Account**; Go to [**MrQR.me**](https://mrqr.me/){: .text-pu
 
 {:toc }
 - .TOC
-
+___
 ## Electrical
+{: .text-purple-000 }
+
 ### Circuit Test
 {: .text-purple-000 }
 
