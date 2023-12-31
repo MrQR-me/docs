@@ -117,7 +117,7 @@ ___
 
 ![MrQR Form Builder](/assets/images/Forms/Samples/MrQR_Sample_MWEP_Inspection.png "MWEP Inspection")
 [Back to Top](https://docs.mrqr.me/FormBuilder/SampleForms/)
-{: .text-right }
+{: .text-right } {: .fs-1}
 
 ### MWEP Sign Off Form
 {: .text-purple-000 }
