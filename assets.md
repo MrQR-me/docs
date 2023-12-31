@@ -103,6 +103,12 @@ Select <button class="button button1">SAVE</button> once you have Amended your I
 By Selecting the Sticker Image you can Download the **MrQR**{: .text-purple-000 } code Sticker image to insert into your own Labels or ~posters 
 ![Items](/assets/images/MrQR_Sticker.png "Sticker")
 
+[Go to Item](https://mrqr.me/3fPO0O) or scan **MrQR**{: .text-purple-000 } Code.
+
+<div style="text-align: center;">
+<img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-01hdbm2hrhyady6q0bk67wksbx.png"><img width="520" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/MrQR_DB_Label.png">
+</div>
+
 [Back to Top](https://docs.mrqr.me/assets/)
 {: .text-right }
 
