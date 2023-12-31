@@ -48,21 +48,15 @@ Register your **Free Account**; Go to [**MrQR.me**](https://mrqr.me/){: .text-pu
 
 ![MrQR Form Builder](/assets/images/Forms/Samples/MrQR_Sample_CircuitTest.png "Circuit Test")
 
-[Go to Item](https://mrqr.me/3fPO0O) or scan **MrQR**{: .text-purple-000 } Code.
-
 ### Distribution Inspection
 {: .text-purple-000 }
 
 ![MrQR Form Builder](/assets/images/Forms/Samples/MrQR_Sample_DB_Inspection.png "DB Inspection")
 
-[Go to Item](https://mrqr.me/3fPO0O) or scan **MrQR**{: .text-purple-000 } Code.
-
 ### RDC Test
 {: .text-purple-000 }
 
 ![MrQR Form Builder](/assets/images/Forms/Samples/MrQR_Sample_RCD.png "RCD Test")
-
-[Go to Item](https://mrqr.me/3fPO0O) or scan **MrQR**{: .text-purple-000 } Code.
 
 ### Electrical | Safe Isolation
 {: .text-purple-000 }
@@ -70,16 +64,19 @@ Register your **Free Account**; Go to [**MrQR.me**](https://mrqr.me/){: .text-pu
 ![MrQR Form Builder](/assets/images/Forms/Samples/MrQR_Sample_safeIsolation.png "Safe Isolation")
 
 ### Go to Item
-[Go to Item](https://mrqr.me/3fPO0O) or scan **MrQR**{: .text-purple-000 } Code.
+{: .text-purple-000 }
+
+[Go to Item](https://mrqr.me/3fPO0O) or scan **MrQR**{: .text-purple-000 } Codes.
 
 <div style="text-align: center;">
 <img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-01hdbm2hrhyady6q0bk67wksbx.png">
 </div>
 
+Example of how a the QR Code from the MRQR sticker can be used within your own custom labels
+
 <div style="text-align: center;">
 <img width="520" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/MrQR_DB_Label.png">
 </div>
-Example of how a the QR Code from the MRQR sticker can be used within your own custom labels
 
 [Back to Top](https://docs.mrqr.me/FormBuilder/SampleForms/)
 {: .text-right }
