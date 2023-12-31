@@ -70,7 +70,7 @@ ___
 ### Go to Distribution Board Forms
 {: .text-purple-000 }
 
-[Go to Distribution Board Details](https://mrqr.me/3fPO0O) or scan **MrQR**{: .text-purple-000 } Codes.
+[Go to Distribution Board Forms](https://mrqr.me/3fPO0O) or scan **MrQR**{: .text-purple-000 } Codes.
 
 <div style="text-align: center;">
 <img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-01hdbm2hrhyady6q0bk67wksbx.png">
