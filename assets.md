@@ -116,7 +116,7 @@ ___
   <img width="520" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/MrQR_DB_Label.png">
 </div>
 
-Example of how a the QR Code from the MRQR sticker can be used within your own custom labels
+Example of how a the QR Code from the **MrQR**{: .text-purple-000 } sticker can be used within your own custom labels
 
 [Back to Top](https://docs.mrqr.me/assets/)
 {: .text-right }
