@@ -67,7 +67,7 @@ ___
 
 ![MrQR Form Builder](/assets/images/Forms/Samples/MrQR_Sample_safeIsolation.png "Safe Isolation")
 
-#### Go to Distribution Board
+#### Go to Distribution Board Forms
 {: .text-purple-000 }
 
 [Go to Distribution Board Details](https://mrqr.me/3fPO0O) or scan **MrQR**{: .text-purple-000 } Codes.
