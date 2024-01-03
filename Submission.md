@@ -39,7 +39,7 @@ Individual Forms submisssions can be viewed in the **MrQR**{: .text-purple-000 }
 {:toc }
 - .TOC
 
-### Firm Submissions in Items
+### Form Submissions in Items
 {: .text-purple-000 }
 
 ![Submissions](/assets/images/MrQR_Submission_Register.png "Register")
