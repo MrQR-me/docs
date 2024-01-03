@@ -30,7 +30,7 @@ nav_order: 8
 {: .text-purple-000 }
 {: .no_toc }
 
-Individual Forms submisssions can be viewed in the **MrQR**{: .text-purple-000 } Pro User Account holders Dashboard and the Form View page of the Site where the Asset was created, you can also export all Data submitted by all **MrQR**{: .text-purple-000 } Users from this Page.
+Individual Forms submisssions can be viewed in the **MrQR**{: .text-purple-000 } in the Form View page of the Site where the Asset was created, you can also export all Data submitted by all **MrQR**{: .text-purple-000 } Users from this Page.
 
 ## VIEWING FORM SUBMISSIONS
 {: .text-purple-000 }
