@@ -27,9 +27,14 @@ nav_order: 16
 </head>
 </html>
 
-## DOWNLOADS
+# **Download**{: .text-purple-000 }
+{: .no_toc }
+please select the file you wish to download
 
-<a href="https://docs.mrqr.me/assets/images/Forms/stickers/MrQR_DB_Label.png" download="filename">label</a>
+## label
+{: .text-purple-000 }
+{: .no_toc }
+
 
 <a href="https://docs.mrqr.me/assets/images/Forms/stickers/MrQR_DB_Label.png" download="myimage"><img src="https://docs.mrqr.me/assets/images/Forms/stickers/MrQR_DB_Label.png" /></a>
 
