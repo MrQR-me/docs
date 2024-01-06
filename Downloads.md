@@ -31,6 +31,6 @@ nav_order: 16
 
 <a href="https://docs.mrqr.me/assets/images/Forms/stickers/MrQR_DB_Label.png" download="filename">label</a>
 
-<a href="/path/to/image" download="myimage"><img src="/path/to/image" /></a>
+<a href="https://docs.mrqr.me/assets/images/Forms/stickers/MrQR_DB_Label.png" download="myimage"><img src="https://docs.mrqr.me/assets/images/Forms/stickers/MrQR_DB_Label.png" /></a>
 
 
