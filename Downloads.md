@@ -33,4 +33,4 @@ permalink: docs/FormBuilder
 
 <a href="https://docs.mrqr.me/assets/images/Forms/stickers/MrQR_DB_Label.png" download="filename">label</a>
 
-https://docs.mrqr.me/assets/images/Forms/stickers/MrQR_DB_Label.png
+
