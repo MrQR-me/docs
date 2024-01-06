@@ -100,7 +100,7 @@ ___
 ### Stickers
 {: .text-purple-000 }
 
-By Selecting the Sticker Image you can Download the **MrQR**{: .text-purple-000 } code Sticker image to insert into your own Labels or ~posters 
+By Selecting the Sticker Image you can <button class="button button1">DOWNLOAD</button> the **MrQR**{: .text-purple-000 } code Sticker image to insert into your own Labels and posters or you can <button class="button button2">SHARE</button> or copy the **MrQR**{: .text-purple-000 } Link address via your prefered messaging / email clients.
 ![Items](/assets/images/MrQR_Sticker.png "Sticker")
 
 [Go to Item](https://mrqr.me/3fPO0O) or scan **MrQR**{: .text-purple-000 } Code.
