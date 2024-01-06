@@ -40,3 +40,9 @@ ___
   <img width="400" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/MrQR_DB_Label.png" /></a>
 </div>
 ___
+
+<div style="text-align: center;">
+<a href="https://docs.mrqr.me/assets/images/Forms/stickers/MrQR_DB_Label.png" download="myimage">
+  <img width="400" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/MrQR_DB_Label.png" /></a>
+</div>
+___
