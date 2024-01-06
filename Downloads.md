@@ -31,6 +31,8 @@ nav_order: 16
 {: .no_toc }
 please select the file you wish to view or download.
 
+{: .toc }
+
 ## Label 1
 {: .text-purple-000 }
 ___
