@@ -31,11 +31,10 @@ nav_order: 16
 {: .no_toc }
 please select the file you wish to view or download.
 
-## label
+___
+## Label
 {: .text-purple-000 }
-{: .no_toc }
-
 
 <a href="https://docs.mrqr.me/assets/images/Forms/stickers/MrQR_DB_Label.png" download="myimage"><img src="https://docs.mrqr.me/assets/images/Forms/stickers/MrQR_DB_Label.png" /></a>
-
+___
 
