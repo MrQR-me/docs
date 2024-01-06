@@ -35,8 +35,8 @@ please select the file you wish to view or download.
 {: .text-purple-000 }
 ___
 
-
-<a href="https://docs.mrqr.me/assets/images/Forms/stickers/MrQR_DB_Label.png" download="myimage"><img src="https://docs.mrqr.me/assets/images/Forms/stickers/MrQR_DB_Label.png" /></a>
-
+<div style="text-align: center;">
+<a href="https://docs.mrqr.me/assets/images/Forms/stickers/MrQR_DB_Label.png" download="myimage">
+  <img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/MrQR_DB_Label.png" /></a>
+</div>
 ___
-
