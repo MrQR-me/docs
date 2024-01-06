@@ -39,7 +39,7 @@ please select the file you wish to view or download.
 ___
 
 <div style="text-align: center;">
-<a href="https://docs.mrqr.me/assets/images/Forms/stickers/MrQR_DB_Label.png" download="myimage">
+<a href="https://docs.mrqr.me/assets/images/Forms/stickers/MrQR_DB_Label.png" download="MrQR-Download">
   <img width="400" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/MrQR_DB_Label.png" /></a>
 </div>
 
@@ -48,7 +48,7 @@ ___
 ___
 
 <div style="text-align: center;">
-<a href="https://docs.mrqr.me/assets/images/Forms/stickers/MrQR_DB_Label.png" download="myimage">
+<a href="https://docs.mrqr.me/assets/images/Forms/stickers/MrQR_DB_Label.png" download="MrQR-Download">
   <img width="400" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/MrQR_DB_Label.png" /></a>
 </div>
 
