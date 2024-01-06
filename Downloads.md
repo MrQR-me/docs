@@ -27,7 +27,7 @@ nav_order: 16
 </head>
 </html>
 
-# **Download**{: .text-purple-000 }
+# **Mr QR Downloads**{: .text-purple-000 }
 {: .no_toc }
 please select the file you wish to download
 
