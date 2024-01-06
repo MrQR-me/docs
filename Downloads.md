@@ -29,7 +29,7 @@ nav_order: 16
 
 # **Mr QR**{: .text-purple-000 } **Downloads**
 {: .no_toc }
-please select the file you wish to download
+please select the file you wish to view or download.
 
 ## label
 {: .text-purple-000 }
