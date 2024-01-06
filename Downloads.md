@@ -31,7 +31,7 @@ nav_order: 16
 {: .no_toc }
 please select the file you wish to view or download.
 
-## Label
+## Label 1
 {: .text-purple-000 }
 ___
 
@@ -39,10 +39,14 @@ ___
 <a href="https://docs.mrqr.me/assets/images/Forms/stickers/MrQR_DB_Label.png" download="myimage">
   <img width="400" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/MrQR_DB_Label.png" /></a>
 </div>
+
+## Label 2
+{: .text-purple-000 }
 ___
 
 <div style="text-align: center;">
 <a href="https://docs.mrqr.me/assets/images/Forms/stickers/MrQR_DB_Label.png" download="myimage">
   <img width="400" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/MrQR_DB_Label.png" /></a>
 </div>
+
 ___
