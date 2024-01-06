@@ -31,3 +31,4 @@ permalink: docs/FormBuilder
 
 ## DOWNLOADS
 
+<a href="link/to/your/download/file" download="filename">label</a>
