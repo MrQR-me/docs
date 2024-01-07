@@ -94,6 +94,8 @@ Select <button class="button button1">SAVE</button> once you have Amended your I
 
 ![Items](/assets/images/MrQR_Item_Assigned_Form.png "Edit Item")
 
+Select the <button class="button button2">VIEW ITEM</button> Button to take you to the Item Landing Page, this will show you how MrQR Users will gain access to the assigned forms.
+
 [Back to Top](https://docs.mrqr.me/assets/)
 {: .text-right }
 ___
