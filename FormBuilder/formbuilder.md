@@ -51,3 +51,10 @@ Select **Duplicate**{: .text-grey-lt-300 } in the `All your forms` list, this wi
 you can now edit the duplicated form.
 
 ![MrQR Form Builder](/assets/images/MrQR_Duplicate_Form.png "Duplicate Form")
+
+Please Note:
+
+When you duplicate a form to another site the sections, content and inputs contained within the original form will be locked and cannot be edited or removed.
+New content & inputs can be edited to original sections however these again will be locked, New Sections, Content and inputs can be added, edited and removed as normal.
+
+If you need to edit the original secton, content and inputs you will need to duplicate the form again on the new site.
