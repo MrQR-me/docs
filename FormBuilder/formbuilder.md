@@ -66,11 +66,11 @@ As forms can be used accross different sites and assigned to multiple assets by 
   
 * If duplicated to another site (Site **B**) the original content is preserved and cannot  be edited.
 
-* Additional sections, content and inputs added to the original form in site **A** will not be added to the duplicated form in **B**
+* Additional sections, content and inputs added to the original form in site **A** will not be added to the duplicated form in site **B**
   
-* New content & inputs can be added to original sections on the form on site **B** however they cannot  be edited or removed.
+* New content & inputs can be added to original sections on the duplicated form on site **B** however they cannot  be edited or removed and will not be added to the original gorm in site **A**.
   
-* New Sections, Content and inputs can be added, edited and removed as normal on the form on site **B** and not added to the original form on Site **A**.
+* New Sections, Content and inputs can be added, edited and removed as normal on the duplicated form on site **B** and will not added to the original form on Site **A**.
   
 * If the form is duplicated again on site **B** a new form is created and is  fully Editable.
 
