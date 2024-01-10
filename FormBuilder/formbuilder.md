@@ -66,11 +66,11 @@ As forms can be used accross different sites and assigned to multiple assets by 
   
 * If duplicated to another site (Site **B**) the original content is preserved and cannot  be edited.
   
-* New content & inputs can be edited to original sections on the form on site **B** however it will be locked on the form on site **B** and added to the original form and fully editable on on site **A**.
+* New content & inputs can be added to original sections on the form on site **B** however it will be locked on the form on site **B** and added to the original form and fully editable on on site **A**.
   
 * New Sections, Content and inputs can be added, edited and removed as normal on the form on site **B** and not added to the original form on Site **A**.
   
 * If the form is duplicated again on site **B** a new form is created and is  fully Editable.
 
-This can be a useful function, you can create master forms or templates on you personal site and duplicate them to other sites, any changes to your master or template forms in your personal site will be cascaded through to all your other sites.
+
   
