@@ -53,7 +53,7 @@ you can now edit the duplicated form.
 ![MrQR Form Builder](/assets/images/MrQR_Duplicate_Form.png "Duplicate Form")
 
 
-## preserving Form Integrity
+## Preserving Form Integrity
 {: .text-purple-000 }
 
 **Please Note:**
@@ -68,7 +68,7 @@ As forms can be used accross different sites and assigned to multiple assets by 
 
 * Additional sections, content and inputs added to the original form in site **A** will not be added to the duplicated form in **B**
   
-* New content & inputs can be added to original sections on the form on site **B** however it will be locked on the form on site **B** and added to the original form and fully editable on on site **A**.
+* New content & inputs can be added to original sections on the form on site **B** however they cannot  be edited or removed.
   
 * New Sections, Content and inputs can be added, edited and removed as normal on the form on site **B** and not added to the original form on Site **A**.
   
