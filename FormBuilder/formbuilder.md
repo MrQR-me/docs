@@ -65,6 +65,8 @@ As forms can be used accross different sites and assigned to multiple assets by 
 * If duplicated on site **A** a new form is created and fully Editable.
   
 * If duplicated to another site (Site **B**) the original content is preserved and cannot  be edited.
+
+* Additional sections, content and inputs added to the original form in site **A** will not be added to the duplicated form in **B**
   
 * New content & inputs can be added to original sections on the form on site **B** however it will be locked on the form on site **B** and added to the original form and fully editable on on site **A**.
   
@@ -72,5 +74,5 @@ As forms can be used accross different sites and assigned to multiple assets by 
   
 * If the form is duplicated again on site **B** a new form is created and is  fully Editable.
 
-
+The above helps preserve the integity of the form and allows forms to be customised to suite individual sites.
   
