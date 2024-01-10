@@ -75,4 +75,6 @@ As forms can be used accross different sites and assigned to multiple assets by 
 * If the form is duplicated again on site **B** a new form is created and is  fully Editable.
 
 The above helps preserve the integity of the form and allows forms to be customised to suite individual sites.
+
+**REMEBER TO CHANGE THE NAMES OF YOUR FORMS**
   
