@@ -52,9 +52,24 @@ you can now edit the duplicated form.
 
 ![MrQR Form Builder](/assets/images/MrQR_Duplicate_Form.png "Duplicate Form")
 
+
+## preserving Form Integrity
+{: .text-purple-000 }
+
 Please Note:
 
-When you duplicate a form to another site the sections, content and inputs contained within the original form will be locked and cannot be edited or removed.
-New content & inputs can be edited to original sections however these again will be locked, New Sections, Content and inputs can be added, edited and removed as normal.
+As forms to be used accros  different site and assigned tp multiple assets by different users the integrity of the form must ge protected.
 
-If you need to edit the original secton, content and inputs you will need to duplicate the form again on the new site.
+this us achieved by creating a hieracy of forms i.e.
+
+the original form created on the original site (site A)
+
+if duplicated on  (site A) a new form is created with full Editable access.
+
+if duplicated to another site (Site B) the original content is preserved and can only be alterd or removed from site A.
+
+New content & inputs can be edited to original sections however these will be locked on the form on site B and fully editable on the form in site A.
+
+New Sections, Content and inputs can be added, edited and removed as normal on the form on site B and not added to the original form on Site A.
+
+If the form is diplicated again on site B a new form is created with full Editable access.
