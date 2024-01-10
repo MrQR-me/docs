@@ -56,20 +56,21 @@ you can now edit the duplicated form.
 ## preserving Form Integrity
 {: .text-purple-000 }
 
-Please Note:
+**Please Note:**
 
-As forms to be used accros  different site and assigned tp multiple assets by different users the integrity of the form must ge protected.
+As forms can be used accross different sites and assigned to multiple assets by different users, the integrity of the form is protected, this is achieved by creating a hieracy of forms i.e.
 
-this us achieved by creating a hieracy of forms i.e.
+* The original form created on the original site (site **A**)
+  
+* If duplicated on site **A** a new form is created and fully Editable.
+  
+* If duplicated to another site (Site **B**) the original content is preserved and cannot  be edited.
+  
+* New content & inputs can be edited to original sections on the form on site **B** however it will be locked on the form on site **B** and added to the original form and fully editable on on site **A**.
+  
+* New Sections, Content and inputs can be added, edited and removed as normal on the form on site **B** and not added to the original form on Site **A**.
+  
+* If the form is duplicated again on site **B** a new form is created and is  fully Editable.
 
-the original form created on the original site (site A)
-
-if duplicated on  (site A) a new form is created with full Editable access.
-
-if duplicated to another site (Site B) the original content is preserved and can only be alterd or removed from site A.
-
-New content & inputs can be edited to original sections however these will be locked on the form on site B and fully editable on the form in site A.
-
-New Sections, Content and inputs can be added, edited and removed as normal on the form on site B and not added to the original form on Site A.
-
-If the form is diplicated again on site B a new form is created with full Editable access.
+This can be a useful function, you can create master forms or templates on you personal site and duplicate them to other sites, any changes to your master or template forms in your personal site will be cascaded through to all your other sites.
+  
