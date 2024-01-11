@@ -51,6 +51,8 @@ You can give your forn any name you like. Forms are universal they can be assign
 If you have a single site and only a few forms a simple name discribing your form should be suitable. if you have multiple sites with many forms you could look at names that includes the site used & version eg. 
 
 **Site Name - Form Name - Version**
+{: .text-center}
+
 `Site 1 - Ladder Inspection - V1.0`
 {: .text-center}
 
