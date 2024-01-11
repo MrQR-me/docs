@@ -201,11 +201,8 @@ ___
 [Go to Equipment Form](https://mrqr.me/VwDTSz/) or scan **MrQR**{: .text-purple-000 } Code.
 
 <div style="text-align: center;">
-<img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-Access_Equipment.png">
+<img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-VEHICLE.png">
 </div>
-
- 
-
 
 [Back to Top](https://docs.mrqr.me/FormBuilder/SampleForms/)
 {: .text-right }
