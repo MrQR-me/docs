@@ -44,6 +44,12 @@ Select <button class="button button1">CREATE</button> once you have entered the 
 
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Form_Create_New.png "Create Form")
 
+## Naming Your Form (guidance)
+{: .text-purple-000 }
+
+Forms are universal they can be assigned to any item and duplicated across all of your sites. With this in mind its worth considering how you name your forms.
+if you have a single site and only a few forms simmple names may be suitable. if you have multiple sites with many forms you could look at names that includes the site used & version eg. **"Site Name | Form Name | Version"**. - `Site 1 | Ladder Inspection | V1.0`
+
 ## Form Settings
 {: .text-purple-000 }
 
