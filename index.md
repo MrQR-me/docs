@@ -36,7 +36,7 @@ nav_order: 0
 
 **MrQR**{: .text-purple-000 } aims to provide a simple low cost, secure, globally accessible item management platform.
 
-Site costs or minimal and there are no user costs associated to any site. Users are completely independent and have their own account.
+Site costs or minimal and there are no user costs associated to any site. Users are completely independent and have their own user account.
 
 Any user can create their own MrQR sites and request access to any item on any MrQR site using the unique **MrQR**{: .text-purple-000 } code created on the MrQR platform.
 
