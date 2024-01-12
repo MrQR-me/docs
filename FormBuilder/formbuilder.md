@@ -40,7 +40,7 @@ The Forms panel consists of two sections;
 * New Form - *Create a form*
 * Forms - *All your Forms*
 
-All you forms, lists all the sample forms and forms created or duplicated on the current site. Sample Forms included on the **MrQR**{: .Text-purple-000 } platform cannot be edited, they must 1st be duplicated to a site and the duplucate form can be edited.
+All you forms, lists all the sample forms and forms created or duplicated on the current site. Sample Forms included on the **MrQR**{: .text-purple-000 } platform cannot be edited, they must 1st be duplicated to a site and the duplucate form can be edited.
 ## New Forms
 {: .text-purple-000 }
 
@@ -100,14 +100,14 @@ If you use this form any changes made by the Form Owner will also be changed on 
 * Only the form owner or invited users can make Changes to your Duplicated Forms.
 * Ensure you Rename your Duplicated Form
 
-Consider including additional text similar to but not limited to (*Replace* MrQR *with tour own organisation name*);
+Consider including additional text similar to but not limited to (*Replace* **MrQR**{: .text-purple-000 } *with tour own organisation name*);
 
-Whilst **MrQR**{: .Text-purple-000 } has made every effort to provide accurate information when creating this TEMPLATE Form.
+Whilst **MrQR**{: .text-purple-000 } has made every effort to provide accurate information when creating this TEMPLATE Form.
 * By assigning any form for to an item on your Site that you either own or an invited user off,  you will become responsible for the information submitted.
-* **MrQR**{: .Text-purple-000 } does not  accept any liability relating to loss or damage arising from the  use of this form.
+* **MrQR**{: .text-purple-000 } does not  accept any liability relating to loss or damage arising from the  use of this form.
 * Any action points arising from the form should be attended to as soon as possible.
-* **MrQR**{: .Text-purple-000 } does not accept any responsibility for assessing the competency and training of the Responsible Person and their ability to complete this check list.
-* The information resulting in the submission of this form is sent to the Site Owners and not to **MrQR**{: .Text-purple-000 }
+* **MrQR**{: .text-purple-000 } does not accept any responsibility for assessing the competency and training of the Responsible Person and their ability to complete this check list.
+* The information resulting in the submission of this form is sent to the Site Owners and not to **MrQR**{: .text-purple-000 }
 * Once you are familiar with this form you can Edit this section with your own notes or REMOVE it.
 
 You should also make refernce to your own company policies that may relate to the form submissions 
