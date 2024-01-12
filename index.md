@@ -75,9 +75,12 @@ Form Submissions can be individually viewed or all form submissions expoted in `
 
 View our documentation for **MrQR**{: .text-purple-000 }, use the links in the sidebar or menu to go to a specific page. Start with our [Quickstart](https://docs.mrqr.me/quickstart/) guide.
 
+[Back to Top](https://docs.mrqr.me/index)
+{: .text-right }
+___
 ## Key Features
 {: .text-purple-000 }
-___
+
 * **MrQR**{: .text-purple-000 } is a Universal item Management Platform with global access.
 * **MrQR**{: .text-purple-000 } is a cloud based platform and requires an internet connection and registration to the **MrQR**{: .text-purple-000 } platform.
 * **MrQR**{: .text-purple-000 } can be viewed on PC, Tablet, or Smartphone. 
