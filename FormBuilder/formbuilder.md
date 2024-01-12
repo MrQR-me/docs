@@ -94,6 +94,7 @@ If you use this form any changes made by the Form Owner will be changed on this 
 * Ensure you Rename your New Form
 
 Once you are familiar with this form you can Edit this section with your own notes or REMOVE it.
+
 You should also make refernce to your own privacy policy and consider including additional text similar to (Replace MrQR with tour own organisation name);
 
 * Whilst MrQR has made every effort to provide accurate information when creating this TEMPLATE Form.
