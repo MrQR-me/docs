@@ -95,10 +95,10 @@ When creating forms for use with multiple users it should be considered to add a
 
 If you use this form any changes made by the Form Owner will also be changed on this Form
 
-* This form can be duplicated to your own site
-* Once duplicated you will become the form owner and can edit your form.
+* You can **Duplicate**{: .text-grey-lt-300 } to your own site
+* When you **Duplicate**{: .text-grey-lt-300 } a form you will become the form owner and can edit your form.
 * Only the form owner or invited users can make Changes to your Duplicated Forms.
-* Ensure you Rename your Duplicated Form
+* Ensure you Rename your Duplicated Forms
 
 Consider including additional text similar to but not limited to (*Replace* **MrQR**{: .text-purple-000 } *with tour own organisation name*);
 
