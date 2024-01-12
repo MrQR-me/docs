@@ -93,14 +93,14 @@ When creating forms for use across  multiple sites it should be considered to ad
 
 **PLEASE BE AWARE**
 
-If you use this form any changes made by the Form Owner will also be changed on this Form
+If you use this form any changes made by the Form Owner will also be reflected on this Form
 
-* You can **Duplicate**{: .text-grey-lt-300 } to your own site
-* When you **Duplicate**{: .text-grey-lt-300 } a form you will become the form owner and can edit your form.
+* You can **Duplicate**{: .text-grey-lt-300 } this form to your own site
+* When you **Duplicate**{: .text-grey-lt-300 } a form you will become the form owner.
 * Only the form owner or invited users can make Changes to your Duplicated Forms.
 * Ensure you Rename your Duplicated Forms
 
-Consider including additional text similar to but not limited to (*Replace* **MrQR**{: .text-purple-000 } *with tour own organisation name*);
+Consider including additional text similar to but not limited to (*Replace* **MrQR**{: .text-purple-000 } *with tour own name or organisation name*);
 
 Whilst **MrQR**{: .text-purple-000 } has made every effort to provide accurate information when creating this TEMPLATE Form.
 * By assigning any form for to an item on your Site that you either own or an invited user off,  you will become responsible for the information submitted.
@@ -110,9 +110,9 @@ Whilst **MrQR**{: .text-purple-000 } has made every effort to provide accurate i
 * The information resulting in the submission of this form is sent to the Site Owners and not to **MrQR**{: .text-purple-000 }
 * Once you are familiar with this form you can Edit this section with your own notes or **REMOVE**{: .text-red-000 } it.
 
-You should also make refernce to your own company policies that may relate to the form submissions 
-Thankyou for using **MrQR**{: .text-purple-000 }
+You should also make refernce to your own policies that may relate to the use of the form. 
 
+Thankyou for using **MrQR**{: .text-purple-000 }
 
 ___
 
@@ -120,4 +120,5 @@ ___
 {: .text-purple-000 }
 
 Coming Soon
-  
+
+___  
