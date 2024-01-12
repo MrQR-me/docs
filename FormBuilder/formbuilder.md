@@ -82,9 +82,16 @@ The above helps preserve the integity of the form and allows forms to be customi
 
 **REMEBER TO CHANGE THE NAMES OF YOUR FORMS**
 
-when creating forms for use with multiple users it should be considered to add a Notes section including the text
+
 
 ___
+
+## Considerations when Creating Forms
+{: .text-purple-000 }
+
+The forms you create can be used to provide infomation, collect data about people, the condition, sutability and safety of equipment, so you mus consider the questions you are asking and provide the user submitting the form enough infomation to allow them to complete the form accuratly and ensure that the completed sumitted data has meaning
+
+When creating forms for use with multiple users it should be considered to add a Notes section including the text
 
 Caution !!! 
 If you use this form any changes made by the Form Owner will be changed on this Form
@@ -93,16 +100,18 @@ If you use this form any changes made by the Form Owner will be changed on this 
 * Only you can make Changes your Duplicated Forms.
 * Ensure you Rename your New Form
 
-Once you are familiar with this form you can Edit this section with your own notes or REMOVE it.
+Consider including additional text similar to but not limited to (*Replace* MrQR *with tour own organisation name*);
 
-You should also make refernce to your own privacy policy and consider including additional text similar to (Replace MrQR with tour own organisation name);
-
-* Whilst MrQR has made every effort to provide accurate information when creating this TEMPLATE Form.
+Whilst **MrQR**{: .Text-purple-000 } has made every effort to provide accurate information when creating this TEMPLATE Form.
 * By assigning any form for to an item on your Site that you either own or an invited user off,  you will become responsible for the information submitted.
-* MrQR  does not  accept any liability relating to loss or damage arising from the  use of this form.
+* **MrQR**{: .Text-purple-000 }  does not  accept any liability relating to loss or damage arising from the  use of this form.
 * Any action points arising from the form should be attended to as soon as possible.
-* MrQR do not accept any responsibility for assessing the competency and training of the Responsible Person and their ability to complete this check list.
-* The information resulting in the submission of this form is sent to the Site Owners and not to MrQR.
+* **MrQR**{: .Text-purple-000 } do not accept any responsibility for assessing the competency and training of the Responsible Person and their ability to complete this check list.
+* The information resulting in the submission of this form is sent to the Site Owners and not to **MrQR**{: .Text-purple-000 }
+* Once you are familiar with this form you can Edit this section with your own notes or REMOVE it.
+
+You should also make refernce to your own company policies that may relate to the form submissions  
+
 
 ___
 
