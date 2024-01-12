@@ -26,13 +26,20 @@ nav_order: 0
 </style>
 </head>
 </html>
-# **HOME**{: .text-purple-000 }
+# **MrQR**
+{: .text-purple-000 }
+{: .no_toc }
+
+{:toc }
+- .TOC
 {: .no_toc }
 
 ## Thankyou for choosing **MrQR**{: .text-purple-000 } a cloud based universal item management platform.
 {: .no_toc }
 
 ![Index](/assets/images/MrQR_Landing_Page.png "Landing Page")
+
+
 
 **MrQR**{: .text-purple-000 } aims to provide a simple low cost, secure, globally accessible item management platform.
 
@@ -69,13 +76,6 @@ Download the Unique **MrQR**{: .text-purple-000 } Code sticker image for the ite
 Form Submissions can be individually viewed or all form submissions expoted in `.csv` format to be used in your preferred spreadsheet software.
 
 View our documentation for **MrQR**{: .text-purple-000 }, use the links in the sidebar or menu to go to a specific page. Start with our [Quickstart](https://docs.mrqr.me/quickstart/) guide.
-
-## **MrQR**
-{: .text-purple-000 }
-{: .no_toc }
-
-{:toc }
-- .TOC
 
 ## Key Features
 {: .text-purple-000 }
