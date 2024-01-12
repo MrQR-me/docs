@@ -87,11 +87,11 @@ ___
 ## Considerations when Creating Forms
 {: .text-purple-000 }
 
-The forms you create can be used to provide infomation, collect data about people, the condition, sutability and safety of equipment, so you mus consider the questions you are asking and provide the user submitting the form enough infomation to allow them to complete the form accuratly and ensure that the completed sumitted data has meaning
+The forms you create can be used to provide infomation, collect infomation about people, the condition, sutability and safety of plant and equipment, record events, register the use of or access to and area, plant or equipment, the use is is only restricted by your imagination. You should always consider the questions you are asking and provide the user enough infomation to allow them to complete any forms you assign to an item, accuratly and ensure that the sumitted forms are valid.
 
-When creating forms for use with multiple users it should be considered to add a Notes section including the text
+When creating forms for use across  multiple sites it should be considered to add a Notes section to your form; including the text
 
-**Caution !!!**
+**PLEASE BE AWARE**
 
 If you use this form any changes made by the Form Owner will also be changed on this Form
 
