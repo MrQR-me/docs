@@ -91,7 +91,7 @@ The forms you create can be used to provide infomation, collect infomation about
 
 When creating forms for use across  multiple sites it should be considered to add a section to your form, including your own notes and text as the example below;
 
-**PLEASE BE AWARE**
+**PLEASE BE AWARE**{: .text-purple-000 }
 
 If you use this form any changes made by the Form Owner will also be reflected on this Form
 * You can **Duplicate**{: .text-grey-lt-300 } this form to your own site
@@ -125,7 +125,7 @@ ___
 [Back to Top](https://docs.mrqr.me/FormBuilder/SampleForms/)
 {: .text-right }
 
-**PLEASE BE AWARE**
+**PLEASE BE AWARE**{: .text-purple-000 }
 
 If you use this form any changes made by the Form Owner will also be reflected on this Form
 * You can **Duplicate**{: .text-grey-lt-300 } this form to your own site
