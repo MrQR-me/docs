@@ -216,8 +216,8 @@ New Templates are being constantly added, recent additions include;
 * Electrical Appliance Test (PAT)
 * Podium Pre-Use Checklist
 
-If you think of a form template that may be usefull please contact us;
-<a href="mailto:help@mrqr.me?subject=Subject&body=Form%20Template%20Request" ><img src="https://docs.mrqr.me/assets/images/logo.png"></a>
+If you think of a form template that may be useful please contact us;
+<a href="mailto:help@mrqr.me?subject=Form%20Template%20Request&body=Form%20Template%20Request" ><img src="https://docs.mrqr.me/assets/images/logo.png"></a>
 
 [Back to Top](https://docs.mrqr.me/FormBuilder/SampleForms/)
 {: .text-right }
