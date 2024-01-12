@@ -93,12 +93,14 @@ The forms you create can be used to provide infomation, collect data about peopl
 
 When creating forms for use with multiple users it should be considered to add a Notes section including the text
 
-Caution !!! 
-If you use this form any changes made by the Form Owner will be changed on this Form
+**Caution !!!**
 
-* This form can be copied to your own site and then edited.
-* Only you can make Changes your Duplicated Forms.
-* Ensure you Rename your New Form
+If you use this form any changes made by the Form Owner will also be changed on this Form
+
+* This form can be duplicated to your own site
+* Once duplicated you will become the form owner and can edit your form.
+* Only the form owner or invited users can make Changes to your Duplicated Forms.
+* Ensure you Rename your Duplicated Form
 
 Consider including additional text similar to but not limited to (*Replace* MrQR *with tour own organisation name*);
 
@@ -110,7 +112,8 @@ Whilst **MrQR**{: .Text-purple-000 } has made every effort to provide accurate i
 * The information resulting in the submission of this form is sent to the Site Owners and not to **MrQR**{: .Text-purple-000 }
 * Once you are familiar with this form you can Edit this section with your own notes or REMOVE it.
 
-You should also make refernce to your own company policies that may relate to the form submissions  
+You should also make refernce to your own company policies that may relate to the form submissions 
+Thankyou for using **MrQR**{: .Text-purple-000 }
 
 
 ___
