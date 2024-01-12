@@ -88,7 +88,7 @@ Caution !!!
 If you use this form any changes made by the Form Owner will be changed on this Form
 
 *	This form can be copied to your own site and then edited.
-*	Only you can make Changes your Duplicated Forms.
+*	Only you can make Changes to your Duplicated Forms.
 *	Ensure you Rename your New Form
   
 Once you are familiar with this form you can Edit this section with your own notes or REMOVE it.
