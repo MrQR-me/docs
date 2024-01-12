@@ -89,7 +89,7 @@ ___
 
 The forms you create can be used to provide infomation, collect infomation about people, the condition, sutability and safety of plant and equipment, record events, register the use of or access to and area, plant or equipment, the use is is only restricted by your imagination. You should always consider the questions you are asking and provide the user enough infomation to allow them to complete any forms you assign to an item, accuratly and ensure that the sumitted forms are valid.
 
-When creating forms for use across  multiple sites it should be considered to add a Notes section to your form; including the text
+When creating forms for use across  multiple sites it should be considered to add a section to your form, including your own notes and text as the example below;
 
 **PLEASE BE AWARE**
 
