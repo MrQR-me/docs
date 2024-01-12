@@ -102,9 +102,7 @@ If you use this form any changes made by the Form Owner will also be changed on 
 
 Consider including additional text similar to but not limited to (*Replace* MrQR *with tour own organisation name*);
 
-Whilst **MrQR**
-{: .Text-purple-000 }
-has made every effort to provide accurate information when creating this TEMPLATE Form.
+Whilst **MrQR**{: .Text-purple-000 } has made every effort to provide accurate information when creating this TEMPLATE Form.
 * By assigning any form for to an item on your Site that you either own or an invited user off,  you will become responsible for the information submitted.
 * **MrQR**{: .Text-purple-000 } does not  accept any liability relating to loss or damage arising from the  use of this form.
 * Any action points arising from the form should be attended to as soon as possible.
