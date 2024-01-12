@@ -216,6 +216,8 @@ New Templates are being constantly added, recent additions include;
 * Electrical Appliance Test (PAT)
 * Podium Pre-Use Checklist
 
+If you think of a form template that may be usefull please contact us
+
 [Back to Top](https://docs.mrqr.me/FormBuilder/SampleForms/)
 {: .text-right }
 ___
