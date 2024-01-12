@@ -108,10 +108,10 @@ Whilst **MrQR**{: .text-purple-000 } has made every effort to provide accurate i
 * Any action points arising from the form should be attended to as soon as possible.
 * **MrQR**{: .text-purple-000 } does not accept any responsibility for assessing the competency and training of the Responsible Person and their ability to complete this check list.
 * The information resulting in the submission of this form is sent to the Site Owners and not to **MrQR**{: .text-purple-000 }
-* Once you are familiar with this form you can Edit this section with your own notes or REMOVE it.
+* Once you are familiar with this form you can Edit this section with your own notes or **REMOVE**{: .text-red-000 } it.
 
 You should also make refernce to your own company policies that may relate to the form submissions 
-Thankyou for using **MrQR**{: .Text-purple-000 }
+Thankyou for using **MrQR**{: .text-purple-000 }
 
 
 ___
