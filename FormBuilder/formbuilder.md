@@ -82,8 +82,6 @@ The above helps preserve the integity of the form and allows forms to be customi
 
 **REMEBER TO CHANGE THE NAMES OF YOUR FORMS**
 
-
-
 ___
 
 ## Considerations when Creating Forms
