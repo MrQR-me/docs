@@ -38,7 +38,7 @@ nav_order: 0
 
 Site costs or minimal and there are no user costs associated to any site. Users are completely independent and have their own user account.
 
-Any user can create their own MrQR sites and request access to any item on any MrQR site using the unique **MrQR**{: .text-purple-000 } code created on the MrQR platform.
+Any user can create their own **MrQR**{: .text-purple-000 } sites and request access to any item on any **MrQR**{: .text-purple-000 } site using the unique **MrQR**{: .text-purple-000 } code created on the **MrQR**{: .text-purple-000 } platform.
 
 Anyone including employers, employees, contractors, subcontractors and members of the public can register for a free account.
 
