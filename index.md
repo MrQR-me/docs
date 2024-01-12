@@ -34,6 +34,24 @@ nav_order: 0
 
 ![Index](/assets/images/MrQR_Landing_Page.png "Landing Page")
 
+**MrQR**{: .text-purple-000 } aims to provide a simple low cost, secure, globally accessible item management system.
+
+Site costs or minimal and there are no user costs associated to any site. Users are completely independent and have their own account.
+
+Any user can create their own MrQR sites and request access to any item on any MrQR site using the unique **MrQR**{: .text-purple-000 } code created on the MrQR platform.
+
+Anyone including employers, employees, contractors, subcontractors and members of the public can register for a free account.
+
+Free accounts can be upgraded to a Pro-User Account that includes a full user profile with training and equipment records that can be used to automate the submission of any **MrQR**{: .text-purple-000 } form. 
+
+A fully functional personal site, only accessible to the **MrQR**{: .text-purple-000 } account holder is also included with the Pro-User Account, enabling them to create multiple personal registers to manage the own items and assign multiple **MrQR**{: .text-purple-000 } form templates.
+
+Users can purchase monthly **MrQR**{: .text-purple-000 } site owner licences and create multiple registers of items, assign multiple forms to each item containing information, images, questionnaires and checklists.  All assessable to any **MrQR**{: .text-purple-000 } user once the MrQR site owner has approved their requested access.
+
+Site owners can invite other **MrQR**{: .text-purple-000 } users to help manage and build there sites.
+
+**MrQR**{: .text-purple-000 } form builder is included with an active MrQR site owner license. MrQR Form Templates can be duplicated and customised, New **MrQR**{: .text-purple-000 } Forms can also be created,
+
 With the **MrQR**{: .text-purple-000 } platform you can create your own Forms to manage almost anything including:
 * Building site inductions
 * Training Records
