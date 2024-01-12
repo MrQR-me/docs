@@ -68,7 +68,7 @@ As forms can be used accross different sites and assigned to multiple assets by 
   
 * If duplicated on site **A** a new form is created and fully Editable.
   
-* If duplicated to another site (Site **B**) the original content is preserved and cannot  be edited.
+* If duplicated to another site (Site **B**) the original content is preserved and cannot  be edited. (this can be useful if you are creating a template to use accross your sites)
 
 * Additional sections, content and inputs added to the original form in site **A** will not be added to the duplicated form in site **B**
   
@@ -76,14 +76,24 @@ As forms can be used accross different sites and assigned to multiple assets by 
   
 * New Sections, Content and inputs can be added, edited and removed as normal on the duplicated form on site **B** and will not added to the original form on Site **A**.
   
-* If the form is duplicated again on site **B** a new form is created and is  fully Editable.
+* If the form is duplicated again on site **B** a new form is created and is fully Editable.
 
 The above helps preserve the integity of the form and allows forms to be customised to suite individual sites.
 
 **REMEBER TO CHANGE THE NAMES OF YOUR FORMS**
 
+when creating forms for use with multiple users it should be considered to add a Notes section including the text
+___
+Caution !!! 
+If you use this form any changes made by the Form Owner will be changed on this Form
+•	This form can be copied to your own site and then edited. 
+•	Only you can make Changes your Duplicated Forms.
+•	Ensure you Rename your New Form
+Once you are familiar with this form you can Edit this section with your own notes or REMOVE it.
+___
+
 ## Global Forms
 {: .text-purple-000 }
 
-TBC
+Coming Soon
   
