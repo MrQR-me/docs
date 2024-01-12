@@ -206,10 +206,9 @@ ___
 
 [Back to Top](https://docs.mrqr.me/FormBuilder/SampleForms/)
 {: .text-right }
-
+___
 ### New Form Templates
 {: .text-purple-000 }
-___
 
 New Templates are being constantly added, recent additions include;
 
@@ -219,5 +218,4 @@ New Templates are being constantly added, recent additions include;
 
 [Back to Top](https://docs.mrqr.me/FormBuilder/SampleForms/)
 {: .text-right }
-
 ___
