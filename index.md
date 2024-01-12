@@ -34,7 +34,7 @@ nav_order: 0
 
 ![Index](/assets/images/MrQR_Landing_Page.png "Landing Page")
 
-**MrQR**{: .text-purple-000 } aims to provide a simple low cost, secure, globally accessible item management system.
+**MrQR**{: .text-purple-000 } aims to provide a simple low cost, secure, globally accessible item management platform.
 
 Site costs or minimal and there are no user costs associated to any site. Users are completely independent and have their own account.
 
