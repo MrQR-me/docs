@@ -207,3 +207,17 @@ ___
 [Back to Top](https://docs.mrqr.me/FormBuilder/SampleForms/)
 {: .text-right }
 
+### New Form Templates
+{: .text-purple-000 }
+___
+
+New Templates are being constantly added, recent additions include;
+
+* Expense Tracker
+* Electrical Appliance Test (PAT)
+* Podium Pre-Use Checklist
+
+[Back to Top](https://docs.mrqr.me/FormBuilder/SampleForms/)
+{: .text-right }
+
+___
