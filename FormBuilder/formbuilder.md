@@ -84,14 +84,24 @@ The above helps preserve the integity of the form and allows forms to be customi
 
 when creating forms for use with multiple users it should be considered to add a Notes section including the text
 ___
+
 Caution !!! 
 If you use this form any changes made by the Form Owner will be changed on this Form
 
-*	This form can be copied to your own site and then edited.
-*	Only you can make Changes to your Duplicated Forms.
-*	Ensure you Rename your New Form
-  
+* This form can be copied to your own site and then edited.
+* Only you can make Changes your Duplicated Forms.
+* Ensure you Rename your New Form
+
 Once you are familiar with this form you can Edit this section with your own notes or REMOVE it.
+You should also make refernce to your own privacy policy and consider including additional text similar to (Replace MrQR with tour own organisation name);
+
+* Whilst MrQR has made every effort to provide accurate information when creating this TEMPLATE Form.
+* By assigning any form for to an item on your Site that you either own or an invited user off,  you will become responsible for the information submitted.
+* MrQR  does not  accept any liability relating to loss or damage arising from the  use of this form.
+* Any action points arising from the form should be attended to as soon as possible.
+* MrQR do not accept any responsibility for assessing the competency and training of the Responsible Person and their ability to complete this check list.
+* The information resulting in the submission of this form is sent to the Site Owners and not to MrQR.
+
 ___
 
 ## Global Forms
