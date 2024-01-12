@@ -44,7 +44,7 @@ With the **MrQR**{: .text-purple-000 } platform you can create your own Forms to
 * Vehicle checklists & service history
 * Exspense tracking
 * Registration & sign ups.
-* Regular Maintenance Inspections of Plant & Equipment
+* Maintenance Inspections of Plant & Equipment
 
 Download the Unique **MrQR**{: .text-purple-000 } Code sticker image for the item you want to manage, these can be printed and attached to your items allowing secure access to the infomation & forms assigned to each item.
 
