@@ -46,13 +46,13 @@ Free accounts can be upgraded to a Pro-User Account that includes a full user pr
 
 A fully functional personal site, only accessible to the **MrQR**{: .text-purple-000 } account holder is also included with the Pro-User Account, enabling them to create multiple personal registers to manage the own items and assign multiple **MrQR**{: .text-purple-000 } form templates.
 
-Users can purchase monthly **MrQR**{: .text-purple-000 } site owner licences and create multiple registers of items, assign multiple forms to each item containing information, images, questionnaires and checklists.  All assessable to any **MrQR**{: .text-purple-000 } user once the MrQR site owner has approved their requested access.
+Users can subscribe to monthly **MrQR**{: .text-purple-000 } site owner licences then create multiple registers of items, assign multiple forms to each item containing information, images, questionnaires and checklists.  All assessable to any **MrQR**{: .text-purple-000 } registered user once the **MrQR**{: .text-purple-000 } site owner has approved their requested access.
 
-Site owners can invite other **MrQR**{: .text-purple-000 } users to help manage and build there sites.
+Site owners can also invite other **MrQR**{: .text-purple-000 } users to help manage and build there **MrQR**{: .text-purple-000 }sites.
 
-**MrQR**{: .text-purple-000 } form builder is included with an active MrQR site owner license. MrQR Form Templates can be duplicated and customised, New **MrQR**{: .text-purple-000 } Forms can also be created,
+**MrQR**{: .text-purple-000 } form builder is included with an active MrQR site owner license. **MrQR**{: .text-purple-000 } Form Templates can be duplicated and customised, New **MrQR**{: .text-purple-000 } Forms can also be created,
 
-With the **MrQR**{: .text-purple-000 } platform you can create your own Forms to manage almost anything including:
+With the **MrQR**{: .text-purple-000 } platform you can manage almost anything including:
 * Building site inductions
 * Training Records
 * Permits to work or enter restricted locations
