@@ -188,6 +188,10 @@ ___
 ## [DOWNLOADS](https://docs.mrqr.me/Downloads/)
 
 ## [SUBMITTING FORMS](https://docs.mrqr.me/Form_Submitting/)
+* [Introduction](https://docs.mrqr.me/Form_Submitting/#introduction)
+* [MrQR code](https://docs.mrqr.me/Form_Submitting/#mrqr-code)
+* [Requesting Access](https://docs.mrqr.me/Form_Submitting/#requesting-access)
+* [Submit a Form](https://docs.mrqr.me/Form_Submitting/#submit-a-form)
 
 ## [BUY MrQR STICKERS](https://docs.mrqr.me/Buy%20stickers/)
 
