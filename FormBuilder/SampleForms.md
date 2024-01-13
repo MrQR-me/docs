@@ -61,7 +61,7 @@ ___
 [Back to Top](https://docs.mrqr.me/FormBuilder/SampleForms/)
 {: .text-right }
 
-### RDC Test
+### RCD Test
 {: .text-purple-000 }
 
 ![MrQR Form Builder](/assets/images/Forms/Samples/MrQR_Sample_RCD.png "RCD Test")
