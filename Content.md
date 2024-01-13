@@ -105,11 +105,11 @@ ___
 
 ## [ITEMS](https://docs.mrqr.me/assets/)
 
-* [Register Page]()
-* [Creating a New Item]()
-* [Assigng Forms]()
-* [Viewing an Item]()
-* [Stickers]()
+* [Register Page](https://docs.mrqr.me/assets/#register-page)
+* [Creating a New Item](https://docs.mrqr.me/assets/#creating-a-new-item)
+* [Assigng Forms](https://docs.mrqr.me/assets/#assigng-forms)
+* [Viewing an Item](https://docs.mrqr.me/assets/#viewing-an-item)
+* [Stickers](https://docs.mrqr.me/assets/#stickers)
 
 [Back to Top](https://docs.mrqr.me/registers/)
 {: .text-right }
