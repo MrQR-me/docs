@@ -41,44 +41,23 @@ ___
 
 
 
-<!-- Button to open the modal -->
-<button onclick="document.getElementById('id01').style.display='block'">Buy MrQR Stickers</button>
-
-<!-- The Modal (contains the Sign Up form) -->
-<div id="id01" class="modal">
-  <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">times;</span>
-  <form class="modal-content" action="/action_page.php">
-    <div class="container">
-      <h1>Sign Up</h1>
-      <p>Please fill in this form to create an account.</p>
-      <hr>
-      <label for="MrQR Code"><b>Paste MrQR Code</b></label>
-      <input type="text" placeholder="Paste MrQR Code" name="Label 1" required>
-
-      <label for="Label"><b>Label</b></label>
-      <input type="Label" placeholder="Label Name" name=" " required>
-    
-      <label>
-        <input type="checkbox" checked="checked" name="remember" style="margin-bottom:15px"> Select
-      </label>
-<br>
-     <label for="MrQR Code"><b>Paste MrQR Code</b></label>
-      <input type="text" placeholder="Paste MrQR Code" name="Label 2" required>
-
-      <label for="Label"><b>Label</b></label>
-      <input type="Label" placeholder="Label Name" name=" " required>
-    
-      <label>
-        <input type="checkbox" checked="checked" name="remember" style="margin-bottom:15px"> Select
-      </label>
-      <p>By Submitting this form you agree to our <a href="#" style="color:dodgerblue">Terms & Privacy</a>.</p>
-
-      <div class="clearfix">
-        <button type="button" onclick="document.getElementById('id01').style.display='none'" class="cancelbtn">Cancel</button>
-        <button type="submit" class="signup">Sign Up</button>
-      </div>
-    </div>
-  </form>
-</div>
+<html>
+<table width="600" style="border:1px solid #333">
+  <tr>
+    <td align="center">head</td>
+  </tr>
+  <tr>
+    <td align="center">
+      body 
+      <table align="center" width="300" border="0" cellspacing="0" cellpadding="0" style="border:1px solid #ccc;">
+        <tr>
+          <td> data </td>
+          <td> info </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+</html>
 <input type="submit" value="Submit" /> 
 </form>
