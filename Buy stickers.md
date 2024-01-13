@@ -64,3 +64,21 @@ ___
 <input type="submit" value="Submit" /> 
 </form>
 </html>
+
+<table width="100%" cellpadding="0" cellspacing="0" style="min-width:100%;">
+    <thead>
+      <tr>
+        <th scope="col" style="padding:5px; font-family: Arial,sans-serif; font-size: 16px; line-height:20px;line-height:30px">MrQR Sticker Code</th>
+        <th scope="col" style="padding:5px; font-family: Arial,sans-serif; font-size: 16px; line-height:20px;line-height:30px">Company</th>
+        <th scope="col" style="padding:5px; font-family: Arial,sans-serif; font-size: 16px; line-height:20px;line-height:30px">City</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td valign="top" style="padding:5px; font-family: Arial,sans-serif; font-size: 16px; line-height:20px;"><input type="text" placeholder="Paste Your MrQR Code Here" name="," required> </td>
+        <td valign="top" style="padding:5px; font-family: Arial,sans-serif; font-size: 16px; line-height:20px;"><input type="text" placeholder="Label Name" name="," required></td>
+        <td valign="top" style="padding:5px; font-family: Arial,sans-serif; font-size: 16px; line-height:20px;"><input type="text" placeholder="Label Name" name="," required></td>
+      </tr>
+      
+    </tbody>
+</table>
