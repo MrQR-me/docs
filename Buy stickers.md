@@ -59,5 +59,5 @@ ___
     <td><input type="text" name="Label Title" size="24" maxlength="24" /></td>
   </tr>
 </table>
-<input type="submit" value="Send Email" /> 
+<input type="submit" value="Submit" /> 
 </form>
