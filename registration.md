@@ -51,7 +51,7 @@ Go to **[MrQR.me](https://mrqr.me/)**{: .text-purple-000 } and select <button cl
 
 ![Free Account](/assets/images/MrQR_login_page.png "RESGISTER")
 
-[Back to Top](https://docs.mrqr.me/assets/)
+[Back to Top](https://docs.mrqr.me/registration/)
 {: .text-right }
 
 Enter Your Valid Email Address and Password.
@@ -76,7 +76,7 @@ You may be asked to add a pyment method, Select <button class="button button1">A
 You can later change or cancel your payment method by selecting <button class="button button2">MANAGE BILLING</button> this will direct you to the Stripe Billing portal.
 ![Sites](/assets/images/MrQR_Payment_Details.png "Payment Details")
 
-[Back to Top](https://docs.mrqr.me/assets/)
+[Back to Top](https://docs.mrqr.me/registration/)
 {: .text-right }
 
 Your Pro plan Account will allow you access to the **MrQR**{: .text-purple-000 } Platform and enable you to request access and complete all the **MrQR**{: .text-purple-000 } Site Forms used on any site being managed using the **MrQR**{: .text-purple-000 } platform, you have access to a fully functional personal site. Your [Profile](https://docs.mrqr.me/profile/) Page allows you to Store and Share:
@@ -96,5 +96,5 @@ Your Pro plan Account will allow you access to the **MrQR**{: .text-purple-000 }
   
 You can share your profile page including you Profile Image, Employer, Occupation, Contact Number and Training Records via email or your Unique **MrQR**{: .text-purple-000 } Code.
 
-[Back to Top](https://docs.mrqr.me/assets/)
+[Back to Top](https://docs.mrqr.me/registration/)
 {: .text-right }
