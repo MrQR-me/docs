@@ -50,7 +50,7 @@ Label Title:<input type="text" name="Label Title" size="24" maxlength="24" />
     <th>Country</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
+    <td><input type="text" name="MrQR Code" size="30" maxlength="30" /></td>
     <td>Maria Anders</td>
     <td>Germany</td>
   </tr>
