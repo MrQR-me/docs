@@ -37,6 +37,7 @@ ___
 {: .text-purple-000 }
  You can now Buy MrQR Stickers
 
+<html>
 <form method="post" action="mailto:mark@whitacre-heath.co.uk" >
 
 <table width="600" style="border:1px solid #333">
@@ -59,3 +60,4 @@ ___
 
 <input type="submit" value="Submit" /> 
 </form>
+</html>
