@@ -43,7 +43,7 @@ Items can be accessed in many ways.
 
 All methods will direct you web browser to the Items landing page.
 
-All MrQR items are protected and access to the infomation and forms can only be gained once a user have Accepted an invitaion to a Site or has a Access Request Approve.
+All MrQR items are protected and access to the infomation and forms can only be gained once a user has Accepted an invitaion to a Site or has a Access Request Approve.
 
 ## MrQR code
 
