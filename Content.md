@@ -182,3 +182,23 @@ ___
 [Back to Top](https://docs.mrqr.me/registers/)
 {: .text-right }
 ___
+
+## [PRICING](https://docs.mrqr.me/Pricing/)
+
+## [DOWNLOADS](https://docs.mrqr.me/Downloads/)
+
+## [SUBMITTING FORMS](https://docs.mrqr.me/Form_Submitting/)
+
+## [BUY MrQR STICKERS](https://docs.mrqr.me/Buy%20stickers/)
+
+## [INDEX](https://docs.mrqr.me/Content/]
+
+## [TERMS OF SERVICE](https://mrqr.me/terms-of-service)
+
+## [PRIVACY POLICY](https://mrqr.me/privacy-policy)
+
+[Back to Top](https://docs.mrqr.me/registers/)
+{: .text-right }
+___
+
+
