@@ -36,55 +36,78 @@ ___
 ## UK Subscribers Only
 {: .text-purple-000 }
  You can now Buy MrQR Stickers
-
 <html>
 <form method="post" action="mailto:mark@whitacre-heath.co.uk" >
 
-<table width="600" style="border:1px solid #333">
-  <tr>
-    <td align="center">Buy MrQR Stickers</td>
-  </tr>
-  <tr>
-    <td align="center">
-      Copy the Sticker Code and Paste Below, Enter a Label Name
-      <table align="center" width="300" border="0" cellspacing="0" cellpadding="0" style="border:1px solid #ccc;">
-        <tr>
-          <td> <label for="MrQR"><b>Paste Your MrQR Code Here</b></label>
-               <input type="text" placeholder="Paste Your MrQR Code Here" name="," required> </td>
-          <td> <label for="MrQR"><b>Label Name</b></label>
-               <input type="text" placeholder="Label Name" name="," required> </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
 
+    
+<!DOCTYPE html>
 
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {font-family: Arial, Helvetica, sans-serif;}
+* {box-sizing: border-box;}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+</style>
+</head>
+<body>
+
+<h3>Contact Form</h3>
+
+<div class="container">
+  <form action="/action_page.php">
+    <label for="fname">First Name</label>
+    <input type="text" id="fname" name="firstname" placeholder="Your name..">
+
+    <label for="lname">Last Name</label>
+    <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+
+    <label for="country">Country</label>
+    <select id="country" name="country">
+      <option value="australia">Australia</option>
+      <option value="canada">Canada</option>
+      <option value="usa">USA</option>
+    </select>
+
+    <label for="subject">Subject</label>
+    <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+
+    <input type="submit" value="Submit">
+  </form>
+</div>
+
+</body>
 
 <input type="submit" value="Submit" /> 
 </form>
 </html>
-
-<table width="100%" cellpadding="0" cellspacing="0" style="min-width:100%;">
-    <thead>
- <tr>
-    <td align="center">Buy MrQR Stickers</td>
-  </tr>
-    <tr>
-    <td align="center">
-      Copy the Sticker Code and Paste Below, Enter a Label Name 
-      <table align="center" width="80%" border="0" cellspacing="0" cellpadding="0" style="border:1px solid #ccc;">
-      <tr>
-        <th scope="col" style="padding:5px; font-family: Arial,sans-serif; font-size: 16px; line-height:20px;line-height:30px">MrQR Sticker Code</th>
-        <th scope="col" style="padding:5px; font-family: Arial,sans-serif; font-size: 16px; line-height:20px;line-height:30px">Company</th>
-        <th scope="col" style="padding:5px; font-family: Arial,sans-serif; font-size: 16px; line-height:20px;line-height:30px">City</th>
-      </tr>
-    </thead> 
-    <tbody>
-      <tr>
-        <td valign="top" style="padding:5px; font-family: Arial,sans-serif; font-size: 16px; line-height:20px;"><input type="text" placeholder="Paste Your MrQR Code Here" name="," required> </td>
-        <td valign="top" style="padding:5px; font-family: Arial,sans-serif; font-size: 16px; line-height:20px;"><input type="text" placeholder="Label Name" name="," required></td>
-        <td valign="top" style="padding:5px; font-family: Arial,sans-serif; font-size: 16px; line-height:20px;"><input type="text" placeholder="Label Name" name="," required></td>
-      </tr>   
-    </tbody>
-</table>
