@@ -50,9 +50,9 @@ ___
       <table align="center" width="300" border="0" cellspacing="0" cellpadding="0" style="border:1px solid #ccc;">
         <tr>
           <td> <label for="MrQR"><b>Paste Your MrQR Code Here</b></label>
-               <input type="text" placeholder="Paste Your MrQR Code Here" name="" required> </td>
+               <input type="text" placeholder="Paste Your MrQR Code Here" name="," required> </td>
           <td> <label for="MrQR"><b>Label Name</b></label>
-               <input type="text" placeholder="Label Name" name="" required> </td>
+               <input type="text" placeholder="Label Name" name="," required> </td>
         </tr>
       </table>
     </td>
