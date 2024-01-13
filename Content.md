@@ -43,7 +43,7 @@ ___
 * [PC & Tablet Menu Bar](https://docs.mrqr.me/#pc--tablet-menu-bar)
 * [Smartphone Menu](https://docs.mrqr.me/#smartphone-menu)
 
-[Back to Top](https://docs.mrqr.me/registers/)
+[Back to Top](https://docs.mrqr.me/Content/)
 {: .text-right }
 ___
 
@@ -53,7 +53,7 @@ ___
 * [Setting Up Your Free Account](https://docs.mrqr.me/registration/#setting-up-your-free-account)
 * [Pro Plan Account](https://docs.mrqr.me/registration/#pro-plan-account)
 
-[Back to Top](https://docs.mrqr.me/registers/)
+[Back to Top](https://docs.mrqr.me/Content/)
 {: .text-right }
 ___
 
@@ -75,7 +75,7 @@ ___
 * [Multiple Training Records (including Descriptions, Key Dates & images)](https://docs.mrqr.me/profile/#multiple-training-records-including-descriptions-key-dates--images)
 * [Multiple Equipment Records (including Descriptions & images)](https://docs.mrqr.me/profile/#multiple-equipment-records-including-descriptions--images)
 
-[Back to Top](https://docs.mrqr.me/registers/)
+[Back to Top](https://docs.mrqr.me/Content/)
 {: .text-right }
 ___
 
@@ -88,7 +88,7 @@ ___
 * [Additional Site Settings Menu](https://docs.mrqr.me/sites/#additional-site-settings-menu)
 * [Invite Users](https://docs.mrqr.me/sites/#invite-users)
 
-[Back to Top](https://docs.mrqr.me/registers/)
+[Back to Top](https://docs.mrqr.me/Content/)
 {: .text-right }
 ___
 
@@ -99,7 +99,7 @@ ___
 * [Viewing a Register](https://docs.mrqr.me/registers/#viewing-a-register)
 * [Register Page](https://docs.mrqr.me/registers/#register-page-1)
 
-[Back to Top](https://docs.mrqr.me/registers/)
+[Back to Top](https://docs.mrqr.me/Content/)
 {: .text-right }
 ___
 
@@ -111,7 +111,7 @@ ___
 * [Viewing an Item](https://docs.mrqr.me/assets/#viewing-an-item)
 * [Stickers](https://docs.mrqr.me/assets/#stickers)
 
-[Back to Top](https://docs.mrqr.me/registers/)
+[Back to Top](https://docs.mrqr.me/Content/)
 {: .text-right }
 ___
 
@@ -120,7 +120,7 @@ ___
 * [Form Submissions in Items](https://docs.mrqr.me/Submission/#form-submissions-in-items)
 * [Exporting Data](https://docs.mrqr.me/Submission/#exporting-data)
 
-[Back to Top](https://docs.mrqr.me/registers/)
+[Back to Top](https://docs.mrqr.me/Content/)
 {: .text-right }
 ___
 
@@ -179,7 +179,7 @@ ___
 * [Vehicle Checklist Form](https://docs.mrqr.me/FormBuilder/SampleForms/#vehicle-checklist-form)
 * [New Form Templates](https://docs.mrqr.me/FormBuilder/SampleForms/#new-form-templates)
 
-[Back to Top](https://docs.mrqr.me/registers/)
+[Back to Top](https://docs.mrqr.me/Content/)
 {: .text-right }
 ___
 
@@ -197,7 +197,7 @@ ___
 
 ## [PRIVACY POLICY](https://mrqr.me/privacy-policy)
 
-[Back to Top](https://docs.mrqr.me/registers/)
+[Back to Top](https://docs.mrqr.me/Content/)
 {: .text-right }
 ___
 
