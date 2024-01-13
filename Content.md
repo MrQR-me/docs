@@ -185,20 +185,42 @@ ___
 
 ## [PRICING](https://docs.mrqr.me/Pricing/)
 
+
+[Back to Top](https://docs.mrqr.me/Content/)
+{: .text-right }
+___
 ## [DOWNLOADS](https://docs.mrqr.me/Downloads/)
 
+
+[Back to Top](https://docs.mrqr.me/Content/)
+{: .text-right }
+___
 ## [SUBMITTING FORMS](https://docs.mrqr.me/Form_Submitting/)
 * [Introduction](https://docs.mrqr.me/Form_Submitting/#introduction)
 * [MrQR code](https://docs.mrqr.me/Form_Submitting/#mrqr-code)
 * [Requesting Access](https://docs.mrqr.me/Form_Submitting/#requesting-access)
 * [Submit a Form](https://docs.mrqr.me/Form_Submitting/#submit-a-form)
 
+
+[Back to Top](https://docs.mrqr.me/Content/)
+{: .text-right }
+___
 ## [BUY MrQR STICKERS](https://docs.mrqr.me/Buy%20stickers/)
 
+
+[Back to Top](https://docs.mrqr.me/Content/)
+{: .text-right }
+___
 ## [INDEX](https://docs.mrqr.me/Content/)
 
+[Back to Top](https://docs.mrqr.me/Content/)
+{: .text-right }
+___
 ## [TERMS OF SERVICE](https://mrqr.me/terms-of-service)
 
+[Back to Top](https://docs.mrqr.me/Content/)
+{: .text-right }
+___
 ## [PRIVACY POLICY](https://mrqr.me/privacy-policy)
 
 [Back to Top](https://docs.mrqr.me/Content/)
