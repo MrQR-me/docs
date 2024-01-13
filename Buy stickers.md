@@ -40,23 +40,50 @@ ___
 <form method="post" action="mailto:mark@whitacre-heath.co.uk" >
 <table>
   <tr>
-    
-    
+    <th>MrQR Code</th>
+    <th>Label Title</th>
   </tr>
   <tr>
-    <td><input type="text" name="MrQR Code" size="30" maxlength="30" /></td>
-    <td><input type="text" name="Label Title" size="24" maxlength="24" /></td>
+    <td><input type="text" name="," size="30" maxlength="30" /></td>
+    <td><input type="text" name="," size="24" maxlength="24" /></td>
+  </tr>
+  <tr>
+    <td><input type="text" name="," size="30" maxlength="30" /></td>
+    <td><input type="text" name="," size="24" maxlength="24" /></td>
+  </tr>
+  <tr>
+    <td><input type="text" name="," size="30" maxlength="30" /></td>
+    <td><input type="text" name="," size="24" maxlength="24" /></td>
+  </tr>
+  <tr>
+    <td><input type="text" name="," size="30" maxlength="30" /></td>
+    <td><input type="text" name="," size="24" maxlength="24" /></td>
+  </tr>
+  <tr>
+    <td><input type="text" name="," size="30" maxlength="30" /></td>
+    <td><input type="text" name="," size="24" maxlength="24" /></td>
+  </tr>
+  <tr>
+    <td><input type="text" name="," size="30" maxlength="30" /></td>
+    <td><input type="text" name="," size="24" maxlength="24" /></td>
+  </tr>
+  <tr>
+    <td><input type="text" name="," size="30" maxlength="30" /></td>
+    <td><input type="text" name="," size="24" maxlength="24" /></td>
+  </tr>
+  <tr>
+    <td><input type="text" name="," size="30" maxlength="30" /></td>
+    <td><input type="text" name="," size="24" maxlength="24" /></td>
+  </tr>
+  <tr>
+    <td><input type="text" name="," size="30" maxlength="30" /></td>
+    <td><input type="text" name="," size="24" maxlength="24" /></td>
+  </tr>
+  <tr>
+    <td><input type="text" name="," size="30" maxlength="30" /></td>
+    <td><input type="text" name="," size="24" maxlength="24" /></td>
   </tr>
   
-  <tr>
-   <td><input type="text" name="MrQR Code" size="30" maxlength="30" /></td>
-    <td><input type="text" name="Label Title" size="24" maxlength="24" /></td>
-  </tr>
-
-   <tr>
-   <td><input type="text" name="MrQR Code" size="30" maxlength="30" /></td>
-    <td><input type="text" name="Label Title" size="24" maxlength="24" /></td>
-  </tr>
 </table>
 <input type="submit" value="Submit" /> 
 </form>
