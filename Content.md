@@ -33,3 +33,11 @@ nav_order: 30
 {:toc }
 - .TOC
 ___
+
+## Home
+* Introduction https://docs.mrqr.me/#introduction
+* Key Features
+* Viewing on a PC,Tablet or Smartphone
+* PC & Tablet Menu Bar
+* Smartphone Menu
+  
