@@ -58,5 +58,8 @@ All MrQR items are protected and access to the infomation and forms can only be 
 ___
 ## Requesting Access
 
-Oncce your web browser opens the item page if you have not been invited or your access approved you will need to Request Access.
+Once your web browser opens the item page, you will need to Request Access.
+this will message the site owner tellingthem that you have requested access.
+
+Keep refreshing the page untill your form opens
 
