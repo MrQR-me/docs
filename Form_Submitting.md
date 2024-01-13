@@ -63,3 +63,8 @@ this will message the site owner tellingthem that you have requested access.
 
 Keep refreshing the page untill your form opens
 
+## SUBMIT
+
+Select <button class="button button1">SUBMIT</button> once you have entered all the data inputs.
+if the form will not submit re-check that you have completed all data inputs. any fiels that are required will have This field is required{: .text-red-000 } next to the input.
+
