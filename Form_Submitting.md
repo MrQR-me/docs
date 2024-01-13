@@ -72,7 +72,9 @@ Select <button class="button button1">SUBMIT</button> once you have entered all 
 
 If the form will not submit re-check that you have completed all data inputs.
 
-Any fields that are required will have **This field is required**{: .text-red-000 } next to the input.
+Any fields that are required will have **This field is required**{: .text-red-000 } next to the input. 
+
+**YOU WILL NOT BE ABLE TO SUBMIT THE FORM UNITLL ALL THE REQUIRED INPUTS ARE COMPLETE**
 
 [Back to Top](https://docs.mrqr.me/FormBuilder/SampleForms/)
 {: .text-right }
