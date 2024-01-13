@@ -46,7 +46,7 @@ ___
   </tr>
   <tr>
     <td align="center">
-      Copy the Sticket Code and Paste Below, Enter a Label Name
+      Copy the Sticker Code and Paste Below, Enter a Label Name
       <table align="center" width="300" border="0" cellspacing="0" cellpadding="0" style="border:1px solid #ccc;">
         <tr>
           <td> <label for="MrQR"><b>Paste Your MrQR Code Here</b></label>
