@@ -65,7 +65,7 @@ this will message the site owner tellingthem that you have requested access.
 Keep refreshing the page untill your form opens
 
 ___
-## SUBMIT
+## Submit a Form
 {: .text-purple-000 }
 
 Select <button class="button button1">SUBMIT</button> once you have entered all the data inputs.
