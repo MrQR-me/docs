@@ -72,8 +72,25 @@ ___
 
 ___
 
-## [SITES](https://docs.mrqr.me/profile/) 
+## [SITES](https://docs.mrqr.me/sites/) 
+
+* [Site Types](https://docs.mrqr.me/sites/#site-types)
+* [Site Settings](https://docs.mrqr.me/sites/#site-settings)
+* [Changing the Site Name](https://docs.mrqr.me/sites/#changing-the-site-name)
+* [Creating New Sites](https://docs.mrqr.me/sites/#creating-new-sites)
+* [Additional Site Settings Menu](https://docs.mrqr.me/sites/#additional-site-settings-menu)
+* [Invite Users](https://docs.mrqr.me/sites/#invite-users)
+
+___
+
+## [REGISTER PAGE](https://docs.mrqr.me/registers/)
+
+* [Accessing the Register Page](https://docs.mrqr.me/registers/#accessing-the-register-page)
+* [Creating a New Register](https://docs.mrqr.me/registers/#creating-a-new-register)
+* [Viewing a Register](https://docs.mrqr.me/registers/#viewing-a-register)
+* [Register Page](https://docs.mrqr.me/registers/#register-page-1)
 
   
+
   
   
