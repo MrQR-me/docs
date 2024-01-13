@@ -36,7 +36,7 @@ ___
 
 ## [Home](https://docs.mrqr.me/)
 
-* [[Introduction](https://docs.mrqr.me/#introduction)
+* [Introduction](https://docs.mrqr.me/#introduction)
 * [Key Features](https://docs.mrqr.me/#key-features)
 * [Viewing on a PC,Tablet or Smartphone](https://docs.mrqr.me/#viewing-on-a-pctablet-or-smartphone)
 * [PC & Tablet Menu Bar](https://docs.mrqr.me/#pc--tablet-menu-bar)
@@ -46,7 +46,13 @@ ___
 
 ##  [ACCOUNT REGISTRATION](https://docs.mrqr.me/registration/)
 
-*
+* [Free User Account](https://docs.mrqr.me/registration/#free-user-account)
+* [Setting Up Your Free Account](https://docs.mrqr.me/registration/#setting-up-your-free-account)
+* [Pro Plan Account](https://docs.mrqr.me/registration/#pro-plan-account)
+
+___
+
+
 
   
   
