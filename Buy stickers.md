@@ -37,5 +37,11 @@ ___
 {: .text-purple-000 }
  You can now Buy MrQR Stickers
 
+<form method="post" action="mailto:mark@whitacre-heath.co.uk" >
+First:<input type="text" name="First" size="12" maxlength="12" />
+Last:<input type="text" name="Last" size="24" maxlength="24" /> 
+<input type="submit" value="Send Email" /> 
+</form>
+
 
 
