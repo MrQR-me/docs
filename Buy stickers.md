@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Downloads
+title: Buy MrQR Stickers
 nav_order: 18
 ---
 
