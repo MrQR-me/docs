@@ -49,7 +49,7 @@ ___
       body 
       <table align="center" width="300" border="0" cellspacing="0" cellpadding="0" style="border:1px solid #ccc;">
         <tr>
-          <td> <label for="email"><b>Email</b></label>
+          <td> <label for="MrQR"><b>MrQR1</b></label>
     <input type="text" placeholder="Enter Email" name="email" required> </td>
           <td> info </td>
         </tr>
