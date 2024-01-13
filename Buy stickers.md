@@ -53,15 +53,24 @@ ___
       <p>Please fill in this form to create an account.</p>
       <hr>
       <label for="MrQR Code"><b>Paste MrQR Code</b></label>
-      <input type="text" placeholder="MrQR Code" name="MrQR Code" required>
+      <input type="text" placeholder="Paste MrQR Code" name="Label 1" required>
 
       <label for="Label"><b>Label</b></label>
-      <input type="Label" placeholder="Label Name" name="Label" required>
+      <input type="Label" placeholder="Label Name" name=" " required>
     
       <label>
         <input type="checkbox" checked="checked" name="remember" style="margin-bottom:15px"> Select
       </label>
+<br>
+     <label for="MrQR Code"><b>Paste MrQR Code</b></label>
+      <input type="text" placeholder="Paste MrQR Code" name="Label 2" required>
 
+      <label for="Label"><b>Label</b></label>
+      <input type="Label" placeholder="Label Name" name=" " required>
+    
+      <label>
+        <input type="checkbox" checked="checked" name="remember" style="margin-bottom:15px"> Select
+      </label>
       <p>By Submitting this form you agree to our <a href="#" style="color:dodgerblue">Terms & Privacy</a>.</p>
 
       <div class="clearfix">
