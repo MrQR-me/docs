@@ -191,7 +191,7 @@ ___
 
 ## [BUY MrQR STICKERS](https://docs.mrqr.me/Buy%20stickers/)
 
-## [INDEX](https://docs.mrqr.me/Content/]
+## [INDEX](https://docs.mrqr.me/Content/)
 
 ## [TERMS OF SERVICE](https://mrqr.me/terms-of-service)
 
