@@ -42,6 +42,8 @@ ___
 * [PC & Tablet Menu Bar](https://docs.mrqr.me/#pc--tablet-menu-bar)
 * [Smartphone Menu](https://docs.mrqr.me/#smartphone-menu)
 
+[Back to Top](https://docs.mrqr.me/registers/)
+{: .text-right }
 ___
 
 ##  [ACCOUNT REGISTRATION](https://docs.mrqr.me/registration/)
@@ -50,6 +52,8 @@ ___
 * [Setting Up Your Free Account](https://docs.mrqr.me/registration/#setting-up-your-free-account)
 * [Pro Plan Account](https://docs.mrqr.me/registration/#pro-plan-account)
 
+[Back to Top](https://docs.mrqr.me/registers/)
+{: .text-right }
 ___
 
 ## [PROFILE PAGE](https://docs.mrqr.me/profile/)
@@ -70,6 +74,8 @@ ___
 * [Multiple Training Records (including Descriptions, Key Dates & images)](https://docs.mrqr.me/profile/#multiple-training-records-including-descriptions-key-dates--images)
 * [Multiple Equipment Records (including Descriptions & images)](https://docs.mrqr.me/profile/#multiple-equipment-records-including-descriptions--images)
 
+[Back to Top](https://docs.mrqr.me/registers/)
+{: .text-right }
 ___
 
 ## [SITES](https://docs.mrqr.me/sites/) 
@@ -81,6 +87,8 @@ ___
 * [Additional Site Settings Menu](https://docs.mrqr.me/sites/#additional-site-settings-menu)
 * [Invite Users](https://docs.mrqr.me/sites/#invite-users)
 
+[Back to Top](https://docs.mrqr.me/registers/)
+{: .text-right }
 ___
 
 ## [REGISTER PAGE](https://docs.mrqr.me/registers/)
@@ -90,7 +98,21 @@ ___
 * [Viewing a Register](https://docs.mrqr.me/registers/#viewing-a-register)
 * [Register Page](https://docs.mrqr.me/registers/#register-page-1)
 
-  
+[Back to Top](https://docs.mrqr.me/registers/)
+{: .text-right }
+___
+
+## [ITEMS](https://docs.mrqr.me/assets/)
+
+* [Register Page]()
+* [Creating a New Item]()
+* [Assigng Forms]()
+* [Viewing an Item]()
+* [Stickers]()
+
+[Back to Top](https://docs.mrqr.me/registers/)
+{: .text-right }
+___
 
   
   
