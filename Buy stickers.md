@@ -40,8 +40,7 @@ ___
 <form method="post" action="mailto:mark@whitacre-heath.co.uk" >
 <table>
   <tr>
-    <th>MrQR Code</th>
-    <th>Label Title</th>
+    
     
   </tr>
   <tr>
