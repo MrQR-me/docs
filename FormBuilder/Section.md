@@ -51,7 +51,7 @@ Select <button class="button button1">SAVE</button> once you have entered the de
 
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Form_New_Section_Create.png "Create Section")
 
-[Back to Top](https://docs.mrqr.me/registers/)
+[Back to Top](https://docs.mrqr.me/FormBuilder/Section/)
 {: .text-right }
 
 ## Hiding Sections
@@ -61,7 +61,7 @@ By selecting <img width="100" alt="image" src="https://docs.mrqr.me/assets/image
 
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Section_Colapsed.png "Section Colapsed")
 
-[Back to Top](https://docs.mrqr.me/registers/)
+[Back to Top](https://docs.mrqr.me/FormBuilder/Section/)
 {: .text-right }
 
 ## Editing a Section
@@ -73,7 +73,7 @@ Select <button class="button button2">CANCEL</button> to ignore any changes
 
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Section_Edit_Name.png "Edit Name")
 
-[Back to Top](https://docs.mrqr.me/registers/)
+[[Back to Top](https://docs.mrqr.me/FormBuilder/Section/)
 {: .text-right }
 
 ## Removing a Section
@@ -85,7 +85,7 @@ Select <button class="button button2">CANCEL</button> to cancel the Section Remo
 
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Section_Remove.png "Remove")
 
-[Back to Top](https://docs.mrqr.me/registers/)
+[Back to Top](https://docs.mrqr.me/FormBuilder/Section/)
 {: .text-right }
 
 ## Adding Content & Inputs
@@ -100,5 +100,5 @@ or create another new
 
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Form_New_Section_Created.png "Created")
 
-[Back to Top](https://docs.mrqr.me/registers/)
+[Back to Top](https://docs.mrqr.me/FormBuilder/Section/)
 {: .text-right }
