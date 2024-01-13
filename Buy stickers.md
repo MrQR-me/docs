@@ -49,8 +49,8 @@ ___
       body 
       <table align="center" width="300" border="0" cellspacing="0" cellpadding="0" style="border:1px solid #ccc;">
         <tr>
-          <td> <label for="MrQR"><b>Paste Your MrQR Code Here</b></label>
-    <input type="text" placeholder="Enter Email" name="email" required> </td>
+          <td> 
+               <input type="text" placeholder="Paste Your MrQR Code Here" name="Label 1" required> </td>
           <td> info </td>
         </tr>
       </table>
