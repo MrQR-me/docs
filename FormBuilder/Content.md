@@ -54,7 +54,7 @@ The default content type is Text.
 
 ![Content](/assets/images/Forms/MrQR_Forms_Content_New.png "New")
 
-[Back to Top](https://docs.mrqr.me/Content/)
+[Back to Top](https://docs.mrqr.me/FormBuilder/Content/)
 {: .text-right }
 
 ## Text Content
@@ -67,7 +67,7 @@ Now your Text content has been saved you can **Edit**{: .text-grey-lt-300 }, **R
 
 ![Content](/assets/images/Forms/MrQR_Forms_Content_Text_Added.png "Text Added")
 
-[Back to Top](https://docs.mrqr.me/Content/)
+[Back to Top](https://docs.mrqr.me/FormBuilder/Content/)
 {: .text-right }
 
 ## Media Content
@@ -87,7 +87,7 @@ you can delete the image or add more media.
 
 ![Content](/assets/images/Forms/MrQR_Form_Content_Media.png "Media")
 
-[Back to Top](https://docs.mrqr.me/Content/)
+[Back to Top](https://docs.mrqr.me/FormBuilder/Content/)
 {: .text-right }
 
 ## Update Content
@@ -111,6 +111,6 @@ This opens the Remove Field Panel. Select <button class="button button2">CANCEL<
 and then <button class="button button2">ADD CONTENT</button> as detailed in Media Content above
 ![Content](/assets/images/Forms/MrQR_Form_Content_Media_Select.png "Select")
 
-[Back to Top](https://docs.mrqr.me/Content/)
+[Back to Top](https://docs.mrqr.me/FormBuilder/Content/)
 {: .text-right }
 
