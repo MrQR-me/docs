@@ -92,9 +92,9 @@ input[type=submit]:hover {
     <label for="lname">Last Name</label>
     <input type="text" id="lname" name="lastname" placeholder="Your last name..">
 
-    <label for="country">Country</label>
-    <select id="country" name="country">
-      <option value="australia">Australia</option>
+    <label for="Label Type">Label Type</label>
+    <select id="LT" name="Type">
+      <option value="Option 1">Australia</option>
       <option value="canada">Canada</option>
       <option value="usa">USA</option>
     </select>
@@ -107,7 +107,19 @@ input[type=submit]:hover {
 </div>
 
 </body>
-
-<input type="submit" value="Submit" /> 
 </form>
 </html>
+
+<form action="mailto:contact@yourdomain.com"
+method="POST"
+enctype="multipart/form-data"
+name="EmailForm">
+    Name:<br>
+    <input type="text" size="19" name="Contact-Name"><br><br>
+    Email:<br>
+    <input type="email" name="Contact-Email"><br><br> 
+    Message:<br> 
+    <textarea name="Contact-Message" rows="6″ cols="20″>
+    </textarea><br><br> 
+    <button type="submit" value="Submit">Send</button>
+</form>
