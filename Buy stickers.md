@@ -59,6 +59,10 @@ ___
   </tr>
 </table>
 
+StringBuilder sb = new StringBuilder();
+sb.Append("<table><tr><td>your content here</td></tr></table>");
+
+
 <input type="submit" value="Submit" /> 
 </form>
 </html>
