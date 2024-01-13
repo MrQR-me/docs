@@ -67,18 +67,24 @@ ___
 
 <table width="100%" cellpadding="0" cellspacing="0" style="min-width:100%;">
     <thead>
+ <tr>
+    <td align="center">Buy MrQR Stickers</td>
+  </tr>
+    <tr>
+    <td align="center">
+      Copy the Sticker Code and Paste Below, Enter a Label Name 
+      <table align="center" width="80%" border="0" cellspacing="0" cellpadding="0" style="border:1px solid #ccc;">
       <tr>
         <th scope="col" style="padding:5px; font-family: Arial,sans-serif; font-size: 16px; line-height:20px;line-height:30px">MrQR Sticker Code</th>
         <th scope="col" style="padding:5px; font-family: Arial,sans-serif; font-size: 16px; line-height:20px;line-height:30px">Company</th>
         <th scope="col" style="padding:5px; font-family: Arial,sans-serif; font-size: 16px; line-height:20px;line-height:30px">City</th>
       </tr>
-    </thead>
+    </thead> 
     <tbody>
       <tr>
         <td valign="top" style="padding:5px; font-family: Arial,sans-serif; font-size: 16px; line-height:20px;"><input type="text" placeholder="Paste Your MrQR Code Here" name="," required> </td>
         <td valign="top" style="padding:5px; font-family: Arial,sans-serif; font-size: 16px; line-height:20px;"><input type="text" placeholder="Label Name" name="," required></td>
         <td valign="top" style="padding:5px; font-family: Arial,sans-serif; font-size: 16px; line-height:20px;"><input type="text" placeholder="Label Name" name="," required></td>
-      </tr>
-      
+      </tr>   
     </tbody>
 </table>
