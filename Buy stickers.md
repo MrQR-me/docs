@@ -38,11 +38,6 @@ ___
  You can now Buy MrQR Stickers
 
 <form method="post" action="mailto:mark@whitacre-heath.co.uk" >
-MrQR Code:<input type="text" name="MrQR Code" size="30" maxlength="30" />
-Label Title:<input type="text" name="Label Title" size="24" maxlength="24" /> 
-<input type="submit" value="Send Email" /> 
-</form>
-
 <table>
   <tr>
     <th>MrQR Code</th>
@@ -64,4 +59,5 @@ Label Title:<input type="text" name="Label Title" size="24" maxlength="24" />
     <td><input type="text" name="Label Title" size="24" maxlength="24" /></td>
   </tr>
 </table>
-
+<input type="submit" value="Send Email" /> 
+</form>
