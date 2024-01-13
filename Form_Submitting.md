@@ -77,7 +77,7 @@ Any fields that are required will have **This field is required**{: .text-red-00
 
 **YOU WILL NOT BE ABLE TO SUBMIT THE FORM UNITLL ALL THE REQUIRED INPUTS ARE COMPLETE**
 
-[Back to Top](https://docs.mrqr.me/FormBuilder/SampleForms/)
+[Back to Top](https://docs.mrqr.me/Form_Submitting/)
 {: .text-right }
 
 ___
