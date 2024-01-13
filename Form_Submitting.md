@@ -35,6 +35,7 @@ nav_order: 17
 ___
 ## Introduction
 {: .text-purple-000 }
+
 Items can be accessed in many ways.
 * Scanning the MrQR code
 * clicking on the MrQR Code Link sent in a email
@@ -46,6 +47,7 @@ All methods will direct you web browser to the Items landing page.
 All MrQR items are protected and access to the infomation and forms can only be gained once a user has Accepted an invitaion to a Site or has a Access Request Approve.
 
 ## MrQR code
+{: .text-purple-000 }
 
 <div style="text-align: center;"> 
 <img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-MWEP.png">
@@ -53,18 +55,26 @@ All MrQR items are protected and access to the infomation and forms can only be 
 
 [Go to MWEP Forms](https://mrqr.me/gidBoo/) or scan **MrQR**{: .text-purple-000 } Code.
 
-[Back to Top](https://docs.mrqr.me/FormBuilder/SampleForms/)
-{: .text-right }
 ___
 ## Requesting Access
+{: .text-purple-000 }
 
 Once your web browser opens the item page, you will need to Request Access.
 this will message the site owner tellingthem that you have requested access.
 
 Keep refreshing the page untill your form opens
 
+___
 ## SUBMIT
+{: .text-purple-000 }
 
 Select <button class="button button1">SUBMIT</button> once you have entered all the data inputs.
-if the form will not submit re-check that you have completed all data inputs. any fiels that are required will have This field is required{: .text-red-000 } next to the input.
 
+If the form will not submit re-check that you have completed all data inputs.
+
+Any fields that are required will have **This field is required**{: .text-red-000 } next to the input.
+
+[Back to Top](https://docs.mrqr.me/FormBuilder/SampleForms/)
+{: .text-right }
+
+___
