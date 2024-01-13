@@ -39,9 +39,6 @@ ___
 
 <form method="post" action="mailto:mark@whitacre-heath.co.uk" >
 
-
-
-<html>
 <table width="600" style="border:1px solid #333">
   <tr>
     <td align="center">head</td>
@@ -58,6 +55,6 @@ ___
     </td>
   </tr>
 </table>
-</html>
+
 <input type="submit" value="Submit" /> 
 </form>
