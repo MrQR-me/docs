@@ -122,7 +122,7 @@ Coming Soon
 
 ___
 
-[Back to Top](https://docs.mrqr.me/FormBuilder/SampleForms/)
+[Back to Top](https://docs.mrqr.me/docs/FormBuilder)
 {: .text-right }
 
 
