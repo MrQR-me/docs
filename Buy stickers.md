@@ -48,7 +48,8 @@ ___
       body 
       <table align="center" width="300" border="0" cellspacing="0" cellpadding="0" style="border:1px solid #ccc;">
         <tr>
-          <td> data </td>
+          <td> <label for="email"><b>Email</b></label>
+    <input type="text" placeholder="Enter Email" name="email" required> </td>
           <td> info </td>
         </tr>
       </table>
