@@ -58,6 +58,7 @@ In the example below a Register called "Access Equipment" Will Be Created. Once 
 </html>
 
 ![Registers](/assets/images/MrQR_Register_Create.png "Main Page")
+
 [Back to Top](https://docs.mrqr.me/registers/)
 {: .text-right }
 
@@ -65,6 +66,7 @@ In the example below a Register called "Access Equipment" Will Be Created. Once 
 {: .text-purple-000 }
 Once Created you can select `View` your Register and add Items or Edit the Register Name.
 ![Registers](/assets/images/MrQR_Register_Created.png "Created")
+
 [Back to Top](https://docs.mrqr.me/registers/)
 {: .text-right }
 
@@ -72,5 +74,6 @@ Once Created you can select `View` your Register and add Items or Edit the Regis
 {: .text-purple-000 }
 On the Register Page you can Create [Items](https://docs.mrqr.me/assets/) and Edit the Register Name, Once Items are Created thes will be Seen on the Register Page.
 ![Registers](/assets/images/MrQR_Register_View.png "View")
+
 [Back to Top](https://docs.mrqr.me/registers/)
 {: .text-right }
