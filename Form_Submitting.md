@@ -43,8 +43,16 @@ Items can be accessed in many ways.
 
 All methods will direct you web browser to the Items landing page.
 
-<div style="text-align: center;">
-<a href="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-MWEP.png" download="MrQR-Download">
-  <img width="400" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-MWEP.png" /></a>
+## MrQR code
+
+<div style="text-align: center;"> 
+<img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-MWEP.png">
 </div>
+
+[Go to MWEP Forms](https://mrqr.me/gidBoo/) or scan **MrQR**{: .text-purple-000 } Code.
+
+
+
+[Back to Top](https://docs.mrqr.me/FormBuilder/SampleForms/)
+{: .text-right }
 
