@@ -51,13 +51,17 @@ Label Title:<input type="text" name="Label Title" size="24" maxlength="24" />
   </tr>
   <tr>
     <td><input type="text" name="MrQR Code" size="30" maxlength="30" /></td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td><input type="text" name="Label Title" size="24" maxlength="24" /></td>
   </tr>
+  
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+   <td><input type="text" name="MrQR Code" size="30" maxlength="30" /></td>
+    <td><input type="text" name="Label Title" size="24" maxlength="24" /></td>
+  </tr>
+
+   <tr>
+   <td><input type="text" name="MrQR Code" size="30" maxlength="30" /></td>
+    <td><input type="text" name="Label Title" size="24" maxlength="24" /></td>
   </tr>
 </table>
 
