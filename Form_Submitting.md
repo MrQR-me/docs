@@ -32,9 +32,9 @@ nav_order: 17
 {:toc }
 - .TOC
 
+___
 ## Introduction
 {: .text-purple-000 }
-___
 Items can be accessed in many ways.
 * Scanning the MrQR code
 * clicking on the MrQR Code Link sent in a email
@@ -42,6 +42,8 @@ Items can be accessed in many ways.
 * Tapping a NFC tag programmed with the MrQR Code Link
 
 All methods will direct you web browser to the Items landing page.
+
+All MrQR items are protected and access to the infomation and forms can only be gained once a user have Accepted an invitaion to a Site or has a Access Request Approve.
 
 ## MrQR code
 
@@ -51,8 +53,10 @@ All methods will direct you web browser to the Items landing page.
 
 [Go to MWEP Forms](https://mrqr.me/gidBoo/) or scan **MrQR**{: .text-purple-000 } Code.
 
-
-
 [Back to Top](https://docs.mrqr.me/FormBuilder/SampleForms/)
 {: .text-right }
+___
+## Requesting Access
+
+Oncce your web browser opens the item page if you have not been invited or your access approved you will need to Request Access.
 
