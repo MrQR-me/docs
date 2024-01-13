@@ -45,9 +45,9 @@ Label Title:<input type="text" name="Label Title" size="24" maxlength="24" />
 
 <table>
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>MrQR Code</th>
+    <th>Label Title</th>
+    
   </tr>
   <tr>
     <td><input type="text" name="MrQR Code" size="30" maxlength="30" /></td>
