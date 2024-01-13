@@ -29,16 +29,13 @@ nav_order: 18
 
 # **Buying Stickers**{: .text-purple-000 }
 {: .no_toc }
+
 {:toc }
 - .TOC
-
 ___
 ## UK Subscribers Only
 {: .text-purple-000 }
  You can now Buy MrQR Stickers
 
-<script async
-  src="https://js.stripe.com/v3/buy-button.js">
-</script>
 
 
