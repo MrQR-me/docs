@@ -27,7 +27,7 @@ nav_order: 18
 </head>
 </html>
 
-# **Buying Stickers**{: .text-purple-000 }
+# **Buy MrQR Stickers**{: .text-purple-000 }
 {: .no_toc }
 
 {:toc }
