@@ -115,5 +115,72 @@ ___
 {: .text-right }
 ___
 
+## [FORM SUBMISSION & DATA](https://docs.mrqr.me/Submission/)
+
+* [Form Submissions in Items](https://docs.mrqr.me/Submission/#form-submissions-in-items)
+* [Exporting Data](https://docs.mrqr.me/Submission/#exporting-data)
+
+[Back to Top](https://docs.mrqr.me/registers/)
+{: .text-right }
+___
+
+## [MrQR FORM BUILDER](https://docs.mrqr.me/docs/FormBuilder)
+
+### [MrQR Form Builder Addon]()
+
+* [New Forms]()
+* [Duplicating Forms]()
+* [Preserving Form Integrity]()
+* [Considerations when Creating Forms]()
+* [Global Forms]()
+
+### [Forms]()
+* [Creating a Form]()
+* [Naming Your Form (guidance)]()
+* [Form Settings]()
+* [Adding a New Section]()
+
+### [Sections]()
+* [Adding a New Section]()
+* [Hiding Sections]()
+* [Editing a Section]()
+* [Removing a Section]()
+* [Adding Content & Inputs]()
+
+### [Content]()
+* [Adding Content]()
+* [Text Content]()
+* [Media Content]()
+* [Update Content]()
   
-  
+### [Inputs]()
+* [Adding Inputs]()
+* [Text]()
+* [Single & Multiple Line Text Inputs]()
+* [Single Tick Box]()
+* [Multiple Check Boxes]()
+* [Date Inputs]()
+* [Photo Upload Inputs]()
+* [Relationship Input]()
+* [User Inputs]()
+* [Editing Inputs]()
+
+### [Sample Forms]()
+* [Electrical]()
+* [Circuit Test]()
+* [Distribution Inspection]()
+* [RDC Test]()
+* [Electrical | Safe Isolation]()
+* [Visual Inspection Form]()
+* [MWEP Pre User Checks Form]()
+* [MWEP Sign Off Form]()
+* [Ladder Pre User Checks Form]()
+* [Site Access | Sample Induction Form]()
+* [Fire Door Inspection Form]()
+* [Equipment Details Form]()
+* [Vehicle Checklist Form]()
+* [New Form Templates]()
+
+[Back to Top](https://docs.mrqr.me/registers/)
+{: .text-right }
+___
