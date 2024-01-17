@@ -60,12 +60,13 @@ Please review and Tick the Agree to our [Terms of Service](https://mrqr.me/terms
 
 ![Free Account](/assets/images/MrQR_Register.png "RESGISTER")
 
-Once Registered you can now enter your [Profile](https://docs.mrqr.me/profile/) Details.
+Once Registered you can now request access to items and complete any assigned form once you access has been approved by the site owner.
+
 
 ## Pro Plan Account
 {: .text-purple-000 }
 
-Once Registered you can now enter your [Profile](https://docs.mrqr.me/profile/) Details and upgrade your account.
+Once Registered you can now access your [Profile](https://docs.mrqr.me/profile/) and upgrade your account.
 On the [Profile](https://docs.mrqr.me/profile/) page scroll down to Manage Account and Subscribe to our pro plan.
 
 ![Pro Plan Account](/assets/images/MrQR_Pro_Plan.png "RESGISTER")
