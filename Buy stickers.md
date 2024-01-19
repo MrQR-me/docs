@@ -38,7 +38,7 @@ ___
 
 **Coming Soon**
 
-**MrQR**{: .text-purple-000 } Pro-User subscribers based in the UK will soon be able to Buy **MrQR**{: .text-purple-000 } Stickers.
+**MrQR**{: .text-purple-000 } Pro-User subscribers based in the UK will soon be able to Buy **MrQR**{: .text-purple-000 } Stickers and RFID Tags.
 
 ___
 
