@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Buy MrQR Stickers
+title: Buy MrQR Stickers & RFID Tags
 nav_order: 18
 ---
 
