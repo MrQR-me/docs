@@ -218,7 +218,7 @@ New Templates are being constantly added, recent additions include;
 * Simple Harness Inspection
 * Milage Tracker
 
-If you think of a form template that may be useful to others please contact us by clicking 
+If you think of a form that may be useful as a template please contact us by clicking 
 <a href="mailto:help@mrqr.me?subject=Form%20Template%20Request&body=Form%20Template%20Request" ><img width="70" alt="image" src="https://docs.mrqr.me/assets/images/logo.png"></a>
 
 [Back to Top](https://docs.mrqr.me/FormBuilder/SampleForms/)
