@@ -11,6 +11,10 @@ aux_links: # remove if you don't want this link to appear on your pages
   Visit MrQR: https://mrqr.me
 
 footer_content: "Copyright &copy; 2024 <a href=\"https://mrqr.me/\">MrQR</a>"
+footer_content: *The* **MrQR**{: .text-purple-000 } *platform will be officially launched in March 2024.* **MrQR**{: .text-purple-000 } *has a policy of continuous improvement.
+Additional features may be added and improvement made at any time infomation contained within this document may require updating.
+This document was last updated 31/12/2023*
+{: .fs-1}
 
 nav_external_links:
   - title: Terms of service
