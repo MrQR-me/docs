@@ -137,6 +137,4 @@ You can add Multiple Equipment Records from you profile page, these can be selec
 [Back to Top](https://docs.mrqr.me/profile/)
 {: .text-right }
 
-# Back to top link
-back_to_top: true
-back_to_top_text: "Back to top"
+
