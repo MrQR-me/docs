@@ -39,7 +39,7 @@ nav_order: 0
 ## Introduction
 {: .text-purple-000 }
 
-**MrQR**{: .text-purple-000 } aims to provide a simple low cost, secure, globally accessible item management platform. where site owners can create thier own forms, assign their forms to any item and allow other users access to the infomation and submit completed forms.
+**MrQR**{: .text-purple-000 } aims to provide a simple low cost, secure, globally accessible item management platform. where site owners can create thier own forms, assign their forms to any item and allow other users access to infomation and submit completed forms.
 
 Site costs are minimal and there are no user costs associated to any site. Users are completely independent and have their own user account.
 
