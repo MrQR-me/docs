@@ -15,12 +15,12 @@ footer_content: "Copyright &copy; 2024 <a href=\"https://mrqr.me/\">MrQR</a>"
 nav_external_links:
   - title: Terms of service
     url: https://mrqr.me/terms-of-service
-    hide_icon: false # set to true to hide the external link icon - defaults to false
-    opens_in_new_tab: false # set to true to open this link in a new tab - defaults to false
+    hide_icon: true # set to true to hide the external link icon - defaults to false
+    opens_in_new_tab: true # set to true to open this link in a new tab - defaults to false
 
   - title: Privacy Policy
     url: https://mrqr.me/privacy-policy
-    hide_icon: false # set to true to hide the external link icon - defaults to false
+    hide_icon: true # set to true to hide the external link icon - defaults to false
     opens_in_new_tab: false # set to true to open this link in a new tab - defaults to false
 
 # Footer last edited timestamp
