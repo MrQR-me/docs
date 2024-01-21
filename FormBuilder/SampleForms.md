@@ -217,6 +217,7 @@ New Templates are being constantly added, recent additions include;
 * Podium Pre-Use Checklist
 * Simple Harness Inspection
 * Milage Tracker
+* At the Scene Collision Report Form
 
 If you think of a form that may be useful as a template please contact us by clicking 
 <a href="mailto:help@mrqr.me?subject=Form%20Template%20Request&body=Form%20Template%20Request" ><img width="70" alt="image" src="https://docs.mrqr.me/assets/images/logo.png"></a>
