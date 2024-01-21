@@ -28,8 +28,8 @@ nav_order: 0
 </head>
 </html>
 
-<script src=""></script>
-<a href="https://logwork.com/countdown-4y91" class="countdown-timer" data-style="circles" data-timezone="Europe/London" data-textcolor="#000000" data-date="2024-04-01 00:00" data-background="#7c55ed" data-digitscolor="#000000" data-unitscolor="#7c55ed">Countdown until Launch</a>
+<script src="https://cdn.logwork.com/widget/countdown.js"></script>
+<a href="https://mrqr.me" class="countdown-timer" data-style="circles" data-timezone="Europe/London" data-textcolor="#000000" data-date="2024-04-01 00:00" data-background="#7c55ed" data-digitscolor="#000000" data-unitscolor="#7c55ed">Countdown until Launch</a>
 
 
 ![Index](/assets/images/MrQR_Landing_Page.png "Landing Page")
