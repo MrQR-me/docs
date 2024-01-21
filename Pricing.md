@@ -31,4 +31,4 @@ Create, Edit & Duplicate you own forms to your own sites or share them globally 
 ### Coming soon, will be available with a valid monthly site licence
 
 <script src="https://cdn.logwork.com/widget/countdown.js"></script>
-<a href="https://logwork.com/countdown-4y9y" class="countdown-timer" data-style="circles" data-timezone="Europe/London" data-date="2024-03-31 23:59">Countdown Timer</a>
+<a href="https://logwork.com/countdown-4y9z" class="countdown-timer" data-style="circles" data-timezone="Europe/London" data-textcolor="#000000" data-date="2024-04-01 00:00" data-background="#9e7feb" data-digitscolor="#000000" data-unitscolor="#9e7feb">Countdown until Launch</a>
