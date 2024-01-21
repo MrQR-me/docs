@@ -28,5 +28,5 @@ Approve **MrQR**{: .text-purple-000 } user requests to allow secured accesss to 
 ## MrQR FormBuilder{: .text-purple-000 }
 Create, Edit & Duplicate you own forms
 
-### Coming soon will be available with a valid monthly site licence
+### Coming soon, will be available with a valid monthly site licence
 
