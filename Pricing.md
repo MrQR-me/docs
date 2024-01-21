@@ -30,22 +30,5 @@ Create, Edit & Duplicate you own forms to your own sites or share them globally 
 
 ### Coming soon, will be available with a valid monthly site licence
 
-<h1>Countdown Clock</h1>
-<div id="clockdiv">
-  <div>
-    <span class="days"></span>
-    <div class="text">Days</div>
-  </div>
-  <div>
-    <span class="hours"></span>
-    <div class="text">Hours</div>
-  </div>
-  <div>
-    <span class="minutes"></span>
-    <div class="text">Minutes</div>
-  </div>
-  <div>
-    <span class="seconds"></span>
-    <div class="text">Seconds</div>
-  </div>
-</div>
+<script src="https://cdn.logwork.com/widget/countdown.js"></script>
+<a href="https://logwork.com/countdown-4y9y" class="countdown-timer" data-style="circles" data-timezone="Europe/London" data-date="2024-03-31 23:59">Countdown Timer</a>
