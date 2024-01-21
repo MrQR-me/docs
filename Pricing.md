@@ -20,6 +20,7 @@ users have a comprehensive profile, a personal site and can request access to co
 
 ## Additional Site Licence
 Share all your items & forms using the **MrQR**{: .text-purple-000 } Code or link to any **MrQR**{: .text-purple-000 } registered user.
+
 Approve **MrQR**{: .text-purple-000 } user requests to allow secured accesss to your items information & forms.
 
 ### £7.49 / Month / Site Licence
