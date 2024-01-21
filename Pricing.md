@@ -26,7 +26,7 @@ Approve **MrQR**{: .text-purple-000 } user requests to allow secured accesss to 
 ### £7.49 / Month / Site Licence
 
 ## **MrQR**{: .text-purple-000 } FormBuilder
-Create, Edit & Duplicate you own forms
+Create, Edit & Duplicate you own forms to your own sites or share them globally as templates to the **MrQR**{: .text-purple-000 }  community
 
 ### Coming soon, will be available with a valid monthly site licence
 
