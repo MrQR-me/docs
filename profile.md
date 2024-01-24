@@ -88,7 +88,7 @@ Adding any Medical information, with a Pro User Account, this will be automatica
 [Back to Top](https://docs.mrqr.me/profile/)
 {: .text-right }
 
-### Contact Details of a person you whis to be contacted in the event of an incident.
+### Details of a person you wish to be contacted in the event of an incident.
 {: .text-purple-000 }
 Adding Contact Details of the Person you wish to be contacted in the event if an incident, with a Pro User Account, this will be automatically Shared on **MrQR**{: .text-purple-000 } forms.
 
