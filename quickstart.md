@@ -7,7 +7,7 @@ nav_exclude: false
 <head>
 <meta charset="UTF-8">
 <meta name="description" content="mrqr">
-<meta name="keywords" content="forms, form builder, data collection, safety, inspections">
+<meta name="keywords" content="forms, form builder, form submission, data collection, safety, inspections">
 <meta name="author" content="mark reeves">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
