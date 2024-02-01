@@ -7,9 +7,9 @@ nav_exclude: true
 # QUICKSTART
 {: .text-purple-000 }
 
-MrQR_Advert.png
-images
-/MrQR_Advert.png
+![Index](/assets/images/MrQR_Advert.png "Landing Page")
+
+
 [Back to Top](https://docs.mrqr.me/quickstart)
 {: .text-right }
 
