@@ -5,21 +5,9 @@ nav_order: 1
 nav_exclude: false
 ---
 
-<script src="https://cdn.logwork.com/widget/countdown.js"></script>
-<a href="https://logwork.com/countdown-4y91" class="countdown-timer" data-style="circles" data-timezone="Europe/London" data-textcolor="#000000" data-date="2024-04-01 00:00" data-background="#7c55ed" data-digitscolor="#000000" data-unitscolor="#7c55ed">Countdown until Launch</a>
+
 
 ![Index](/assets/images/MrQR_Advert.png "Landing Page")
 
-
-
-<div style="text-align: center;">
-<img width="200" alt="image" src="https://docs.mrqr.me/assets/images/MrQR_Advert.png">
-</div>
-[Back to Top](https://docs.mrqr.me/quickstart)
-{: .text-right }
-
-___
-*The* **MrQR**{: .text-purple-000 } *platform will be officially launched in March 2024.* **MrQR**{: .text-purple-000 } *has a policy of continuous improvement.
-Additional features may be added and improvement made at any time infomation contained within this document may require updating.
-This document was last updated 31/11/2023*
-{: .fs-1}
+<script src="https://cdn.logwork.com/widget/countdown.js"></script>
+<a href="https://logwork.com/countdown-4y91" class="countdown-timer" data-style="circles" data-timezone="Europe/London" data-textcolor="#000000" data-date="2024-04-01 00:00" data-background="#7c55ed" data-digitscolor="#000000" data-unitscolor="#7c55ed">Countdown until Launch</a>
