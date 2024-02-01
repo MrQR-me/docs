@@ -10,6 +10,10 @@ nav_exclude: true
 ![Index](/assets/images/MrQR_Advert.png "Landing Page")
 
 
+
+<div style="text-align: center;">
+<img width="200" alt="image" src="https://docs.mrqr.me/assets/images/MrQR_Advert.png">
+</div>
 [Back to Top](https://docs.mrqr.me/quickstart)
 {: .text-right }
 
