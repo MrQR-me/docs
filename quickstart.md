@@ -8,7 +8,8 @@ nav_exclude: true
 {: .text-purple-000 }
 
 MrQR_Advert.png
-
+images
+/MrQR_Advert.png
 [Back to Top](https://docs.mrqr.me/quickstart)
 {: .text-right }
 
