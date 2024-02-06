@@ -37,14 +37,17 @@ permalink: docs/FormBuilder
 The **MrQR**{: .text-purple-000 } Form Builder Addon is included when you subscribe to any plan and enables you to duplicate global forms to your new sites, Edit the duplicated global Forms and create, Edit and duplicate your own **MrQR**{: .text-purple-000 } Forms.
 
 The Forms panel consists of;
-* NEW FORM button - *Create a form*
+* <button class="button button1">NEW FORM</button> button - *Create a form*
 * Site / Global forms switch - *All Usible Forms*
 
-All you forms, lists all the sample forms and forms created or duplicated on the current site. Sample Forms included on the **MrQR**{: .text-purple-000 } platform cannot be edited, they must 1st be duplicated to a site and the duplucate form can be edited.
 ## New Forms
 {: .text-purple-000 }
 
 Select <a href="https://docs.mrqr.me/FormBuilder/Create"><button class="button button1">CREATE</button></a> once you have entered the desired Form name in the New Form Name Box.
+
+## Site / Global Switch
+
+When you Toggle between Site / Global Forms this will display either all your forms created on the site yout are viewing and all the Global forms created on the **MrQR**{: .text-purple-000 } platform by other users. These cannot be edited, they must 1st be duplicated to a site and the duplucate form can be edited.
 
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Form_Main_Menu.png "Main Page")
 
@@ -79,6 +82,8 @@ As forms can be used accross different sites and assigned to multiple assets by 
 * If the form is duplicated again on site **B** a new form is created and is fully Editable.
 
 The above helps preserve the integity of the form and allows forms to be customised to suite individual sites.
+
+when a form is duplicated the previous form is automatically archived so any previous submissions will be displayed on the form format it was submitted on.
 
 **REMEBER TO CHANGE THE NAMES OF YOUR FORMS**
 
@@ -118,7 +123,9 @@ ___
 ## Global Forms
 {: .text-purple-000 }
 
-Coming Soon
+if you create a form you belive will be of use to other menbers you can share the form by ticking the Globle tick box in the fom edit panel. this will allow other user to duplicate your form  onto there own sites and edit to tailor it to suite ther own requirements.
+
+**Do not** to include any personal information of your global forms as this will be seen by all users.
 
 ___
 
