@@ -181,7 +181,7 @@ Selecting Remove opens the Remove Field Panel. Select <button class="button butt
 [Back to Top](https://docs.mrqr.me/FormBuilder/Data_Inputs/)
 {: .text-right }
 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
