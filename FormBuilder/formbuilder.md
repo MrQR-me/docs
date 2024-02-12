@@ -49,7 +49,8 @@ Select <a href="https://docs.mrqr.me/FormBuilder/Create"><button class="button b
 
 When you Toggle between Site / Global Forms this will display either all your forms created on the site yout are viewing and all the Global forms created on the **MrQR**{: .text-purple-000 } platform by other users. These cannot be edited, they must 1st be duplicated to a site and the duplucate form can be edited.
 
-![MrQR Form Builder](/assets/images/Forms/MrQR_Form_Main_Menu.png "Main Page")
+![MrQR Form Builder](/assets/images/Forms/MrQR-forms-panel.png "Main Page")
+
 
 ## Duplicating Forms
 {: .text-purple-000 }
