@@ -47,9 +47,9 @@ The Forms panel consists of;
 
 Select <a href="https://docs.mrqr.me/FormBuilder/Create"><button class="button button1">NEW FORM</button></a> 
 
-![MrQR Form Builder](/assets/images/V2/MrQR-forms-panel.png "Main Page")
+![MrQR Form Builder](/assets/images/V2/MrQR-new-form.png "New Form")
 
-once you have entered the desired Form name in the New Form Name Box.
+Select <button class="button button1">SAVE</button></a> once you have entered the desired Form name in the New Form Name Box.
 
 ## Site / Global Switch
 
