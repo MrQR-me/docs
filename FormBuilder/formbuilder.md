@@ -63,8 +63,8 @@ When you Toggle between Site / Global Forms this will display either all your fo
 ## Duplicating Forms
 {: .text-purple-000 }
 
-Select **Duplicate**{: .text-grey-lt-300 } in the `All your forms` list, this will open the duplicate form panel. Select <button class="button button1">DUPLICATE</button> when you have selected the site you wish to duplicate the form to or select <button class="button button2">CANCEL</button>.
-you can now edit the duplicated form.
+Select **Duplicate**{: .text-grey-lt-300 } on any form, this will open the duplicate form panel. Select <button class="button button1">DUPLICATE</button> when you have selected the site you wish to duplicate the form to, you can now edit the duplicated form from the site forms or select <button class="button button2">CANCEL</button>.
+.
 
 ![MrQR Form Builder](/assets/images/MrQR_Duplicate_Form.png "Duplicate Form")
 
