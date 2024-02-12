@@ -36,6 +36,8 @@ permalink: docs/FormBuilder
 
 The **MrQR**{: .text-purple-000 } Form Builder Addon is included when you subscribe to any plan and enables you to duplicate global forms to your new sites, Edit the duplicated global Forms and create, Edit and duplicate your own **MrQR**{: .text-purple-000 } Forms.
 
+![MrQR Form Builder](/assets/images/V2/MrQR-forms-panel.png "Main Page")
+
 The Forms panel consists of;
 * <button class="button button1">NEW FORM</button> button - *Create a form*
 * Site / Global forms switch - *All Usible Forms*
@@ -43,7 +45,8 @@ The Forms panel consists of;
 ## New Forms
 {: .text-purple-000 }
 
-Select <a href="https://docs.mrqr.me/FormBuilder/Create"><button class="button button1">CREATE</button></a> once you have entered the desired Form name in the New Form Name Box.
+Select <a href="https://docs.mrqr.me/FormBuilder/Create"><button class="button button1">NEW FORM</button></a> 
+once you have entered the desired Form name in the New Form Name Box.
 
 ## Site / Global Switch
 
