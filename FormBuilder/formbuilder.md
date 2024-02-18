@@ -49,12 +49,19 @@ The Forms panel consists of;
 {: .text-purple-000 }
 
 ### Site Forms
+{: .text-purple-000 }
+
 The are forms that you create and are associated to your site and will only appear in the the site forms list it wa screated or duplicated in. You can duplicate & edit site forms on any of your sites
 
 ### Global forms
-Global forms you create can be editied only by you. if you create a Global form it will appear in the global forms list of all MrQR User.
+{: .text-purple-000 }
+
+Global forms you create can be editied only by you. if you create a Global form it will appear in the global forms list of all **MrQR**{: .text-purple-000 } User.
+**Do not include any or sensitive information in a global form as this will be seen by all**  **MrQR**{: .text-purple-000 } **users**
 
 ### Archive forms
+{: .text-purple-000 }
+
 Forms can be archived to store unused forms these can be Unarchoived at a later date
 
 ## Considerations when Creating Forms
