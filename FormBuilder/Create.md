@@ -75,7 +75,11 @@ You can <button class="button button2">VIEW ITEMS</button> your form has been as
 
 ![MrQR Form Builder](/assets/images/V2/MrQR-form-Items.png "View Form Items")
 
-by selecting  <button class="button button2">VIEW ITEMS</button> all items that your form is assigned to will be displayed, you wll have the option to View the item of Remove the form from the item, select the <button class="button button2">CLOSE</button> to return to the form settings panel.
+By selecting  <button class="button button2">VIEW ITEMS</button> all items that your form is assigned to will be displayed, 
+
+![MrQR Form Builder](/assets/images/V2/MrQR-form-Items-populated.png "View Form Items")
+
+if items are associated to your form you wll have the option to View the item of Remove the form from the item, select the <button class="button button2">CLOSE</button> to return to the form settings panel.
 
 ## Editing the Name & Type of Form
 {: .text-purple-000 }
