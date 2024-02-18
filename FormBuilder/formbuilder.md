@@ -57,6 +57,7 @@ Site forms that you create and are associated only to the site it was created on
 {: .text-purple-000 }
 
 Global forms you create can be editied only by you. if you create a Global form it will appear in the global forms list of all **MrQR**{: .text-purple-000 } User.
+
 **Do not include any or sensitive information in a global form as this will be seen by all**  **MrQR**{: .text-purple-000 } **users**
 
 ### Archive forms
