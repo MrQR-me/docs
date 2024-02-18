@@ -72,13 +72,11 @@ You can <button class="button button2">VIEW ITEMS</button> your form has been as
 ## Items Assigned to Your Form
 {: .text-purple-000 }
 
+By selecting  <button class="button button2">VIEW ITEMS</button> all items that your form is assigned to will be displayed, 
 ![MrQR Form Builder](/assets/images/V2/MrQR-form-Items.png "View Form Items")
 
-By selecting  <button class="button button2">VIEW ITEMS</button> all items that your form is assigned to will be displayed, 
-
+If items are associated to your form you wll have the option to View the item of  **Remove**{: .text-red-000 } the form from the item, select the <button class="button button2">CLOSE</button> to return to the form settings panel.
 ![MrQR Form Builder](/assets/images/V2/MrQR-form-Items-populated.png "View Form Items")
-
-If items are associated to your form you wll have the option to View the item of <button class="button button3">Remove</button> the form from the item, select the <button class="button button2">CLOSE</button> to return to the form settings panel.
 
 ## Editing the Name & Type of Form
 {: .text-purple-000 }
