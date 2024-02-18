@@ -33,16 +33,21 @@ parent: MrQR Form Builder
 {:toc }
 - .TOC
   
-![MrQR Form Builder](/assets/images/Forms/MrQR_Forms_Header.png "Header")
+![MrQR Form Builder](/assets/images/V2/MrQR-forms-panel.png "Forms Panel")
 
 After selecting Forms in the top menu bar you can create your own form using the **MrQR**{: .text-purple-000 } Form Builder. Forms consists of multiple Sections containg Content and Data Input. 
 
-## Creating a Form
+## New Form
 {: .text-purple-000 }
 
-Select <button class="button button1">CREATE</button> once you have entered the desired Form name in the New Form Name Box.
+Select <button class="button button1">NEW FORM</button> 
 
-![MrQR Form Builder](/assets/images/Forms/MrQR_Form_Create_New.png "Create Form")
+Select <button class="button button1">SAVE</button> once you have entered the desired Form name in the New Form Name Box or Select <button class="button button2">CANCEL</button> to Cancel any changes
+
+Placing a tick in the Global box will make the form a Global form tat can be duplicated by any **MrQR**{: .text-purple-000 } user *(Refer to Global Forms)*
+![MrQR Form Builder](/assets/images/V2/MrQR-Global-Chk_Box.png "Global Chk Box") ![MrQR Form Builder](/assets/images/V2/MrQR-Global-Chk_Box_chked.png "Global Chked Box")
+
+![MrQR Form Builder](/assets/images/V2/MrQR-new-form.png "Create Form")
 
 ## Naming Your Form (guidance)
 {: .text-purple-000 }
