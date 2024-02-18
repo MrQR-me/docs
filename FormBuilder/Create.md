@@ -44,10 +44,8 @@ Select <button class="button button1">NEW FORM</button>
 
 Select <button class="button button1">SAVE</button> once you have entered the desired Form name in the New Form Name Box or Select <button class="button button2">CANCEL</button> to Cancel any changes
 
-![MrQR Form Builder](/assets/images/V2/MrQR-Global-Chk_Box.png "Global Chk Box") ![MrQR Form Builder](/assets/images/V2/MrQR-Global-Chk_Box_chked.png "Global Chked Box")
 
 Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Tick.png"> the <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png"> Global Box to make the form a Global form that can be duplicated by any **MrQR**{: .text-purple-000 } user *(Refer to Global Forms)*.
-
 
 ![MrQR Form Builder](/assets/images/V2/MrQR-new-form.png "Create Form")
 
@@ -86,8 +84,6 @@ If items are associated to your form you wll have the option to View the item of
 {: .text-purple-000 }
 
 Select <button class="button button1">SAVE</button> once you have entered the desired Form name in the New Form Name Box or Select <button class="button button2">CANCEL</button> to Cancel any changes
-
-![MrQR Form Builder](/assets/images/V2/MrQR-Global-Chk_Box.png "Global Chk Box") ![MrQR Form Builder](/assets/images/V2/MrQR-Global-Chk_Box_chked.png "Global Chked Box")
 
 Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Tick.png"> the <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png"> Global Box to make the form a Global form that can be duplicated by any **MrQR**{: .text-purple-000 } user *(Refer to Global Forms)*.
 
