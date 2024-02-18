@@ -127,11 +127,8 @@ ___
 ## [MrQR FORM BUILDER](https://docs.mrqr.me/docs/FormBuilder)
 
 ### [MrQR Form Builder Addon](https://docs.mrqr.me/docs/FormBuilder)
-* [New Forms](https://docs.mrqr.me/docs/FormBuilder#new-forms)
-* [Duplicating Forms](https://docs.mrqr.me/docs/FormBuilder#duplicating-forms)
-* [Preserving Form Integrity](https://docs.mrqr.me/docs/FormBuilder#preserving-form-integrity)
+* [Forms Panel](https://docs.mrqr.me/docs/FormBuilder#forms-panel)
 * [Considerations when Creating Forms](https://docs.mrqr.me/docs/FormBuilder#considerations-when-creating-forms)
-* [Global Forms](https://docs.mrqr.me/docs/FormBuilder#global-forms)
 
 ### [Forms](https://docs.mrqr.me/FormBuilder/Create/)
 * [Creating a Form](https://docs.mrqr.me/FormBuilder/Create/#creating-a-form)
