@@ -40,7 +40,7 @@ The **MrQR**{: .text-purple-000 } Form Builder Addon is included when you subscr
 
 The Forms panel consists of;
 * <button class="button button1">NEW FORM</button> button - *Create a form*
-* Site / Global forms switch - *All Usible Forms*
+* Site / Global / Archive forms switch - *All Usible Forms*
 
 ## New Forms
 {: .text-purple-000 }
