@@ -44,8 +44,10 @@ Select <button class="button button1">NEW FORM</button>
 
 Select <button class="button button1">SAVE</button> once you have entered the desired Form name in the New Form Name Box or Select <button class="button button2">CANCEL</button> to Cancel any changes
 
-Placing a tick in the Global box will make the form a Global form tat can be duplicated by any **MrQR**{: .text-purple-000 } user *(Refer to Global Forms)*
+
 ![MrQR Form Builder](/assets/images/V2/MrQR-Global-Chk_Box.png "Global Chk Box") ![MrQR Form Builder](/assets/images/V2/MrQR-Global-Chk_Box_chked.png "Global Chked Box")
+
+Placing a tick in the Global box will make the form a Global form tat can be duplicated by any **MrQR**{: .text-purple-000 } user *(Refer to Global Forms)*
 
 ![MrQR Form Builder](/assets/images/V2/MrQR-new-form.png "Create Form")
 
