@@ -34,14 +34,16 @@ permalink: docs/FormBuilder
 {:toc }
 - .TOC
 
-The **MrQR**{: .text-purple-000 } Form Builder Addon is included when you subscribe to any plan and enables you to duplicate global forms to your new sites, Edit the duplicated global Forms and create, Edit and duplicate your own **MrQR**{: .text-purple-000 } Forms.
+The **MrQR**{: .text-purple-000 } Form Builder Addon is included when you subscribe to any plan and enables you to duplicate global forms to your own sites, Edit the duplicated global Forms and create, Edit and duplicate your own **MrQR**{: .text-purple-000 } Forms.
+
+## Forms Panel
 
 ![MrQR Form Builder](/assets/images/V2/MrQR-forms-panel.png "Main Page")
 
 The Forms panel consists of;
-* <button class="button button1">NEW FORM</button> button - *Create a form*
-* Site / Global / Archive forms switch - *All Usible Forms*
-
+* <button class="button button1">NEW FORM</button> button
+* Site / Global / Archive forms switch
+* Forms Lists
 
 ## Considerations when Creating Forms
 {: .text-purple-000 }
@@ -71,7 +73,6 @@ Whilst **MrQR**{: .text-purple-000 } has made every effort to provide accurate i
 You should also make refernce to your own policies that may relate to the use of the form. 
 
 Thankyou for using **MrQR**{: .text-purple-000 }
-
 ___
 
 [Back to Top](https://docs.mrqr.me/docs/FormBuilder)
