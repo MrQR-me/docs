@@ -67,11 +67,24 @@ If you have a single site and only a few forms a simple name discribing your for
 {: .text-purple-000 }
 
 Your new form is now created and will open in the `Form Settings`Panel.
-You can <button class="button button2">VIEW ITEMS</button> your form has been assigned to or <button class="button button2">EDIT</button> an Change the form name and <button class="button button1">PUBLISH</button> your form to confirm all changes .
-
-To change the form name Select <button class="button button1">SAVE</button> once you have entered the desired form name in the Form Name Box.
+You can <button class="button button2">VIEW ITEMS</button> your form has been assigned to or <button class="button button2">EDIT</button> and Change the form name and <button class="button button1">PUBLISH</button> your form to confirm all changes .
 
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Form_New_Form_Menu.png "New Form Page")
+
+## View Items
+{: .text-purple-000 }
+
+![MrQR Form Builder](/assets/images/V2/MrQR-form-Items.png "View Form Items")
+
+## Edit
+{: .text-purple-000 }
+
+![MrQR Form Builder](/assets/images/V2/MrQR-form-Edit.png "Edit Form")
+
+## Publish
+{: .text-purple-000 }
+
+![MrQR Form Builder](/assets/images/V2/MrQR-form-Publish.png "Publish Form")
 
 ## Adding a New Section
 {: .text-purple-000 }
