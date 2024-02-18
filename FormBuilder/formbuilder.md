@@ -51,19 +51,28 @@ The Forms panel consists of;
 ### Site Forms
 {: .text-purple-000 }
 
-Site forms that you create and are associated only to the site it was created on and will only appear in the the site forms list. You can duplicate & edit site forms to any of your sites
+Site forms that you create and are associated only to the site it was created on and will only appear in the the site forms list. You can duplicate & edit site forms to any of your sites.
+
+You have the option to Edit, Duplicate or Archive your forms
+![MrQR Form Builder](/assets/images/V2/MrQR-form-Site-Forms.png "Site Forms")
 
 ### Global forms
 {: .text-purple-000 }
 
 Global forms you create can be editied only by you. if you create a Global form it will appear in the global forms list of all **MrQR**{: .text-purple-000 } User.
 
+You have the option to View or Duplicate Global Forms
+![MrQR Form Builder](/assets/images/V2/MrQR-form-Global-Forms.png "Global Forms")
+
 **Do not include any or sensitive information in a global form as this will be seen by all**  **MrQR**{: .text-purple-000 } **users**
 
 ### Archive forms
 {: .text-purple-000 }
 
-Forms can be archived to store unused forms these can be Unarchoived at a later date
+Forms can be archived to store unused forms.
+
+You have the option to unarchive previously archived forms
+![MrQR Form Builder](/assets/images/V2/MrQR-form-Archived-Forms.png "Arcive Forms")
 
 ## Considerations when Creating Forms
 {: .text-purple-000 }
