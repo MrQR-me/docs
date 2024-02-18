@@ -42,41 +42,6 @@ The Forms panel consists of;
 * <button class="button button1">NEW FORM</button> button - *Create a form*
 * Site / Global / Archive forms switch - *All Usible Forms*
 
-## New Forms
-{: .text-purple-000 }
-
-Select <a href="https://docs.mrqr.me/FormBuilder/Create"><button class="button button1">NEW FORM</button></a> 
-
-![MrQR Form Builder](/assets/images/V2/MrQR-new-form.png "New Form")
-
-Select <button class="button button1">SAVE</button></a> once you have entered the desired Form name in the New Form Name Box.
-
-## Site / Global Switch
-{: .text-purple-000 }
-
-When you Toggle between Site / Global Forms this will display either all your forms created on the site yout are viewing and all the Global forms created on the **MrQR**{: .text-purple-000 } platform by other users. These cannot be edited, they must 1st be duplicated to a site and the duplucate form can be edited.
-
-![MrQR Form Builder](/assets/images/V2/MrQR-forms-panel.png "Site")
-![MrQR Form Builder](/assets/images/V2/MrQR-global-forms.png "Global")
-
-
-## Duplicating Forms
-{: .text-purple-000 }
-
-Select **Duplicate**{: .text-grey-lt-300 } on any form, this will open the duplicate form panel. Select <button class="button button1">DUPLICATE</button> when you have selected the site you wish to duplicate the form to, you can now edit the duplicated form from the site forms or select <button class="button button2">CANCEL</button>.
-
-![MrQR Form Builder](/assets/images/MrQR_Duplicate_Form.png "Duplicate Form")
-
-___
-
-## Global Forms
-{: .text-purple-000 }
-
-if you create a form you belive will be of use to other menbers you can share the form by ticking the Globle tick box in the fom edit panel. this will allow other user to duplicate your form  onto there own sites and edit to tailor it to suite ther own requirements.
-
-**Do not** to include any personal information of your global forms as this will be seen by all users.
-
-___
 
 ## Considerations when Creating Forms
 {: .text-purple-000 }
@@ -108,8 +73,6 @@ You should also make refernce to your own policies that may relate to the use of
 Thankyou for using **MrQR**{: .text-purple-000 }
 
 ___
-
-
 
 [Back to Top](https://docs.mrqr.me/docs/FormBuilder)
 {: .text-right }
