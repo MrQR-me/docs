@@ -51,7 +51,7 @@ The Forms panel consists of;
 ### Site Forms
 {: .text-purple-000 }
 
-The are forms that you create and are associated to your site and will only appear in the the site forms list it wa screated or duplicated in. You can duplicate & edit site forms on any of your sites
+Site forms that you create and are associated only to the site it was created on and will only appear in the the site forms list. You can duplicate & edit site forms to any of your sites
 
 ### Global forms
 {: .text-purple-000 }
