@@ -44,7 +44,6 @@ Select <button class="button button1">NEW FORM</button>
 
 Select <button class="button button1">SAVE</button> once you have entered the desired Form name in the New Form Name Box or Select <button class="button button2">CANCEL</button> to Cancel any changes
 
-
 ![MrQR Form Builder](/assets/images/V2/MrQR-Global-Chk_Box.png "Global Chk Box") ![MrQR Form Builder](/assets/images/V2/MrQR-Global-Chk_Box_chked.png "Global Chked Box")
 
 Placing a tick in the Global box will make the form a Global form tat can be duplicated by any **MrQR**{: .text-purple-000 } user *(Refer to Global Forms)*
@@ -66,23 +65,33 @@ If you have a single site and only a few forms a simple name discribing your for
 ## Form Settings
 {: .text-purple-000 }
 
-Your new form is now created and will open in the `Form Settings`Panel.
+Your new form is now created and will open in the  `Form Settings` Panel.
 You can <button class="button button2">VIEW ITEMS</button> your form has been assigned to or <button class="button button2">EDIT</button> and Change the form name and <button class="button button1">PUBLISH</button> your form to confirm all changes .
 
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Form_New_Form_Menu.png "New Form Page")
 
-## View Items
+## Items Assigned to Your Form
 {: .text-purple-000 }
 
 ![MrQR Form Builder](/assets/images/V2/MrQR-form-Items.png "View Form Items")
 
-## Edit
+by selecting  <button class="button button2">VIEW ITEMS</button> all items that your form is assigned to will be displayed, you wll have the option to View the item of Remove the form from the item, select the <button class="button button2">CLOSE</button> to return to the form settings panel.
+
+## Editing the Name & Type of Form
 {: .text-purple-000 }
+
+Select <button class="button button1">SAVE</button> once you have entered the desired Form name in the New Form Name Box or Select <button class="button button2">CANCEL</button> to Cancel any changes
+
+![MrQR Form Builder](/assets/images/V2/MrQR-Global-Chk_Box.png "Global Chk Box") ![MrQR Form Builder](/assets/images/V2/MrQR-Global-Chk_Box_chked.png "Global Chked Box")
+
+Placing a tick in the Global box will make the form a Global form tat can be duplicated by any **MrQR**{: .text-purple-000 } user *(Refer to Global Forms)*
 
 ![MrQR Form Builder](/assets/images/V2/MrQR-form-Edit.png "Edit Form")
 
-## Publish
+## Publishing Your Form
 {: .text-purple-000 }
+
+Befor a form becomes active it must be Published, to secure the form submissions on the **MrQR**{: .text-purple-000 } platform each time you alter your form a new version is created, although you will only see the latest version any data previously entered on a form will be associated to the form version it was submitted on. 
 
 ![MrQR Form Builder](/assets/images/V2/MrQR-form-Publish.png "Publish Form")
 
@@ -95,12 +104,5 @@ followed by
 [Content](https://docs.mrqr.me/FormBuilder/Content)
  and / or 
 [Inputs](https://docs.mrqr.me/FormBuilder/Data_Inputs).
-
-
-
-
-
-
-
 
 Start building your form by adding a [Section](https://docs.mrqr.me/FormBuilder/Section). Select the <a href="https://docs.mrqr.me/FormBuilder/Section">  <button class="button button2">NEW SECTION</button></a> button to add a section.
