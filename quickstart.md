@@ -31,7 +31,7 @@ nav_exclude: false
   
 </style>
 </head>
-</html>
+
 
 
 * Registered your account
