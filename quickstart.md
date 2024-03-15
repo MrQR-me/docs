@@ -63,7 +63,12 @@ Remember the forms are independant from your Items, you can assign your forms to
 Select Global then Search, or scroll through then select the menu **...**  and Duplicate... on the the form you wish to use.
 ![Index](/assets/images/V3/MrQR_Global_Forms.png "Global Forms")
 
-Select the site you wish the form to be used on *(this can be your personal, any of your purchased or sites that you are an invited team member)*
+Select <button class="button button1">DUPLICATE</button> once you have chosen the site you wish the form to be used on.
+
+*(this can be your personal, any of your purchased or sites that you are an invited team member)*
+![Index](/assets/images/V3/MrQR_Duplicate.png "Duplicate")
+
+Your Form is now avalible for editing, Once you have Edited your Form you must <button class="button button1">PUBLISH</button> it to enable it to be assigned to any item on your site. 
 ![Index](/assets/images/V3/MrQR_Duplicate.png "Duplicate")
 
 
@@ -71,8 +76,6 @@ Select the site you wish the form to be used on *(this can be your personal, any
 
 
 
-
-<button class="button button1">CREATE</button>
 
 
 
