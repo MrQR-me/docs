@@ -49,7 +49,7 @@ nav_exclude: false
 SELECT Forms and Global then either Search, or scroll through the forms.<br>
 SELECT **...**  and Duplicate... for the form you wish to use.
 ![Index](/assets/images/V3/MrQR_Global_Forms.png "Global Forms")
-*you can select view to see tjhe form prior to duplicating it on your site* 
+*you can select View to see the form prior to duplicating it on your site* 
 
 Select <button class="button button1">DUPLICATE</button> once you have chosen the site you wish the form to be used on.
 *(this can be your personal, a purchased or a site that you are an invited team member)*
