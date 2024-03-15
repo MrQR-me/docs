@@ -74,8 +74,9 @@ Once Registered you can now request access to items and complete any assigned fo
 once you have Registered you will be sent a verification email, Unltill you have verifierd your email address, when requesting access to submit forms your account will be tagged as <button class="button button3">Unverified</button>.
 
 Please select the <button class="button button1">Verify Email Address</button> Button to verify your email.
-Your accound will then be tagged as <button class="button button4">Verified</button>.
-this will also enable the Form Building addon if you have a Paid Subscription.
+Your account will then be tagged as <button class="button button4">Verified</button>.
+
+This will also enable the Form Building addon if you have a Paid Subscription.
 
 
 ## Pro Plan Account
