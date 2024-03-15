@@ -90,8 +90,7 @@ This will also enable the Form Building tab if you have a **Paid Subscription**.
 If you did not recieve your verification email, please check your spam.
 If you still cannot find the verification email please check your profile to ensure that the correct email address hase been enterd.
 
-Update your email address if required and then select 'Click here to re-send the verification email'. this will change to 
-<button class="button button5">Click here to re-send the verification email.</button> 
+Update your email address if required and then select **Click here to re-send the verification email**.
 
 Then Select <button class="button button1">SAVE</button> You should now recieve a new verification email.
 
