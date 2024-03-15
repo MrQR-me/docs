@@ -36,7 +36,7 @@ nav_exclude: false
 {: .text-purple-000 }
 
 * Registered your **MrQR**{: .text-purple-000 } account
-* Verified your email address
+* Verify your email address
 * Setup your subcscription
 
 **You are now ready to Start using** **MrQR**{: .text-purple-000 }
