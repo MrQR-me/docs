@@ -32,16 +32,18 @@ nav_exclude: false
 </style>
 </head>
 
-* Registered your account
+* Registered your **MrQR**{: .text-purple-000 } account
 * Verified your email address
 * Setup your subcscription
 
 **You are now ready to Start using** **MrQR**{: .text-purple-000 }
 
 ## Getting Strarted
+{: .text-purple-000 }
  
 ![Index](/assets/images/V3/MrQR_Dashboard.png "Dashboard")
 ## Create a Form on your Site
+{: .text-purple-000 }
 
 SELECT Forms and Global then Search, or scroll through then select the menu **...**  and Duplicate... on the the form you wish to use.
 ![Index](/assets/images/V3/MrQR_Global_Forms.png "Global Forms")
@@ -58,22 +60,25 @@ Your Form is now avalible for editing, Once you have finished editing you must <
 Your Form is now available to be assigned to any number of items on your registers.
 
 ## Create a Register and a New Item on your Site
+{: .text-purple-000 }
 
 Select Register, enter a Register Name & Select <button class="button button1">CREATE</button>
 ![Index](/assets/images/V3/MrQR_Registers.png "Registers")
 *register names can be edited later*
 
 ## Create a New Item
+{: .text-purple-000 }
 
 Select <button class="button button1">CREATE</button> when you have entered your New Items **Name,** and optional, **Group** (For Sorting Later) & optional **Description**
 ![Index](/assets/images/V3/MrQR_New_Item.png "New Item")
 *Names, Groups & Descriptions can also be Edited Later*
 
 ## You can now Assign any number of Forms to your New Item.
+{: .text-purple-000 }
 
 Select <button class="button button1">ASSIGN</button> once you have selected to Form you wish to use.
 ![Index](/assets/images/V3/MrQR_Created_Item.png "Assign Forms")
-**Your iten can be View and the forms completed by any MrQR user by scanning the MrQR Sicker or sharing the link**
+**Your iten can be View and the forms completed by any** **MrQR**{: .text-purple-000 } **user by scanning the** **MrQR**{: .text-purple-000 } **Sicker or sharing the link**
 
 *You can Assign more forms and Unassign any form later.*<br>
 *You can edit your forms at any time, the changes will be applied to all your items*<br>
