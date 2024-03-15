@@ -64,8 +64,8 @@ Remember the forms are independant from your Items, you can assign your forms to
 
 ## Select Forms
 
-![Index](/assets/images/V3/MrQR_Forms.png "Registers")
-Select Global, Search, or scroll through then select Duplicate on the menu for the form you wish to use
+![Index](/assets/images/V3/MrQR_Global_Forms.png "Registers")
+Select Global then Search, or scroll through then select Duplicate on the menu for the form you wish to use
 
 
 
