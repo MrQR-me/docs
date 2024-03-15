@@ -55,7 +55,7 @@ You must have a mininmum of a Free User Account to Request Access to View and Co
 {: .text-purple-000 }
 Your Free account will allow you access to the **MrQR**{: .text-purple-000 } Platform and enable you to request access and complete all the **MrQR**{: .text-purple-000 } Site Forms used on any site being managed using the **MrQR**{: .text-purple-000 } platform. There is no personal site and you cannot create or manage your own **MrQR**{: .text-purple-000 } Forms.
 
-Within your profiloe page you will be able to:
+From your profile page you will be able to:
 * Manage your Plan & Add payment cards & ugrade your account
 * Update your email address
 * resend your email verification
