@@ -77,7 +77,7 @@ Select <button class="button button1">CREATE</button> when you have entered your
 
 Select <button class="button button1">ASSIGN</button> once you have selected to Form you wish to use.
 ![Index](/assets/images/V3/MrQR_Created_Item.png "Assign Forms")
-**Your iten can be View and the forms completed by any** **MrQR**{: .text-purple-000 } **user by scanning the** **MrQR**{: .text-purple-000 } **Sicker or sharing the link**
+**Your item and the assigned forms can be completed by any** **MrQR**{: .text-purple-000 } **approved user by scanning the** **MrQR**{: .text-purple-000 } **Sicker or sharing the link**
 
 *You can Assign more forms and Unassign any form later.*<br>
 *You can edit your forms at any time, the changes will be applied to all your items*<br>
