@@ -59,7 +59,8 @@ Select <button class="button button1">DUPLICATE</button> once you have chosen th
 Your Form is now avalible for editing.
 ![Index](/assets/images/V3/MrQR_Duplicate_Form_Edit.png "Form Edit")
 
-Once you have finished editing you must <button class="button button1">PUBLISH</button> it to enable it to be assigned to any item you have created on in your registers. 
+Once you have finished editing SELECT the <button class="button button1">PUBLISH</button> button.<br>
+Your form will now be available on your Site and can be assigned to any item you have created on in your registers. 
 ![Index](/assets/images/V3/MrQR_Publish.png "Form Edit")
 **Your Form is now available and can be assigned to any number of items on your registers.**
 
