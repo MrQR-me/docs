@@ -41,36 +41,40 @@ nav_exclude: false
 ## Getting Strarted
  
 ![Index](/assets/images/V3/MrQR_Dashboard.png "Dashboard")
-## Create a Form on your Site | SELECT Forms
-Select Global then Search, or scroll through then select the menu **...**  and Duplicate... on the the form you wish to use.
+## Create a Form on your Site
+
+SELECT Forms and Global then Search, or scroll through then select the menu **...**  and Duplicate... on the the form you wish to use.
 ![Index](/assets/images/V3/MrQR_Global_Forms.png "Global Forms")
 
 Select <button class="button button1">DUPLICATE</button> once you have chosen the site you wish the form to be used on.
+*(this can be your personal, a purchased or a site that you are an invited team member)*
 
-*(this can be your personal, any of your purchased or sites that you are an invited team member)*
 ![Index](/assets/images/V3/MrQR_Duplicate.png "Duplicate")
 
-Your Form is now avalible for editing, Once you have Edited your Form you must <button class="button button1">PUBLISH</button> it to enable it to be assigned to any item on your site. 
+Your Form is now avalible for editing, Once you have finished editing you must <button class="button button1">PUBLISH</button> it to enable it to be assigned to any item you have created on in your registers. 
+
 ![Index](/assets/images/V3/MrQR_Duplicate_Form_Edit.png "Form Edit")
 ![Index](/assets/images/V3/MrQR_Publish.png "Form Edit")
-Your Form is now available to be assigned to any number of items on your site
+Your Form is now available to be assigned to any number of items on your registers.
 
-## Create a Rgister and a New Item on your Site | SELECT Registers
+## Create a Register and a New Item on your Site
+
+Select Register, enter a Register Name & Select <button class="button button1">CREATE</button>
 ![Index](/assets/images/V3/MrQR_Registers.png "Registers")
-Enter your Register Name & Select <button class="button button1">CREATE</button>
+*register names can be edited later*
 
 ## Create a New Item
-![Index](/assets/images/V3/MrQR_New_Item.png "New Item")
+
 Select <button class="button button1">CREATE</button> when you have entered your New Items **Name,** and optional, **Group** (For Sorting Later) & optional **Description**
+![Index](/assets/images/V3/MrQR_New_Item.png "New Item")
 *Names, Groups & Descriptions can also be Edited Later*
 
 ## You can now Assign any number of Forms to your New Item.
-![Index](/assets/images/V3/MrQR_Created_Item.png "Assign Forms")
+
 Select <button class="button button1">ASSIGN</button> once you have selectred to Form you wish to use.
+![Index](/assets/images/V3/MrQR_Created_Item.png "Assign Forms")
 *You can Assign more forms and Unassign any form later.*
-
 *You can edit your forms at any time, the changes will be applied to all your items*
-
 *Remember forms are independant from your Items and you can assign your forms to as many items as you wish.*
 
 **If you have not already you will need to Duplicate a Global Form or you can Create a New Form to assign to your item.**
