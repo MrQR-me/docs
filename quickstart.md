@@ -71,7 +71,7 @@ Select <button class="button button1">CREATE</button> when you have entered your
 
 ## You can now Assign any number of Forms to your New Item.
 
-Select <button class="button button1">ASSIGN</button> once you have selectred to Form you wish to use.
+Select <button class="button button1">ASSIGN</button> once you have selected to Form you wish to use.
 ![Index](/assets/images/V3/MrQR_Created_Item.png "Assign Forms")
 *You can Assign more forms and Unassign any form later.*
 *You can edit your forms at any time, the changes will be applied to all your items*
