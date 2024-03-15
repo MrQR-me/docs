@@ -10,7 +10,31 @@ nav_exclude: false
 <meta name="keywords" content="forms, form builder, form submission, data collection, safety, inspections">
 <meta name="author" content="mark reeves">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <style>
+.button {
+  padding: 5px 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  margin: 4px 2px;
+  cursor: pointer; }
+.button1 {background-color: #555555;} /* Black */
+.button2 {background-color: white;}
+.button1 {color: white;}
+.button2 {color: black;}
+.button1 {border: none;}
+.button2 {border: 1px solid grey}
+.button1 {border-radius: 5px;}
+.button2 {border-radius: 5px;}
+  
+</style>
 </head>
+</html>
+
+![Index](/assets/images/MrQR_Landing_Page.png "Landing Page")
+
 
 
 ![Index](/assets/images/MrQR_Advert.png "Landing Page")
