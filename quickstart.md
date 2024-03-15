@@ -89,6 +89,6 @@ SELECT the <button class="button button1">ASSIGN</button> button once you have s
 *You can Assign multiple forms to multiple Items*<br>
 *You can Assign the same form to multiple items*<br>
 *You can Unassign Forms at any time*<br>
-*If you can edit your form Data is protected*<br>
+*You can edit your form anytimee, Data is protected*<br>
 *Changes will be applied to all items the edited form is Assigned to*<br><br><br>
 **If you have not already you will need to Duplicate a Global Form or you can Create a New Form to assign to your item.**
