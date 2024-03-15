@@ -63,7 +63,7 @@ Now your register & item have been create yon will need to Duplicate a Global Fo
 Remember the forms are independant from your Items, you can assign your forms to as many items as you wish. You can edit your forms and the changes will reflect on all your items.
 
 ## Select Forms
-Select Global then Search, or scroll through then select Duplicate on the menu [. . .] for the form you wish to use
+Select Global then Search, or scroll through then select Duplicate on the menu **...** for the form you wish to use
 ![Index](/assets/images/V3/MrQR_Global_Forms.png "Registers")
 
 
