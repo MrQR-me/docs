@@ -35,7 +35,10 @@ nav_exclude: false
 
 ## Dashboard (opening Page)
 
-This is the 1st page you will find on mobile devices with reduced screen you can navigate back to this screen via the menu button and Dashboard
+* Registered your account
+* Verified your email address
+* Setup your subcscription
+  
 ![Index](/assets/images/MrQR_Landing_Page.png "Landing Page")
 Selecting the 
 <img width="25" alt="image" src="https://github.com/MrQR-me/docs/assets/153803042/c52befe4-d437-41f0-908d-b7e4ad467e74">
