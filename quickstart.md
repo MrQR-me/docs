@@ -33,13 +33,17 @@ nav_exclude: false
 </head>
 </html>
 
-## Dashboard (opening Page)
-
 * Registered your account
 * Verified your email address
 * Setup your subcscription
-  
+Start using MrQR
+
+## Dashboard (opening Page)
+ 
 ![Index](/assets/images/MrQR_Landing_Page.png "Landing Page")
+
+
+
 Selecting the 
 <img width="25" alt="image" src="https://github.com/MrQR-me/docs/assets/153803042/c52befe4-d437-41f0-908d-b7e4ad467e74">
 Icon at the top of any page Expands the **MrQR**{: .text-purple-000 } Platform Menu,
