@@ -18,18 +18,22 @@ nav_order: 2
 .button2 {background-color: white;}
 .button3 {background-color: red;}
 .button4 {background-color: #4338CA;} /* MrQR Purple */
+.button5 {background-color: white;}
 .button1 {color: white;}
 .button2 {color: black;}
 .button3 {color: white;}
-.button4 {color: white;} 
+.button4 {color: white;}
+.button5 {color: black;}
 .button1 {border: none;}
 .button2 {border: 1px solid grey}
 .button3 {border: none;}
 .button4 {border: none;}
+.button5 {border: 1px #4338CA;}  /* MrQR Purple */
 .button1 {border-radius: 5px;}
 .button2 {border-radius: 5px;}
 .button3 {border-radius: 12px;}
 .button4 {border-radius: 12px;}
+.button5 {border-radius: 12px;}
   
 </style>
 </head>
@@ -75,10 +79,19 @@ Once Registered you can now request access to items and complete any assigned fo
 
 Once you have Registered you will be sent a verification email, Unltill you have verifierd your email address, when requesting access to submit forms your account will be tagged as <button class="button button3">Unverified</button>.
 
+Some Organisation may not allow access to unverified accounts.
+
 Please select the <button class="button button1">Verify Email Address</button> Button to verify your email.
 Your account will then be tagged as <button class="button button4">Verified</button>.
 
 This will also enable the Form Building tab if you have a **Paid Subscription**.
+
+If you did not recieve your verification email, please check your spam.
+If you still cannot find the verification email please check your profile to ensure that the correct email address hase been enterd.
+Update your email address if required and then select Click here to re-send the verification email. this will change to 
+<button class="button button1">Click here to re-send the verification email.</button> 
+
+Then Select <button class="button button1">SAVE</button> 
 
 
 ## Pro Plan Account
