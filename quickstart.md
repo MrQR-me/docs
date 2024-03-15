@@ -64,7 +64,8 @@ Enter your Register Name & Select <button class="button button1">CREATE</button>
 Select <button class="button button1">CREATE</button> when you have entered your New Items **Name,** and optional, **Group** (For Sorting Later) & optional **Description**
 *Names, Groups & Descriptions can also be Edited Later*
 
-**Now your register & item have been created you will can now Assign any number of Forms**
+## Now your register & item have been created you will can now Assign any number of Forms
+![Index](/assets/images/V3/MrQR_Created_Item.png "Assign Forms")
 
 If you have not already you will need to Duplicate a Global Form or you can Create a New Form to assign to your item.
 Remember the forms are independant from your Items, you can assign your forms to as many items as you wish. You can edit your forms and the changes will reflect on all your items.
