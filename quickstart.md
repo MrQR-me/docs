@@ -56,11 +56,12 @@ Select <button class="button button1">DUPLICATE</button> once you have chosen th
 
 ![Index](/assets/images/V3/MrQR_Duplicate.png "Duplicate")
 
-Your Form is now avalible for editing, Once you have finished editing you must <button class="button button1">PUBLISH</button> it to enable it to be assigned to any item you have created on in your registers. 
-
+Your Form is now avalible for editing.
 ![Index](/assets/images/V3/MrQR_Duplicate_Form_Edit.png "Form Edit")
+
+Once you have finished editing you must <button class="button button1">PUBLISH</button> it to enable it to be assigned to any item you have created on in your registers. 
 ![Index](/assets/images/V3/MrQR_Publish.png "Form Edit")
-Your Form is now available and can be assigned to any number of items on your registers.
+**Your Form is now available and can be assigned to any number of items on your registers.**
 
 ## Create a Register and a New Item on your Site
 {: .text-purple-000 }
