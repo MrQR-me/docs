@@ -32,8 +32,6 @@ nav_exclude: false
 </style>
 </head>
 
-
-
 * Registered your account
 * Verified your email address
 * Setup your subcscription
@@ -55,7 +53,7 @@ Select <button class="button button1">DUPLICATE</button> once you have chosen th
 Your Form is now avalible for editing, Once you have Edited your Form you must <button class="button button1">PUBLISH</button> it to enable it to be assigned to any item on your site. 
 ![Index](/assets/images/V3/MrQR_Duplicate_Form_Edit.png "Form Edit")
 ![Index](/assets/images/V3/MrQR_Publish.png "Form Edit")
-**Your Form is now available to be assigned to any item on your site**
+**Your Form is now available to be assigned to any number of items on your site**
 
 ## Select Registers
 ![Index](/assets/images/V3/MrQR_Registers.png "Registers")
@@ -73,25 +71,3 @@ Now your register & item have been created you will can now Assign any number of
 If you have not already you will need to Duplicate a Global Form or you can Create a New Form to assign to your item.
 Remember the forms are independant from your Items, you can assign your forms to as many items as you wish. You can edit your forms and the changes will reflect on all your items.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<script src="https://cdn.logwork.com/widget/countdown.js"></script>
-<a href="https://logwork.com/countdown-4y91" class="countdown-timer" data-style="circles" data-timezone="Europe/London" data-textcolor="#000000" data-date="2024-04-01 00:00" data-background="#7c55ed" data-digitscolor="#000000" data-unitscolor="#7c55ed">Countdown until Launch</a>
