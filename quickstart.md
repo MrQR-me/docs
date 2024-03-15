@@ -59,12 +59,17 @@ Enter your New Items
 & Select <button class="button button1">CREATE</button>
 
 
-Now your register & item have been create yon will need to Duplicate a Global Form or Create a New Form to assign to your item
+Now your register & item have been create yon will need to Duplicate a Global Form or you can Create a New Form to assign to your item.
+Remember the forms are independant from your Items, you can assign your forms to as many items as you wish. You can edit your forms and the changes will reflect on all your items.
 
 ## Select Forms
 
 ![Index](/assets/images/V3/MrQR_Forms.png "Registers")
-Enter your Register Name & Select <button class="button button1">CREATE</button>
+Select Global, Search, or scroll through then select Duplicate on the menu for the form you wish to use
+
+
+
+<button class="button button1">CREATE</button>
 
 
 
