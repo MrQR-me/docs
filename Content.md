@@ -51,6 +51,7 @@ ___
 
 * [Free User Account](https://docs.mrqr.me/registration/#free-user-account)
 * [Setting Up Your Free Account](https://docs.mrqr.me/registration/#setting-up-your-free-account)
+* [Verifying Your Email](https://docs.mrqr.me/registration/#verifying-your-email)
 * [Pro Plan Account](https://docs.mrqr.me/registration/#pro-plan-account)
 
 [Back to Top](https://docs.mrqr.me/Content/)
