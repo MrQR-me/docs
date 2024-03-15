@@ -44,7 +44,8 @@ nav_exclude: false
 ## Create a Form on your Site
 {: .text-purple-000 }
 
-*for ease we will start by duplicating a Global form onto your site*
+*You can create your own form using the <button class="button button1">NEW FORM</button><br>
+For ease we will start by duplicating a Global form onto your site, or you can <button class="button button1">NEW FORM</button> your own*
 
 SELECT Forms and Global then either Search, or scroll through the forms.<br>
 SELECT **...**  and Duplicate... for the form you wish to use.
