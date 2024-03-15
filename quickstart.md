@@ -42,7 +42,7 @@ nav_exclude: false
 
 ## Dashboard (opening Page)
  
-![Index](/assets/images/MrQR_Landing_Page.png "Landing Page")
+![Index](/assets/images/V3/MrQR_Dashboard.png "Dashboard")
 
 
 
