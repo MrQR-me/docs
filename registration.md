@@ -28,7 +28,8 @@ nav_order: 2
 .button2 {border: 1px solid grey}
 .button3 {border: none;}
 .button4 {border: none;}
-.button5 {border: 1px #4338CA;}  /* MrQR Purple */
+.button5 {border: 1px;}  /* MrQR Purple */
+.button5 {border-color: #4338CA;}  /* MrQR Purple */ 
 .button1 {border-radius: 5px;}
 .button2 {border-radius: 5px;}
 .button3 {border-radius: 12px;}
