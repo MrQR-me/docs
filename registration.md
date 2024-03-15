@@ -93,7 +93,7 @@ If you still cannot find the verification email please check your profile to ens
 Update your email address if required and then select 'Click here to re-send the verification email'. this will change to 
 <button class="button button5">Click here to re-send the verification email.</button> 
 
-Then Select <button class="button button1">SAVE</button> 
+Then Select <button class="button button1">SAVE</button> You should now recieve a new verification email.
 
 
 ## Pro Plan Account
