@@ -84,9 +84,10 @@ SELECT the <button class="button button1">CREATE</button> button when you have e
 
 SELECT the <button class="button button1">ASSIGN</button> button once you have selected the forms you wish to use.
 ![Index](/assets/images/V3/MrQR_Created_Item.png "Assign Forms")
-**Your item and the assigned forms can be completed by any** **MrQR**{: .text-purple-000 } **approved user by scanning the** **MrQR**{: .text-purple-000 } **Sicker or sharing the link**
+**Your item and the assigned forms can be completed by any** **MrQR**{: .text-purple-000 } **approved user by scanning the** **MrQR**{: .text-purple-000 } **Sicker or sharing the link**<br>
 
-*You can Assign any multiple forms to multiple Items*<br>
+*You can Assign multiple forms to multiple Items*<br>
+*You can Assign the same form to multiple items*<br>
 *You can Unassign Forms at any time*<br>
 *If you can edit your form Data is protected and the changes will be applied to all items the form is Assigned to*<br><br><br>
 **If you have not already you will need to Duplicate a Global Form or you can Create a New Form to assign to your item.**
