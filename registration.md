@@ -17,7 +17,7 @@ nav_order: 2
 .button1 {background-color: #000000;} /* Black */
 .button2 {background-color: white;}
 .button3 {background-color: red;}
-.button4 {background-color: #4338CA;} /*MrQR Purple*
+.button4 {background-color: #4338CA;} /*MrQR Purple*/
 .button1 {color: white;}
 .button2 {color: black;}
 .button3 {color: white;}
