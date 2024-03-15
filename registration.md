@@ -28,8 +28,8 @@ nav_order: 2
 .button4 {border: none;}
 .button1 {border-radius: 5px;}
 .button2 {border-radius: 5px;}
-.button3 {border-radius: 8px;}
-.button4 {border-radius: 8px;}
+.button3 {border-radius: 12px;}
+.button4 {border-radius: 12px;}
   
 </style>
 </head>
