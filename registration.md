@@ -14,7 +14,7 @@ nav_order: 2
   font-size: 12px;
   margin: 4px 2px;
   cursor: pointer; }
-.button1 {background-color: #555555;} /* Black */
+.button1 {background-color: #000000;} /* Black */
 .button2 {background-color: white;}
 .button3 {background-color: red;}
 .button4 {background-color: #4338CA;} /*MrQR Purple*
@@ -28,8 +28,8 @@ nav_order: 2
 .button4 {border: none;}
 .button1 {border-radius: 5px;}
 .button2 {border-radius: 5px;}
-.button3 {border-radius: 12px;}
-.button4 {border-radius: 12px;}
+.button3 {border-radius: 10px;}
+.button4 {border-radius: 10px;}
   
 </style>
 </head>
