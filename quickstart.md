@@ -40,7 +40,7 @@ nav_exclude: false
 
 **You are now ready to Start using** **MrQR**{: .text-purple-000 }
 
-## Get Strarted
+## Getting Strarted
  
 ![Index](/assets/images/V3/MrQR_Dashboard.png "Dashboard")
 
@@ -60,6 +60,12 @@ Enter your New Items
 
 
 Now your register & item have been create yon will need to Duplicate a Global Form or Create a New Form to assign to your item
+
+## Select Forms
+
+![Index](/assets/images/V3/MrQR_Forms.png "Registers")
+Enter your Register Name & Select <button class="button button1">CREATE</button>
+
 
 
 
