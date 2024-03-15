@@ -56,7 +56,7 @@ Enter your New Items
 * Group
 * Description
 
-& Select SAVE
+& Select <button class="button button1">CREATE</button>
 
 
 Now your register & item have been create yon will need to Duplicate a Global Form or Create a New Form to assign to your item
