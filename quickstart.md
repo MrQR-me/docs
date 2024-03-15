@@ -36,7 +36,8 @@ nav_exclude: false
 * Registered your account
 * Verified your email address
 * Setup your subcscription
-You are noe ready to Start using MrQR
+
+**You are now ready to Start using** **MrQR**
 
 ## Dashboard (opening Page)
  
