@@ -32,15 +32,14 @@ nav_exclude: false
 </style>
 </head>
 
+## Getting Strarted
+{: .text-purple-000 }
+
 * Registered your **MrQR**{: .text-purple-000 } account
 * Verified your email address
 * Setup your subcscription
 
 **You are now ready to Start using** **MrQR**{: .text-purple-000 }
-
-## Getting Strarted
-{: .text-purple-000 }
- 
 ![Index](/assets/images/V3/MrQR_Dashboard.png "Dashboard")
 ## Create a Form on your Site
 {: .text-purple-000 }
