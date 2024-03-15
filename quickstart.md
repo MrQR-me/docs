@@ -69,7 +69,7 @@ Select <button class="button button1">DUPLICATE</button> once you have chosen th
 ![Index](/assets/images/V3/MrQR_Duplicate.png "Duplicate")
 
 Your Form is now avalible for editing, Once you have Edited your Form you must <button class="button button1">PUBLISH</button> it to enable it to be assigned to any item on your site. 
-![Index](/assets/images/V3/MrQR_Duplicate.png "Duplicate")
+![Index](/assets/images/V3/MrQR_Duplicate_Form_Edit.png "Form Edit")
 
 
 
