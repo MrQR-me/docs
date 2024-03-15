@@ -78,7 +78,7 @@ Once you have Registered you will be sent a verification email, Unltill you have
 Please select the <button class="button button1">Verify Email Address</button> Button to verify your email.
 Your account will then be tagged as <button class="button button4">Verified</button>.
 
-This will also enable the Form Building tab if you have a Paid Subscription.
+This will also enable the Form Building tab if you have a **Paid Subscription**.
 
 
 ## Pro Plan Account
