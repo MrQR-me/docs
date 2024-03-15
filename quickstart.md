@@ -33,6 +33,9 @@ nav_exclude: false
 </head>
 </html>
 
+## Dashboard (opening Page)
+
+This is the 1st page you will find on mobile devices with reduced screen you can navigate back to this screen via the menu button and Dashboard
 ![Index](/assets/images/MrQR_Landing_Page.png "Landing Page")
 
 
