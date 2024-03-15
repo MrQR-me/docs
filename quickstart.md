@@ -20,7 +20,7 @@ nav_exclude: false
   font-size: 12px;
   margin: 4px 2px;
   cursor: pointer; }
-.button1 {background-color: #555555;} /* Black */
+.button1 {background-color: #000000;} /* Black */
 .button2 {background-color: white;}
 .button1 {color: white;}
 .button2 {color: black;}
@@ -47,7 +47,7 @@ nav_exclude: false
 ## Select Registers
 
 ![Index](/assets/images/V3/MrQR_Registers.png "Registers")
-Enter your Register Name & Select CREATE
+Enter your Register Name & Select <button class="button button1">CREATE</button>
 
 ## Create an Item
 ![Index](/assets/images/V3/MrQR_Dashboard.png "Dashboard")
