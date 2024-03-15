@@ -51,12 +51,9 @@ Enter your Register Name & Select <button class="button button1">CREATE</button>
 
 ## Create an Item
 ![Index](/assets/images/V3/MrQR_New_Item.png "New Item")
-Enter your New Items
-* Name
-* Group
-* Description
+Enter your New Items **Name,** and optional, Group (For Sorting Later) & Description
 
-& Select <button class="button button1">CREATE</button>
+Select <button class="button button1">CREATE</button>
 
 
 Now your register & item have been create yon will need to Duplicate a Global Form or you can Create a New Form to assign to your item.
@@ -65,6 +62,12 @@ Remember the forms are independant from your Items, you can assign your forms to
 ## Select Forms
 Select Global then Search, or scroll through then select the menu **...**  and Duplicate... on the the form you wish to use.
 ![Index](/assets/images/V3/MrQR_Global_Forms.png "Registers")
+
+Select the site you wish the form to be used on *(this can be your personal, any of your purchased or sites that you are an invited team member)*
+![Index](/assets/images/V3/MrQR_Global_Forms.png "Registers")
+
+
+
 
 
 
