@@ -52,7 +52,7 @@ SELECT **...**  and Duplicate... for the form you wish to use.
 ![Index](/assets/images/V3/MrQR_Global_Forms.png "Global Forms")
 *you can select View to see the form prior to duplicating it on your site* 
 
-Select <button class="button button1">DUPLICATE</button> once you have chosen the site you wish the form to be used on.
+Select <button class="button button1">DUPLICATE</button> once you have chosen the site you wish the form to be used on.<br>
 *(this can be your personal, a purchased or a site that you are an invited team member)*
 
 ![Index](/assets/images/V3/MrQR_Duplicate.png "Duplicate")
