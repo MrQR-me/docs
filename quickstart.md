@@ -89,8 +89,7 @@ SELECT the <button class="button button1">ASSIGN</button> button once you have s
 *You can Assign any number for forms at any time*<br>
 *You can Unassign Forms at ant time*<br>
 *You can select Multiple Forms and Assign to your Item*<br>
-*Forms are independant from your Items and you can assign your forms to as many different items as you wish*<br>
-*You can edit your form at any time, the changes will be applied to all items the form is Assigned to*
-
-
+*Forms are independant from your Items*<br>
+*You can assign your forms to as many different items as you wish*<br>
+*You can edit your form at any time, the changes will be applied to all items the form is Assigned to*<br><br><br>
 **If you have not already you will need to Duplicate a Global Form or you can Create a New Form to assign to your item.**
