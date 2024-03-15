@@ -37,7 +37,12 @@ nav_exclude: false
 
 This is the 1st page you will find on mobile devices with reduced screen you can navigate back to this screen via the menu button and Dashboard
 ![Index](/assets/images/MrQR_Landing_Page.png "Landing Page")
-
+Selecting the 
+<img width="25" alt="image" src="https://github.com/MrQR-me/docs/assets/153803042/c52befe4-d437-41f0-908d-b7e4ad467e74">
+Icon at the top of any page Expands the **MrQR**{: .text-purple-000 } Platform Menu,
+Selecting the
+<img width="25" alt="image" src="https://github.com/MrQR-me/docs/assets/153803042/4606c0ca-e99d-44c0-8b63-81048a5d4e2c">
+Icon at the top any page Close the **MrQR**{: .text-purple-000 } Platform Menu.
 
 
 ![Index](/assets/images/MrQR_Advert.png "Landing Page")
