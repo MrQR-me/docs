@@ -44,7 +44,7 @@ nav_exclude: false
 ## Create a Form on your Site
 {: .text-purple-000 }
 
-SELECT Forms and Global then Search, or scroll through then select the menu **...**  and Duplicate... on the the form you wish to use.
+SELECT Forms and Global then either Search, or scroll through the forms, select **...**  and Duplicate... on the the form you wish to use.
 ![Index](/assets/images/V3/MrQR_Global_Forms.png "Global Forms")
 
 Select <button class="button button1">DUPLICATE</button> once you have chosen the site you wish the form to be used on.
