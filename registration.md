@@ -16,12 +16,20 @@ nav_order: 2
   cursor: pointer; }
 .button1 {background-color: #555555;} /* Black */
 .button2 {background-color: white;}
+.button3 {background-color: red;}
+.button4 {background-color: purple;}
 .button1 {color: white;}
 .button2 {color: black;}
+.button3 {color: white;}
+.button4 {color: white;} 
 .button1 {border: none;}
 .button2 {border: 1px solid grey}
+.button3 {border: none;}
+.button4 {border: none;}
 .button1 {border-radius: 5px;}
 .button2 {border-radius: 5px;}
+.button3 {border-radius: 8px;}
+.button4 {border-radius: 8px;}
   
 </style>
 </head>
@@ -61,6 +69,13 @@ Please review and Tick the Agree to our [Terms of Service](https://mrqr.me/terms
 ![Free Account](/assets/images/MrQR_Register.png "RESGISTER")
 
 Once Registered you can now request access to items and complete any assigned form once you access has been approved by the site owner.
+
+## Verifying Your Email
+once you have Registered you will be sent a verification email, Unltill you have verifierd your email address, when requesting access to submit forms your account will be tagged as <button class="button button3">Unverified</button>.
+
+Please select the <button class="button button1">Verify Email Address</button> Button to verify your email.
+Your accound will then be tagged as <button class="button button4">Verified</button>.
+this will also enable the Form Building addon if you have a Paid Subscription.
 
 
 ## Pro Plan Account
