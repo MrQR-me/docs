@@ -62,7 +62,7 @@ Within your profiloe page you will be able to:
 * Update your password
 * <button class="button button1">ENABLE</button> two factor authentication
 * <button class="button button1">LOG OUT OTHER BROWSER SESSIONS</button>
-* <button class="button button1">REQUESTDELETION</button>
+* <button class="button button1">REQUEST DELETION</button>
 
 You cannot Store or Share Profile Infomation, Addresses, Training Records or Equipment Details.
 
