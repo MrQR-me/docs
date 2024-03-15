@@ -47,7 +47,7 @@ nav_exclude: false
 ## Select Registers
 
 ![Index](/assets/images/V3/MrQR_Registers.png "Registers")
-Enter your Register Name & Select SAVE
+Enter your Register Name & Select CREATE
 
 ## Create an Item
 ![Index](/assets/images/V3/MrQR_Dashboard.png "Dashboard")
