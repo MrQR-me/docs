@@ -84,7 +84,6 @@ Select <button class="button button1">ASSIGN</button> once you have selected to 
 **Your item and the assigned forms can be completed by any** **MrQR**{: .text-purple-000 } **approved user by scanning the** **MrQR**{: .text-purple-000 } **Sicker or sharing the link**
 
 *You can Assign more forms and Unassign any form later.*<br>
-*You can edit your forms at any time, the changes will be applied to all your items*<br>
-*Remember forms are independant from your Items and you can assign your forms to as many items as you wish.*
-
+*Remember forms are independant from your Items and you can assign your forms to as many items as you wish.*<br>
+*You can edit your forms at any time, the changes will be applied to all your items*
 **If you have not already you will need to Duplicate a Global Form or you can Create a New Form to assign to your item.**
