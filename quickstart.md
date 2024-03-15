@@ -40,9 +40,31 @@ nav_exclude: false
 
 **You are now ready to Start using** **MrQR**{: .text-purple-000 }
 
-## Dashboard (opening Page)
+## Get Strarted
  
 ![Index](/assets/images/V3/MrQR_Dashboard.png "Dashboard")
+
+## Select Registers
+
+![Index](/assets/images/V3/MrQR_Dashboard.png "Dashboard")
+Enter your Register Name & Select SAVE
+
+## Create an Item
+![Index](/assets/images/V3/MrQR_Dashboard.png "Dashboard")
+Enter your Register Name & Select SAVE
+
+Now your register & item have been create yon will need to Duplicate a Global For or Create a New Form
+
+
+
+
+Create a new item
+
+Create a New Form
+
+Duplicate a Global Form
+
+
 
 
 
