@@ -77,7 +77,7 @@ Once Registered you can now request access to items and complete any assigned fo
 ## Verifying Your Email
 {: .text-purple-000 }
 
-Once you have Registered you will be sent a verification email, Unltill you have verifierd your email address, when requesting access to submit forms your account will be tagged as <button class="button button3">Unverified</button>.
+Once you have Registered you will be sent a verification email, Until you have verifierd your email address, when requesting access to submit forms your account will be tagged as <button class="button button3">Unverified</button>.
 
 Some Organisation may not allow access to unverified accounts.
 
