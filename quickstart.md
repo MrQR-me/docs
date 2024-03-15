@@ -50,10 +50,16 @@ nav_exclude: false
 Enter your Register Name & Select <button class="button button1">CREATE</button>
 
 ## Create an Item
-![Index](/assets/images/V3/MrQR_Dashboard.png "Dashboard")
-Enter your Register Name & Select SAVE
+![Index](/assets/images/V3/MrQR_New_Item.png "New Item")
+Enter your New Items
+* Name
+* Group
+* Description
 
-Now your register & item have been create yon will need to Duplicate a Global For or Create a New Form
+& Select SAVE
+
+
+Now your register & item have been create yon will need to Duplicate a Global Form or Create a New Form to assign to your item
 
 
 
