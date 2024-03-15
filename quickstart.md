@@ -73,8 +73,10 @@ Select <button class="button button1">CREATE</button> when you have entered your
 
 Select <button class="button button1">ASSIGN</button> once you have selected to Form you wish to use.
 ![Index](/assets/images/V3/MrQR_Created_Item.png "Assign Forms")
-*You can Assign more forms and Unassign any form later.*
-*You can edit your forms at any time, the changes will be applied to all your items*
+**Your iten can be View and the forms completed by any MrQR user by scanning the MrQR Sicker or sharing the link**
+
+*You can Assign more forms and Unassign any form later.*<br>
+*You can edit your forms at any time, the changes will be applied to all your items*<br>
 *Remember forms are independant from your Items and you can assign your forms to as many items as you wish.*
 
 **If you have not already you will need to Duplicate a Global Form or you can Create a New Form to assign to your item.**
