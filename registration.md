@@ -69,7 +69,7 @@ You cannot Store or Share Profile Infomation, Addresses, Training Records or Equ
 ## Setting Up Your Free Account
 {: .text-purple-000 }
 
-Go to **[MrQR.me](https://mrqr.me/)**{: .text-purple-000 } and select <button class="button button1">REGISTER</button>
+Go to **[MrQR.me](https://mrqr.me/)**{: .text-purple-000 } and select <button class="button button2">REGISTER</button>
 
 ![Free Account](/assets/images/MrQR_login_page.png "RESGISTER")
 
