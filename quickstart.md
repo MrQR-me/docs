@@ -41,14 +41,14 @@ nav_exclude: false
 
 **You are now ready to Start using** **MrQR**{: .text-purple-000 }
 ![Index](/assets/images/V3/MrQR_Dashboard.png "Dashboard")
-## Create a Form on your Site
+## Adding a Form on your Site
 {: .text-purple-000 }
 
-**You will not have any forms on your site you must create new forms or duplicate Global Forms to your site.**<br>
-*For ease we will start by duplicating a Global form onto your site, or you can create your own forms using the* <button class="button button1">NEW FORM</button> *button*
+You can create your own forms using the* <button class="button button1">NEW FORM</button> *button*
+*For ease we will start by duplicating a Global form onto your site.*
 
 SELECT Forms and Global then either Search, or scroll through the Global forms.<br>
-SELECT **...**  and Duplicate... for the form you wish to use.
+SELECT **...**  and Duplicate... the form you wish to use.
 ![Index](/assets/images/V3/MrQR_Global_Forms.png "Global Forms")
 *you can select View to see the form prior to duplicating it on your site* 
 
@@ -68,14 +68,14 @@ Once Published, your form will be available on your Site.
 ## Create a Register and a New Item on your Site
 {: .text-purple-000 }
 
-SELECT Register, enter a Register Name, SELECT the <button class="button button1">CREATE</button> button.
+SELECT Register, enter a Register Name, then <button class="button button1">CREATE</button>.
 ![Index](/assets/images/V3/MrQR_Registers.png "Registers")
 *register names can be edited later*
 
 ## Create a New Item
 {: .text-purple-000 }
 
-SELECT the <button class="button button1">CREATE</button> button when you have entered your New Items **Name,** and optional, **Group** (For organising & sorting) & optional **Description**
+SELECT the <button class="button button1">CREATE</button> button when you have entered your New Items **Name,** optional, **Group** (For organising & sorting) & optional **Description**
 ![Index](/assets/images/V3/MrQR_New_Item.png "New Item")
 *Names, Groups & Descriptions can be Edited Later*
 
@@ -89,6 +89,6 @@ SELECT the <button class="button button1">ASSIGN</button> button once you have s
 *You can Assign multiple forms to multiple Items*<br>
 *You can Assign the same form to multiple items*<br>
 *You can Unassign Forms at any time*<br>
-*You can edit your form anytimee, Data is protected*<br>
+*You can edit your form anytime, Data is protected*<br>
 *Changes will be applied to all items the edited form is Assigned to*<br><br><br>
 **If you have not already you will need to Duplicate a Global Form or you can Create a New Form to assign to your item.**
