@@ -47,7 +47,8 @@ nav_order: 0
 {:toc }
 - .TOC
 {: .no_toc }
-[QUICKSTART GUIDE](https://docs.mrqr.me/quickstart/)
+
+## [QUICKSTART GUIDE](https://docs.mrqr.me/quickstart/)
 ## Introduction
 {: .text-purple-000 }
 
