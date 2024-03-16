@@ -42,8 +42,8 @@ nav_order: 0
 
 
 ## Thankyou for choosing **MrQR**{: .text-purple-000 } a cloud based universal item management platform using your own forms.
-Please read use this user guide to help you navigate the **MrQR**{: .text-purple-000 } platform or try the the [QUICKSTART GUIDE](https://docs.mrqr.me/quickstart/) to get you going.
 {: .no_toc }
+Please read use this user guide to help you navigate the **MrQR**{: .text-purple-000 } platform or try the the [QUICKSTART GUIDE](https://docs.mrqr.me/quickstart/) to get you going.
 
 {:toc }
 - .TOC
