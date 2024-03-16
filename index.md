@@ -40,13 +40,14 @@ nav_order: 0
 
 ![Index](/assets/images/MrQR_Landing_Page.png "Landing Page")
 
+
 ## Thankyou for choosing **MrQR**{: .text-purple-000 } a cloud based universal item management platform using your own forms.
 {: .no_toc }
 
 {:toc }
 - .TOC
 {: .no_toc }
-
+[QUICKSTART GUIDE](https://docs.mrqr.me/quickstart/)
 ## Introduction
 {: .text-purple-000 }
 
