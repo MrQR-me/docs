@@ -58,7 +58,7 @@ Your Form is now avalible for editing.
 ![Index](/assets/images/V3/MrQR_Duplicate_Form_Edit.png "Form Edit")
 
 Once you have finished editing SELECT the <button class="button button1">PUBLISH</button> button.<br>
-Once Published, your form will be available on your Site.
+Once Published, your form will be available on your selected Site.
 ![Index](/assets/images/V3/MrQR_Publish.png "Form Edit")
 **Your Form can be assigned to any number of items on your registers.**
 
