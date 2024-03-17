@@ -87,12 +87,6 @@ Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/M
 
 ![MrQR Form Builder](/assets/images/V2/MrQR-form-Edit.png "Edit Form")
 
-## Publishing Your Form
-{: .text-purple-000 }
-
-Befor a form becomes active it must be Published, to secure the form submissions on the **MrQR**{: .text-purple-000 } platform each time you alter your form a new version is created, although you will only see the latest version any data previously entered on a form will be associated to the form version it was submitted on. 
-
-![MrQR Form Builder](/assets/images/V2/MrQR-form-Publish.png "Publish Form")
 
 ## Adding a New Section
 {: .text-purple-000 }
@@ -103,5 +97,12 @@ followed by
 [Content](https://docs.mrqr.me/FormBuilder/Content)
  and / or 
 [Inputs](https://docs.mrqr.me/FormBuilder/Data_Inputs).
+
+## Publishing Your Form
+{: .text-purple-000 }
+
+Before a form becomes active it must be Published, to secure the form submissions on the **MrQR**{: .text-purple-000 } platform each time you alter your form a new version is created, although you will only see the latest version any data previously entered on a form will be associated to the form version it was submitted on. 
+
+![MrQR Form Builder](/assets/images/V2/MrQR-form-Publish.png "Publish Form")
 
 Start building your form by adding a [Section](https://docs.mrqr.me/FormBuilder/Section). Select the <a href="https://docs.mrqr.me/FormBuilder/Section">  <button class="button button2">NEW SECTION</button></a> button to add a section.
