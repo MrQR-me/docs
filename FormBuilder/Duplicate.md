@@ -42,7 +42,7 @@ The **MrQR**{: .text-purple-000 } Form Builder Addon is included when you subscr
 {: .text-purple-000 }
 
 You can duplicate any of your site or global form to any site you either own or are an invited member that you are alliwed to create forms on.
-if you cannot duplicate a form to a site that you are an invited member on, you will need to contact the site owner to alter your site privliroges.
+if you cannot duplicate a form to a site that you are an invited member on, you will need to contact the site owner to alter your site privileges.
 
 from within the forms page SELECT either Site or Global then either Search, or scroll through the forms.<br>
 SELECT **...**  and Duplicate... the form you wish to duplicate.
