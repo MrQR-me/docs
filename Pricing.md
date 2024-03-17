@@ -1,7 +1,7 @@
 ---
 title: Pricing
 layout: default
-nav_order: 15
+nav_order: 20
 ---
 
 # **Pricing**{: .text-purple-000 }
