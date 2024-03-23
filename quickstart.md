@@ -42,7 +42,9 @@ nav_exclude: false
 ## Sites
 {: .text-purple-000 }
 ![Index](/assets/images/V3/QuickStart_Sites.png "Sites")
-
+## Building Forms
+{: .text-purple-000 }
+![Index](/assets/images/V3/Building_Forms.png "Form Building")
 ## Registers & Items
 {: .text-purple-000 }
 ![Index](/assets/images/V3/QuickStart_Registers.png "Registers")
