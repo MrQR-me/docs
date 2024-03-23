@@ -1,7 +1,7 @@
 ---
 title: Quickstart
-layout: default
-nav_order: 1
+layout: Home
+nav_order: 0
 nav_exclude: false
 ---
 <head>
