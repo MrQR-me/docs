@@ -1,6 +1,6 @@
 ---
 title: Quickstart
-layout: Home
+layout: home
 nav_order: 0
 nav_exclude: false
 ---
