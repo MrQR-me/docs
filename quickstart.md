@@ -39,7 +39,7 @@ nav_exclude: false
 {:toc }
 - .TOC
 
-## Regisering and Login
+## Account Registration and Login
 {: .text-purple-000 }
 ![Index](/assets/images/V3/QuickStart_Login.png "Login") [Back to Top](https://docs.mrqr.me/quickstart/)
 {: .text-right }
