@@ -31,6 +31,7 @@ nav_exclude: false
   
 </style>
 </head>
+
 # **QuickStart Guide**
 {: .text-purple-000 }
 {: .no_toc }
@@ -44,19 +45,24 @@ nav_exclude: false
 {: .text-right }
 ## Sites
 {: .text-purple-000 }
-![Index](/assets/images/V3/QuickStart_Sites.png "Sites")
+![Index](/assets/images/V3/QuickStart_Sites.png "Sites") [Back to Top](https://docs.mrqr.me/quickstart/)
+{: .text-right }
 ## Creating & Duplicating Forms
 {: .text-purple-000 }
-![Index](/assets/images/V3/Creating_Forms.png "Form Creation")
+![Index](/assets/images/V3/Creating_Forms.png "Form Creation") [Back to Top](https://docs.mrqr.me/quickstart/)
+{: .text-right }
 ## Building Forms
 {: .text-purple-000 }
-![Index](/assets/images/V3/Building_Forms.png "Form Building")
+![Index](/assets/images/V3/Building_Forms.png "Form Building") [Back to Top](https://docs.mrqr.me/quickstart/)
+{: .text-right }
 ## Registers & Items
 {: .text-purple-000 }
-![Index](/assets/images/V3/QuickStart_Registers.png "Registers")
+![Index](/assets/images/V3/QuickStart_Registers.png "Registers") [Back to Top](https://docs.mrqr.me/quickstart/)
+{: .text-right }
 ## Form Submissions
 {: .text-purple-000 }
-![Index](/assets/images/V3/Quickstart_Form_Submission.png "Form Submission")
+![Index](/assets/images/V3/Quickstart_Form_Submission.png "Form Submission") [Back to Top](https://docs.mrqr.me/quickstart/)
+{: .text-right }
 
 
 
