@@ -39,8 +39,11 @@ nav_exclude: false
 * Verify your email address
 * Setup your subcscription
 
-  
+## Sites
+{: .text-purple-000 }
 ![Index](/assets/images/V3/QuickStart_Sites.png "Sites")
+## Form Submissions
+{: .text-purple-000 }
 ![Index](/assets/images/V3/Quickstart_Form_Submission.png "Form Submission")
 
 
