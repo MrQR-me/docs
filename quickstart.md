@@ -43,7 +43,7 @@ nav_exclude: false
 {: .text-purple-000 }
 ![Index](/assets/images/V3/QuickStart_Sites.png "Sites")
 
-## Form Submissions
+## Registers & Items
 {: .text-purple-000 }
 ![Index](/assets/images/V3/QuickStart_Registers.png "Registers")
 ## Form Submissions
