@@ -40,7 +40,7 @@ nav_exclude: false
 
 ## Getting Strarted
 {: .text-purple-000 }
-![Index](/assets/images/V3/QuickStart_Login.png "Login") [Back to Top](https://docs.mrqr.me/Quickstart/)
+![Index](/assets/images/V3/QuickStart_Login.png "Login") [Back to Top](https://docs.mrqr.me/quickstart/)
 {: .text-right }
 ## Sites
 {: .text-purple-000 }
