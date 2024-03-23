@@ -34,11 +34,7 @@ nav_exclude: false
 
 ## Getting Strarted
 {: .text-purple-000 }
-
-* Registered your **MrQR**{: .text-purple-000 } account
-* Verify your email address
-* Setup your subcscription
-
+![Index](/assets/images/V3/QuickStart_Login.png "Login")
 ## Sites
 {: .text-purple-000 }
 ![Index](/assets/images/V3/QuickStart_Sites.png "Sites")
