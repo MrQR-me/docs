@@ -31,7 +31,7 @@ nav_exclude: false
   
 </style>
 </head>
-# QuickStart Guide
+# **QuickStart Guide**
 {: .text-purple-000 }
 {: .no_toc }
 
