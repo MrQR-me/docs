@@ -31,6 +31,12 @@ nav_exclude: false
   
 </style>
 </head>
+# QuickStart Guide
+{: .text-purple-000 }
+{: .no_toc }
+
+{:toc }
+- .TOC
 
 ## Getting Strarted
 {: .text-purple-000 }
