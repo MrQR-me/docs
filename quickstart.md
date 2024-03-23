@@ -42,6 +42,9 @@ nav_exclude: false
 ## Sites
 {: .text-purple-000 }
 ![Index](/assets/images/V3/QuickStart_Sites.png "Sites")
+## Creating & Duplicating Forms
+{: .text-purple-000 }
+![Index](/assets/images/V3/Creating_Forms.png "Form Creation")
 ## Building Forms
 {: .text-purple-000 }
 ![Index](/assets/images/V3/Building_Forms.png "Form Building")
@@ -53,56 +56,4 @@ nav_exclude: false
 ![Index](/assets/images/V3/Quickstart_Form_Submission.png "Form Submission")
 
 
-**You are now ready to Start using** **MrQR**{: .text-purple-000 }
-![Index](/assets/images/V3/MrQR_Dashboard.png "Dashboard")
-## Adding a Form on your Site
-{: .text-purple-000 }
 
-You can create your own forms using the* <button class="button button1">NEW FORM</button> *button*
-*For ease we will start by duplicating a Global form onto your site.*
-
-SELECT Forms and Global then either Search, or scroll through the Global forms.<br>
-SELECT **...**  and Duplicate... the form you wish to use.
-![Index](/assets/images/V3/MrQR_Global_Forms.png "Global Forms")
-*you can select View to see the form prior to duplicating it on your site* 
-
-Select <button class="button button1">DUPLICATE</button> once you have chosen the site you wish the form to be used on.<br>
-*(this can be your personal, a purchased or a site that you are an invited team member)*
-
-![Index](/assets/images/V3/MrQR_Duplicate.png "Duplicate")
-
-Your Form is now avalible for editing.
-![Index](/assets/images/V3/MrQR_Duplicate_Form_Edit.png "Form Edit")
-
-Once you have finished editing SELECT the <button class="button button1">PUBLISH</button> button.<br>
-Once Published, your form will be available on your Site.
-![Index](/assets/images/V3/MrQR_Publish.png "Form Edit")
-**Your Form can be assigned to any number of items on your registers.**
-
-## Create a Register and a New Item on your Site
-{: .text-purple-000 }
-
-SELECT Register, enter a Register Name, then <button class="button button1">CREATE</button>.
-![Index](/assets/images/V3/MrQR_Registers.png "Registers")
-*register names can be edited later*
-
-## Create a New Item
-{: .text-purple-000 }
-
-SELECT the <button class="button button1">CREATE</button> button when you have entered your New Items **Name,** optional, **Group** (For organising & sorting) & optional **Description**
-![Index](/assets/images/V3/MrQR_New_Item.png "New Item")
-*Names, Groups & Descriptions can be Edited Later*
-
-## Assign Forms to your Items.
-{: .text-purple-000 }
-
-SELECT the <button class="button button1">ASSIGN</button> button once you have selected the forms you wish to use.
-![Index](/assets/images/V3/MrQR_Created_Item.png "Assign Forms")
-**Your item and the assigned forms can be completed by any** **MrQR**{: .text-purple-000 } **approved user by scanning the** **MrQR**{: .text-purple-000 } **Sicker or sharing the link**<br>
-
-*You can Assign multiple forms to multiple Items*<br>
-*You can Assign the same form to multiple items*<br>
-*You can Unassign Forms at any time*<br>
-*You can edit your form anytime, Data is protected*<br>
-*Changes will be applied to all items the edited form is Assigned to*<br><br><br>
-**If you have not already you will need to Duplicate a Global Form or you can Create a New Form to assign to your item.**
