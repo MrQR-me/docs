@@ -40,8 +40,8 @@ nav_exclude: false
 * Setup your subcscription
 
   
+![Index](/assets/images/V3/QuickStart_Sites.png "Sites")
 ![Index](/assets/images/V3/Quickstart_Form_Submission.png "Form Submission")
-
 
 
 **You are now ready to Start using** **MrQR**{: .text-purple-000 }
