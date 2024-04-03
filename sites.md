@@ -47,7 +47,7 @@ Their are two types of Site
 * Personal
 * Open
 
-A **Personal** Site is created when you subscribe to a **MrQR**{: .text-purple-000 } Pro Account, it is fully Functional, you can add Registers, items and assign **MrQR**{: .text-purple-000 } sample forms to items, but Personal Sites can only be viewed by the Personal **MrQR**{: .text-purple-000 } Site Owner. **Open** Sites are created at an additional cost and have the same functions as the **Personal** Site but Registers and Items you create can be viewed by any **MrQR**{: .text-purple-000 } registered user once permission has been granted by the Site Owner.
+A **Personal** Site is created when you subscribe to a **MrQR**{: .text-purple-000 } Pro Account, it is fully Functional, you can add Registers and items, Personal Sites can only be viewed by the Personal **MrQR**{: .text-purple-000 } Site Owner. **Open** Sites are created at an additional cost and and include the form builder addon enabling the open site owner to duplicate global, create and duplicate thier own forms and assign multiple forms to thier items in thier registers/ Open sites can be viewed by any **MrQR**{: .text-purple-000 } registered user once permission has been granted by the Site Owner.
 
 ## Site Settings
 {: .text-purple-000 }
