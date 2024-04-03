@@ -41,7 +41,7 @@ nav_exclude: false
 
 ## Account Registration and Login
 {: .text-purple-000 }
-![Index](/assets/images/V3/QuickStart_Login.png "Login") [Back to Top](https://docs.mrqr.me/quickstart/)
+![Index](/assets/images/V3/QuickStart_Login.png "Login") 
 
 [Back to Top](https://docs.mrqr.me/index)
 {: .text-right }
@@ -49,7 +49,7 @@ nav_exclude: false
 ## Sites
 {: .text-purple-000 }
 **a Personal site is included when you register with MrQR, enabling users to create thier own registers & items. The form Building Addon is only available on monthly subcription Open sites.**
-![Index](/assets/images/V3/QuickStart_Sites.png "Sites") [Back to Top](https://docs.mrqr.me/quickstart/)
+![Index](/assets/images/V3/QuickStart_Sites.png "Sites") 
 
 [Back to Top](https://docs.mrqr.me/index)
 {: .text-right }
@@ -57,28 +57,28 @@ nav_exclude: false
 ## Creating & Duplicating Forms
 {: .text-purple-000 }
 **The Form Buiding addon is not available for personal sites and will appear when you subscribe to a open site**
-![Index](/assets/images/V3/Creating_Forms.png "Form Creation") [Back to Top](https://docs.mrqr.me/quickstart/)
+![Index](/assets/images/V3/Creating_Forms.png "Form Creation") 
 
 [Back to Top](https://docs.mrqr.me/index)
 {: .text-right }
 
 ## Building Forms
 {: .text-purple-000 }
-![Index](/assets/images/V3/Building_Forms.png "Form Building") [Back to Top](https://docs.mrqr.me/quickstart/)
+![Index](/assets/images/V3/Building_Forms.png "Form Building") 
 
 [Back to Top](https://docs.mrqr.me/index)
 {: .text-right }
 
 ## Registers & Items
 {: .text-purple-000 }
-![Index](/assets/images/V3/QuickStart_Registers.png "Registers") [Back to Top](https://docs.mrqr.me/quickstart/)
+![Index](/assets/images/V3/QuickStart_Registers.png "Registers") 
 
 [Back to Top](https://docs.mrqr.me/index)
 {: .text-right }
 
 ## Form Submissions
 {: .text-purple-000 }
-![Index](/assets/images/V3/Quickstart_Form_Submission.png "Form Submission") [Back to Top](https://docs.mrqr.me/quickstart/)
+![Index](/assets/images/V3/Quickstart_Form_Submission.png "Form Submission") 
 
 [Back to Top](https://docs.mrqr.me/index)
 {: .text-right }
