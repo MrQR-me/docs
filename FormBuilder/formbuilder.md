@@ -34,7 +34,7 @@ permalink: docs/FormBuilder
 {:toc }
 - .TOC
 
-The **MrQR**{: .text-purple-000 } Form Builder Addon is included when you subscribe to any plan and enables you to duplicate global forms to your own sites, Edit the duplicated global Forms and create, Edit and duplicate your own **MrQR**{: .text-purple-000 } Forms.
+The **MrQR**{: .text-purple-000 } Form Builder Addon is included when you subscribe to a new open site, it is not available for personal sites and enables you to duplicate global forms to your own sites, Edit the duplicated global Forms and create, Edit and duplicate your own **MrQR**{: .text-purple-000 } Forms.
 
 ## Forms Panel
 
