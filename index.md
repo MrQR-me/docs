@@ -49,6 +49,7 @@ nav_exclude: false
 {: .text-right }
 ## Creating & Duplicating Forms
 {: .text-purple-000 }
+
 **The Form Buiding addon is not available for personal sites and will appear when you subscribe to a open site**
 ![Index](/assets/images/V3/Creating_Forms.png "Form Creation") [Back to Top](https://docs.mrqr.me/quickstart/)
 {: .text-right }
