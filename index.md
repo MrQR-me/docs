@@ -59,7 +59,6 @@ nav_exclude: false
 ## Form Submissions
 {: .text-purple-000 }
 ![Index](/assets/images/V3/Quickstart_Form_Submission.png "Form Submission") [Back to Top](https://docs.mrqr.me/quickstart/)
-{: .text-right }
 
 [Back to Top](https://docs.mrqr.me/index)
 {: .text-right }
