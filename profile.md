@@ -25,7 +25,7 @@ You cannot add Store or Share Addresses, Training Records or Equipment Details.
 ## Pro User Account
 {: .text-purple-000 }
 
-Your Pro User Account will allow you access to the **MrQR**{: .text-purple-000 } Platform and enable you to request access to, and complete any **MrQR**{: .text-purple-000 } Site Forms used on any site being managed using the **MrQR**{: .text-purple-000 } platform, once the site owner as approved your access, You also have access to a fully functional personal site. 
+Your Pro User Account will allow you access to the **MrQR**{: .text-purple-000 } Platform and enable you to request access to, and complete any **MrQR**{: .text-purple-000 } Site Forms used on any site being managed using the **MrQR**{: .text-purple-000 } platform, once the site owner as approved your access.
 
 You can Store and Share:
 
