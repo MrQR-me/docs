@@ -41,10 +41,10 @@ nav_order: 1
 ![Index](/assets/images/MrQR_Landing_Page.png "Landing Page")
 
 
-## Thankyou for choosing **MrQR**{: .text-purple-000 } a cloud based universal item management platform using your own forms.
+## Thank you for choosing **MrQR**{: .text-purple-000 }, a cloud-based universal item management platform using your own Forms.
 {: .no_toc }
 
-Please read use this user guide to help you navigate the **MrQR**{: .text-purple-000 } platform or try the [QUICKSTART GUIDE](https://docs.mrqr.me/quickstart/) to get you going.
+Please read this user guide to help you navigate the **MrQR**{: .text-purple-000 } platform or try the [Quickstart Guide](https://docs.mrqr.me/quickstart/) to get started.
 
 {:toc }
 - .TOC
@@ -53,41 +53,41 @@ Please read use this user guide to help you navigate the **MrQR**{: .text-purple
 ## Introduction
 {: .text-purple-000 }
 
-**MrQR**{: .text-purple-000 } provides a simple low cost, secure, globally accessible item management platform. where site owners can create thier own forms, assign those forms to any item and allow other users access to information and submit completed forms.
+**MrQR**{: .text-purple-000 } provides a simple, low-cost, secure, globally accessible item management platform. Site Owners can create their own Forms, assign those Forms to any Item, and allow other users access to information and submit completed Forms.
 
-Site costs are minimal and there are no user costs associated to any site. Users are completely independent and have their own user account.
+Site costs are minimal and there are no user costs associated with any Site. Users are completely independent and have their own user accounts.
 
-Any user can create their own **MrQR**{: .text-purple-000 } sites and request access to any item on any **MrQR**{: .text-purple-000 } site using the unique **MrQR**{: .text-purple-000 } code created on the **MrQR**{: .text-purple-000 } platform.
+Any user can create their own **MrQR**{: .text-purple-000 } Sites and request access to any Item on any **MrQR**{: .text-purple-000 } Site using the unique **MrQR**{: .text-purple-000 } code created on the **MrQR**{: .text-purple-000 } platform.
 
-Anyone including employers, employees, contractors, subcontractors and members of the public can register for a free account.
+Anyone including employers, employees, contractors, subcontractors, and members of the public can register for a free account.
 
-Free accounts can be upgraded to a Pro-User Account that includes a full user profile with training and equipment records that can be used to automate the submission of any **MrQR**{: .text-purple-000 } form. 
+Free accounts can be upgraded to a Pro Account that includes a full user profile with training and equipment records that can be used to automate the submission of any **MrQR**{: .text-purple-000 } Form. 
 
-A fully functional personal site, only accessible to the **MrQR**{: .text-purple-000 } account holder is also included with the Pro-User Account, enabling them to create multiple personal registers to manage the own items and assign multiple **MrQR**{: .text-purple-000 } form templates.
+A fully functional Personal Site, only accessible to the **MrQR**{: .text-purple-000 } account holder, is also included with the Pro Account, enabling them to create multiple personal Registers to manage their Items and assign multiple **MrQR**{: .text-purple-000 } Form templates.
 
-Users can subscribe to monthly **MrQR**{: .text-purple-000 } site owner licences then create multiple registers of items, assign multiple forms to each item containing information, images, questionnaires and checklists.  All assessable to any **MrQR**{: .text-purple-000 } registered user once the **MrQR**{: .text-purple-000 } site owner has approved their requested access.
+Users can subscribe to monthly **MrQR**{: .text-purple-000 } Site Owner licences to create multiple Registers of Items, then assign multiple Forms to each Item containing information, images, questionnaires, and checklists.  All of these are accessible to any **MrQR**{: .text-purple-000 } registered user once the **MrQR**{: .text-purple-000 } Site Owner has approved their requested access.
 
-Site owners can also invite other **MrQR**{: .text-purple-000 } users to help manage and build there **MrQR**{: .text-purple-000 }sites.
+Site Owners can also invite other **MrQR**{: .text-purple-000 } users to help manage and build their **MrQR**{: .text-purple-000 } Sites.
 
-**MrQR**{: .text-purple-000 } form builder is included with an active MrQR site owner license. **MrQR**{: .text-purple-000 } Form Templates can be duplicated and customised, New **MrQR**{: .text-purple-000 } Forms can also be created,
+The **MrQR**{: .text-purple-000 } Form Builder addon is included with an active MrQR Site Owner license. **MrQR**{: .text-purple-000 } Form Templates can be duplicated and customised. New **MrQR**{: .text-purple-000 } Forms can also be created.
 
 With the **MrQR**{: .text-purple-000 } platform you can manage almost anything including:
 * Building site inductions
-* Training Records
+* Training records
 * Permits to work or enter restricted locations
-* Regular Safety checks of plant & equipment (*MEWP's, Ladders, Electrical Distribution or Appliances, Vehicals etc*)
-* Manage & Share Collections
+* Regular safety checks of plant and equipment (*MEWPs, Ladders, Electrical Distribution or Appliances, Vehicles etc*)
+* Manage and share collections
 * Distribute product O&M Manuals
-* Vehicle checklists & service history
-* Exspense tracking
-* Registration & sign ups.
-* Maintenance Inspections of Plant & Equipment
+* Vehicle checklists and service history
+* Expense tracking
+* Registration & sign-ups
+* Maintenance inspections of plant and equipment
 
-Download the Unique **MrQR**{: .text-purple-000 } Code sticker image for the item you want to manage, these can be printed and attached to your items allowing secure access to the infomation & forms assigned to each item.
+Each Item has its own unique **MrQR**{: .text-purple-000 } code Sticker Image, which can be printed and attached to whatever you want. Scanning this allows secure access to the information and Forms assigned to that Item.
 
-Form Submissions can be individually viewed or all form submissions expoted in `.csv` format to be used in your preferred spreadsheet software.
+Form submissions can be viewed individually or exported together in .csv format to be used in your preferred spreadsheet software.
 
-View our documentation for **MrQR**{: .text-purple-000 }, use the links in the sidebar or menu to go to a specific page. Start with our [Quickstart](https://docs.mrqr.me/quickstart/) guide.
+You can use the links in the sidebar to find out more about specific **MrQR**{: .text-purple-000 } features or start with our [Quickstart Guide](https://docs.mrqr.me/quickstart/).
 
 [Back to Top](https://docs.mrqr.me/index)
 {: .text-right }
@@ -95,31 +95,34 @@ ___
 ## Key Features
 {: .text-purple-000 }
 
-* **MrQR**{: .text-purple-000 } is a Universal item Management Platform with global access.
-* **MrQR**{: .text-purple-000 } is a cloud based platform and requires an internet connection and registration to the **MrQR**{: .text-purple-000 } platform.
-* **MrQR**{: .text-purple-000 } can be viewed on PC, Tablet, or Smartphone. 
-* Create your own forms and assign them to your own items.
-* **MrQR**{: .text-purple-000 } enables you to document, manage, any item the way you want to work.
-* Invite Team members to assist you in the management of your site.
-* Anybody can securely access your items, view & complete your site forms (with your permission) using the unique* 
-**MrQR**{: .text-purple-000 } code stickers.
-* **MrQR**{: .text-purple-000 } code stickers are downloadable images for you to print.
-* Additional Purchase Required of additional Sites to enable the creation and sharing of Forms.
-* View individual form submissions or export all submitted form data.
-* Form data is exported in `.csv` format and requires additional software to view & manage.
+* **MrQR**{: .text-purple-000 } is a universal item management platform with global access.
+* **MrQR**{: .text-purple-000 } is a cloud-based platform and requires an internet connection and registration to the **MrQR**{: .text-purple-000 } platform.
+* **MrQR**{: .text-purple-000 } can be viewed on a PC, Tablet, or Smartphone. 
+* Create your own Forms and assign them to your own Items.
+* **MrQR**{: .text-purple-000 } enables you to document and manage any Item the way you want to work.
+* Invite team members to assist you in the management of your Site.
+* Anybody can securely access your Items and view and complete your Site Forms (with your permission) using the unique* 
+**MrQR**{: .text-purple-000 } code Sticker Images.
+* **MrQR**{: .text-purple-000 } code Sticker Images are downloadable images for you to print.
+* Additional purchase required of additional Sites to enable the creation and sharing of Forms.
+* View individual Form submissions or export all submitted Form data.
+* Form data is exported in .csv format and requires additional software to view and manage.
 
 [Back to Top](https://docs.mrqr.me/index)
 {: .text-right }
 ___
-## Viewing on a PC,Tablet or Smartphone
+## Viewing on a PC, Tablet or Smartphone
 {: .text-purple-000 }
 
-**MrQR**{: .text-purple-000 } can be viewed on PC's, Tablet's, or Smartphone's. Navigation on all devices is very similar. On Pc's and Larger Tablets the main menu is at the top of the page.
+**MrQR**{: .text-purple-000 } can be viewed on a PC, Tablet, or Smartphone. Navigation on all devices is very similar.
+
+On PCs and larger Tablets, the main menu is at the top of the page.
+
 ![Index](/assets/images/MrQR_PC_Menu_Bar.png "PC menu access")
 
-however due to the reduced screens size on smartphone's and smaller tablet's accessing the main menu is achieved by selecting the 
+On Smartphones and smaller Tablets, the main menu is accessed by selecting the 
 <img width="25" alt="image" src="https://docs.mrqr.me/assets/images/MrQR_Icon.png">
-Icon in the top right hand corner.
+icon in the top right-hand corner of the screen.
 
 <div style="text-align: center;">
 <img width="400" alt="image" src="https://docs.mrqr.me/assets/images/MrQR_Mobile_Access_Menu.png">
@@ -131,12 +134,12 @@ ___
 ## PC & Tablet Menu Bar
 {: .text-purple-000 }
 
-The Menu Bar at the top of the page allows access to all **MrQR**{: .text-purple-000} platform pages including;
+The Menu Bar at the top of the page allows access to all **MrQR**{: .text-purple-000} platform pages including:
 * Dashboard
 * Registers
 * Forms
 * Sites
-* Profile / Logout (*far right circle / image icon*)
+* Profile/Logout
   
 ![Index](/assets/images/MrQR_PC_Menu_Bar.png "PC menu access")
 [Back to Top](https://docs.mrqr.me/index)
@@ -147,10 +150,9 @@ ___
 
 Selecting the 
 <img width="25" alt="image" src="https://github.com/MrQR-me/docs/assets/153803042/c52befe4-d437-41f0-908d-b7e4ad467e74">
-Icon at the top of any page Expands the **MrQR**{: .text-purple-000 } Platform Menu,
-Selecting the
+icon at the top of any page expands the **MrQR**{: .text-purple-000 } platform menu. Selecting the
 <img width="25" alt="image" src="https://github.com/MrQR-me/docs/assets/153803042/4606c0ca-e99d-44c0-8b63-81048a5d4e2c">
-Icon at the top any page Close the **MrQR**{: .text-purple-000 } Platform Menu.
+icon once again closes the **MrQR**{: .text-purple-000 } platform menu.
 
 <div style="text-align: center;">
 <img width="400" alt="image" src="https://docs.mrqr.me/assets/images/MrQR_Mobile_Menu.png">
