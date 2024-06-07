@@ -48,7 +48,7 @@ nav_exclude: false
 
 ## Sites
 {: .text-purple-000 }
-**A personal site is included when you register with MrQR, enabling users to create their own Registers and Items. The Form Building addon is only available on monthly subscription Open Sites.**
+**A Personal Site is included when registering with MrQR, enabling users to create their own Registers and Items. The Form Building addon is only available on monthly subscription Open Sites.**
 ![Index](/assets/images/V3/QuickStart_Sites.png "Sites") 
 
 [Back to Top](https://docs.mrqr.me/index)
