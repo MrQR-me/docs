@@ -48,7 +48,7 @@ nav_exclude: false
 
 ## Sites
 {: .text-purple-000 }
-**a Personal site is included when you register with MrQR, enabling users to create thier own registers & items. The form Building Addon is only available on monthly subcription Open sites.**
+**A personal site is included when you register with MrQR, enabling users to create their own Registers and Items. The Form Building addon is only available on monthly subscription Open Sites.**
 ![Index](/assets/images/V3/QuickStart_Sites.png "Sites") 
 
 [Back to Top](https://docs.mrqr.me/index)
@@ -56,7 +56,7 @@ nav_exclude: false
 
 ## Creating & Duplicating Forms
 {: .text-purple-000 }
-**The Form Buiding addon is not available for personal sites and will appear when you subscribe to a open site**
+**The Form Buiding addon is not available for Personal Sites and will appear when you subscribe to an Open Site.**
 ![Index](/assets/images/V3/Creating_Forms.png "Form Creation") 
 
 [Back to Top](https://docs.mrqr.me/index)
