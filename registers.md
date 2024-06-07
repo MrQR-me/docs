@@ -30,7 +30,7 @@ nav_order: 6
 # **REGISTER PAGE**{: .text-purple-000 }
 {: .no_toc }
 
-The Register page is included with you **MrQR**{: .text-purple-000 } Pro User Account. You can create an unlimited number of registers. The Register is the List or directory of your items or assets that want to control. The registers and Items for your Personal Site can only be viewed by the Site Owner. When you purchase additional Site Licences, you can manage and share Registers & Assets with other **MrQR**{: .text-purple-000 } registered users.
+The Register Page is included with your **MrQR**{: .text-purple-000 } Pro User Account. You can create an unlimited number of Registers. A Register is the list or directory of your Items or Assets that you want to control. The Registers and Items for your Personal Site can only be viewed by the Site Owner. When you purchase additional Site Licences, you can manage and share Registers and Assets with other **MrQR**{: .text-purple-000 } registered users.
 
 ## REGISTER SETUP & DETAILS
 {: .text-purple-000 }
@@ -41,7 +41,7 @@ The Register page is included with you **MrQR**{: .text-purple-000 } Pro User Ac
 
 ### Accessing the Register Page
 {: .text-purple-000 }
-The Register page is access from the main Menu Bar at the top or the page.
+The Register Page is accessed from the main menu bar at the top of the page.
 
 ![Registers](/assets/images/MrQR_Main_Menu.png "Menu Bar")
 [Back to Top](https://docs.mrqr.me/registers/)
@@ -49,11 +49,13 @@ The Register page is access from the main Menu Bar at the top or the page.
 
 ### Creating a New Register
 {: .text-purple-000 }
-From the Register Page you can Create your Registers. 
+From the Register Page, you can create your Registers. 
 <html>
 <body>
 Select <button class="button button1">CREATE</button> once you have entered the desired Register name.
-In the example below a Register called "Access Equipment" Will Be Created. Once an Item is Created a Register cannot be Deleted but you can Edit its Name.
+In the example below, a Register called 'Access Equipment' will be created.
+  
+Once an Item is created, a Register cannot be deleted, but you can edit its name.
 </body>
 </html>
 
@@ -64,7 +66,7 @@ In the example below a Register called "Access Equipment" Will Be Created. Once 
 
 ### Viewing a Register
 {: .text-purple-000 }
-Once Created you can select `View` your Register and add Items or Edit the Register Name.
+Once created, you can select `View` to see your Register and add Items or edit the Register's name.
 ![Registers](/assets/images/MrQR_Register_Created.png "Created")
 
 [Back to Top](https://docs.mrqr.me/registers/)
@@ -72,7 +74,7 @@ Once Created you can select `View` your Register and add Items or Edit the Regis
 
 ### Register Page
 {: .text-purple-000 }
-On the Register Page you can Create [Items](https://docs.mrqr.me/assets/) and Edit the Register Name, Once Items are Created thes will be Seen on the Register Page.
+On the Register Page, you can create [Items](https://docs.mrqr.me/assets/) and edit the Register name. Once Items are created, they will be Seen on the Register Page.
 ![Registers](/assets/images/MrQR_Register_View.png "View")
 
 [Back to Top](https://docs.mrqr.me/registers/)
