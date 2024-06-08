@@ -7,7 +7,7 @@ nav_order: 20
 # **Pricing**{: .text-purple-000 }
 
 ## **MrQR**{: .text-purple-000 } Free Account
-users have a limited profile and can request access and complete any forms on the **MrQR**{: .text-purple-000 } platform
+users have a limited profile and can access and complete any forms on the **MrQR**{: .text-purple-000 } platform
 
 ### £0.00
 
