@@ -14,9 +14,7 @@ users have a limited profile and can request access and complete any forms on th
 ## **MrQR**{: .text-purple-000 } Pro User Account including a Personal Site
 users have a comprehensive profile, a personal site and can request access to complete any forms on the **MrQR**{: .text-purple-000 } platform
 
-### ~~£2.49~~ / Month
-
-(*while making improvements and adding exciting new features* **MrQR**{: .text-purple-000 } *pro user accounts are free - £0.00 / month untill we Launch in March 2024*)
+### £2.49 / Month
 
 ## Additional **MrQR**{: .text-purple-000 } Site Licence
 Manage and Share all your Items & Forms using the **MrQR**{: .text-purple-000 } Code or Link to any **MrQR**{: .text-purple-000 } registered user.
