@@ -30,9 +30,9 @@ nav_order: 8
 {: .text-purple-000 }
 {: .no_toc }
 
-Individual Forms submisssions can be viewed in the **MrQR**{: .text-purple-000 } in the Form View page of the Site where the Asset was created, you can also export all Data submitted by all **MrQR**{: .text-purple-000 } Users from this Page.
+Individual Form submissions can be viewed in **MrQR**{: .text-purple-000 } in the Form View page of the Site where the Asset was created. You can also export all data submitted by all **MrQR**{: .text-purple-000 } Users from this Page.
 
-Select the Register menu > `View` the required register > `View` the item > `View` the form > `View` the submission or Select <button class="button button1">EXPORT</button> to export all form submissions.
+Select the Register menu > `View` the required register > `View` the item > `View` the form > `View` the submission or select <button class="button button1">EXPORT</button> to export all Form submissions.
 
 ## VIEWING FORM SUBMISSIONS
 {: .text-purple-000 }
