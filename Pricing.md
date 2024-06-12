@@ -6,26 +6,26 @@ nav_order: 20
 
 # **Pricing**{: .text-purple-000 }
 
-## **MrQR**{: .text-purple-000 } Free Account
-users have a limited profile and can access and complete any forms on the **MrQR**{: .text-purple-000 } platform
+## **MrQR**{: .text-purple-000 } Free User Account
+Users have a limited profile and can access and complete any Forms on the **MrQR**{: .text-purple-000 } platform.
 
 ### £0.00
 
 ## **MrQR**{: .text-purple-000 } Pro User Account including a Personal Site
-users have a comprehensive profile, a personal site and can request access to complete any forms on the **MrQR**{: .text-purple-000 } platform
+Users have a comprehensive profile and a Personal Site. They can request access to complete any Forms on the **MrQR**{: .text-purple-000 } platform.
 
 ### £2.49 / Month
 
 ## Additional **MrQR**{: .text-purple-000 } Site Licence
-Manage and Share all your Items & Forms using the **MrQR**{: .text-purple-000 } Code or Link to any **MrQR**{: .text-purple-000 } registered user.
+Manage and share all your Items and Forms using the **MrQR**{: .text-purple-000 } Code or by sharing a link with any **MrQR**{: .text-purple-000 } registered User.
 
-Approve **MrQR**{: .text-purple-000 } user requests to allow secured accesss to your items information & forms.
+Approve **MrQR**{: .text-purple-000 } User requests to allow secured access to your Items, information, and Forms.
 
 ### £7.49 / Month / Site Licence
 
-## **MrQR**{: .text-purple-000 } FormBuilder
-Create, Edit & Duplicate you own forms to your own sites or share them globally as templates to the **MrQR**{: .text-purple-000 }  community
+## **MrQR**{: .text-purple-000 } Form Builder
+Create, edit, and duplicate your own Forms to your own Sites or share them globally as templates to the **MrQR**{: .text-purple-000 }  community.
 
-** available with a valid monthly site licence **
+### Available with a valid monthly Site Licence.
 
 
