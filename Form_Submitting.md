@@ -15,7 +15,7 @@ nav_order: 17
   font-size: 9px;
   margin: 4px 2px;
   cursor: pointer; }
-.button1 {background-color: #555555;} /* Black */
+.button1 {background-color: #000000;} /* Black */
 .button2 {background-color: white;}
 .button1 {color: white;}
 .button2 {color: grey;}
@@ -37,33 +37,32 @@ ___
 ## Introduction
 {: .text-purple-000 }
 
-Items can be accessed in many ways.
+Items can be accessed in many ways:
 * Scanning the MrQR code
-* clicking on the MrQR Code Link sent in a email
-* clicking on an embeded MrQR Code link on a web page
-* Tapping a NFC tag programmed with the MrQR Code Link
+* Clicking on the MrQR code link sent in an email
+* Clicking on an embedded MrQR code link on a web page
+* Tapping an NFC tag programmed with the MrQR code link
 
-All methods will direct you web browser to the Items landing page.
+All of these methods will direct your web browser to the Item's landing page.
 
-All MrQR items are protected and access to the infomation and forms can only be gained once a user has Accepted an invitaion to a Site or has a Access Request Approve.
+All MrQR Items are protected and access to the information and Forms can only be gained once a user has accepted an invitation to a Site or has an access request approved.
 
-## MrQR code
+## MrQR Code
 {: .text-purple-000 }
 
 <div style="text-align: center;"> 
 <img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-MWEP.png">
 </div>
 
-[Go to MWEP Forms](https://mrqr.me/gidBoo/) or scan **MrQR**{: .text-purple-000 } Code.
+[Go to MWEP Forms](https://mrqr.me/gidBoo/) or scan **MrQR**{: .text-purple-000 } code.
 
 ___
 ## Requesting Access
 {: .text-purple-000 }
 
-Once your web browser opens the item page, you will need to Request Access.
-this will message the site owner tellingthem that you have requested access.
+Once your web browser opens the Item page, you will need to request access. This will send a message to the Site Owner telling them that you have requested access.
 
-Keep refreshing the page untill your form opens
+Keep refreshing the page until your Form opens.
 
 ___
 ## Submit a Form
@@ -71,11 +70,11 @@ ___
 
 Select <button class="button button1">SUBMIT</button> once you have entered all the data inputs.
 
-If the form will not submit re-check that you have completed all data inputs.
+If the Form will not submit, double-check that you have completed all of the data inputs.
 
 Any fields that are required will have **This field is required**{: .text-red-000 } next to the input. 
 
-**YOU WILL NOT BE ABLE TO SUBMIT THE FORM UNITLL ALL THE REQUIRED INPUTS ARE COMPLETE**
+**YOU WILL NOT BE ABLE TO SUBMIT THE FORM UNITLL ALL THE REQUIRED INPUTS ARE COMPLETE.**
 
 [Back to Top](https://docs.mrqr.me/Form_Submitting/)
 {: .text-right }
