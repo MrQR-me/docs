@@ -38,14 +38,14 @@ ___
 {: .text-purple-000 }
 
 Items can be accessed in many ways:
-* Scanning the MrQR code
-* Clicking on the MrQR code link sent in an email
-* Clicking on an embedded MrQR code link on a web page
-* Tapping an NFC tag programmed with the MrQR code link
+* Scanning the MrQR Code
+* Clicking on the MrQR Code link sent in an email
+* Clicking on an embedded MrQR Code link on a web page
+* Tapping an NFC tag programmed with the MrQR Code link
 
 All of these methods will direct your web browser to the Item's landing page.
 
-All MrQR Items are protected and access to the information and Forms can only be gained once a user has accepted an invitation to a Site or has an access request approved.
+All MrQR Items are protected and access to the information and Forms can only be gained once a User has accepted an invitation to a Site or has an access request approved.
 
 ## MrQR Code
 {: .text-purple-000 }
@@ -68,13 +68,11 @@ ___
 ## Submit a Form
 {: .text-purple-000 }
 
-Select <button class="button button1">SUBMIT</button> once you have entered all the data inputs.
+Select <button class="button button1">SUBMIT</button> once you have entered all the data inputs. If the Form will not submit, double-check that you have completed all of the data inputs.
 
-If the Form will not submit, double-check that you have completed all of the data inputs.
+Any fields that are required will have '**This field is required**{: .text-red-000 }' next to the input. 
 
-Any fields that are required will have **This field is required**{: .text-red-000 } next to the input. 
-
-**YOU WILL NOT BE ABLE TO SUBMIT THE FORM UNITLL ALL THE REQUIRED INPUTS ARE COMPLETE.**
+**YOU WILL NOT BE ABLE TO SUBMIT THE FORM UNTIL ALL THE REQUIRED INPUTS ARE COMPLETE.**
 
 [Back to Top](https://docs.mrqr.me/Form_Submitting/)
 {: .text-right }
