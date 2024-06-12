@@ -42,7 +42,7 @@ nav_order: 2
 
 # **ACCOUNT REGISTRATION**{: .text-purple-000 }
 {: .no_toc }
-You must have a minimum of a Free User Account to request access to view and complete **MrQR**{: .text-purple-000 } Forms on any Site operating the **MrQR**{: .text-purple-000 } Platform. Personal or Additional Sites and **MrQR**{: .text-purple-000 } Form Builder can only used with additional purchases or subscriptions.
+You must have a minimum of a Free User Account to request access to view and complete **MrQR**{: .text-purple-000 } Forms on any Site operating the **MrQR**{: .text-purple-000 } platform. Personal or Additional Sites and the **MrQR**{: .text-purple-000 } Form Builder can only used with additional purchases or subscriptions.
 
 ## USER ACCOUNT DETAILS & SETUP
 {: .text-purple-000 }
@@ -53,7 +53,7 @@ You must have a minimum of a Free User Account to request access to view and com
 
 ## Free User Account
 {: .text-purple-000 }
-Your Free User Account will allow you access to the **MrQR**{: .text-purple-000 } Platform and enable you to request access and complete all the **MrQR**{: .text-purple-000 } Site Forms used on any site being managed using the **MrQR**{: .text-purple-000 } platform. There is no Personal Site and you cannot create or manage your own **MrQR**{: .text-purple-000 } Forms.
+Your Free User Account will allow you access to the **MrQR**{: .text-purple-000 } platform and enable you to request access and complete all the **MrQR**{: .text-purple-000 } Site Forms used on any Site being managed using the **MrQR**{: .text-purple-000 } platform. There is no Personal Site and you cannot create or manage your own **MrQR**{: .text-purple-000 } Forms.
 
 From your profile page you will be able to:
 * Manage your plan, add payment cards, and upgrade your account
@@ -64,12 +64,12 @@ From your profile page you will be able to:
 * <button class="button button1">LOG OUT OTHER BROWSER SESSIONS</button>
 * <button class="button button1">REQUEST DELETION</button>
 
-You cannot store or share Profile information, addresses, training records, or equipment details.
+You cannot store or share profile information, addresses, training records, or equipment details.
 
-## Setting Up Your Free Account
+## Setting Up Your Free User Account
 {: .text-purple-000 }
 
-Go to **[MrQR.me](https://mrqr.me/)**{: .text-purple-000 } and select <button class="button button2">REGISTER</button>
+Go to **[MrQR.me](https://mrqr.me/)**{: .text-purple-000 } and select <button class="button button2">REGISTER</button>.
 
 ![Free Account](/assets/images/MrQR_login_page.png "RESGISTER")
 
@@ -78,33 +78,34 @@ Go to **[MrQR.me](https://mrqr.me/)**{: .text-purple-000 } and select <button cl
 
 Enter a valid email address and password.
 
-Please review our [Terms of Service](https://mrqr.me/terms-of-service) and [Privacy Policy](https://mrqr.me/privacy-policy), tick the 'accept' box, and then select <button class="button button1">REGISTER</button>
+Please review our [Terms of Service](https://mrqr.me/terms-of-service) and [Privacy Policy](https://mrqr.me/privacy-policy), tick the 'accept' box, and then select <button class="button button1">REGISTER</button>.
 
 ![Free Account](/assets/images/MrQR_Register.png "RESGISTER")
 
-After registering, the Site Owner will need to approve your access. Once this is done, you will be able to request access to Items and complete any Assigned Forms.
+After registering, the Site Owner will need to approve your access. Once this is done, you will be able to request access to Items and complete any assigned Forms.
 
 ## Verifying Your Email
 {: .text-purple-000 }
 
 Once you have registered, you will be sent a verification email. Until you have verified your email address, your account will be tagged as <button class="button button3">Unverified</button> when requesting access to submit Forms. Some organisations may not allow access to unverified accounts.
 
-Please select the <button class="button button1">Verify Email Address</button> Button to verify your email.
-Your account will then be tagged as <button class="button button4">Verified</button>. This will also enable the Form Building tab if you have a **Paid Subscription**.
+Please select the <button class="button button1">Verify Email Address</button> button to verify your email.
+Your account will then be tagged as <button class="button button4">Verified</button>. This will also enable the Form Building tab if you have a **Pro User Account** subscription.
 
-If you did not receive your verification email, please check your Spam or Junk folder. If you still cannot find the verification email, please check your [Profile](https://docs.mrqr.me/profile/) to ensure the correct email address has been entered.
+If you did not receive your verification email, please check your Spam or Junk folder. If you still cannot find the verification email, please check your [profile](https://docs.mrqr.me/profile/) to ensure the correct email address has been entered.
 
-Update your email address if required and choose to **re-send the verification email**. Then Select <button class="button button1">SAVE</button> You should now receive a new verification email.
+Update your email address if required and choose to **re-send the verification email**. Then Select <button class="button button1">SAVE</button>. You should now receive a new verification email.
 
 
-## Pro Plan Account
+## Upgrading to a Pro User Account Plan
 {: .text-purple-000 }
 
-Once registered, you will be able to access your [Profile](https://docs.mrqr.me/profile/) and upgrade your account.
-On the [Profile](https://docs.mrqr.me/profile/) page, scroll down to Manage Account and Subscribe to our Pro Plan.
+Once registered, you will be able to access your [profile](https://docs.mrqr.me/profile/) and upgrade your account to a Pro User Account if you wish.
+
+On the [profile](https://docs.mrqr.me/profile/) page, scroll down to Manage Account and subscribe to our Pro User Account plan.
 
 ![Pro Plan Account](/assets/images/MrQR_Pro_Plan.png "RESGISTER")
-See our [Pricing](https://docs.mrqr.me/Pricing/) page for the latest Pro Plan Account cost.
+See our [Pricing](https://docs.mrqr.me/Pricing/) page for the latest Pro User Account costs.
 
 You may be asked to add a payment method. Select <button class="button button1">ADD PAYMENT METHOD </button> once you have entered your desired payment card details.
 
@@ -114,24 +115,24 @@ You can change or cancel your payment method at a later date by selecting <butto
 [Back to Top](https://docs.mrqr.me/registration/)
 {: .text-right }
 
-Your Pro Plan Account will give you access to the **MrQR**{: .text-purple-000 } Platform and enable you to request access and complete all the **MrQR**{: .text-purple-000 } Site Forms used on any site being managed using the **MrQR**{: .text-purple-000 } Platform. You will have access to a fully functional Personal Site.
+Your Pro User Account plan will give you access to the **MrQR**{: .text-purple-000 } platform and enable you to request access and complete all the **MrQR**{: .text-purple-000 } Site Forms used on any Site being managed using the **MrQR**{: .text-purple-000 } platform. You will have access to a fully functional Personal Site.
 
-Your [Profile](https://docs.mrqr.me/profile/) Page allows you to store and share:
-* Profile Image
+Your [profile](https://docs.mrqr.me/profile/) page allows you to store and share:
+* Profile image
 * Name
-* Contact Number
+* Contact number
 * National Insurance Number
-* Date of Birth
+* Date of birth
 * Occupation
 * Employer
-* Employment Status
-* Any basic Medical Information you wish to share
-* Contact Details of a person you wish to be contacted in the event of an incident
-* Multiple Addresses
-* Multiple Training Records (including Descriptions, Key Dates & Images)
-* Multiple Equipment Records (including Descriptions & images)
+* Employment status
+* Any basic medical information you wish to share
+* Contact details of a person you wish to be contacted in the event of an incident
+* Multiple addresses
+* Multiple training records (including descriptions, key dates, and images)
+* Multiple equipment records (including descriptions and images)
   
-You can share your profile page including your Profile Image, Employer, Occupation, Contact Number, and Training Records via email or your Unique **MrQR**{: .text-purple-000 } Code.
+You can share your profile page including your profile image, employer, occupation, contact number, and training records via email or your unique **MrQR**{: .text-purple-000 } Code.
 
 [Back to Top](https://docs.mrqr.me/registration/)
 {: .text-right }
