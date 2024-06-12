@@ -16,7 +16,7 @@ nav_order: 4
 ## Free User Account
 {: .text-purple-000 }
 
-Your Free User Account will allow you to access the **MrQR**{: .text-purple-000 } platform and enable you to request access to - and complete - any **MrQR**{: .text-purple-000 } Site Forms on any Site being managed using the **MrQR**{: .text-purple-000 } platform. The Site Owner will need to approve access before you can do this.
+Your Free User Account will allow you to access the **MrQR**{: .text-purple-000 } platform and enable you to complete any **MrQR**{: .text-purple-000 } Site Forms on any Site being managed using the **MrQR**{: .text-purple-000 } platform. The Site Owner will need to approve access before you can do this.
 
 Your profile page does not allow you to store or share any information.
 
@@ -25,7 +25,7 @@ You cannot add, store, or share addresses, training records, or equipment detail
 ## Pro User Account
 {: .text-purple-000 }
 
-Your Pro User Account will allow you to access the **MrQR**{: .text-purple-000 } platform and enable you to request access to - and complete - any **MrQR**{: .text-purple-000 } Site Forms on any Site being managed using the **MrQR**{: .text-purple-000 } platform. The Site Owner will need to approve access before you can do this.
+Your Pro User Account will allow you to access the **MrQR**{: .text-purple-000 } platform and enable you to complete any **MrQR**{: .text-purple-000 } Site Forms on any Site being managed using the **MrQR**{: .text-purple-000 } platform. The Site Owner will need to approve access before you can do this.
 
 You can store and share:
 
