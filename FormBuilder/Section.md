@@ -39,15 +39,15 @@ parent: MrQR Form Builder
   
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Forms_Header.png "Header")
 
-Your new Form is now created. You can continue building you form by adding [Sections](https://docs.mrqr.me/FormBuilder/Section). 
-Select <button class="button button2">NEW SECTION</button> to open the Create Section panel.
+Your new Form is now created. You can continue building you form by adding [sections](https://docs.mrqr.me/FormBuilder/Section). 
+Select the <button class="button button2">NEW SECTION</button> button to open the 'create section' panel.
 
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Form__NewSection_Create.png "Create Form")
 
 ## Adding a New Section
 {: .text-purple-000 }
 
-Select <button class="button button1">SAVE</button> once you have entered the desired section name.
+Select the <button class="button button1">SAVE</button> once you have entered the desired section name.
 
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Form_New_Section_Create.png "Create Section")
 
@@ -57,7 +57,7 @@ Select <button class="button button1">SAVE</button> once you have entered the de
 ## Hiding Sections
 {: .text-purple-000 }
 
-By selecting <img width="100" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Section_Expand.png"> or <img width="100" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Section_Colapse.png"> you can hide or show the section contents and inputs
+By selecting <img width="100" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Section_Expand.png"> or <img width="100" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Section_Colapse.png"> you can hide or show the section contents and inputs.
 
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Section_Colapsed.png "Section Colapsed")
 
@@ -67,9 +67,9 @@ By selecting <img width="100" alt="image" src="https://docs.mrqr.me/assets/image
 ## Editing a Section
 {: .text-purple-000 }
 
-To Edit the Section Name select **Edit**{: .text-grey-lt-300 } in the Forms section panel.
-Select <button class="button button1">SAVE</button> once you have entered the desired Section Name.
-Select <button class="button button2">CANCEL</button> to ignore any changes
+To edit the section name, select **Edit**{: .text-grey-lt-300 } in the Form's section panel.
+Select the <button class="button button1">SAVE</button> button once you have entered the desired section name.
+Select the <button class="button button2">CANCEL</button> button to ignore any changes you have made.
 
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Section_Edit_Name.png "Edit Name")
 
@@ -79,9 +79,8 @@ Select <button class="button button2">CANCEL</button> to ignore any changes
 ## Removing a Section
 {: .text-purple-000 }
 
-To Remove the Section select **Remove**{: .text-red-000 } in the Form section panel.
-Select <button class="button button3">REMOVE</button>.
-Select <button class="button button2">CANCEL</button> to cancel the Section Removal.
+To remove a section, select **Remove**{: .text-red-000 } in the Form's section panel, then select the <button class="button button3">REMOVE</button> button.
+Select the <button class="button button2">CANCEL</button> button to cancel the section removal.
 
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Section_Remove.png "Remove")
 
@@ -91,12 +90,12 @@ Select <button class="button button2">CANCEL</button> to cancel the Section Remo
 ## Adding Content & Inputs
 {: .text-purple-000 }
 
-Your new section is now created. You can continue building you form by adding
-[Content](https://docs.mrqr.me/FormBuilder/Content) 
+Your new section is now created. You can continue building your Form by adding
+[content](https://docs.mrqr.me/FormBuilder/Content) 
 and
-[Inputs](https://docs.mrqr.me/FormBuilder/Data_Inputs) 
+[inputs](https://docs.mrqr.me/FormBuilder/Data_Inputs) 
 or create another new 
-[Section](https://docs.mrqr.me/FormBuilder/Section) 
+[section](https://docs.mrqr.me/FormBuilder/Section).
 
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Form_New_Section_Created.png "Created")
 
