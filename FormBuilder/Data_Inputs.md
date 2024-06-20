@@ -39,7 +39,7 @@ parent: MrQR Form Builder
   
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Forms_Header.png "Header")
 
-Your new section is now created. You can continue building you form by adding [Inputs](https://docs.mrqr.me/FormBuilder/Data_Inputs) 
+Once your new section is created, you can continue building your Form by adding [inputs](https://docs.mrqr.me/FormBuilder/Data_Inputs). These can be added by selecting the <button class="button button2">ADD INPUT</button> button, which will open the 'new field' panel.
 
 ![MrQR Form Builder](/assets/images/Forms/MrQR_Form_New_Section_Created.png "Created")
 
@@ -47,50 +47,52 @@ Your new section is now created. You can continue building you form by adding [I
 {: .text-purple-000 }
 
 There are five types of inputs:
+
 * Text
 * Date
 * Photo upload
 * Relationship
 * User
 
-The default content type is Text.
-Select <button class="button button2">ADD INPUT</button> to open the New field Panel.
+The default content type is text but you can select whichever one you need with the drop down box that appears.
+
+Each input requires a label, which can be a question, instruction, or statement that you want the User to address.
 
 ## Text
 {: .text-purple-000 }
 ### Single & Multiple Line Text Inputs
 {: .text-purple-000 }
 
-Select `Text` from the Type Drop Down Box. Select <button class="button button1">SAVE</button> once you have entered a Label (*this can be a Question, Instruction or Statement*). This Input allows the user to enter a single line text. By placing a Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Tick.png"> the <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png"> Long answer Box allows the user to enter multiple lines of text.
+Select `Text` from the 'type' drop down box. This input allows the user to enter a single line of text. Ticking the <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png"> Long Answer box allows the User to enter multiple lines of text where necessary.
 
 ![MrQR Inputs](/assets/images/Forms/MrQR_Form_New_Field_Text.png "Text")
 
-Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Tick.png"> the <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png"> Required Box if the input is Requied before Submitting the Form.
+Tick the <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png"> Required box if the input is required, and then press the <button class="button button1">SAVE</button> button to save your input.
 
 ### Single Tick Box
 {: .text-purple-000 }
 
-By Selecting the <button class="button button2">ADD VALUE</button> once creates a single option Tick box answer. this is useful if you want the user submitting the form to agree to a particular statment.
+Selecting the <button class="button button2">ADD VALUE</button> button once creates a single option tick box answer. This is useful if you want the User who is submitting the Form to agree to a particular statement.
 
 ![MrQR Inputs](/assets/images/Forms/MrQR_Text_Single_Option.png "Single Line Text")
 
-Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Tick.png"> the <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png"> Required Box if the input is Requied before Submitting the Form.
+Tick the <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png"> Required box if the input is required, and then press the <button class="button button1">SAVE</button> button to save your input.
 
-### Multiple Check Boxes
+### Multiple Tick Boxes
 {: .text-purple-000 }
 
-By Selecting the <button class="button button2">ADD VALUE</button> multiple times creates a multiple choice option Check box answers. This is useful if you want the user submitting the form to select a particular statment. 
+Selecting the <button class="button button2">ADD VALUE</button> button multiple times will create several tick box answers. This is useful if you want the User submitting the Form to select a particular statement from a range of options.
 
 ![MrQR Inputs](/assets/images/Forms/MrQR_Text_Multiple_Option.png "Mutltiple Check Box")
 
-Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Tick.png"> the <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png"> Required Box if the input is Requied before Submitting the Form.
+Tick the <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png"> Required box if the input is required, and then press the <button class="button button1">SAVE</button> button to save your input.
 
-Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Tick.png"> the <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png"> Allow multiple Box to allow Multiple answers to be selected.
+If you want to allow the User to select multiple answers, tick the <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png"> Allow Multiple box.
 
-Add upto 3 Values creates a check box list
+Adding up to three values creates a checkbox list.
 ![MrQR Inputs](/assets/images/Forms/MrQR_Text_CheckBox_Form.png "Mutltiple Check Box")
 
-After 4 or more options have been added the selection becomes a dropdown box during form entry.
+Adding four or more values creates a dropdown box during Form entry.
 
 ![MrQR Inputs](/assets/images/Forms/MrQR_Text_Dropdown_Form.png "Mutltiple Dropdown Box")
 
@@ -100,10 +102,10 @@ After 4 or more options have been added the selection becomes a dropdown box dur
 ## Date Inputs
 {: .text-purple-000 }
 
-Select `Date` from the Type Drop Down Box. Select <button class="button button1">SAVE</button> once you have entered a Label (*this can be a Question, Instruction or Statement*). A Date Input opens a calender to enable the user submiting the form to select the required date.
+Select `Date` from the 'type' drop down box. This input opens a calendar to enable the User who is submitting the Form to select a specific date.
 
 ![MrQR Inputs](/assets/images/Forms/MrQR_Form__New_Field_Date.png "Date")
-Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Tick.png"> the <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png"> Required Box if the input is Requied before Submitting the Form.
+Tick the <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png"> Required box if the input is required, and then press the <button class="button button1">SAVE</button> button to save your input.
 
 
 [Back to Top](https://docs.mrqr.me/FormBuilder/Data_Inputs/)
@@ -112,13 +114,13 @@ Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/M
 ## Photo Upload Inputs
 {: .text-purple-000 }
 
-Select `Photo Upload` from the Type Drop Down Box. Select <button class="button button1">SAVE</button> once you have entered a Label (*this can be a Question, Instruction or Statement*). The photo upload allows the the user submiting the form to upload images from there device.
+Select `Photo Upload` from the 'type' drop down box. This input allows the User who is submitting the Form to upload images from their device.
 
 ![MrQR Inputs](/assets/images/Forms/MrQR_Form_New_Field_Image.png "Media")
 
-Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Tick.png"> the <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png"> Required Box if the input is Requied before Submitting the Form.
+Tick the <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png"> Required box if this input is required, and then press the <button class="button button1">SAVE</button> button to save your input.
 
-Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Tick.png"> the <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png"> Allow multiple Box if Multiple Photos can be accepted.
+If you want to allow the User to upload multiple photos, tick the <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png"> Allow Multiple box.
 
 [Back to Top](https://docs.mrqr.me/FormBuilder/Data_Inputs/)
 {: .text-right }
@@ -126,13 +128,13 @@ Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/M
 ## Relationship Input
 {: .text-purple-000 }
 
-If you have additional Registers and Forms, you can link previously submitted forms as an Input on your new form. This allows the registered user to select a previously submitted form.
+If you have additional Registers and Forms, you can link previously submitted Forms as an input on your new Form. This allows the User to select a previously submitted Form.
 
-Select `Form submission` from the Type Drop Down Box. Select <button class="button button1">SAVE</button> once you have entered a Label (*this can be a Question, Instruction or Statement*) and selected the register and form you wish to link to your new form. The Register & Form.
+Select `Form Submission` from the 'type' drop down box and select the Register and Form you wish to link to your new Form.
 
 ![MrQR Inputs](/assets/images/Forms/MrQR_Form_New_Field_Form.png "Text")
 
-Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Tick.png"> the <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png"> Required Box if the input is Requied before Submitting the Form.
+Tick the <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png"> Required box if the input is required, and then press the <button class="button button1">SAVE</button> button to save your input.
 
 [Back to Top](https://docs.mrqr.me/FormBuilder/Data_Inputs/)
 {: .text-right }
@@ -140,29 +142,29 @@ Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/M
 ## User Inputs
 {: .text-purple-000 }
 
-User Inputs take the infomation entered in the User Profile Page. The User Profile data is automtically entered onto a form when the user completing the form subscrbes to the **MrQR**{: .text-purple-000 } Pro Account.
+User inputs take the information entered into the User profile page. The User profile data is automatically entered onto a form when the User who is completing the form subscribes to the **MrQR**{: .text-purple-000 } Pro User Account.
 
 User inputs include:
-* Profile Photo
-* Full Name
-* Phone Number
+* Profile photo
+* Full name
+* Phone number
 * National Insurance Number
-* Date of Birth
+* Date of birth
 * Occupation
 * Employer
-* Emplyment Status
-* Medical Infomation
-* Next of Kin - Name
-* Next of Kin - Contact Number
-* Address Inputs
-* Training Record Inputs
-* Equipmet Inputs
+* Employment status
+* Medical information
+* Next of kin - name
+* Next of kin - contact number
+* Address inputs
+* Training record inputs
+* Equipment inputs
 
-select the required `User' input from the Type Drop Down Box. Select <button class="button button1">SAVE</button> once you have entered a Label (*this can be a Question, Instruction or Statement*).
+Select the required User input from the 'type' drop down box.
 
 ![MrQR Inputs](/assets/images/Forms/MrQR_Inputs_User.png "User Inputs")
 
-Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Tick.png"> the <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png"> Required Box if the input is Requied before Submitting the Form.
+Tick the <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Empty_Box.png"> Required box if the input is required, and then press the <button class="button button1">SAVE</button> button to save your input.
 
 [Back to Top](https://docs.mrqr.me/FormBuilder/Data_Inputs/)
 {: .text-right }
@@ -170,11 +172,11 @@ Tick <img width="15" alt="image" src="https://docs.mrqr.me/assets/images/Forms/M
 ## Editing Inputs 
 {: .text-purple-000 }
 
-Once your Input are saved you can **Edit**{: .text-grey-lt-300 }, **Remove**{: .text-red-000 } at any time. alterationd to forms will not affect previous submissions. You can rearrange the order of Inputs and Contents by selecting and moving the <img width="20" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Form_Move_Field.png"> icon.
+Once your inputs are saved, you can **Edit**{: .text-grey-lt-300 } or **Remove**{: .text-red-000 } them at any time. Alterations to Forms will not affect previous submissions. You can rearrange the order of inputs and contents by selecting and moving the <img width="20" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Form_Move_Field.png"> icon.
 
 ![Content](/assets/images/Forms/MrQR_Forms_Content_Text_Media.png "Text & Media")
 
-Selecting Remove opens the Remove Field Panel. Select <button class="button button2">CANCEL</button> or <button class="button button3">REMOVE</button>
+Selecting **Remove**{: .text-red-000 } will open the 'remove field' panel. Select the <button class="button button3">REMOVE</button> button to confirm the field removal or the <button class="button button2">CANCEL</button> button to go back.
 
 ![Content](/assets/images/Forms/MrQR_Form_Remove_field.png "Remove Field")
 
