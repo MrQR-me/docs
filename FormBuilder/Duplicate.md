@@ -36,31 +36,32 @@ parent: MrQR Form Builder
 {:toc }
 - .TOC
 
-The **MrQR**{: .text-purple-000 } Form Builder Addon is included when you subscribe to any plan and enables you to duplicate global forms to your own sites, Edit the duplicated global Forms and create, Edit and duplicate your own **MrQR**{: .text-purple-000 } Forms.
+The **MrQR**{: .text-purple-000 } Form Builder feature is included when you pay for a Pro User Account or additional Site Licenses. It enables you to duplicate Global Forms to your own Sites and edit them. You can also create, edit, and duplicate your own **MrQR**{: .text-purple-000 } Forms.
+
+You can duplicate any of your Site Forms or Global Forms to any Site you own. You can also do this if you are an invited User who has been given permission to create forms on a Site.
+
+If you cannot duplicate a Form to a Site that you have been invited to, you will need to contact the Site Owner to adjust your site privileges.
 
 ## Duplicating a Form on your Site
 {: .text-purple-000 }
 
-You can duplicate any of your site or global form to any site you either own or are an invited member that you are alliwed to create forms on.
-if you cannot duplicate a form to a site that you are an invited member on, you will need to contact the site owner to alter your site privileges.
+To duplicate a Form on your Site, head to the Forms page and select 'Site' or 'Global' from the menu. You can scroll through your Forms or use the search bar to find a specific Form if you know what it is called.
 
-from within the forms page SELECT either Site or Global then either Search, or scroll through the forms.<br>
-SELECT **...**  and Duplicate... the form you wish to duplicate.
+When you find the Form you need, click on the three dots next to it and select 'duplicate' from the drop down menu that appears. You can also select 'view' to see the Form prior to duplicating it on your Site. 
+
 ![Index](/assets/images/V3/MrQR_Global_Forms.png "Global Forms")
-*you can select View to see the form prior to duplicating it on your site* 
 
-Select <button class="button button1">DUPLICATE</button> once you have chosen the site you wish the form to be used on.<br>
-*(this can be your personal, a purchased or a site that you are an invited team member)*
+Choose which Site you want the Form to be used on, and then select the <button class="button button1">DUPLICATE</button> button.
 
 ![Index](/assets/images/V3/MrQR_Duplicate.png "Duplicate")
 
-Your Form is now avalible for editing.
+You can now edit your duplicated Form.
+
 ![Index](/assets/images/V3/MrQR_Duplicate_Form_Edit.png "Form Edit")
 
-Once you have finished editing SELECT the <button class="button button1">PUBLISH</button> button.<br>
-Once Published, your form will be available on your selected Site.
+Once you have finished editing the duplicated Form, select the <button class="button button1">PUBLISH</button> button. Your form will now be available on your selected Site.
 ![Index](/assets/images/V3/MrQR_Publish.png "Form Edit")
-**Your Form can be assigned to any number of items on your registers.**
+**Your Form can be assigned to any number of Items on your Registers.**
 
 [Back to Top](https://docs.mrqr.me/docs/FormBuilder)
 {: .text-right }
