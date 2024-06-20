@@ -33,9 +33,6 @@ parent: MrQR Form Builder
 {: .text-purple-000 }
 {: .no_toc }
 
-{:toc }
-- .TOC
-
 The **MrQR**{: .text-purple-000 } Form Builder feature is included when you pay for a Pro User Account or additional Site Licenses. It enables you to duplicate Global Forms to your own Sites and edit them. You can also create, edit, and duplicate your own **MrQR**{: .text-purple-000 } Forms.
 
 You can duplicate any of your Site Forms or Global Forms to any Site you own. You can also do this if you are an invited User who has been given permission to create forms on a Site.
