@@ -28,21 +28,21 @@ permalink: docs/FormBuilder
 </head>
 </html>
 
-# **MrQR**{: .text-purple-000 } Form Builder Addon
+# **MrQR**{: .text-purple-000 } Form Builder
 {: .no_toc }
 
 {:toc }
 - .TOC
 
-The **MrQR**{: .text-purple-000 } Form Builder Addon is included when you subscribe to a new open site, it is not available for personal sites and enables you to duplicate global forms to your own sites, Edit the duplicated global Forms and create, Edit and duplicate your own **MrQR**{: .text-purple-000 } Forms.
+The **MrQR**{: .text-purple-000 } Form Builder feature is included when you subscribe to a new Open Site. It enables you to create, edit, and duplicate your own **MrQR**{: .text-purple-000 } Forms. It also allows you to duplicate Global Forms to your own Sites and edit them.
 
 ## Forms Panel
 
 ![MrQR Form Builder](/assets/images/V2/MrQR-forms-panel.png "Main Page")
 
-The Forms panel consists of;
+The Forms panel consists of:
 * <button class="button button1">NEW FORM</button> button
-* Site / Global / Archive forms switch
+* Site / Global / Archive Forms switch
 * Forms Lists
 
 ## Form Types
@@ -51,58 +51,59 @@ The Forms panel consists of;
 ### Site Forms
 {: .text-purple-000 }
 
-Site forms that you create and are associated only to the site it was created on and will only appear in the the site forms list. You can duplicate & edit site forms to any of your sites.
+Site Forms that you create are associated only with the Site it was created on, and will only appear in the Site Forms list. You can duplicate and edit Site Forms to any of your Sites.
 
-You have the option to Edit, Duplicate or Archive your forms
+You have the option to edit, duplicate, or archive your forms.
 ![MrQR Form Builder](/assets/images/V2/MrQR-form-Site-Forms.png "Site Forms")
 
-### Global forms
+### Global Forms
 {: .text-purple-000 }
 
-Global forms you create can be editied only by you. if you create a Global form it will appear in the global forms list of all **MrQR**{: .text-purple-000 } User.
+Global Forms you create can be edited only by you. If you create a Global Form, it will appear in the Global Forms list of all **MrQR**{: .text-purple-000 } Users.
 
-You have the option to View or Duplicate Global Forms
+You have the option to view or duplicate Global Forms.
 ![MrQR Form Builder](/assets/images/V2/MrQR-form-Global-Forms.png "Global Forms")
 
-**Do not include any or sensitive information in a global form as this will be seen by all**  **MrQR**{: .text-purple-000 } **users**
+**Do not include any sensitive information in a Global Form as this will be seen by all** **MrQR**{: .text-purple-000 } **Users.**
 
-### Archive forms
+### Archive Forms
 {: .text-purple-000 }
 
-Forms can be archived to store unused forms.
+Any unused Forms you have can be archived to safely store them away.
 
-You have the option to unarchive previously archived forms
+You also have the option to unarchive previously archived Forms.
 ![MrQR Form Builder](/assets/images/V2/MrQR-form-Archived-Forms.png "Arcive Forms")
 
-## Considerations when Creating Forms
+## Considerations When Creating Forms
 {: .text-purple-000 }
 
-The forms you create can be used to provide infomation, collect infomation about people, the condition, sutability and safety of plant and equipment, record events, register the use of or access to and area, plant or equipment, the use is is only restricted by your imagination. You should always consider the questions you are asking and provide the user enough infomation to allow them to complete any forms you assign to an item, accuratly and ensure that the sumitted forms are valid.
+The Forms you create can be used to provide information; collect information about people; list the condition, suitability, and safety of plant and equipment; record events; and register the use of or access to an area, plant, or equipment.
 
-When creating forms for use across  multiple sites and by other users it should be considered to add a section to your form, including your own notes and text as the example below;
+You should always consider the questions you are asking and provide the User with enough information to allow them to accurately complete any Forms you assign to an Item.
+
+When creating Forms for use across multiple sites and by other Users, consider adding a section like the example below:
 
 **PLEASE BE AWARE**{: .text-purple-000 }
 
-If you use this form any changes made by the Form Owner will also be reflected on this Form
-* You can **Duplicate**{: .text-grey-lt-300 } this form to your own site
-* When you **Duplicate**{: .text-grey-lt-300 } a form you will become the form owner.
-* Only the form owner or invited users can make Changes to your Duplicated Forms.
-* Ensure you Rename your Duplicated Forms
+If you use this Form, any changes made by the Form Owner will also be reflected on this Form.
+* You can duplicate this Form to your own Site.
+* When you duplicate a Form, you will become the Form Owner.
+* Only the Form Owner or invited Users can make changes to your duplicated Forms.
+* Ensure you rename your duplicated Forms.
 
-Consider including additional text similar to but not limited to (*Replace* **MrQR**{: .text-purple-000 } *with tour own name or organisation name*);
+Consider including additional text similar to the example below, replacing **MrQR**{: .text-purple-000 } with your own organisation's name:
 
-Whilst **MrQR**{: .text-purple-000 } has made every effort to provide accurate information when creating this TEMPLATE Form.
-* By assigning any form for to an item on your Site that you either own or an invited user off,  you will become responsible for the information submitted.
-* **MrQR**{: .text-purple-000 } does not  accept any liability relating to loss or damage arising from the  use of this form.
-* Any action points arising from the form should be attended to as soon as possible.
-* **MrQR**{: .text-purple-000 } does not accept any responsibility for assessing the competency and training of the Responsible Person and their ability to complete this check list.
-* The information resulting in the submission of this form is sent to the Site Owners and not to **MrQR**{: .text-purple-000 }
-* Once you are familiar with this form you can Edit this section with your own notes or **REMOVE**{: .text-red-000 } it.
+**MrQR**{: .text-purple-000 } has made every effort to provide accurate information when creating this Template Form, however:
+* By assigning any Form to an Item on your Site that you either own or are an invited User of, you will become responsible for the information submitted.
+* **MrQR**{: .text-purple-000 } does not  accept any liability relating to loss or damage arising from the  use of this Form.
+* Any action points arising from the Form should be attended to as soon as possible.
+* **MrQR**{: .text-purple-000 } does not accept any responsibility for assessing the competency and training of the Responsible Person and their ability to complete this checklist.
+* The information resulting in the submission of this Form is sent to the Site Owners and not to **MrQR**{: .text-purple-000 }.
+* Once you are familiar with this Form, you can edit this section with your own notes or **REMOVE**{: .text-red-000 } it.
 
-You should also make refernce to your own policies that may relate to the use of the form. 
+You should also refer to your own organisation's policies that may relate to the use of the Form. 
 
-Thankyou for using **MrQR**{: .text-purple-000 }
-___
+Thankyou for using **MrQR**{: .text-purple-000 }.
 
 [Back to Top](https://docs.mrqr.me/docs/FormBuilder)
 {: .text-right }
