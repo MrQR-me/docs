@@ -32,9 +32,11 @@ parent: MrQR Form Builder
 </head>
 </html>
 
-**MrQR**{: .text-purple-000 } is a secure item management system with global access. When you scan a **MrQR**{: .text-purple-000 } code or follow the item links, they will direct you to the item landing page, to continue and requset access to view or submit the **MrQR**{: .text-purple-000 } form you will need to be a **MrQR**{: .text-purple-000 } registered user.
+**MrQR**{: .text-purple-000 } is a secure Item management system with global access. When you scan a **MrQR**{: .text-purple-000 } Code or follow the Item links, they will direct you to the Item's landing page. To request access to view or submit the **MrQR**{: .text-purple-000 } Form you will need to be a **MrQR**{: .text-purple-000 } Registered User.
 
-Register your **Free Account**; Go to [**MrQR.me**](https://mrqr.me/){: .text-purple-000 } and select <button class="button button1">REGISTER</button>
+To sign up for a **Free Account**, go to [**MrQR.me**](https://mrqr.me/){: .text-purple-000 } and select the <button class="button button1">REGISTER</button> button.
+
+Below, you'll find a list of sample Forms that can be created using the MrQR platform.
 
 ___
 # **Sample Forms**{: .text-purple-000 }
@@ -85,7 +87,7 @@ ___
 <img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-01hdbm2hrhyady6q0bk67wksbx.png">
 </div>
 
-Example of how a the QR Code from the **MrQR**{: .text-purple-000 } sticker can be used within your own custom labels
+Below, you'll see an example of how a QR Code from the **MrQR**{: .text-purple-000 } Sticker Image can be used within your own custom labels:
 
 <div style="text-align: center;">
 <img width="520" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/MrQR_DB_Label.png">
@@ -165,6 +167,7 @@ ___
 {: .text-right }
 ___
 ## Misc
+{: .text-purple-000 }
 ### Fire Door Inspection Form
 {: .text-purple-000 }
 
@@ -198,7 +201,7 @@ ___
 
 ![MrQR Form Builder](/assets/images/Forms/Samples/MrQR_Vehicle_Checklist.png "Vehicle Checklist")
 
-[Go to VEHICLE Forms](https://mrqr.me/VwDTSz/) or scan **MrQR**{: .text-purple-000 } Code.
+[Go to Vehicle Forms](https://mrqr.me/VwDTSz/) or scan **MrQR**{: .text-purple-000 } Code.
 
 <div style="text-align: center;">
 <img width="200" alt="image" src="https://docs.mrqr.me/assets/images/Forms/stickers/mrqr-sticker-VEHICLE.png">
@@ -210,7 +213,7 @@ ___
 ### New Form Templates
 {: .text-purple-000 }
 
-New Templates are being constantly added, recent additions include;
+New templates are being added constantly. Some recent additions include:
 
 * Expense Tracker
 * Electrical Appliance Test (PAT)
@@ -219,7 +222,7 @@ New Templates are being constantly added, recent additions include;
 * Milage Tracker
 * At the Scene Collision Report Form
 
-If you think of a form that may be useful as a template please contact us by clicking 
+If you think of a Form template that may be useful, please contact us by clicking 
 <a href="mailto:help@mrqr.me?subject=Form%20Template%20Request&body=Form%20Template%20Request" ><img width="70" alt="image" src="https://docs.mrqr.me/assets/images/logo.png"></a>
 
 [Back to Top](https://docs.mrqr.me/FormBuilder/SampleForms/)
