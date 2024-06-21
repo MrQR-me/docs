@@ -95,9 +95,7 @@ Below, you'll see an example of how a QR Code from the **MrQR**{: .text-purple-0
 
 [Back to Top](https://docs.mrqr.me/FormBuilder/SampleForms/)
 {: .text-right }
-___
-## Electrical
-{: .text-purple-000 }
+
 ### Visual Inspection Form
 {: .text-purple-000 }
 
@@ -222,8 +220,8 @@ New templates are being added constantly. Some recent additions include:
 * Milage Tracker
 * At the Scene Collision Report Form
 
-If you think of a Form template that may be useful, please contact us by clicking 
-<a href="mailto:help@mrqr.me?subject=Form%20Template%20Request&body=Form%20Template%20Request" ><img width="70" alt="image" src="https://docs.mrqr.me/assets/images/logo.png"></a>
+If you think of a Form template that may be useful, please 
+[email us here](mailto:help@mrqr.me?subject=Form%20Template%20Request&body=Form%20Template%20Request)
 
 [Back to Top](https://docs.mrqr.me/FormBuilder/SampleForms/)
 {: .text-right }
