@@ -32,11 +32,7 @@ parent: MrQR Form Builder
 </head>
 </html>
 
-**MrQR**{: .text-purple-000 } is a secure Item management system with global access. When you scan a **MrQR**{: .text-purple-000 } Code or follow the Item links, they will direct you to the Item's landing page. To request access to view or submit the **MrQR**{: .text-purple-000 } Form you will need to be a **MrQR**{: .text-purple-000 } Registered User.
-
-To sign up for a **Free Account**, go to [**MrQR.me**](https://mrqr.me/){: .text-purple-000 } and select the <button class="button button1">REGISTER</button> button.
-
-Below, you'll find a list of sample Forms that can be created using the MrQR platform.
+Below, you'll find a list of sample Forms that can be created using the **MrQR**{: .text-purple-000 } platform.
 
 ___
 # **Sample Forms**{: .text-purple-000 }
