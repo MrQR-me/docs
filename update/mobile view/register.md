@@ -44,16 +44,16 @@ nav_order: 16
 
 # **REGISTER YOUR FREE ACCOUNT**{: .text-purple-000 }
 {: .no_toc }
-You must have a minimum of a Free User Account to request access to view and complete **MrQR**{: .text-purple-000 } Forms on any Site operating the **MrQR**{: .text-purple-000 } platform. Personal or Additional Sites and the **MrQR**{: .text-purple-000 } Form Builder can only used with additional purchases or subscriptions.
+You must have a Free User Account to view and complete **MrQR**{: .text-purple-000 } Forms on any Site operating the **MrQR**{: .text-purple-000 } platform.
 
-Go to **[MrQR.me](https://mrqr.me/)**{: .text-purple-000 } and select <button class="button button2">REGISTER</button>.
+Go to **[MrQR.me](https://mrqr.me/)**{: .text-purple-000 } and select Register.
 
 ![Free Account](/update/Images/register-account-1.png "RESGISTER")
 
 enter a valid email address
 create your own passwort or use the auto generated password
-review the terms & conditions & check the agree bos
-select REGISTER
+review the Terms of Service and Privacy Policy conditions & if you agree check the I agree box
+select  <button class="button button1">REGISTER</button> to register your account.
 
 ![Free Account](/update/Images/register-account-2.png "RESGISTER")
 
