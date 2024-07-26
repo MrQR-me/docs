@@ -1,6 +1,7 @@
 ---
 title: Account Registration
 layout: default
+parent: Mobile Users
 nav_order: 17
 ---
 <html>
