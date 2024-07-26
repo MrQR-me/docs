@@ -2,7 +2,7 @@
 title: Account Registration
 layout: default
 parent: Mobile Users
-nav_order: 17
+nav_order: 21
 ---
 <html>
 <head>
