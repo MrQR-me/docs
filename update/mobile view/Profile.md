@@ -1,5 +1,5 @@
 ---
-title: Account Registration
+title: User Profile
 layout: default
 parent: Mobile Users
 nav_order: 21
@@ -43,23 +43,15 @@ nav_order: 21
 
 # **User Profile**{: .text-purple-000 }
 {: .no_toc }
-You must have a Free User Account to view and complete **MrQR**{: .text-purple-000 } Forms on any Site operating the **MrQR**{: .text-purple-000 } platform.
+You must have a Free User Account add profile information on **MrQR**{: .text-purple-000 } platform.
+If you have not registerd please go to **[MrQR.me](https://mrqr.me/)**{: .text-purple-000 } and select Register.
 
-Go to **[MrQR.me](https://mrqr.me/)**{: .text-purple-000 } and select Register.
+Once Registered please select Menu then Profile
+![Free Account](/update/Images/Profile-01.png "Profile")
+![Free Account](/update/Images/Profile-02.png "Profile")
+![Free Account](/update/Images/Profile-03.png "Profile")
+![Free Account](/update/Images/Profile-04.png "Profile")
+![Free Account](/update/Images/Profile-05.png "Profile")
 
-![Free Account](/update/Images/register-account-1.png "RESGISTER")
+THANK YOU for using **MrQR**{: .text-purple-000 }, we hope you enjoy.
 
-* enter a valid email address
-* create your own passwort or use the auto generated password
-* review the Terms of Service and Privacy Policy conditions, if you agree check the I agree box
-* select  <button class="button button1">REGISTER</button>
-
-![Free Account](/update/Images/register-account-2.png "RESGISTER")
-
-Please select the Menu icon to continue
-
-![Free Account](/update/Images/register-account-3.png "RESGISTER")
-
-THANK YOU for registering with **MrQR**{: .text-purple-000 }, we hope you enjoy.
-
-![Free Account](/update/Images/register-account-4.png "RESGISTER")
