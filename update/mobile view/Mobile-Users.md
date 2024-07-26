@@ -42,10 +42,11 @@ nav_order: 20
 </head>
 </html>
 
-# **REGISTER YOUR FREE ACCOUNT**{: .text-purple-000 }
+# **MOBILE DEVICE USERS**{: .text-purple-000 }
 {: .no_toc }
-You must have a Free User Account to view and complete **MrQR**{: .text-purple-000 } Forms on any Site operating the **MrQR**{: .text-purple-000 } platform.
 
-Go to **[MrQR.me](https://mrqr.me/)**{: .text-purple-000 } and select Register.
+{:toc }
+- .TOC
+- 
 
 ![Free Account](/update/Images/Mobile-Users-01.png "RESGISTER")
