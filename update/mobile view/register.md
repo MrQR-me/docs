@@ -49,10 +49,10 @@ Go to **[MrQR.me](https://mrqr.me/)**{: .text-purple-000 } and select Register.
 
 ![Free Account](/update/Images/register-account-1.png "RESGISTER")
 
-enter a valid email address
-create your own passwort or use the auto generated password
-review the Terms of Service and Privacy Policy conditions & if you agree check the I agree box
-select  <button class="button button1">REGISTER</button> to register your account.
+* enter a valid email address
+* create your own passwort or use the auto generated password
+* review the Terms of Service and Privacy Policy conditions & if you agree check the I agree box
+* select  <button class="button button1">REGISTER</button> to register your account.
 
 ![Free Account](/update/Images/register-account-2.png "RESGISTER")
 
