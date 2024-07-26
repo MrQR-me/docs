@@ -1,9 +1,7 @@
 ---
 title: Account Registration
 layout: default
-has_children: true
-permalink: docs/update/mobile%20view
-nav_order: 16
+nav_order: 17
 ---
 <html>
 <head>
