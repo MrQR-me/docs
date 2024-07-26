@@ -54,10 +54,13 @@ enter a valid email address
 create your own passwort or use the auto generated password
 review the terms & conditions & check the agree bos
 select REGISTER
+
 ![Free Account](/update/Images/register-account-2.png "RESGISTER")
 
 Once Registered select the Menu icon
+
 ![Free Account](/update/Images/register-account-3.png "RESGISTER")
 
 Menu Screen
+
 ![Free Account](/update/Images/register-account-4.png "RESGISTER")
