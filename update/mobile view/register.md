@@ -71,7 +71,8 @@ You cannot store or share profile information, addresses, training records, or e
 
 Go to **[MrQR.me](https://mrqr.me/)**{: .text-purple-000 } and select <button class="button button2">REGISTER</button>.
 
-![Free Account](/assets/images/MrQR_login_page.png "RESGISTER")
+![Free Account](/update/Images/register-account-1.png "RESGISTER")
+
 
 [Back to Top](https://docs.mrqr.me/registration/)
 {: .text-right }
