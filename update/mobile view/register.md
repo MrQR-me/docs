@@ -1,7 +1,7 @@
 ---
 title: Account Registration
 layout: default
-nav_order: 2
+nav_order: 16
 ---
 <html>
 <head>
