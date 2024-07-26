@@ -51,15 +51,15 @@ Go to **[MrQR.me](https://mrqr.me/)**{: .text-purple-000 } and select Register.
 
 * enter a valid email address
 * create your own passwort or use the auto generated password
-* review the Terms of Service and Privacy Policy conditions & if you agree check the I agree box
-* select  <button class="button button1">REGISTER</button> to register your account.
+* review the Terms of Service and Privacy Policy conditions, if you agree check the I agree box
+* select  <button class="button button1">REGISTER</button>
 
 ![Free Account](/update/Images/register-account-2.png "RESGISTER")
 
-Once Registered select the Menu icon
+Please select the Menu icon to continue
 
 ![Free Account](/update/Images/register-account-3.png "RESGISTER")
 
-Menu Screen
+THANK YOU for registering with **MrQR**{: .text-purple-000 }, we hope you enjoy.
 
 ![Free Account](/update/Images/register-account-4.png "RESGISTER")
