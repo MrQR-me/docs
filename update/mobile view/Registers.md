@@ -72,7 +72,7 @@ By ticking the <img width="100" alt="image" src="https://docs.mrqr.me/update/Ima
 
 
 
-<img width="100" alt="image" src="https://docs.mrqr.me/update/Images/CheckBox.png">
+<img alt="image" src="https://docs.mrqr.me/update/Images/CheckBox.png">
 ![Free Account](/update/Images/Register_New_03.png "Profile")
 
 # **Tags**{: .text-purple-000 }
