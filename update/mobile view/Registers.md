@@ -41,12 +41,14 @@ nav_order: 24
 </head>
 </html>
 
-# **Registers**{: .text-purple-000 }
+# **New Register**{: .text-purple-000 }
 {: .no_toc }
 
 ![Free Account](/update/Images/Register_New.png "Profile")
 
 ![Free Account](/update/Images/Register_New_01.png "Profile")
+
+Enter your new register name.
 
 ![Free Account](/update/Images/Register_New_02.png "Profile")
 
@@ -57,9 +59,14 @@ By ticking the PUBLIC check box the all forms assigned to items within the regis
 
 ![Free Account](/update/Images/Register_New_03.png "Profile")
 
+
+# **Tags**{: .text-purple-000 }
+Tags are created by entering you tag name then press enter
+
 ![Free Account](/update/Images/Register_New_04.png "Profile")
 
-![Free Account](/update/Images/Register_New_05.png "Profile")
+Press enter, your tag will appear and can be used for searching & filtering registers.
+Your Tag will be saved for use on other registers & items
 
 ![Free Account](/update/Images/Register_New_06.png "Profile")
 
