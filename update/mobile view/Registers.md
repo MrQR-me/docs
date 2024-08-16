@@ -70,18 +70,34 @@ Your Tag will be saved for use on other registers & items
 
 ![Free Account](/update/Images/Register_New_07.png "Profile")
 
+Create your new Register
+
 ![Free Account](/update/Images/Register_New_06.png "Profile")
+
+# **Register Screen**{: .text-purple-000 }
 
 ![Free Account](/update/Images/Register_New_08.png "Profile")
 
+# **Attach an Address to a Register**{: .text-purple-000 }
+
+Multiple Address's can be attached to registers and can then be assigned to any item created within the register.
+
 ![Free Account](/update/Images/Register_New_09.png "Profile")
+
+If you have subscribed to the Pro User Account you can attach address stored in your user profile to your register
 
 ![Free Account](/update/Images/Register_New_10.png "Profile")
 
+# **Create an Address to a Register**{: .text-purple-000 }
+Free user accounts can still attache address to the register but they must 1st they be created.
+
 ![Free Account](/update/Images/Register_New_11.png "Profile")
+
+Free user accounts will not be store any address within user profiles and connot be used to complete forms.
+
 
 ![Free Account](/update/Images/Register_New_12.png "Profile")
 
 ![Free Account](/update/Images/Register_New_13.png "Profile")
-
+You can add multiple address
 ![Free Account](/update/Images/Register_New_14.png "Profile")
