@@ -68,9 +68,9 @@ Tags are created by entering you tag name then press enter
 Press enter, your tag will appear and can be used for searching & filtering registers.
 Your Tag will be saved for use on other registers & items
 
-![Free Account](/update/Images/Register_New_06.png "Profile")
-
 ![Free Account](/update/Images/Register_New_07.png "Profile")
+
+![Free Account](/update/Images/Register_New_06.png "Profile")
 
 ![Free Account](/update/Images/Register_New_08.png "Profile")
 
