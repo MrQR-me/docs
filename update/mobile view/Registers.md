@@ -47,14 +47,17 @@ Select the menu icon
 
 ![Free Account](/update/Images/MrQR_Mobile_MainMenu.png "Profile")
 
-# **Main Menu**{: .text-purple-000 }
+# **Registers**{: .text-purple-000 }
 Select registers
 
 ![Free Account](/update/Images/MrQR_Mobile_MainMenu_Registers.png "Profile")
 
 # **New Register**{: .text-purple-000 }
+Click <button class="button button5">NEW REGISTER</button>
 
 ![Free Account](/update/Images/Register_New.png "Profile")
+
+# **New Register**{: .text-purple-000 }
 
 ![Free Account](/update/Images/Register_New_01.png "Profile")
 
@@ -68,7 +71,6 @@ All registers by default are secure and users must request access from site owne
 By ticking the PUBLIC check box the all forms assigned to items within the register will be accecible without users requesting access.
 
 ![Free Account](/update/Images/Register_New_03.png "Profile")
-
 
 # **Tags**{: .text-purple-000 }
 
