@@ -42,7 +42,9 @@ nav_order: 24
 </html>
 
 # **New Register**{: .text-purple-000 }
-{: .no_toc }
+
+
+Select the menu icon then registers
 
 ![Free Account](/update/Images/Register_New.png "Profile")
 
