@@ -47,3 +47,29 @@ nav_order: 24
 ![Free Account](/update/Images/Register_New.png "Profile")
 
 ![Free Account](/update/Images/Register_New_01.png "Profile")
+
+![Free Account](/update/Images/Register_New_02.png "Profile")
+
+![Free Account](/update/Images/Register_New_03.png "Profile")
+
+![Free Account](/update/Images/Register_New_04.png "Profile")
+
+![Free Account](/update/Images/Register_New_05.png "Profile")
+
+![Free Account](/update/Images/Register_New_06.png "Profile")
+
+![Free Account](/update/Images/Register_New_07.png "Profile")
+
+![Free Account](/update/Images/Register_New_08.png "Profile")
+
+![Free Account](/update/Images/Register_New_09.png "Profile")
+
+![Free Account](/update/Images/Register_New_10.png "Profile")
+
+![Free Account](/update/Images/Register_New_11.png "Profile")
+
+![Free Account](/update/Images/Register_New_12.png "Profile")
+
+![Free Account](/update/Images/Register_New_13.png "Profile")
+
+![Free Account](/update/Images/Register_New_14.png "Profile")
