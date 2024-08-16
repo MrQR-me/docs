@@ -68,9 +68,11 @@ Enter your new register name.
 
 # **Public / Secure Registers**{: .text-purple-000 }
 All registers by default are secure and users must request access from site owners to view and complete forms assigned to items within the register.
-By ticking the PUBLIC check box the all forms assigned to items within the register will be accecible without users requesting access.
+By ticking the <img width="100" alt="image" src="https://docs.mrqr.me/assets//update/Images/CheckBox.png"> PUBLIC check box the all forms assigned to items within the register will be accecible without users requesting access.
 
-<img width="100" alt="image" src="https://docs.mrqr.me/assets/images/Forms/MrQR_Section_Expand.png">
+
+
+<img width="100" alt="image" src="https://docs.mrqr.me/assets//update/Images/CheckBox.png">
 ![Free Account](/update/Images/Register_New_03.png "Profile")
 
 # **Tags**{: .text-purple-000 }
