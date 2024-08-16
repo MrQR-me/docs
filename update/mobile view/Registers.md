@@ -50,13 +50,14 @@ nav_order: 24
 
 ![Free Account](/update/Images/Register_New_02.png "Profile")
 
-![Free Account](/update/Images/Register_New_03.png "Profile")
-
-![Free Account](/update/Images/Register_New_04.png "Profile")
 
 # **Public / Secure Registers**{: .text-purple-000 }
 All registers by default are secure and users must request access from site owners to view and complete forms assigned to items within the register.
 By ticking the PUBLIC check box the all forms assigned to items within the register will be accecible without users requesting access/ 
+![Free Account](/update/Images/Register_New_03.png "Profile")
+
+![Free Account](/update/Images/Register_New_04.png "Profile")
+
 ![Free Account](/update/Images/Register_New_05.png "Profile")
 
 ![Free Account](/update/Images/Register_New_06.png "Profile")
