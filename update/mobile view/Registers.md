@@ -44,4 +44,6 @@ nav_order: 24
 # **Registers**{: .text-purple-000 }
 {: .no_toc }
 
-![Free Account](/update/Images/Profile-01.png "Profile")
+![Free Account](/update/Images/Register_New.png "Profile")
+
+![Free Account](/update/Images/Register_New_01.png "Profile")
