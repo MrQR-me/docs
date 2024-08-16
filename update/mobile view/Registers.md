@@ -61,16 +61,18 @@ By ticking the PUBLIC check box the all forms assigned to items within the regis
 
 
 # **Tags**{: .text-purple-000 }
-Tags are created by entering you tag name then press enter
+
+Tags can be used for searching and filtering your registers 
 
 ![Free Account](/update/Images/Register_New_04.png "Profile")
 
-Press enter, your tag will appear and can be used for searching & filtering registers.
-Your Tag will be saved for use on other registers & items
+Press enter or return after you have typed in yout tag name.
+You can create multiple tags for your register
+Your Tag will be saved for use on other registers
 
 ![Free Account](/update/Images/Register_New_07.png "Profile")
 
-Create your new Register
+You can now Create your new Register
 
 ![Free Account](/update/Images/Register_New_06.png "Profile")
 
