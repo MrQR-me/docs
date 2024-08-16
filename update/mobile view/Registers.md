@@ -53,7 +53,7 @@ Select registers
 ![Free Account](/update/Images/MrQR_Mobile_MainMenu_Registers.png "Profile")
 
 # **New Register**{: .text-purple-000 }
-Click <button class="button button1">NEW REGISTER</button>
+Select <button class="button button1">NEW REGISTER</button>
 
 ![Free Account](/update/Images/Register_New.png "Profile")
 
@@ -73,7 +73,7 @@ By ticking the <img alt="image" src="https://docs.mrqr.me/update/Images/CheckBox
 
 ![Free Account](/update/Images/Register_New_03.png "Profile")
 
-# **Tags**{: .text-purple-000 }
+# **Register Tags**{: .text-purple-000 }
 
 Tags can be used for searching and filtering your registers 
 
@@ -85,7 +85,7 @@ Your Tag will be saved for use on other registers
 
 ![Free Account](/update/Images/Register_New_07.png "Profile")
 
-You can now Create your new Register
+Select <button class="button button1">CREATE</button> to Create your new Register
 
 ![Free Account](/update/Images/Register_New_06.png "Profile")
 
@@ -93,7 +93,7 @@ You can now Create your new Register
 
 ![Free Account](/update/Images/Register_New_08.png "Profile")
 
-# **Address**{: .text-purple-000 }
+# **Register Address's**{: .text-purple-000 }
 
 Multiple Address's stored in the site settings can be attached to a register and can then be assigned to any item created within that register.
 
@@ -101,7 +101,7 @@ Multiple Address's stored in the site settings can be attached to a register and
 
 ![Free Account](/update/Images/Register_New_10.png "Profile")
 
-# **Create an Address to a Register**{: .text-purple-000 }
+# **Create Register Addresses**{: .text-purple-000 }
 If you create a new address, this will be stored within the site settings.
 
 ![Free Account](/update/Images/Register_New_11.png "Profile")
