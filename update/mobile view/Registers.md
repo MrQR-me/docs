@@ -53,7 +53,7 @@ Select registers
 ![Free Account](/update/Images/MrQR_Mobile_MainMenu_Registers.png "Profile")
 
 # **New Register**{: .text-purple-000 }
-Click <button class="button button5">NEW REGISTER</button>
+Click <button class="button button2">NEW REGISTER</button>
 
 ![Free Account](/update/Images/Register_New.png "Profile")
 
