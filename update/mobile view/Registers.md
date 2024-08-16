@@ -41,10 +41,18 @@ nav_order: 24
 </head>
 </html>
 
+
+# **Main Menu**{: .text-purple-000 }
+Select the menu icon
+
+![Free Account](/update/Images/MrQR_Mobile_MainMenu.png "Profile")
+
+# **Main Menu**{: .text-purple-000 }
+Select registers
+
+![Free Account](/update/Images/MrQR_Mobile_MainMenu_Registers.png "Profile")
+
 # **New Register**{: .text-purple-000 }
-
-
-Select the menu icon then registers
 
 ![Free Account](/update/Images/Register_New.png "Profile")
 
