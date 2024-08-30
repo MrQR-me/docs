@@ -41,7 +41,8 @@ nav_exclude: false
 - .TOC
 
 ## Welcome
-![Index](/assets/images/MrQR-Home-Screen.png "Login") 
+![Index](/assets/images/MrQR-Home-Screen.png "Welcome") 
+_*additional paid subscriptions required that include full profile and the MrQR Form Builder Function._
 
 Thankyou for using MrQR, If you use a multiple forms and need to provide information or collect data at the point of use then you are almost there.
 
@@ -72,13 +73,12 @@ the list is unlimited
 
 For additional security you can lock your registers and only allow pre-invited or approved **MrQR**{: .text-purple-000 } users access to your forms. 
 
-The data you collect can be viewed and printed from the MrQR platform or exported in a spreadsheet format.
+The data you collect can be viewed and printed from the **MrQR**{: .text-purple-000 } platform or exported in a spreadsheet format.
 
 Every registered **MrQR**{: .text-purple-000 } user has there own user account with a personal site and 
 *their own personal profile which can include Training and Equipment records which can be used for auto completion of forms on any
 **MrQR**{: .text-purple-000 } Site.
 
-_*additional paid subscriptions required that include full profile and the MrQR Form Builder Function._
 
 [Back to Top](https://docs.mrqr.me/index)
 {: .text-right }
@@ -102,7 +102,7 @@ _On some mobile devices you can view as tablet / PC by rotating your device_
 
 ![Index](/assets/images/MrQR-Homepage.png "Homepage") 
 
-when using a tablet or pc, the home page you can access your userc profile, site settings & registers
+when using a PC or Tablet, the home page you can access your userc profile, site settings & registers
 on mobile devices select the Menu icon in the top right corner of the screen.
 
 [Back to Top](https://docs.mrqr.me/index)
@@ -110,23 +110,25 @@ on mobile devices select the Menu icon in the top right corner of the screen.
 
 ## Main Menu
 You can access Registrers, Profile, Files, Site settings, Create a new site and log Out from mobile device main menu.
-on a PC or table you can access registers, site settings and by selecting the image icon in the top right corner of the screen you can access your Profile, Fuiles and Log Out
+
+On a PC or tablet you can access registers, site settings and by selecting the image icon in the top right corner of the screen you can access your Profile, Files and Log Out
 
 ![Index](/assets/images/MrQR-Main-Menu.png "Main Menu") 
 
 [Back to Top](https://docs.mrqr.me/index)
 {: .text-right }
+
 ## Profile
 
 ![Index](/assets/images/MrQR-Profile.png "Profile") 
 
 Whilst using your free account you can add a profile image, change your name and change and verify your email address
 
-You can also view and share your profile using your unique MrQR code by selecting the VIEW PROFILE burron
+You can also view and share your profile using your unique **MrQR**{: .text-purple-000 } code by selecting the <button class="button button2">VIEW PROFILE</button> button
 
 You can also upgrade to a Pro-user account to include a full user profile including multiple training records, equipment records & addresses.
 
-All information within your Pro-user account profile can be shared when submitting forms or using the VIEW PROFILE button.
+All information within your Pro-user account profile can be shared when submitting forms or using the <button class="button button2">VIEW PROFILE</button> button.
 
 [Back to Top](https://docs.mrqr.me/index)
 {: .text-right }
@@ -135,11 +137,11 @@ All information within your Pro-user account profile can be shared when submitti
 
 ![Index](/assets/images/MrQR-Sites.png "Sites") 
 
-By selecting the SITES Button you can switch between your own and other sites you have been invited to manage.
+By selecting the <button class="button button2">SITES</button> Button you can switch between your own and other sites you have been invited to manage.
 
 You can also create new site subscriptions where you can also access the site setting menu to change your site names, and edit the access rights for other MrQR members you have invited to manage your site.
 
-When you create a new site subscrition you will have access to MrQR Forms, this menu will appear on the Homepage next to Registers
+When you create a new site subscrition you will have access to **MrQR**{: .text-purple-000 } Forms, this menu will appear on the Homepage next to Registers
 
 [Back to Top](https://docs.mrqr.me/index)
 {: .text-right }
@@ -150,7 +152,7 @@ When you create a new site subscrition you will have access to MrQR Forms, this 
 
 By selecting registers you can create new registers and view and edit previously created registers.
 
-Your registers are by default private and only approved or invited MrQR users will be able to access the forms assigned to items with the register
+Your registers are by default private and only approved or invited **MrQR**{: .text-purple-000 } users will be able to access the forms assigned to items with the register
 you can make your registers public and any MrQR user can access your forms
 
 you can assign Tags to sort and filter your registers
@@ -201,7 +203,7 @@ Your forms can include Text, Media of PDF Content
 
 Your forms can input fields including Text, Date & Media Uploads
 
-IUnput fields can also be Profile data, which will be automatically populated into forms when a Pro-user account users submit your forms
+Input fields can also be Profile data, which will be automatically populated into forms when a Pro-user account users submit your forms
 
 [Back to Top](https://docs.mrqr.me/index)
 {: .text-right }
