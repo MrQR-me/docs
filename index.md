@@ -87,7 +87,7 @@ Every registered **MrQR**{: .text-purple-000 } user has there own user account w
 ## Register for Free
 
 ![Index](/assets/images/MrQR-Register-Screen.png "Login") 
-
+_On some mobile devices you can view as tablet / PC by rotating your device_  
 [Back to Top](https://docs.mrqr.me/index)
 {: .text-right }
 
