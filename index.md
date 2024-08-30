@@ -42,7 +42,7 @@ nav_exclude: false
 
 ## Welcome
 ![Index](/assets/images/MrQR-Home-Screen.png "Welcome") 
-_*additional paid subscriptions required that include full profile and the MrQR Form Builder Function._
+_On some mobile devices you can view as tablet / PC by rotating your device_  
 
 Thankyou for using MrQR, If you use a multiple forms and need to provide information or collect data at the point of use then you are almost there.
 
@@ -79,6 +79,7 @@ Every registered **MrQR**{: .text-purple-000 } user has there own user account w
 *their own personal profile which can include Training and Equipment records which can be used for auto completion of forms on any
 **MrQR**{: .text-purple-000 } Site.
 
+_*additional paid subscriptions required that include full profile and the MrQR Form Builder Function._
 
 [Back to Top](https://docs.mrqr.me/index)
 {: .text-right }
@@ -87,7 +88,7 @@ Every registered **MrQR**{: .text-purple-000 } user has there own user account w
 ## Register for Free
 
 ![Index](/assets/images/MrQR-Register-Screen.png "Refgister") 
-_On some mobile devices you can view as tablet / PC by rotating your device_  
+
 [Back to Top](https://docs.mrqr.me/index)
 {: .text-right }
 
