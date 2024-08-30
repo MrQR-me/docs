@@ -100,7 +100,7 @@ _On some mobile devices you can view as tablet / PC by rotating your device_
 
 ## Homepage
 
-![Index](/assets/images/Homepage.png "Homepage") 
+![Index](/assets/images/MrQR-Homepage.png "Homepage") 
 
 [Back to Top](https://docs.mrqr.me/index)
 {: .text-right }
@@ -110,7 +110,7 @@ _On some mobile devices you can view as tablet / PC by rotating your device_
 [Back to Top](https://docs.mrqr.me/index)
 {: .text-right }
 
-![Index](/assets/images/MrQR-Main_Menu.png "Main Menu") 
+![Index](/assets/images/MrQR-Main-Menu.png "Main Menu") 
 
 ## Profile
 
