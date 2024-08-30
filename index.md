@@ -102,26 +102,44 @@ _On some mobile devices you can view as tablet / PC by rotating your device_
 
 ![Index](/assets/images/MrQR-Homepage.png "Homepage") 
 
+when using a tablet or pc, the home page you can access your userc profile, site settings & registers
+on mobile devices select the Menu icon in the top right corner of the screen.
+
 [Back to Top](https://docs.mrqr.me/index)
 {: .text-right }
 
 ## Main Menu
-
-[Back to Top](https://docs.mrqr.me/index)
-{: .text-right }
+You can access Registrers, Profile, Files, Site settings, Create a new site and log Out from mobile device main menu.
+on a PC or table you can access registers, site settings and by selecting the image icon in the top right corner of the screen you can access your Profile, Fuiles and Log Out
 
 ![Index](/assets/images/MrQR-Main-Menu.png "Main Menu") 
 
+[Back to Top](https://docs.mrqr.me/index)
+{: .text-right }
 ## Profile
+
+![Index](/assets/images/MrQR-Profile.png "Profile") 
+
+Whilst using your free account you can add a profile image, change your name and change and verify your email address
+
+You can also view and share your profile using your unique MrQR code by selecting the VIEW PROFILE burron
+
+You can also upgrade to a Pro-user account to include a full user profile including multiple training records, equipment records & addresses.
+
+All information within your Pro-user account profile can be shared when submitting forms or using the VIEW PROFILE button.
 
 [Back to Top](https://docs.mrqr.me/index)
 {: .text-right }
-
-![Index](/assets/images/MrQR-Profile.png "Profile") 
 
 ## Sites
 
 ![Index](/assets/images/MrQR-Sites.png "Sites") 
+
+By selecting the SITES Button you can switch between your own and other sites you have been invited to manage.
+
+You can also create new site subscriptions where you can also access the site setting menu to change your site names, and edit the access rights for other MrQR members you have invited to manage your site.
+
+When you create a new site subscrition you will have access to MrQR Forms, this menu will appear on the Homepage next to Registers
 
 [Back to Top](https://docs.mrqr.me/index)
 {: .text-right }
@@ -130,6 +148,15 @@ _On some mobile devices you can view as tablet / PC by rotating your device_
 
 ![Index](/assets/images/MrQR-Registers.png "Registers") 
 
+By selecting registers you can create new registers and view and edit previously created registers.
+
+Your registers are by default private and only approved or invited MrQR users will be able to access the forms assigned to items with the register
+you can make your registers public and any MrQR user can access your forms
+
+you can assign Tags to sort and filter your registers
+
+you can also attach and create new addresses for your registers
+
 [Back to Top](https://docs.mrqr.me/index)
 {: .text-right }
 
@@ -137,12 +164,18 @@ _On some mobile devices you can view as tablet / PC by rotating your device_
 
 ![Index](/assets/images/MrQR-View_Registers.png "View Register") 
 
+When you create a new register or by viwing an existing register you will be able to create and edit items
+
 [Back to Top](https://docs.mrqr.me/index)
 {: .text-right }
 
 ## View Items
 
 ![Index](/assets/images/MrQR-View-Item.png "Items") 
+
+When an item is added you will be able to Create conten that can be seen by anyone scanning if following the MrQR item link
+
+with a paid site subscription you will be able create and assign forms
 
 [Back to Top](https://docs.mrqr.me/index)
 {: .text-right }
