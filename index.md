@@ -40,7 +40,7 @@ nav_exclude: false
 {:toc }
 - .TOC
 
-## Homepage
+## Welcome
 ![Index](/assets/images/MrQR-Home-Screen.png "Login") 
 
 Thankyou for using MrQR, If you use a multiple forms and need to provide information or collect data at the point of use then you are almost there.
@@ -98,12 +98,22 @@ _On some mobile devices you can view as tablet / PC by rotating your device_
 [Back to Top](https://docs.mrqr.me/index)
 {: .text-right }
 
-## Create a Registers
+## Homepage
 
 [Back to Top](https://docs.mrqr.me/index)
 {: .text-right }
 
-## Create an Item
+## Sites
+
+[Back to Top](https://docs.mrqr.me/index)
+{: .text-right }
+
+## Registers
+
+[Back to Top](https://docs.mrqr.me/index)
+{: .text-right }
+
+## Items
 
 [Back to Top](https://docs.mrqr.me/index)
 {: .text-right }
