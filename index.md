@@ -36,11 +36,11 @@ nav_exclude: false
 {: .text-purple-000 }
 {: .no_toc }
 
+
 {:toc }
 - .TOC
 
 ## Homepage
-{: .text-purple-000 }
 ![Index](/assets/images/MrQR-Home-Screen.png "Login") 
 
 Thankyou for using MrQR, If you use a multiple forms and need to provide information or collect data at the point of use then you are almost there.
