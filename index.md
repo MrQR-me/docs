@@ -117,9 +117,11 @@ _On some mobile devices you can view as tablet / PC by rotating your device_
 [Back to Top](https://docs.mrqr.me/index)
 {: .text-right }
 
-![Index](/assets/images/MrQR-Profile.png "Login") 
+![Index](/assets/images/MrQR-Profile.png "Profile") 
 
 ## Sites
+
+![Index](/assets/images/MrQR-Sites.png "Sites") 
 
 [Back to Top](https://docs.mrqr.me/index)
 {: .text-right }
@@ -145,13 +147,4 @@ _On some mobile devices you can view as tablet / PC by rotating your device_
 [Back to Top](https://docs.mrqr.me/index)
 {: .text-right }
 
-## Assigning Forms to Items
 
-[Back to Top](https://docs.mrqr.me/index)
-{: .text-right }
-
-## Form Submissions
-{: .text-purple-000 }
-
-[Back to Top](https://docs.mrqr.me/index)
-{: .text-right }
