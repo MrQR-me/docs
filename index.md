@@ -199,13 +199,19 @@ You can copy and edit any Global form created by other MrQR Users
 
 ![Index](/assets/images/MrQR-Edi-Form.png "Creating Forms") 
 
-Your forms can include Text, Media of PDF Content
+Your forms can include multiple Text, Media and PDF Content
 
-Your forms can input fields including Text, Date & Media Uploads
+Input fields can be Text, multiple choice, Date and Media Uploads
 
-Input fields can also be Profile data, which will be automatically populated into forms when a Pro-user account users submit your forms
+Input fields can also be User Profile data, including Training records, equipment records and addresses which will be automatically populated into forms when a Pro-user account user submits your forms
 
 [Back to Top](https://docs.mrqr.me/index)
 {: .text-right }
 
+## Create a Form
 
+![Index](/assets/images/MrQR-Form-Submissions.png "Form Submissions") 
+
+Submitted forms can be individually viewed or all submissiond for a form exported into a spreadsheet
+
+[Back to Top](https://docs.mrqr.me/index)
