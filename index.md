@@ -84,10 +84,19 @@ Every registered **MrQR**{: .text-purple-000 } user has there own user account w
 {: .text-right }
 
 
-## Login / Register
+## Register for Free
+
+![Index](/assets/images/MrQR-Register-Screen.png "Login") 
+
 [Back to Top](https://docs.mrqr.me/index)
 {: .text-right }
 
+## Login
+
+![Index](/assets/images/MrQR-Login-Screen.png "Login") 
+
+[Back to Top](https://docs.mrqr.me/index)
+{: .text-right }
 ## Registers & Items
 {: .text-purple-000 }
 
