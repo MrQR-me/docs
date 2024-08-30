@@ -86,7 +86,7 @@ _*additional paid subscriptions required that include full profile and the MrQR 
 
 ## Register for Free
 
-![Index](/assets/images/MrQR-Register-Screen.png "Login") 
+![Index](/assets/images/MrQR-Register-Screen.png "Refgister") 
 _On some mobile devices you can view as tablet / PC by rotating your device_  
 [Back to Top](https://docs.mrqr.me/index)
 {: .text-right }
@@ -100,13 +100,24 @@ _On some mobile devices you can view as tablet / PC by rotating your device_
 
 ## Homepage
 
+![Index](/assets/images/Homepage.png "Homepage") 
+
 [Back to Top](https://docs.mrqr.me/index)
 {: .text-right }
+
+## Main Menu
+
+[Back to Top](https://docs.mrqr.me/index)
+{: .text-right }
+
+![Index](/assets/images/MrQR-Main_Menu.png "Main Menu") 
 
 ## Profile
 
 [Back to Top](https://docs.mrqr.me/index)
 {: .text-right }
+
+![Index](/assets/images/MrQR-Profile.png "Login") 
 
 ## Sites
 
@@ -115,15 +126,21 @@ _On some mobile devices you can view as tablet / PC by rotating your device_
 
 ## Registers
 
-[Back to Top](https://docs.mrqr.me/index)
-{: .text-right }
-
-## Items
+![Index](/assets/images/MrQR-Registers.png "Registers") 
 
 [Back to Top](https://docs.mrqr.me/index)
 {: .text-right }
 
-## Adding Content to Items
+## View Register
+
+![Index](/assets/images/MrQR-View-Registers.png "View Register") 
+
+[Back to Top](https://docs.mrqr.me/index)
+{: .text-right }
+
+## View Items
+
+![Index](/assets/images/MrQR-View-Item.png "Items") 
 
 [Back to Top](https://docs.mrqr.me/index)
 {: .text-right }
