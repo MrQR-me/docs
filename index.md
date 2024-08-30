@@ -103,6 +103,11 @@ _On some mobile devices you can view as tablet / PC by rotating your device_
 [Back to Top](https://docs.mrqr.me/index)
 {: .text-right }
 
+## Profile
+
+[Back to Top](https://docs.mrqr.me/index)
+{: .text-right }
+
 ## Sites
 
 [Back to Top](https://docs.mrqr.me/index)
