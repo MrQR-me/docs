@@ -208,7 +208,7 @@ Input fields can also be User Profile data, including Training records, equipmen
 [Back to Top](https://docs.mrqr.me/index)
 {: .text-right }
 
-## Create a Form
+## Viewing Form Submissions
 
 ![Index](/assets/images/MrQR-Form-Submissions.png "Form Submissions") 
 
