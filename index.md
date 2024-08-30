@@ -99,8 +99,23 @@ _On some mobile devices you can view as tablet / PC by rotating your device_
 
 [Back to Top](https://docs.mrqr.me/index)
 {: .text-right }
-## Registers & Items
-{: .text-purple-000 }
+
+## Create a Registers
+
+[Back to Top](https://docs.mrqr.me/index)
+{: .text-right }
+
+## Create an Item
+
+[Back to Top](https://docs.mrqr.me/index)
+{: .text-right }
+
+## Adding Content to Items
+
+[Back to Top](https://docs.mrqr.me/index)
+{: .text-right }
+
+## Assigning Forms to Items
 
 [Back to Top](https://docs.mrqr.me/index)
 {: .text-right }
