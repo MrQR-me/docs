@@ -74,7 +74,8 @@ For additional security you can lock your registers and only allow pre-invited o
 
 The data you collect can be viewed and printed from the MrQR platform or exported in a spreadsheet format.
 
-Every registered **MrQR**{: .text-purple-000 } user has there own user account with a personal site and **their own personal profile which can include Training and Equipment records which can be used for auto completion of forms on any **MrQR**{: .text-purple-000 } Site.
+Every registered **MrQR**{: .text-purple-000 } user has there own user account with a personal site and **their own personal profile which can include Training and Equipment records which can be used for auto completion of forms on any 
+**MrQR**{: .text-purple-000 } Site.
 
 *additional paid site subscription required that include the MrQR Form Builder Function.
 **MrQR Paid Pro Account subscription required.
