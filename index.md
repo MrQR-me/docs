@@ -173,9 +173,35 @@ When you create a new register or by viwing an existing register you will be abl
 
 ![Index](/assets/images/MrQR-View-Item.png "Items") 
 
-When an item is added you will be able to Create conten that can be seen by anyone scanning if following the MrQR item link
+When an item is added you will be able to Create content that can be seen by anyone scanning if following the MrQR item link
 
 with a paid site subscription you will be able create and assign forms
+
+[Back to Top](https://docs.mrqr.me/index)
+{: .text-right }
+
+## Forms
+
+![Index](/assets/images/MrQR-Forms.png "Forms") 
+
+With a paid site subscription you will be able Create, Duplicate, archive and assign forms to items.
+
+You can make your forms Global so other MrQR Users can copy them to their sites.
+
+You can copy and edit any Global form created by other MrQR Users
+
+[Back to Top](https://docs.mrqr.me/index)
+{: .text-right }
+
+## Create a Form
+
+![Index](/assets/images/MrQR-Edi-Form.png "Creating Forms") 
+
+Your forms can include Text, Media of PDF Content
+
+Your forms can input fields including Text, Date & Media Uploads
+
+IUnput fields can also be Profile data, which will be automatically populated into forms when a Pro-user account users submit your forms
 
 [Back to Top](https://docs.mrqr.me/index)
 {: .text-right }
