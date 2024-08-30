@@ -133,7 +133,7 @@ _On some mobile devices you can view as tablet / PC by rotating your device_
 
 ## View Register
 
-![Index](/assets/images/MrQR-View-Registers.png "View Register") 
+![Index](/assets/images/MrQR-View_Registers.png "View Register") 
 
 [Back to Top](https://docs.mrqr.me/index)
 {: .text-right }
