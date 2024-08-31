@@ -112,7 +112,7 @@ On mobile devices select the menu icon in the top right corner of the screen to 
 ## Main Menu
 You can access Registers, Profile, Files, Site settings and Log Out from the mobile device main menu.
 
-On a PC or tablet you can access registers, site settings, by selecting the image icon in the top right corner of the screen you can access your profile, files and Log Out
+On a PC or tablet main menu you can access registers and site settings, by selecting the image icon in the top right corner of the screen you can access your profile, files and Log Out
 
 ![Index](/assets/images/MrQR-Main-Menu.png "Main Menu") 
 
@@ -140,9 +140,9 @@ All information within your Pro-user account profile can be shared when submitti
 
 By selecting the <button class="button button2">SITES</button> Button you can switch between your own and other sites you have been invited to manage.
 
-You can also create new site subscriptions. You can then access the site setting menu to change your site names, and edit the access rights for other **MrQR**{: .text-purple-000 } members you have invited to manage your site.
+You can also create new site subscriptions, then you can access the site setting menu to change your site names, and edit the access rights for other **MrQR**{: .text-purple-000 } users you have invited to manage your site.
 
-When you create a new site subscription you will have access to **MrQR**{: .text-purple-000 } Forms, this menu will appear on the Homepage next to Registers
+When you create a new site subscription you will have access to **MrQR**{: .text-purple-000 } Forms, the menu tab will appear on the Homepage next to Registers tab.
 
 [Back to Top](https://docs.mrqr.me/index)
 {: .text-right }
@@ -151,7 +151,7 @@ When you create a new site subscription you will have access to **MrQR**{: .text
 
 ![Index](/assets/images/MrQR-Registers.png "Registers") 
 
-By selecting registers, you can create new registers and view and edit previously created registers.
+By selecting the Registers tab, you can create new registers, view and edit previously created registers.
 
 Your registers are by default private and only approved or invited **MrQR**{: .text-purple-000 } users will be able to access the forms assigned to items with the register
 you can make your registers public and any MrQR user can access your forms
