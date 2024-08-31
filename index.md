@@ -66,20 +66,20 @@ When anyone scans the **MrQR**{: .text-purple-000 } codes with a suitable smart 
 * Building management, recording inspections & teats
 * Recording Safety inspections,
 * Recording training records and other information
-* Providing achinery and plant information
+* Providing machinery and plant information
 * Recording maintenance records and event logs
-* recording electrical safety inspections & test
+* Recording electrical safety inspections & test
 the list is unlimited
 
 For additional security you can lock your registers and only allow pre-invited or approved **MrQR**{: .text-purple-000 } users access to your forms. 
 
 The data you collect can be viewed and printed from the **MrQR**{: .text-purple-000 } platform or exported in a spreadsheet format.
 
-Every registered **MrQR**{: .text-purple-000 } user has there own user account with a personal site and 
+Every registered **MrQR**{: .text-purple-000 } user has their own user account with a personal site and 
 *their own personal profile which can include Training and Equipment records which can be used for auto completion of forms on any
 **MrQR**{: .text-purple-000 } Site.
 
-_*additional paid subscriptions required that include full profile and the MrQR Form Builder Function._
+_*additional paid subscriptions required._
 
 [Back to Top](https://docs.mrqr.me/index)
 {: .text-right }
@@ -87,7 +87,7 @@ _*additional paid subscriptions required that include full profile and the MrQR 
 
 ## Register for Free
 
-![Index](/assets/images/MrQR-Register-Screen.png "Refgister") 
+![Index](/assets/images/MrQR-Register-Screen.png "Register") 
 
 [Back to Top](https://docs.mrqr.me/index)
 {: .text-right }
@@ -103,16 +103,16 @@ _*additional paid subscriptions required that include full profile and the MrQR 
 
 ![Index](/assets/images/MrQR-Homepage.png "Homepage") 
 
-when using a PC or Tablet, the home page you can access your userc profile, site settings & registers
-on mobile devices select the Menu icon in the top right corner of the screen.
+when using a PC or Tablet you can access your user profile, site settings & registers from the homepage.
+On mobile devices select the menu icon in the top right corner of the screen to access the main menu.
 
 [Back to Top](https://docs.mrqr.me/index)
 {: .text-right }
 
 ## Main Menu
-You can access Registrers, Profile, Files, Site settings, Create a new site and log Out from mobile device main menu.
+You can access Registers, Profile, Files, Site settings and Log Out from the mobile device main menu.
 
-On a PC or tablet you can access registers, site settings and by selecting the image icon in the top right corner of the screen you can access your Profile, Files and Log Out
+On a PC or tablet you can access registers, site settings, by selecting the image icon in the top right corner of the screen you can access your profile, files and Log Out
 
 ![Index](/assets/images/MrQR-Main-Menu.png "Main Menu") 
 
@@ -123,11 +123,11 @@ On a PC or tablet you can access registers, site settings and by selecting the i
 
 ![Index](/assets/images/MrQR-Profile.png "Profile") 
 
-Whilst using your free account you can add a profile image, change your name and change and verify your email address
+Whilst using your free account you can add a profile image, change your name, change and verify your email address
 
 You can also view and share your profile using your unique **MrQR**{: .text-purple-000 } code by selecting the <button class="button button2">VIEW PROFILE</button> button
 
-You can also upgrade to a Pro-user account to include a full user profile including multiple training records, equipment records & addresses.
+You can upgrade to a Pro-user account to include a full user profile including multiple training records, equipment records & addresses.
 
 All information within your Pro-user account profile can be shared when submitting forms or using the <button class="button button2">VIEW PROFILE</button> button.
 
@@ -140,9 +140,9 @@ All information within your Pro-user account profile can be shared when submitti
 
 By selecting the <button class="button button2">SITES</button> Button you can switch between your own and other sites you have been invited to manage.
 
-You can also create new site subscriptions where you can also access the site setting menu to change your site names, and edit the access rights for other MrQR members you have invited to manage your site.
+You can also create new site subscriptions. You can then access the site setting menu to change your site names, and edit the access rights for other **MrQR**{: .text-purple-000 } members you have invited to manage your site.
 
-When you create a new site subscrition you will have access to **MrQR**{: .text-purple-000 } Forms, this menu will appear on the Homepage next to Registers
+When you create a new site subscription you will have access to **MrQR**{: .text-purple-000 } Forms, this menu will appear on the Homepage next to Registers
 
 [Back to Top](https://docs.mrqr.me/index)
 {: .text-right }
@@ -151,7 +151,7 @@ When you create a new site subscrition you will have access to **MrQR**{: .text-
 
 ![Index](/assets/images/MrQR-Registers.png "Registers") 
 
-By selecting registers you can create new registers and view and edit previously created registers.
+By selecting registers, you can create new registers and view and edit previously created registers.
 
 Your registers are by default private and only approved or invited **MrQR**{: .text-purple-000 } users will be able to access the forms assigned to items with the register
 you can make your registers public and any MrQR user can access your forms
@@ -167,7 +167,7 @@ you can also attach and create new addresses for your registers
 
 ![Index](/assets/images/MrQR-View_Registers.png "View Register") 
 
-When you create a new register or by viwing an existing register you will be able to create and edit items
+When you create a new register or by viewing an existing register you will be able to create and edit items
 
 [Back to Top](https://docs.mrqr.me/index)
 {: .text-right }
@@ -178,7 +178,7 @@ When you create a new register or by viwing an existing register you will be abl
 
 When an item is added you will be able to Create content that can be seen by anyone scanning if following the MrQR item link
 
-with a paid site subscription you will be able create and assign forms
+with a paid site subscription, you will be able create and assign forms
 
 [Back to Top](https://docs.mrqr.me/index)
 {: .text-right }
@@ -187,7 +187,7 @@ with a paid site subscription you will be able create and assign forms
 
 ![Index](/assets/images/MrQR-Forms.png "Forms") 
 
-With a paid site subscription you will be able Create, Duplicate, archive and assign forms to items.
+With a paid site subscription, you will be able Create, Duplicate, archive and assign forms to items.
 
 You can make your forms Global so other MrQR Users can copy them to their sites.
 
@@ -213,6 +213,6 @@ Input fields can also be User Profile data, including Training records, equipmen
 
 ![Index](/assets/images/MrQR-Form-Submissions.png "Form Submissions") 
 
-Submitted forms can be individually viewed or all submissiond for a form exported into a spreadsheet
+Submitted forms can be individually viewed or all submissions for a form exported into a spreadsheet
 
 [Back to Top](https://docs.mrqr.me/index)
