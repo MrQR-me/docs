@@ -42,7 +42,7 @@ nav_order: 2
 
 # **ACCOUNT REGISTRATION**{: .text-purple-000 }
 {: .no_toc }
-You must have a minimum of a Free User Account to request access to view and complete **MrQR**{: .text-purple-000 } Forms on any Site operating the **MrQR**{: .text-purple-000 } platform. Personal or Additional Sites and the **MrQR**{: .text-purple-000 } Form Builder can only used with additional purchases or subscriptions.
+You must have a Free User Account to access, view and complete **MrQR**{: .text-purple-000 } Forms on any Site operating the **MrQR**{: .text-purple-000 } platform. Personal or Additional Sites and the **MrQR**{: .text-purple-000 } Form Builder can only used with additional site subscriptions.
 
 ## USER ACCOUNT DETAILS & SETUP
 {: .text-purple-000 }
@@ -53,18 +53,17 @@ You must have a minimum of a Free User Account to request access to view and com
 
 ## Free User Account
 {: .text-purple-000 }
-Your Free User Account will allow you access to the **MrQR**{: .text-purple-000 } platform and enable you to request access and complete all the **MrQR**{: .text-purple-000 } Site Forms used on any Site being managed using the **MrQR**{: .text-purple-000 } platform. There is no Personal Site and you cannot create or manage your own **MrQR**{: .text-purple-000 } Forms.
+Your Free User Account will allow you access to the **MrQR**{: .text-purple-000 } platform and enable you to access and complete all the **MrQR**{: .text-purple-000 } Site Forms used on any Site being managed using the **MrQR**{: .text-purple-000 } platform. There is a Personal Site and you can create or manage your own **MrQR**{: .text-purple-000 } Registers and Items.
 
 From your profile page you will be able to:
 * Manage your plan, add payment cards, and upgrade your account
+* Add or change your Profile image
 * Update your email address
 * Resend your email verification
 * Update your password
 * <button class="button button1">ENABLE</button> two factor authentication
 * <button class="button button1">LOG OUT OTHER BROWSER SESSIONS</button>
 * <button class="button button1">REQUEST DELETION</button>
-
-You cannot store or share profile information, addresses, training records, or equipment details.
 
 ## Setting Up Your Free User Account
 {: .text-purple-000 }
