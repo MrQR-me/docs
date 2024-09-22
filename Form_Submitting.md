@@ -43,9 +43,11 @@ Items can be accessed in many ways:
 * Clicking on an embedded MrQR Code link on a web page
 * Tapping an NFC tag programmed with the MrQR Code link
 
-All of these methods will direct your web browser to the Item's landing page.
+All of these methods will direct your web browser to the Item page.
 
-All MrQR Items are protected and access to the information and Forms can only be gained once a User has accepted an invitation to a Site or has an access request approved.
+You will be able to view the items content and if the the site owner allows you will be able to access the items forms.
+
+You will be asked to request access If the site owner restricts access to the items forms. 
 
 ## MrQR Code
 {: .text-purple-000 }
@@ -56,11 +58,12 @@ All MrQR Items are protected and access to the information and Forms can only be
 
 [Go to MWEP Forms](https://mrqr.me/gidBoo/) or scan **MrQR**{: .text-purple-000 } code.
 
+
 ___
 ## Requesting Access
 {: .text-purple-000 }
 
-Once your web browser opens the Item page, you will need to request access. This will send a message to the Site Owner telling them that you have requested access.
+Once your web browser opens the Item page, you may need to request access. This will send a message to the Site Owner telling them that you have requested access.
 
 Keep refreshing the page until your Form opens.
 
