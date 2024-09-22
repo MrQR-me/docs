@@ -38,7 +38,7 @@ nav_order: 1
 
 
 
-![Index](/assets/images/MrQR_Landing_Page.png "Landing Page")
+![Index](/assets/images/MrQR-Home-Screen.png "Welcome") 
 
 
 ## Thank you for choosing **MrQR**{: .text-purple-000 }, a cloud-based universal item management platform using your own Forms.
