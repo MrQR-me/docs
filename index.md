@@ -1,15 +1,16 @@
 ---
-title: MrQR
+title: MrQR - Getting Started
 layout: home
 nav_order: 0
 nav_exclude: false
 ---
+<head>
 <title> mrqr </title>
 <title> MrQR </title>
 <title> qr code </title>
 <title> qr code generator </title>
 <title> Health & Safety </title>
-<head>
+
 <meta charset="UTF-8">
 <meta name="description" content="mrqr">
 <meta name="keywords" content="forms, form builder, form submission, data collection, safety, inspections">
