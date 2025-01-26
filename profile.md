@@ -16,18 +16,37 @@ nav_order: 4
 ## Free User Account
 {: .text-purple-000 }
 
-Your Free User Account will allow you to access the **MrQR**{: .text-purple-000 } platform and enable you to complete any **MrQR**{: .text-purple-000 } Site Forms on any Site being managed using the **MrQR**{: .text-purple-000 } platform. The Site Owner will need to approve access before you can do this.
+Along with being able to complete any form on any site using the **MrQR**{: .text-purple-000 } Platform, with a Free User Account you have access to a **Basic User Profile** and a **Personal Site** where you can add multiple registers & items with images, PDF documents, text and URLs.
 
-Your profile page does not allow you to store or share any information.
+### Basic User Profile
+To access your Profile page: select the Menu Icon in the top right corner of the screen > **Profile**
 
-You cannot add, store, or share addresses, training records, or equipment details.
+From your user profile page, you can
+- Update your basic information including your Photo, Name & Email.
+- Manage your plan.
+- View and share your profile page.
+- Re-send your email verification (if required).
+- Update your password
+- Add additional security by using two factor authentication.
+- Manage and log out your active sessions on other browsers and devices.
+- Request Account Deletion.
+
+### Personal Site
+
+The MrQR Personal site, you can
+- Access your site settings
+  - Change the Name of your Personal Site
+  - Create New sites *(additional subscriptions required)*
+- Create multiple **Registers**.
+- Create multiple **Items**
+  - Add text, URLs, Images & PDF Documents
+  - Share your **Items** using the Unique **MrQR**{: .text-purple-000 } URL. 
+
 
 ## Pro User Account
-{: .text-purple-000 }
+{: .text-purple-000 } 
 
-Your Pro User Account will allow you to access the **MrQR**{: .text-purple-000 } platform and enable you to complete any **MrQR**{: .text-purple-000 } Site Forms on any Site being managed using the **MrQR**{: .text-purple-000 } platform. The Site Owner will need to approve access before you can do this.
-
-You can store and share:
+If you subscribe to our Pro User Account in addition to the basic features of the Free account, you can store and share:
 
 * Profile image
 * Full name
@@ -42,6 +61,7 @@ You can store and share:
 * Multiple addresses
 * Multiple training records (including descriptions, key dates, and images)
 * Multiple equipment records (including descriptions and images)
+* Additional Data inc. Text, Numbers & Date 
 
 You can share your profile page including your profile image, employer, occupation, contact number, and training records via email or your unique **MrQR**{: .text-purple-000 } Code.
 
