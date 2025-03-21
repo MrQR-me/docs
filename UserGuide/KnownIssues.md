@@ -37,7 +37,10 @@ ___
 
 ## [Home](https://docs.mrqr.me/)
 # **Known Issues**{: .text-purple-000 }
- src="
+
            https://media.geeksforgeeks.org/wp-content/uploads/20231020155223/Full-Stack-Development-_-LIVE-Classes-_-GeeksforGeeks.mp4"
             type="video/mp4">
-![Content](/assets/images/Forms/MrQR_Forms_Content_Type_Media.png "Type - Media")
+![Content](/UserGuide/Assets/Untitled video - Made with Clipchamp (7).mp4 "Type - Media")
+
+![Content](/UserGuide/Assets/Untitled video - Made with Clipchamp (7).mp4 "Type - Video/mp4")
+UserGuide/Assets/Untitled video - Made with Clipchamp (7).mp4
